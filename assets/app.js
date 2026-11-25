@@ -1,26 +1,28 @@
 const $=id=>document.getElementById(id);
 let dialogs=[],groups=[],choices=[],branchMap=[],chapters=[],enums=[],filtered=[],page=0;
-const PAGE=200,selectedBranches={},textCache={},textMap={},heroCache={},heroMap={};
+const PAGE=200,selectedBranches={},textCache={},textMap={},heroCache={},heroMap={},writerCache={},writerMap={};
 let currentLanguage='kor';
 const localizedFiles={kor:'TextAsset/Text_Dialog_loc_kor.txt',eng:'TextAsset/Text_Dialog_loc_eng.txt'};
 function resolveText(key){return textMap[key]||'';}
-function resolvePortrait(id){const value=String(id??'').trim();if(value==='-1')return '旁白';return heroMap['Hero_Name_'+value.padStart(4,'0')]||'';}
+function resolvePortrait(id){const value=String(id??'').trim();if(value==='-1')return '旁白';return heroMap['Hero_Name_'+value.padStart(4,'0')]||writerMap['Writer_Name_'+value.padStart(4,'0')]||'';}
 function parseLocalization(raw){const map={};raw.replace(/^\uFEFF/,'').split(/\r?\n/).forEach(line=>{const tab=line.indexOf('\t');if(tab>0)map[line.slice(0,tab)]=line.slice(tab+1)});return map;}
 function formatText(value){return esc(String(value??'').replace(/\\\\r/g,'\n').replace(/\\\\n/g,'\n'));}
 async function loadTextLanguage(lang='kor'){
  currentLanguage=lang;
  if(!textCache[lang]){
-  const [dialogResponse,heroResponse]=await Promise.all([
-   fetch(localizedFiles[lang]),fetch('TextAsset/Text_Hero_loc_'+lang+'.txt')
+  const [dialogResponse,heroResponse,writerResponse]=await Promise.all([
+   fetch(localizedFiles[lang]),fetch('TextAsset/Text_Hero_loc_'+lang+'.txt'),fetch('TextAsset/Text_Writer_loc_'+lang+'.txt')
   ]);
   if(!dialogResponse.ok)throw Error('Text_Dialog_loc_'+lang+'.txt');
   if(!heroResponse.ok)throw Error('Text_Hero_loc_'+lang+'.txt');
-  const [dialogRaw,heroRaw]=await Promise.all([dialogResponse.text(),heroResponse.text()]);
-  textCache[lang]=parseLocalization(dialogRaw);heroCache[lang]=parseLocalization(heroRaw);
+  if(!writerResponse.ok)throw Error('Text_Writer_loc_'+lang+'.txt');
+  const [dialogRaw,heroRaw,writerRaw]=await Promise.all([dialogResponse.text(),heroResponse.text(),writerResponse.text()]);
+  textCache[lang]=parseLocalization(dialogRaw);heroCache[lang]=parseLocalization(heroRaw);writerCache[lang]=parseLocalization(writerRaw);
  }
  Object.keys(textMap).forEach(k=>delete textMap[k]);Object.assign(textMap,textCache[lang]);
  Object.keys(heroMap).forEach(k=>delete heroMap[k]);Object.assign(heroMap,heroCache[lang]);
- $('languageStatus').textContent='已載入 '+lang.toUpperCase()+' · 對話 '+Object.keys(textMap).length.toLocaleString()+' 筆／角色 '+Object.keys(heroMap).filter(k=>k.startsWith('Hero_Name_')).length.toLocaleString()+' 筆';
+ Object.keys(writerMap).forEach(k=>delete writerMap[k]);Object.assign(writerMap,writerCache[lang]);
+ $('languageStatus').textContent='已載入 '+lang.toUpperCase()+' · 對話 '+Object.keys(textMap).length.toLocaleString()+' 筆／角色 '+Object.keys(heroMap).filter(k=>k.startsWith('Hero_Name_')).length.toLocaleString()+' 筆／Writer '+Object.keys(writerMap).filter(k=>k.startsWith('Writer_Name_')).length.toLocaleString()+' 筆';
 }
 const nfmt=n=>Number(n||0).toLocaleString();
 async function load(){
