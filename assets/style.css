@@ -12,3 +12,5 @@
 .flow-merge{padding-top:8px;border-top:1px dashed #cbd5e1;color:#25634b;font-weight:650}
 .flow-footnote{font-size:11px;color:#788596;margin:12px 0 0}
 @media(max-width:560px){.flow-line{grid-template-columns:1fr;gap:4px}.flow-branch-line{grid-template-columns:36px 1fr}.flow-branch-line .key{grid-column:2}.flow-toolbar{align-items:flex-start;flex-direction:column}}
+
+.localized-text{white-space:pre-line;line-height:1.55;color:#24364a;margin:3px 0;font-size:13px}.branch .localized-text{font-size:12px;margin:5px 0}.flow-option .localized-text{font-weight:600;color:#26394e}.flow-branch-line .localized-text{font-size:12px}.flow-line .localized-text{margin:5px 0}.field small{display:block;margin-top:4px;font-size:10px}
