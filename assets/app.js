@@ -1,5 +1,5 @@
 const $=id=>document.getElementById(id);
-let dialogs=[],groups=[],choices=[],branchMap=[],chapters=[],enums=[],filtered=[],page=0;
+let dialogs=[],groups=[],choices=[],branchMap=[],chapters=[],enums=[],storyTitles=[],titleByDialog=new Map(),filtered=[],page=0;
 const PAGE=200,selectedBranches={},textCache={},textMap={},heroCache={},heroMap={},writerCache={},writerMap={};
 let currentLanguage='kor';
 const localizedFiles={kor:'TextAsset/Text_Dialog_loc_kor.txt',eng:'TextAsset/Text_Dialog_loc_eng.txt'};
@@ -26,9 +26,9 @@ async function loadTextLanguage(lang='kor'){
 }
 const nfmt=n=>Number(n||0).toLocaleString();
 async function load(){
- const files=['summary','dict-dialogs','dialog-groups','choice-blocks','branch-execution-map','chapters','dialog-type-enums'];
+ const files=['summary','dict-dialogs','dialog-groups','choice-blocks','branch-execution-map','chapters','dialog-type-enums','story-dialog-title-map'];
  const vals=await Promise.all(files.map(x=>fetch(`data/${x}.json`).then(r=>{if(!r.ok)throw Error(x);return r.json()})));
- const [sum,d,g,c,b,ch,e]=vals;dialogs=d;groups=g;choices=c;branchMap=b;chapters=ch;enums=e;
+ const [sum,d,g,c,b,ch,e,st]=vals;dialogs=d;groups=g;choices=c;branchMap=b;chapters=ch;enums=e;storyTitles=st;titleByDialog=new Map(st.map(x=>[x.dialogId,x]));
  $('stats').innerHTML=[['dialogRecords','Dialog records'],['dialogIds','Dialog IDs'],['choiceBlocks','Choice blocks'],['branchExecutionRows','Branch rows']].map(([k,l])=>`<div><b>${nfmt(sum[k])}</b><span>${l}</span></div>`).join('');
  chapters.filter(x=>x.id>0).forEach(c=>{const o=document.createElement('option');o.value=c.dialogIds[0]??'';o.textContent=`${c.label||c.nameKey} · Dialog ${c.dialogIds.join(', ')||'—'}`;$('chapter').append(o)});
  const t1=[...new Map(dialogs.map(x=>[x.type1,x.type1Name])).entries()].sort((a,b)=>a[0]-b[0]);
@@ -36,14 +36,14 @@ async function load(){
  renderEnums();await loadTextLanguage('kor');$('language').value='kor';$('recordSummary').textContent='資料已載入，請輸入 ID 或選擇章節。';
 }
 function search(){
- const id=$('dialogId').value.trim(),key=$('textKey').value.trim().toLowerCase(),t1=$('type1').value;
+ const id=$('dialogId').value.trim(),key=$('textKey').value.trim().toLowerCase(),title=$('storyTitle').value.trim().toLowerCase(),t1=$('type1').value;
  filtered=dialogs.filter(x=>(!id||x.id===Number(id))&&(!key||String(x.textKey).toLowerCase().includes(key)||resolveText(x.textKey).toLowerCase().includes(key)||String(x.strValue).toLowerCase().includes(key))&&(!t1||x.type1===Number(t1)));
  page=0;const chosen=id?Number(id):null;$('activeId').textContent=chosen===null?'篩選結果':`Dialog ${chosen}`;renderRecords();renderChoices(chosen);renderFlow(chosen);
 }
 function renderRecords(){
  const start=page*PAGE,part=filtered.slice(start,start+PAGE);
  $('recordSummary').textContent=`${nfmt(filtered.length)} 筆符合；每頁最多 ${PAGE} 筆`;
- $('records').innerHTML=part.length?part.map(x=>`<tr><td>${x.order}</td><td>${esc(x.type1Name)} <small>(${x.type1})</small></td><td>${esc(x.type2Name)} <small>(${x.type2})</small></td><td>${esc(x.type3Name)} <small>(${x.type3})</small></td><td><span class="speaker-name">${esc(resolvePortrait(x.portraitId)||'未知角色')}</span><small class="key">ID ${esc(x.portraitId)}</small></td><td><div class="localized-text">${formatText(resolveText(x.textKey))||'<span class="muted">（無對應文本）</span>'}</div><small class="key">${esc(x.textKey)}</small></td><td>${x.delay}</td><td>${esc(x.strValue)}</td></tr>`).join(''):`<tr><td colspan="8">沒有符合的記錄。</td></tr>`;
+ $('records').innerHTML=part.length?part.map(x=>`<tr><td>${x.order}</td><td>${esc(x.type1Name)} <small>(${x.type1})</small></td><td>${esc(x.type2Name)} <small>(${x.type2})</small></td><td>${esc(x.type3Name)} <small>(${x.type3})</small></td><td><span class="speaker-name">${esc(resolvePortrait(x.portraitId)||'未知角色')}</span><small class="key">ID ${esc(x.portraitId)}</small></td><td>${(()=>{const t=titleByDialog.get(x.id);return t?`<b>${esc(currentLanguage==='eng'?t.title_en:t.title_ko)}</b><small class="key">${t.type==='main'?`主線 · CH${t.chapterId}-${t.order}`:`支線 · ${esc(currentLanguage==='eng'?t.parent_title_en:t.parent_title_ko)} · #${t.order}`}</small>`:'<span class="muted">—</span>'})()}</td><td><div class="localized-text">${formatText(resolveText(x.textKey))||'<span class="muted">（無對應文本）</span>'}</div><small class="key">${esc(x.textKey)}</small></td><td>${x.delay}</td><td>${esc(x.strValue)}</td></tr>`).join(''):`<tr><td colspan="8">沒有符合的記錄。</td></tr>`;
  $('pageInfo').textContent=`${filtered.length?start+1:0}–${Math.min(start+PAGE,filtered.length)} / ${filtered.length}`;$('prev').disabled=page===0;$('next').disabled=start+PAGE>=filtered.length;
 }
 function renderChoices(id){
@@ -84,10 +84,10 @@ function esc(x){return String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&l
 $('flowGraph').addEventListener('click',e=>{const btn=e.target.closest('[data-q]');if(!btn)return;const id=Number($('dialogId').value),q=Number(btn.dataset.q);selectedBranches[`${id}:${q}`]=Number(btn.dataset.i);renderFlow(id)});
 $('language').addEventListener('change',async e=>{try{await loadTextLanguage(e.target.value);if($('dialogId').value.trim())search();else if(filtered.length)renderRecords()}catch(err){$('languageStatus').textContent='文本載入失敗：'+err.message;console.error(err)}});
 $('search').addEventListener('click',search);
-$('reset').addEventListener('click',()=>{$('dialogId').value='';$('textKey').value='';$('type1').value='';$('chapter').value='';filtered=[];page=0;$('activeId').textContent='未選擇';$('records').innerHTML='<tr><td colspan="8">請輸入搜尋條件。</td></tr>';$('choices').innerHTML='<p class="muted">選擇 Dialog ID 以檢視分支。</p>';$('flowGraph').innerHTML='<p class="muted">輸入 Dialog ID 後，這裡會顯示可操作的劇情路徑。</p>';$('recordSummary').textContent='已重設。'});
+$('reset').addEventListener('click',()=>{$('dialogId').value='';$('textKey').value='';$('storyTitle').value='';$('type1').value='';$('chapter').value='';filtered=[];page=0;$('activeId').textContent='未選擇';$('records').innerHTML='<tr><td colspan="8">請輸入搜尋條件。</td></tr>';$('choices').innerHTML='<p class="muted">選擇 Dialog ID 以檢視分支。</p>';$('flowGraph').innerHTML='<p class="muted">輸入 Dialog ID 後，這裡會顯示可操作的劇情路徑。</p>';$('recordSummary').textContent='已重設。'});
 $('chapter').addEventListener('change',e=>{if(e.target.value){$('dialogId').value=e.target.value;$('type1').value='';$('textKey').value='';search()}});
 $('prev').addEventListener('click',()=>{if(page>0){page--;renderRecords()}});
 $('next').addEventListener('click',()=>{if((page+1)*PAGE<filtered.length){page++;renderRecords()}});
 $('dialogId').addEventListener('keydown',e=>{if(e.key==='Enter')search()});
-$('textKey').addEventListener('keydown',e=>{if(e.key==='Enter')search()});
+$('textKey').addEventListener('keydown',e=>{if(e.key==='Enter')search()});\n$('storyTitle').addEventListener('keydown',e=>{if(e.key==='Enter')search()});
 load().catch(e=>{$('recordSummary').textContent='載入失敗：'+e.message+'。請透過本機 HTTP server 或 GitHub Pages 開啟。';console.error(e)});
