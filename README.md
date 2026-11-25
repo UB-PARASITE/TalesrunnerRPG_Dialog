@@ -21,7 +21,7 @@ Unity / IL2CPP Dialog 資料與 `PageDialog` 分支流程研究，附 GitHub Pag
 
 腳本會 clone 本 repository、複製完整專案、commit 並 push 到 `main`，避免透過聊天附件反覆傳遞大型資料。請先安裝 Git，並確認本機 GitHub 認證可 push。
 
-[下載完整專案 ZIP](https://github.com/UB-PARASITE/TalesrunnerRPG_Dialog/releases)（目前請使用本次對話提供的專案 ZIP；後續可改由 Releases 發布）。
+請使用本次對話提供的 `TR-Dialog-Research-project.zip`；解壓後執行上方發布腳本，即可將完整資料同步到此 repository。
 
 ## GitHub Pages
 
