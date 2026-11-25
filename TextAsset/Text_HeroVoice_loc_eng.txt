@@ -1,0 +1,2672 @@
+HeroVoice_Name_0000	Grassland Battle Sortie 1
+HeroVoice_Name_0001	Prairie Battle Sortie 2
+HeroVoice_Name_0002	Grassland Battle Sortie 3
+HeroVoice_Name_0003	Prairie Victory 1
+HeroVoice_Name_0004	Prairie Victory 2
+HeroVoice_Name_0005	Prairie Victory 3
+HeroVoice_Name_0006	Meadow Fail 1
+HeroVoice_Name_0007	Meadow Fail 2
+HeroVoice_Name_0008	Meadow Fail 3
+HeroVoice_Name_0009	Grassland Battle Incapable 1
+HeroVoice_Name_0010	Grassland Battle Incapable 2
+HeroVoice_Name_0011	Grassland Battle Incapable 3
+HeroVoice_Name_0012	Grassland Team Formation 1
+HeroVoice_Name_0013	Grassland Team Formation 2
+HeroVoice_Name_0014	Grassland Team Formation 3
+HeroVoice_Name_0015	Meadow Active A 1
+HeroVoice_Name_0016	Meadow Active A 2
+HeroVoice_Name_0017	Meadow Active A 3
+HeroVoice_Name_0018	Meadow Active B 1
+HeroVoice_Name_0019	Meadow Active B 2
+HeroVoice_Name_0020	Meadow Active B 3
+HeroVoice_Name_0300	Grassland Lobby Normal 1
+HeroVoice_Name_0301	Grassland Lobby Normal 2
+HeroVoice_Name_0302	Grassland Lobby Normal 3
+HeroVoice_Name_0303	Meadow Lobby Touch 1
+HeroVoice_Name_0304	Meadow Lobby Touch 2
+HeroVoice_Name_0305	Meadow Lobby Touch 3
+HeroVoice_Name_0306	Meadow Birthday Lobby Touch 1
+HeroVoice_Name_0307	Meadow Birthday Lobby Touch 2
+HeroVoice_Name_0308	Meadow Birthday Lobby Touch 3
+HeroVoice_Name_0600	First Acquisition in the Grasslands
+HeroVoice_Name_0601	Achieved 4 stars in the meadow
+HeroVoice_Name_0602	Achieved 5 stars in the meadow
+HeroVoice_Name_0603	Use Grassland Experience Potion 1
+HeroVoice_Name_0604	Use Grassland Experience Potion 2
+HeroVoice_Name_0605	Use Grassland Experience Potion 3
+HeroVoice_Name_0606	Grassland Intimacy Level Up 1
+HeroVoice_Name_0607	Grassland Intimacy Level Up 2
+HeroVoice_Name_0608	Grassland Intimacy Level Up 3
+HeroVoice_Name_0609	Grassland Affinity Item Gift 1
+HeroVoice_Name_0610	Grassland Affinity Item Gift 2
+HeroVoice_Name_0611	Grassland Affinity Item Gift 3
+HeroVoice_Name_1000	Helia Battle Sortie 1
+HeroVoice_Name_1001	Helia Battle sortie 2
+HeroVoice_Name_1002	Helia Battle sortie 3
+HeroVoice_Name_1003	Helia Victory 1
+HeroVoice_Name_1004	Helia Victory 2
+HeroVoice_Name_1005	Helia Victory 3
+HeroVoice_Name_1006	Helia Failure 1
+HeroVoice_Name_1007	Helia Failure 2
+HeroVoice_Name_1008	Helia Failure 3
+HeroVoice_Name_1009	Helia is unable to fight 1
+HeroVoice_Name_1010	Helia is unable to fight 2
+HeroVoice_Name_1011	Helia battle incapacitated 3
+HeroVoice_Name_1012	Helia Team Formation 1
+HeroVoice_Name_1013	Helia Team Formation 2
+HeroVoice_Name_1014	Helia Team Formation 3
+HeroVoice_Name_1015	Helia Active A 1
+HeroVoice_Name_1016	Helia Active A 2
+HeroVoice_Name_1017	Helia Active A 3
+HeroVoice_Name_1018	Helia Active B 1
+HeroVoice_Name_1019	Helia Active B 2
+HeroVoice_Name_1020	Helia Active B 3
+HeroVoice_Name_1300	Helia Lobby Normal 1
+HeroVoice_Name_1301	Helia Lobby Normal 2
+HeroVoice_Name_1302	Helia Lobby Normal 3
+HeroVoice_Name_1303	Helia Lobby Touch 1
+HeroVoice_Name_1304	Helia Lobby Touch 2
+HeroVoice_Name_1305	Helia Lobby Touch 3
+HeroVoice_Name_1306	Helia Birthday Lobby Touch 1
+HeroVoice_Name_1307	Helia Birthday Lobby Touch 2
+HeroVoice_Name_1308	Helia Birthday Lobby Touch 3
+HeroVoice_Name_1600	First acquisition of Helia
+HeroVoice_Name_1601	Achieve 3 stars in Helia
+HeroVoice_Name_1602	Achieved 4 stars in Helia
+HeroVoice_Name_1603	Achieved 5 stars in Helia
+HeroVoice_Name_1604	Use Helia Experience Potion 1
+HeroVoice_Name_1605	Use Helia Experience Potion 2
+HeroVoice_Name_1606	Use Helia Experience Potion 3
+HeroVoice_Name_1607	Helia Intimacy Level Up 1
+HeroVoice_Name_1608	Helia Intimacy Level Up 2
+HeroVoice_Name_1609	Helia Intimacy Level Up 3
+HeroVoice_Name_1610	Helia Affinity Item Gift 1
+HeroVoice_Name_1611	Helia Affinity Item Gift 2
+HeroVoice_Name_1612	Helia Affinity Item Gift 3
+HeroVoice_Name_2000	Luna Battle Sortie 1
+HeroVoice_Name_2001	Luna Battle Sortie 2
+HeroVoice_Name_2002	Luna Battle Sortie 3
+HeroVoice_Name_2003	Luna wins 1
+HeroVoice_Name_2004	Luna Victory 2
+HeroVoice_Name_2005	Luna Victory 3
+HeroVoice_Name_2006	Luna Fail 1
+HeroVoice_Name_2007	Luna Fail 2
+HeroVoice_Name_2008	Luna Fail 3
+HeroVoice_Name_2009	Luna incapacitated 1
+HeroVoice_Name_2010	Luna incapacitated 2
+HeroVoice_Name_2011	Luna incapacitated 3
+HeroVoice_Name_2012	Luna Team Formation 1
+HeroVoice_Name_2013	Luna Team Formation 2
+HeroVoice_Name_2014	Luna Team Formation 3
+HeroVoice_Name_2015	Luna Active A 1
+HeroVoice_Name_2016	Luna Active A 2
+HeroVoice_Name_2017	Luna Active A 3
+HeroVoice_Name_2018	Luna Active B 1
+HeroVoice_Name_2019	Luna Active B 2
+HeroVoice_Name_2020	Luna Active B 3
+HeroVoice_Name_2300	Luna Lobby Normal 1
+HeroVoice_Name_2301	Luna Lobby Normal 2
+HeroVoice_Name_2302	Luna Lobby Normal 3
+HeroVoice_Name_2303	Luna Lobby Touch 1
+HeroVoice_Name_2304	Luna Lobby Touch 2
+HeroVoice_Name_2305	Luna Lobby Touch 3
+HeroVoice_Name_2306	Luna Birthday Lobby Touch 1
+HeroVoice_Name_2307	Luna Birthday Lobby Touch 2
+HeroVoice_Name_2308	Luna Birthday Lobby Touch 3
+HeroVoice_Name_2600	Luna first acquisition
+HeroVoice_Name_2601	Luna 3-star achievement
+HeroVoice_Name_2602	Luna 4-star achievement
+HeroVoice_Name_2603	Luna 5-star achievement
+HeroVoice_Name_2604	Use Luna Experience Potion 1
+HeroVoice_Name_2605	Use Luna Experience Potion 2
+HeroVoice_Name_2606	Use Luna Experience Potion 3
+HeroVoice_Name_2607	Luna Intimacy Level Up 1
+HeroVoice_Name_2608	Luna Intimacy Level Up 2
+HeroVoice_Name_2609	Luna Intimacy Level Up 3
+HeroVoice_Name_2610	Luna Affinity Item Gift 1
+HeroVoice_Name_2611	Luna Affinity Item Gift 2
+HeroVoice_Name_2612	Luna Affinity Item Gift 3
+HeroVoice_Name_3000	Elin Battle Sortie 1
+HeroVoice_Name_3001	Elin Battle Sortie 2
+HeroVoice_Name_3002	Elin Battle Sortie 3
+HeroVoice_Name_3003	Elin wins 1
+HeroVoice_Name_3004	Elin wins 2
+HeroVoice_Name_3005	Elin wins 3
+HeroVoice_Name_3006	Elin Fail 1
+HeroVoice_Name_3007	Elin Fail 2
+HeroVoice_Name_3008	Elin Fail 3
+HeroVoice_Name_3009	Elin unable to fight 1
+HeroVoice_Name_3010	Elin unable to fight 2
+HeroVoice_Name_3011	Elin incapacitated 3
+HeroVoice_Name_3012	Elin Team Formation 1
+HeroVoice_Name_3013	Elin Team Formation 2
+HeroVoice_Name_3014	Elin Team Formation 3
+HeroVoice_Name_3015	Elin Active A 1
+HeroVoice_Name_3016	Elin Active A 2
+HeroVoice_Name_3017	Elin Active A 3
+HeroVoice_Name_3018	Elin Active B 1
+HeroVoice_Name_3019	Elin Active B 2
+HeroVoice_Name_3020	Elin Active B 3
+HeroVoice_Name_3300	Elin Robbie Normal 1
+HeroVoice_Name_3301	Elin Robbie Normal 2
+HeroVoice_Name_3302	Elin Robbie Normal 3
+HeroVoice_Name_3303	Elin Robbie Touch 1
+HeroVoice_Name_3304	Elin Robbie Touch 2
+HeroVoice_Name_3305	Elin Robbie Touch 3
+HeroVoice_Name_3306	Elin's Birthday Lobby Touch 1
+HeroVoice_Name_3307	Elin's Birthday Lobby Touch 2
+HeroVoice_Name_3308	Elin's Birthday Lobby Touch 3
+HeroVoice_Name_3600	Elin first acquired
+HeroVoice_Name_3601	Elin 2-star achievement
+HeroVoice_Name_3602	Elin 3-star achievement
+HeroVoice_Name_3603	Elin 4-star achievement
+HeroVoice_Name_3604	Elin 5-star achievement
+HeroVoice_Name_3605	Use Elin Experience Potion 1
+HeroVoice_Name_3606	Use Elin Experience Potion 2
+HeroVoice_Name_3607	Use Elin Experience Potion 3
+HeroVoice_Name_3608	Elin Intimacy Level Up 1
+HeroVoice_Name_3609	Elin Intimacy Level Up 2
+HeroVoice_Name_3610	Elin Intimacy Level Up 3
+HeroVoice_Name_3611	Elin's Affinity Item Gift 1
+HeroVoice_Name_3612	Elin's Affinity Item Gift 2
+HeroVoice_Name_3613	Elin's Affinity Item Gift 3
+HeroVoice_Name_4000	Queen Heart Battle Sortie 1
+HeroVoice_Name_4001	Queen Heart Battle Sortie 2
+HeroVoice_Name_4002	Queen Heart Battle Sortie 3
+HeroVoice_Name_4003	Queen of Hearts Victory 1
+HeroVoice_Name_4004	Queen of Hearts Victory 2
+HeroVoice_Name_4005	Queen of Hearts Victory 3
+HeroVoice_Name_4006	Queen of Hearts Fail 1
+HeroVoice_Name_4007	Queen of Hearts Fail 2
+HeroVoice_Name_4008	Queen of Hearts Fail 3
+HeroVoice_Name_4009	Queen Hearts Battle Incapable 1
+HeroVoice_Name_4010	Queen Hearts Battle Incapable 2
+HeroVoice_Name_4011	Queen Hearts Battle Incapable 3
+HeroVoice_Name_4012	Queen Heart Team Formation 1
+HeroVoice_Name_4013	Queen Heart Team Formation 2
+HeroVoice_Name_4014	Queen Heart Team Formation 3
+HeroVoice_Name_4015	Queen Heart Active A 1
+HeroVoice_Name_4016	Queen Heart Active A 2
+HeroVoice_Name_4017	Queen Heart Active A 3
+HeroVoice_Name_4018	Queen Heart Active B 1
+HeroVoice_Name_4019	Queen Heart Active B 2
+HeroVoice_Name_4020	Queen Heart Active B 3
+HeroVoice_Name_4300	Queen Heart Lobby Normal 1
+HeroVoice_Name_4301	Queen Heart Lobby Normal 2
+HeroVoice_Name_4302	Queen Heart Lobby Normal 3
+HeroVoice_Name_4303	Queen Heart Lobby Touch 1
+HeroVoice_Name_4304	Queen Heart Lobby Touch 2
+HeroVoice_Name_4305	Queen Heart Lobby Touch 3
+HeroVoice_Name_4306	Queen Heart Birthday Lobby Touch 1
+HeroVoice_Name_4307	Queen Heart Birthday Lobby Touch 2
+HeroVoice_Name_4308	Queen Heart Birthday Lobby Touch 3
+HeroVoice_Name_4600	First acquisition of Queen Heart
+HeroVoice_Name_4601	Achieve Queen Heart 3 stars
+HeroVoice_Name_4602	Queen of Heart 4-star achievement
+HeroVoice_Name_4603	Achieved Queen Heart 5 stars
+HeroVoice_Name_4604	Use Queen Heart Experience Potion 1
+HeroVoice_Name_4605	Queen Heart Experience Potion Use 2
+HeroVoice_Name_4606	Use Queen Heart Experience Potion 3
+HeroVoice_Name_4607	Queen Heart Intimacy Level Up 1
+HeroVoice_Name_4608	Queen Heart Intimacy Level Up 2
+HeroVoice_Name_4609	Queen Heart Intimacy Level Up 3
+HeroVoice_Name_4610	Queen Heart Affinity Item Gift 1
+HeroVoice_Name_4611	Queen Heart Affinity Item Gift 2
+HeroVoice_Name_4612	Queen Heart Affinity Item Gift 3
+HeroVoice_Name_5000	Mingming Battle Sorceress 1
+HeroVoice_Name_5001	Mingming Battle Sortie 2
+HeroVoice_Name_5002	Mingming Battle Sortie 3
+HeroVoice_Name_5003	Mingming wins 1
+HeroVoice_Name_5004	Mingming wins 2
+HeroVoice_Name_5005	Mingming wins 3
+HeroVoice_Name_5006	Mingming failed 1
+HeroVoice_Name_5007	Mingming failure 2
+HeroVoice_Name_5008	Mingming failure 3
+HeroVoice_Name_5009	Mingming unable to fight 1
+HeroVoice_Name_5010	Mingming unable to fight 2
+HeroVoice_Name_5011	Mingming unable to fight 3
+HeroVoice_Name_5012	Mingming Team Formation 1
+HeroVoice_Name_5013	Mingming Team Formation 2
+HeroVoice_Name_5014	Mingming Team Formation 3
+HeroVoice_Name_5015	Mingming Active A 1
+HeroVoice_Name_5016	Mingming Active A 2
+HeroVoice_Name_5017	Mingming Active A 3
+HeroVoice_Name_5018	Mingming Active B 1
+HeroVoice_Name_5019	Mingming Active B 2
+HeroVoice_Name_5020	Mingming Active B 3
+HeroVoice_Name_5300	Mingming Lobby Normal 1
+HeroVoice_Name_5301	Mingming Lobby Normal 2
+HeroVoice_Name_5302	Mingming Lobby Normal 3
+HeroVoice_Name_5303	Mingming Lobby Touch 1
+HeroVoice_Name_5304	Mingming Lobby Touch 2
+HeroVoice_Name_5305	Mingming Lobby Touch 3
+HeroVoice_Name_5306	Mingming Birthday Lobby Touch 1
+HeroVoice_Name_5307	Mingming Birthday Lobby Touch 2
+HeroVoice_Name_5308	Mingming Birthday Lobby Touch 3
+HeroVoice_Name_5600	Mingming first acquired
+HeroVoice_Name_5601	Mingming 4-star achievement
+HeroVoice_Name_5602	Mingming 5-star achievement
+HeroVoice_Name_5603	Use Mingming Experience Potion 1
+HeroVoice_Name_5604	Use Mingming Experience Potion 2
+HeroVoice_Name_5605	Use Mingming Experience Potion 3
+HeroVoice_Name_5606	Mingming Intimacy Level Up 1
+HeroVoice_Name_5607	Mingming Intimacy Level Up 2
+HeroVoice_Name_5608	Mingming Intimacy Level Up 3
+HeroVoice_Name_5609	Mingming Affinity Item Gift 1
+HeroVoice_Name_5610	Mingming Affinity Item Gift 2
+HeroVoice_Name_5611	Mingming Affinity Item Gift 3
+HeroVoice_Name_6000	Alice Battle Sorceress 1
+HeroVoice_Name_6001	Alice Battle Sorceress 2
+HeroVoice_Name_6002	Alice Battle Sorceress 3
+HeroVoice_Name_6003	Alice wins 1
+HeroVoice_Name_6004	Alice wins 2
+HeroVoice_Name_6005	Alice wins 3
+HeroVoice_Name_6006	Alice Fail 1
+HeroVoice_Name_6007	Alice Fail 2
+HeroVoice_Name_6008	Alice Fail 3
+HeroVoice_Name_6009	Alice is incapacitated 1
+HeroVoice_Name_6010	Alice incapacitated 2
+HeroVoice_Name_6011	Alice incapacitated 3
+HeroVoice_Name_6012	Alice Team Formation 1
+HeroVoice_Name_6013	Alice Team Formation 2
+HeroVoice_Name_6014	Alice Team Formation 3
+HeroVoice_Name_6015	Alice Active A 1
+HeroVoice_Name_6016	Alice Active A 2
+HeroVoice_Name_6017	Alice Active A 3
+HeroVoice_Name_6018	Alice Active B 1
+HeroVoice_Name_6019	Alice Active B 2
+HeroVoice_Name_6020	Alice Active B 3
+HeroVoice_Name_6300	Alice Robbie Normal 1
+HeroVoice_Name_6301	Alice Robbie Normal 2
+HeroVoice_Name_6302	Alice Robbie Normal 3
+HeroVoice_Name_6303	Alice Robbie Touch 1
+HeroVoice_Name_6304	Alice Robbie Touch 2
+HeroVoice_Name_6305	Alice Robbie Touch 3
+HeroVoice_Name_6306	Alice Birthday Lobby Touch 1
+HeroVoice_Name_6307	Alice Birthday Lobby Touch 2
+HeroVoice_Name_6308	Alice Birthday Lobby Touch 3
+HeroVoice_Name_6600	Alice first acquired
+HeroVoice_Name_6601	Alice 4-star achievement
+HeroVoice_Name_6602	Alice 5-star achievement
+HeroVoice_Name_6603	Alice Use Experience Potion 1
+HeroVoice_Name_6604	Alice Experience Potion Use 2
+HeroVoice_Name_6605	Alice Experience Potion Use 3
+HeroVoice_Name_6606	Alice Intimacy Level Up 1
+HeroVoice_Name_6607	Alice Intimacy Level Up 2
+HeroVoice_Name_6608	Alice Intimacy Level Up 3
+HeroVoice_Name_6609	Alice's Affinity Item Gift 1
+HeroVoice_Name_6610	Alice's Affinity Item Gift 2
+HeroVoice_Name_6611	Alice's Affinity Item Gift 3
+HeroVoice_Name_7000	Bigbo Battle Sortie 1
+HeroVoice_Name_7001	Bigbo Battle Sortie 2
+HeroVoice_Name_7002	Bigbo Battle Sortie 3
+HeroVoice_Name_7003	Bigbo wins 1
+HeroVoice_Name_7004	Bigbo wins 2
+HeroVoice_Name_7005	Bigbo wins 3
+HeroVoice_Name_7006	Bigbo Fail 1
+HeroVoice_Name_7007	Bigbo fail 2
+HeroVoice_Name_7008	Bigbo fail 3
+HeroVoice_Name_7009	Bigbo is unable to fight 1
+HeroVoice_Name_7010	Bigbo is incapable of combat 2
+HeroVoice_Name_7011	Bigbo is incapable of combat 3
+HeroVoice_Name_7012	Bigbo Team Formation 1
+HeroVoice_Name_7013	Bigbo Team Formation 2
+HeroVoice_Name_7014	Bigbo Team Formation 3
+HeroVoice_Name_7015	Bigbo Active A 1
+HeroVoice_Name_7016	Bigbo Active A 2
+HeroVoice_Name_7017	Bigbo Active A 3
+HeroVoice_Name_7018	Bigbo Active B 1
+HeroVoice_Name_7019	Bigbo Active B 2
+HeroVoice_Name_7020	Bigbo Active B 3
+HeroVoice_Name_7300	Bigbo Lobby Normal 1
+HeroVoice_Name_7301	Bigbo Lobby Normal 2
+HeroVoice_Name_7302	Bigbo Lobby Normal 3
+HeroVoice_Name_7303	Bigbo Lobby Touch 1
+HeroVoice_Name_7304	Bigbo Lobby Touch 2
+HeroVoice_Name_7305	Bigbo Lobby Touch 3
+HeroVoice_Name_7306	Bigbo Birthday Lobby Touch 1
+HeroVoice_Name_7307	Bigbo Birthday Lobby Touch 2
+HeroVoice_Name_7308	Bigbo Birthday Lobby Touch 3
+HeroVoice_Name_7600	Big Bo first acquisition
+HeroVoice_Name_7601	Bigbo 3-star achievement
+HeroVoice_Name_7602	Bigbo 4-star achievement
+HeroVoice_Name_7603	Bigbo 5-star achievement
+HeroVoice_Name_7604	Use Bigbo Experience Potion 1
+HeroVoice_Name_7605	Use Bigbo Experience Potion 2
+HeroVoice_Name_7606	Use Bigbo Experience Potion 3
+HeroVoice_Name_7607	Bigbo Intimacy Level Up 1
+HeroVoice_Name_7608	Bigbo Intimacy Level Up 2
+HeroVoice_Name_7609	Bigbo Intimacy Level Up 3
+HeroVoice_Name_7610	Big Bo Affinity Item Gift 1
+HeroVoice_Name_7611	Big Bo Affinity Item Gift 2
+HeroVoice_Name_7612	Big Bo Affinity Item Gift 3
+HeroVoice_Name_8000	Lara Battle Sorceress 1
+HeroVoice_Name_8001	Lara Battle Sorceress 2
+HeroVoice_Name_8002	Lara Battle sortie 3
+HeroVoice_Name_8003	Lara wins 1
+HeroVoice_Name_8004	Lara wins 2
+HeroVoice_Name_8005	Lara wins 3
+HeroVoice_Name_8006	Lara Fail 1
+HeroVoice_Name_8007	Lara Fail 2
+HeroVoice_Name_8008	Lara Fail 3
+HeroVoice_Name_8009	Lara is unable to fight 1
+HeroVoice_Name_8010	Lara is unable to fight 2
+HeroVoice_Name_8011	Lara is unable to fight 3
+HeroVoice_Name_8012	Lara Team Formation 1
+HeroVoice_Name_8013	Lara Team Formation 2
+HeroVoice_Name_8014	Lara Team Formation 3
+HeroVoice_Name_8015	Lara Active A 1
+HeroVoice_Name_8016	Lara Active A 2
+HeroVoice_Name_8017	Lara Active A 3
+HeroVoice_Name_8018	Lara Active B 1
+HeroVoice_Name_8019	Lara Active B 2
+HeroVoice_Name_8020	Lara Active B 3
+HeroVoice_Name_8300	Lara Robbie Normal 1
+HeroVoice_Name_8301	Lara Robbie Normal 2
+HeroVoice_Name_8302	Lara Robbie Normal 3
+HeroVoice_Name_8303	Lara Robbie Touch 1
+HeroVoice_Name_8304	Lara Robbie Touch 2
+HeroVoice_Name_8305	Lara Robbie Touch 3
+HeroVoice_Name_8306	Lara's Birthday Lobby Touch 1
+HeroVoice_Name_8307	Lara's Birthday Lobby Touch 2
+HeroVoice_Name_8308	Lara's Birthday Lobby Touch 3
+HeroVoice_Name_8600	Lara's first acquisition
+HeroVoice_Name_8601	Lara achieved 4 stars
+HeroVoice_Name_8602	Lara achieved 5 stars
+HeroVoice_Name_8603	Lara Experience Potion Use 1
+HeroVoice_Name_8604	Lara Experience Potion Use 2
+HeroVoice_Name_8605	Lara Experience Potion Use 3
+HeroVoice_Name_8606	Lara's intimacy level up 1
+HeroVoice_Name_8607	Lara's intimacy level up 2
+HeroVoice_Name_8608	Lara's intimacy level up 3
+HeroVoice_Name_8609	Lara's Affinity Item Gift 1
+HeroVoice_Name_8610	Lara's Affinity Item Gift 2
+HeroVoice_Name_8611	Lara's Affinity Item Gift 3
+HeroVoice_Name_9000	Elim's Smile Battle Sortie 1
+HeroVoice_Name_9001	Elim's Smile Battle Sortie 2
+HeroVoice_Name_9002	Elim's Smile Battle Sortie 3
+HeroVoice_Name_9003	Elim's Smile Victory 1
+HeroVoice_Name_9004	Elim's Smile Victory 2
+HeroVoice_Name_9005	Elim's Smile Victory 3
+HeroVoice_Name_9006	Elim's Smile Fail 1
+HeroVoice_Name_9007	Elim's Smile Fail 2
+HeroVoice_Name_9008	Elim's Smile Fail 3
+HeroVoice_Name_9009	Elim's Smile Battle Incapable 1
+HeroVoice_Name_9010	Elim's Smile Battle Incapable 2
+HeroVoice_Name_9011	Elim's Smile Battle Incapable 3
+HeroVoice_Name_9012	Elim's Smile Team Formation 1
+HeroVoice_Name_9013	Elim's Smile Team Formation 2
+HeroVoice_Name_9014	Elim's Smile Team Formation 3
+HeroVoice_Name_9015	Elim's Smile Active A 1
+HeroVoice_Name_9016	Elim's Smile Active A 2
+HeroVoice_Name_9017	Elim's Smile Active A 3
+HeroVoice_Name_9018	Elim's Smile Active B 1
+HeroVoice_Name_9019	Elim's Smile Active B 2
+HeroVoice_Name_9020	Elim's Smile Active B 3
+HeroVoice_Name_9300	Elim's Smile Lobby Normal 1
+HeroVoice_Name_9301	Elim's Smile Lobby Normal 2
+HeroVoice_Name_9302	Elim's Smile Lobby Normal 3
+HeroVoice_Name_9303	Elim's Smile Lobby Touch 1
+HeroVoice_Name_9304	Elim's Smile Lobby Touch 2
+HeroVoice_Name_9305	Elim's Smile Lobby Touch 3
+HeroVoice_Name_9306	Elim's Smile Birthday Lobby Touch 1
+HeroVoice_Name_9307	Elim's Smile Birthday Lobby Touch 2
+HeroVoice_Name_9308	Elim's Smile Birthday Lobby Touch 3
+HeroVoice_Name_9600	First acquisition of Elim's Smile
+HeroVoice_Name_9601	Elim's Smile 4-star achievement
+HeroVoice_Name_9602	Elim's Smile 5-star achievement
+HeroVoice_Name_9603	Use Elim's Smile Experience Potion 1
+HeroVoice_Name_9604	Use Elim's Smile Experience Potion 2
+HeroVoice_Name_9605	Use Elim's Smile Experience Potion 3
+HeroVoice_Name_9606	Elim's Smile Intimacy Level Up 1
+HeroVoice_Name_9607	Elim's Smile Intimacy Level Up 2
+HeroVoice_Name_9608	Elim's Smile Intimacy Level Up 3
+HeroVoice_Name_9609	Elim's Smile Favorability Item Gift 1
+HeroVoice_Name_9610	Elim's Smile Favorability Item Gift 2
+HeroVoice_Name_9611	Elim's Smile Favorability Item Gift 3
+HeroVoice_Name_10000	Jane Doe Battle Sortie 1
+HeroVoice_Name_10001	Jane Doe Battle Sortie 2
+HeroVoice_Name_10002	Jane Doe Battle Sortie 3
+HeroVoice_Name_10003	Jane Doe wins 1
+HeroVoice_Name_10004	Jane Doe wins 2
+HeroVoice_Name_10005	Jane Doe wins 3
+HeroVoice_Name_10006	Jane Doe Fail 1
+HeroVoice_Name_10007	Jane Doe Fail 2
+HeroVoice_Name_10008	Jane Doe Fail 3
+HeroVoice_Name_10009	Jane Doe Fail 4
+HeroVoice_Name_10010	Jane Doe Fail 5
+HeroVoice_Name_10011	Jane Doe incapacitated 1
+HeroVoice_Name_10012	Jane Doe incapacitated 2
+HeroVoice_Name_10013	Jane Doe incapacitated 3
+HeroVoice_Name_10014	Jane Doe incapacitated 4
+HeroVoice_Name_10015	Jane Doe incapacitated 5
+HeroVoice_Name_10016	Jane Doe Team Formation 1
+HeroVoice_Name_10017	Jane Doe Team Formation 2
+HeroVoice_Name_10018	Jane Doe Team Formation 3
+HeroVoice_Name_10019	Jane Doe Team Formation 4
+HeroVoice_Name_10020	Jane Doe Active A 1
+HeroVoice_Name_10021	Jane Doe Active A 2
+HeroVoice_Name_10022	Jane Doe Active A 3
+HeroVoice_Name_10023	Jane Doe Active B 1
+HeroVoice_Name_10024	Jane Doe Active B 2
+HeroVoice_Name_10025	Jane Doe Active B 3
+HeroVoice_Name_10300	Jane Doe Lobby Normal 1
+HeroVoice_Name_10301	Jane Doe Lobby Normal 2
+HeroVoice_Name_10302	Jane Doe Lobby Normal 3
+HeroVoice_Name_10303	Jane Doe Lobby Normal 4
+HeroVoice_Name_10304	Jane Doe Lobby Normal 5
+HeroVoice_Name_10305	Jane Doe Lobby Touch 1
+HeroVoice_Name_10306	Jane Doe Lobby Touch 2
+HeroVoice_Name_10307	Jane Doe Lobby Touch 3
+HeroVoice_Name_10308	Jane Doe Lobby Touch 4
+HeroVoice_Name_10309	Jane Doe Birthday Lobby Touch 1
+HeroVoice_Name_10310	Jane Doe Birthday Lobby Touch 2
+HeroVoice_Name_10311	Jane Doe Birthday Lobby Touch 3
+HeroVoice_Name_10312	Jane Doe Birthday Lobby Touch 4
+HeroVoice_Name_10600	Jane Doe First Acquisition
+HeroVoice_Name_10601	Jane Doe 3-star achievement
+HeroVoice_Name_10602	Jane Doe 4-star achievement
+HeroVoice_Name_10603	Jane Doe 5-star achievement
+HeroVoice_Name_10604	Jane Doe Experience Potion Use 1
+HeroVoice_Name_10605	Jane Doe Experience Potion Use 2
+HeroVoice_Name_10606	Jane Doe Experience Potion Use 3
+HeroVoice_Name_10607	Jane Doe Experience Potion Use 4
+HeroVoice_Name_10608	Jane Doe Intimacy Level Up 1
+HeroVoice_Name_10609	Jane Doe Intimacy Level Up 2
+HeroVoice_Name_10610	Jane Doe Intimacy Level Up 3
+HeroVoice_Name_10611	Jane Doe Intimacy Level Up 4
+HeroVoice_Name_10612	Jane Doe Affinity Item Gift 1
+HeroVoice_Name_10613	Jane Doe's Affinity Item Gift 2
+HeroVoice_Name_10614	Jane Doe Affinity Item Gift 3
+HeroVoice_Name_10615	Jane Doe Affinity Item Gift 4
+HeroVoice_Name_10616	Jane Doe Affinity Item Gift 5
+HeroVoice_Name_11000	Pinocchio Battle Sorceress 1
+HeroVoice_Name_11001	Pinocchio Battle Sorceress 2
+HeroVoice_Name_11002	Pinocchio Battle Sorceress 3
+HeroVoice_Name_11003	Pinocchio wins 1
+HeroVoice_Name_11004	Pinocchio wins 2
+HeroVoice_Name_11005	Pinocchio wins 3
+HeroVoice_Name_11006	Pinocchio Fail 1
+HeroVoice_Name_11007	Pinocchio Fail 2
+HeroVoice_Name_11008	Pinocchio Fail 3
+HeroVoice_Name_11009	Pinocchio is unable to fight 1
+HeroVoice_Name_11010	Pinocchio battle incapacitated 2
+HeroVoice_Name_11011	Pinocchio battle incapacitated 3
+HeroVoice_Name_11012	Pinocchio Team Formation 1
+HeroVoice_Name_11013	Pinocchio Team Formation 2
+HeroVoice_Name_11014	Pinocchio Team Formation 3
+HeroVoice_Name_11015	Pinocchio Active A 1
+HeroVoice_Name_11016	Pinocchio Active A 2
+HeroVoice_Name_11017	Pinocchio Active A 3
+HeroVoice_Name_11018	Pinocchio Active B 1
+HeroVoice_Name_11019	Pinocchio Active B 2
+HeroVoice_Name_11020	Pinocchio Active B 3
+HeroVoice_Name_11300	Pinocchio Lobby Normal 1
+HeroVoice_Name_11301	Pinocchio Lobby Normal 2
+HeroVoice_Name_11302	Pinocchio Lobby Normal 3
+HeroVoice_Name_11303	Pinocchio Lobby Touch 1
+HeroVoice_Name_11304	Pinocchio Lobby Touch 2
+HeroVoice_Name_11305	Pinocchio Lobby Touch 3
+HeroVoice_Name_11306	Pinocchio Birthday Lobby Touch 1
+HeroVoice_Name_11307	Pinocchio Birthday Lobby Touch 2
+HeroVoice_Name_11308	Pinocchio Birthday Lobby Touch 3
+HeroVoice_Name_11600	Pinocchio first acquisition
+HeroVoice_Name_11601	Pinocchio 3-star achievement
+HeroVoice_Name_11602	Pinocchio 4-star achievement
+HeroVoice_Name_11603	Pinocchio 5-star achievement
+HeroVoice_Name_11604	Pinocchio Experience Potion Use 1
+HeroVoice_Name_11605	Pinocchio Experience Potion Use 2
+HeroVoice_Name_11606	Pinocchio Experience Potion Use 3
+HeroVoice_Name_11607	Pinocchio Intimacy Level Up 1
+HeroVoice_Name_11608	Pinocchio Intimacy Level Up 2
+HeroVoice_Name_11609	Pinocchio Intimacy Level Up 3
+HeroVoice_Name_11610	Pinocchio Affinity Item Gift 1
+HeroVoice_Name_11611	Pinocchio Affinity Item Gift 2
+HeroVoice_Name_11612	Pinocchio Affinity Item Gift 3
+HeroVoice_Name_12000	Lina Battle sortie 1
+HeroVoice_Name_12001	Lina Battle sortie 2
+HeroVoice_Name_12002	Lina Battle sortie 3
+HeroVoice_Name_12003	Lina wins 1
+HeroVoice_Name_12004	Lina wins 2
+HeroVoice_Name_12005	Lina wins 3
+HeroVoice_Name_12006	Lina Fail 1
+HeroVoice_Name_12007	Lina Fail 2
+HeroVoice_Name_12008	Lina Fail 3
+HeroVoice_Name_12009	Lina unable to fight 1
+HeroVoice_Name_12010	Lina unable to fight 2
+HeroVoice_Name_12011	Lina incapacitated 3
+HeroVoice_Name_12012	Lina Team Formation 1
+HeroVoice_Name_12013	Lina Team Formation 2
+HeroVoice_Name_12014	Lina Team Formation 3
+HeroVoice_Name_12015	Lina Active A 1
+HeroVoice_Name_12016	Lina Active A 2
+HeroVoice_Name_12017	Lina Active A 3
+HeroVoice_Name_12018	Lina Active B 1
+HeroVoice_Name_12019	Lina Active B 2
+HeroVoice_Name_12020	Lina Active B 3
+HeroVoice_Name_12300	Lina Robbie Normal 1
+HeroVoice_Name_12301	Lina Robbie Normal 2
+HeroVoice_Name_12302	Lina Robbie Normal 3
+HeroVoice_Name_12303	Lina Robbie Touch 1
+HeroVoice_Name_12304	Lina Robbie Touch 2
+HeroVoice_Name_12305	Lina Robbie Touch 3
+HeroVoice_Name_12306	Lina Birthday Lobby Touch 1
+HeroVoice_Name_12307	Lina Birthday Lobby Touch 2
+HeroVoice_Name_12308	Lina Birthday Lobby Touch 3
+HeroVoice_Name_12600	Lina first acquired
+HeroVoice_Name_12601	Reached Lina 2 stars
+HeroVoice_Name_12602	Reached Lina 3 stars
+HeroVoice_Name_12603	Reached Lina 4 stars
+HeroVoice_Name_12604	Reached 5 stars with Lina
+HeroVoice_Name_12605	Use Lina Experience Potion 1
+HeroVoice_Name_12606	Use Lina Experience Potion 2
+HeroVoice_Name_12607	Use Lina Experience Potion 3
+HeroVoice_Name_12608	Lina Intimacy Level Up 1
+HeroVoice_Name_12609	Lina Intimacy Level Up 2
+HeroVoice_Name_12610	Lina Intimacy Level Up 3
+HeroVoice_Name_12611	Lina Affinity Item Gift 1
+HeroVoice_Name_12612	Lina Affinity Item Gift 2
+HeroVoice_Name_12613	Lina Affinity Item Gift 3
+HeroVoice_Name_13000	Scarlett Battle Sortie 1
+HeroVoice_Name_13001	Scarlett Battle Sortie 2
+HeroVoice_Name_13002	Scarlett Battle Sortie 3
+HeroVoice_Name_13003	Scarlett Victory 1
+HeroVoice_Name_13004	Scarlett Victory 2
+HeroVoice_Name_13005	Scarlett Victory 3
+HeroVoice_Name_13006	Scarlett Fail 1
+HeroVoice_Name_13007	Scarlett Fail 2
+HeroVoice_Name_13008	Scarlett Fail 3
+HeroVoice_Name_13009	Scarlett incapacitated 1
+HeroVoice_Name_13010	Scarlett incapacitated 2
+HeroVoice_Name_13011	Scarlett incapacitated 3
+HeroVoice_Name_13012	Scarlett Team Formation 1
+HeroVoice_Name_13013	Scarlett Team Formation 2
+HeroVoice_Name_13014	Scarlett Team Formation 3
+HeroVoice_Name_13015	Scarlett Active A 1
+HeroVoice_Name_13016	Scarlett Active A 2
+HeroVoice_Name_13017	Scarlett Active A 3
+HeroVoice_Name_13018	Scarlett Active B 1
+HeroVoice_Name_13019	Scarlett Active B 2
+HeroVoice_Name_13020	Scarlett Active B 3
+HeroVoice_Name_13300	Scarlet Robbie Normal 1
+HeroVoice_Name_13301	Scarlett Robbie Normal 2
+HeroVoice_Name_13302	Scarlet Robbie Normal 3
+HeroVoice_Name_13303	Scarlett Robbie Touch 1
+HeroVoice_Name_13304	Scarlett Robbie Touch 2
+HeroVoice_Name_13305	Scarlett Robbie Touch 3
+HeroVoice_Name_13306	Scarlett's Birthday Lobby Touch 1
+HeroVoice_Name_13307	Scarlett Birthday Lobby Touch 2
+HeroVoice_Name_13308	Scarlett Birthday Lobby Touch 3
+HeroVoice_Name_13600	First acquisition of Scarlett
+HeroVoice_Name_13601	Scarlett 2-star achievement
+HeroVoice_Name_13602	Scarlett 3-star achievement
+HeroVoice_Name_13603	Scarlett 4-star achievement
+HeroVoice_Name_13604	Scarlett 5-star achievement
+HeroVoice_Name_13605	Use Scarlet Experience Potion 1
+HeroVoice_Name_13606	Use Scarlet Experience Potion 2
+HeroVoice_Name_13607	Use Scarlet Experience Potion 3
+HeroVoice_Name_13608	Scarlett Intimacy Level Up 1
+HeroVoice_Name_13609	Scarlett Intimacy Level Up 2
+HeroVoice_Name_13610	Scarlett Intimacy Level Up 3
+HeroVoice_Name_13611	Scarlett Affinity Item Gift 1
+HeroVoice_Name_13612	Scarlett's Affinity Item Gift 2
+HeroVoice_Name_13613	Scarlett's Affinity Item Gift 3
+HeroVoice_Name_14000	Gretel Battle Sorceress 1
+HeroVoice_Name_14001	Gretel Battle Sorceress 2
+HeroVoice_Name_14002	Gretel Battle Sorceress 3
+HeroVoice_Name_14003	Gretel wins 1
+HeroVoice_Name_14004	Gretel Victory 2
+HeroVoice_Name_14005	Gretel Victory 3
+HeroVoice_Name_14006	Gretel Fail 1
+HeroVoice_Name_14007	Gretel Fail 2
+HeroVoice_Name_14008	Gretel Fail 3
+HeroVoice_Name_14009	Gretel is incapacitated 1
+HeroVoice_Name_14010	Gretel is incapacitated 2
+HeroVoice_Name_14011	Gretel incapacitated 3
+HeroVoice_Name_14012	Gretel Team Formation 1
+HeroVoice_Name_14013	Gretel Team Formation 2
+HeroVoice_Name_14014	Gretel Team Formation 3
+HeroVoice_Name_14015	Gretel Active A 1
+HeroVoice_Name_14016	Gretel Active A 2
+HeroVoice_Name_14017	Gretel Active A 3
+HeroVoice_Name_14018	Gretel Active B 1
+HeroVoice_Name_14019	Gretel Active B 2
+HeroVoice_Name_14020	Gretel Active B 3
+HeroVoice_Name_14300	Gretel Lobby Normal 1
+HeroVoice_Name_14301	Gretel Lobby Normal 2
+HeroVoice_Name_14302	Gretel Lobby Normal 3
+HeroVoice_Name_14303	Gretel Lobby Touch 1
+HeroVoice_Name_14304	Gretel Lobby Touch 2
+HeroVoice_Name_14305	Gretel Lobby Touch 3
+HeroVoice_Name_14306	Gretel Birthday Lobby Touch 1
+HeroVoice_Name_14307	Gretel Birthday Lobby Touch 2
+HeroVoice_Name_14308	Gretel Birthday Lobby Touch 3
+HeroVoice_Name_14600	Gretel first acquisition
+HeroVoice_Name_14601	Gretel 2-star achievement
+HeroVoice_Name_14602	Gretel 3-star achievement
+HeroVoice_Name_14603	Gretel 4-star achievement
+HeroVoice_Name_14604	Gretel 5-star achievement
+HeroVoice_Name_14605	Use Gretel Experience Potion 1
+HeroVoice_Name_14606	Use Gretel Experience Potion 2
+HeroVoice_Name_14607	Use Gretel Experience Potion 3
+HeroVoice_Name_14608	Gretel Intimacy Level Up 1
+HeroVoice_Name_14609	Gretel Intimacy Level Up 2
+HeroVoice_Name_14610	Gretel Intimacy Level Up 3
+HeroVoice_Name_14611	Gretel Affinity Item Gift 1
+HeroVoice_Name_14612	Gretel Affinity Item Gift 2
+HeroVoice_Name_14613	Gretel Affinity Item Gift 3
+HeroVoice_Name_15000	Aramode Battle Sortie 1
+HeroVoice_Name_15001	Aramode Battle Sortie 2
+HeroVoice_Name_15002	Aramode Battle Sortie 3
+HeroVoice_Name_15003	Aramode Victory 1
+HeroVoice_Name_15004	Aramode Victory 2
+HeroVoice_Name_15005	Aramode Victory 3
+HeroVoice_Name_15006	Aramode failed 1
+HeroVoice_Name_15007	Aramode failure 2
+HeroVoice_Name_15008	Aramode failure 3
+HeroVoice_Name_15009	Aramode combat incapacitated 1
+HeroVoice_Name_15010	Aramode combat incapacitated 2
+HeroVoice_Name_15011	Aramode combat incapacitated 3
+HeroVoice_Name_15012	Aramode Team Formation 1
+HeroVoice_Name_15013	Aramode Team Formation 2
+HeroVoice_Name_15014	Aramode Team Formation 3
+HeroVoice_Name_15015	Aramode Active A 1
+HeroVoice_Name_15016	Aramode Active A 2
+HeroVoice_Name_15017	Aramode Active A 3
+HeroVoice_Name_15018	Aramode Active B 1
+HeroVoice_Name_15019	Aramode Active B 2
+HeroVoice_Name_15020	Aramode Active B 3
+HeroVoice_Name_15300	Aramode Lobby Normal 1
+HeroVoice_Name_15301	Aramode Lobby Normal 2
+HeroVoice_Name_15302	Aramode Lobby Normal 3
+HeroVoice_Name_15303	Aramode Lobby Touch 1
+HeroVoice_Name_15304	Aramode Lobby Touch 2
+HeroVoice_Name_15305	Aramode Lobby Touch 3
+HeroVoice_Name_15306	Aramode Birthday Lobby Touch 1
+HeroVoice_Name_15307	Aramode Birthday Lobby Touch 2
+HeroVoice_Name_15308	Aramode Birthday Lobby Touch 3
+HeroVoice_Name_15600	First acquisition of Aramode
+HeroVoice_Name_15601	Achieved 2 stars in Aramode
+HeroVoice_Name_15602	Achieved 3 stars in Aramode
+HeroVoice_Name_15603	Achieved 4 stars in Aramode
+HeroVoice_Name_15604	Achieved 5 stars in Aramode
+HeroVoice_Name_15605	Use Aramode Experience Potion 1
+HeroVoice_Name_15606	Use Aramode Experience Potion 2
+HeroVoice_Name_15607	Use Aramode Experience Potion 3
+HeroVoice_Name_15608	Aramode Intimacy Level Up 1
+HeroVoice_Name_15609	Aramode Intimacy Level Up 2
+HeroVoice_Name_15610	Aramode Intimacy Level Up 3
+HeroVoice_Name_15611	Aramode Affinity Item Gift 1
+HeroVoice_Name_15612	Aramode Affinity Item Gift 2
+HeroVoice_Name_15613	Aramode Affinity Item Gift 3
+HeroVoice_Name_16000	Hansel Battle Sortie 1
+HeroVoice_Name_16001	Hansel Battle Sortie 2
+HeroVoice_Name_16002	Hansel Battle Sortie 3
+HeroVoice_Name_16003	Hansel Victory 1
+HeroVoice_Name_16004	Hansel Victory 2
+HeroVoice_Name_16005	Hansel Victory 3
+HeroVoice_Name_16006	Hansel Fail 1
+HeroVoice_Name_16007	Hansel Fail 2
+HeroVoice_Name_16008	Hansel Fail 3
+HeroVoice_Name_16009	Hansel is incapacitated 1
+HeroVoice_Name_16010	Hansel is incapable of combat 2
+HeroVoice_Name_16011	Hansel is incapable of combat 3
+HeroVoice_Name_16012	Hansel Team Formation 1
+HeroVoice_Name_16013	Hansel Team Formation 2
+HeroVoice_Name_16014	Hansel Team Formation 3
+HeroVoice_Name_16015	Hansel Active A 1
+HeroVoice_Name_16016	Hansel Active A 2
+HeroVoice_Name_16017	Hansel Active A 3
+HeroVoice_Name_16018	Hansel Active B 1
+HeroVoice_Name_16019	Hansel Active B 2
+HeroVoice_Name_16020	Hansel Active B 3
+HeroVoice_Name_16300	Hansel Lobby Normal 1
+HeroVoice_Name_16301	Hansel Lobby Normal 2
+HeroVoice_Name_16302	Hansel Lobby Normal 3
+HeroVoice_Name_16303	Hansel Lobby Touch 1
+HeroVoice_Name_16304	Hansel Lobby Touch 2
+HeroVoice_Name_16305	Hansel Lobby Touch 3
+HeroVoice_Name_16306	Hansel Birthday Lobby Touch 1
+HeroVoice_Name_16307	Hansel Birthday Lobby Touch 2
+HeroVoice_Name_16308	Hansel Birthday Lobby Touch 3
+HeroVoice_Name_16600	Hansel first acquisition
+HeroVoice_Name_16601	Hansel 2-star achievement
+HeroVoice_Name_16602	Hansel 3-star achievement
+HeroVoice_Name_16603	Hansel 4-star achievement
+HeroVoice_Name_16604	Hansel 5-star achievement
+HeroVoice_Name_16605	Use Hansel Experience Potion 1
+HeroVoice_Name_16606	Use Hansel Experience Potion 2
+HeroVoice_Name_16607	Use Hansel Experience Potion 3
+HeroVoice_Name_16608	Hansel Intimacy Level Up 1
+HeroVoice_Name_16609	Hansel Intimacy Level Up 2
+HeroVoice_Name_16610	Hansel Intimacy Level Up 3
+HeroVoice_Name_16611	Hansel Affinity Item Gift 1
+HeroVoice_Name_16612	Hansel Affinity Item Gift 2
+HeroVoice_Name_16613	Hansel Affinity Item Gift 3
+HeroVoice_Name_17000	Cheshire Battle Sortie 1
+HeroVoice_Name_17001	Cheshire Battle Sortie 2
+HeroVoice_Name_17002	Cheshire Battle Sortie 3
+HeroVoice_Name_17003	Cheshire Victory 1
+HeroVoice_Name_17004	Cheshire Victory 2
+HeroVoice_Name_17005	Cheshire win 3
+HeroVoice_Name_17006	Cheshire Fail 1
+HeroVoice_Name_17007	Cheshire Fail 2
+HeroVoice_Name_17008	Cheshire Fail 3
+HeroVoice_Name_17009	Cheshire Battle Incapable 1
+HeroVoice_Name_17010	Cheshire Battle Incapable 2
+HeroVoice_Name_17011	Cheshire Battle Incapable 3
+HeroVoice_Name_17012	Cheshire Team Formation 1
+HeroVoice_Name_17013	Cheshire Team Formation 2
+HeroVoice_Name_17014	Cheshire Team Formation 3
+HeroVoice_Name_17015	Cheshire Active A 1
+HeroVoice_Name_17016	Cheshire Active A 2
+HeroVoice_Name_17017	Cheshire Active A 3
+HeroVoice_Name_17018	Cheshire Active B 1
+HeroVoice_Name_17019	Cheshire Active B 2
+HeroVoice_Name_17020	Cheshire Active B 3
+HeroVoice_Name_17300	Cheshire Lobby General 1
+HeroVoice_Name_17301	Cheshire Lobby Normal 2
+HeroVoice_Name_17302	Cheshire Lobby Normal 3
+HeroVoice_Name_17303	Cheshire Lobby Touch 1
+HeroVoice_Name_17304	Cheshire Lobby Touch 2
+HeroVoice_Name_17305	Cheshire Lobby Touch 3
+HeroVoice_Name_17306	Cheshire Birthday Lobby Touch 1
+HeroVoice_Name_17307	Cheshire Birthday Lobby Touch 2
+HeroVoice_Name_17308	Cheshire Birthday Lobby Touch 3
+HeroVoice_Name_17600	Cheshire First Acquired
+HeroVoice_Name_17601	Cheshire 3-star achievement
+HeroVoice_Name_17602	Cheshire 4-star achievement
+HeroVoice_Name_17603	Reached 5 stars in Cheshire
+HeroVoice_Name_17604	Use Cheshire Experience Potion 1
+HeroVoice_Name_17605	Use Cheshire Experience Potion 2
+HeroVoice_Name_17606	Use Cheshire Experience Potion 3
+HeroVoice_Name_17607	Cheshire Intimacy Level Up 1
+HeroVoice_Name_17608	Cheshire Intimacy Level Up 2
+HeroVoice_Name_17609	Cheshire Intimacy Level Up 3
+HeroVoice_Name_17610	Cheshire Affinity Item Gift 1
+HeroVoice_Name_17611	Cheshire Affinity Item Gift 2
+HeroVoice_Name_17612	Cheshire Affinity Item Gift 3
+HeroVoice_Name_18000	Flare Battle Sortie 1
+HeroVoice_Name_18001	Flare Battle Sortie 2
+HeroVoice_Name_18002	Flare Battle Sortie 3
+HeroVoice_Name_18003	Flare Win 1
+HeroVoice_Name_18004	Flare Win 2
+HeroVoice_Name_18005	Flare Win 3
+HeroVoice_Name_18006	Flare Failed 1
+HeroVoice_Name_18007	Flare Failed 2
+HeroVoice_Name_18008	Flare failure 3
+HeroVoice_Name_18009	Flare Battle Incapable 1
+HeroVoice_Name_18010	Flare Battle Incapable 2
+HeroVoice_Name_18011	Flare Battle Incapable 3
+HeroVoice_Name_18012	Flare Team Formation 1
+HeroVoice_Name_18013	Flare Team Formation 2
+HeroVoice_Name_18014	Flare Team Formation 3
+HeroVoice_Name_18015	Flare Active A 1
+HeroVoice_Name_18016	Flare Active A 2
+HeroVoice_Name_18017	Flare Active A 3
+HeroVoice_Name_18018	Flare Active B 1
+HeroVoice_Name_18019	Flare Active B 2
+HeroVoice_Name_18020	Flare Active B 3
+HeroVoice_Name_18300	Flare Lobby Normal 1
+HeroVoice_Name_18301	Flare Lobby Normal 2
+HeroVoice_Name_18302	Flare Lobby Normal 3
+HeroVoice_Name_18303	Flare Lobby Touch 1
+HeroVoice_Name_18304	Flare Lobby Touch 2
+HeroVoice_Name_18305	Flare Lobby Touch 3
+HeroVoice_Name_18306	Flare Birthday Lobby Touch 1
+HeroVoice_Name_18307	Flare Birthday Lobby Touch 2
+HeroVoice_Name_18308	Flare Birthday Lobby Touch 3
+HeroVoice_Name_18600	First Flare Acquisition
+HeroVoice_Name_18601	Achieve Flare 4-star
+HeroVoice_Name_18602	Achieve 5-star Flare
+HeroVoice_Name_18603	Use Flare Experience Potion 1
+HeroVoice_Name_18604	Use Flare Experience Potion 2
+HeroVoice_Name_18605	Use Flare Experience Potion 3
+HeroVoice_Name_18606	Flare Intimacy Level Up 1
+HeroVoice_Name_18607	Flare Intimacy Level Up 2
+HeroVoice_Name_18608	Flare Intimacy Level Up 3
+HeroVoice_Name_18609	Flare Affinity Item Gift 1
+HeroVoice_Name_18610	Flare Affinity Item Gift 2
+HeroVoice_Name_18611	Flare Affinity Item Gift 3
+HeroVoice_Name_19000	Briar Rose Battle Sortie 1
+HeroVoice_Name_19001	Briar Rose Battle Sortie 2
+HeroVoice_Name_19002	Briar Rose Battle Sortie 3
+HeroVoice_Name_19003	Briar Rose Win 1
+HeroVoice_Name_19004	Briar Rose Victory 2
+HeroVoice_Name_19005	Briar Rose Win 3
+HeroVoice_Name_19006	Briar Rose Fail 1
+HeroVoice_Name_19007	Briar Rose Fail 2
+HeroVoice_Name_19008	Briar Rose Fail 3
+HeroVoice_Name_19009	Briar Rose Incapacitated 1
+HeroVoice_Name_19010	Briar Rose Incapacitated 2
+HeroVoice_Name_19011	Briar Rose Incapacitated 3
+HeroVoice_Name_19012	Briar Rose Team Formation 1
+HeroVoice_Name_19013	Briar Rose Team Formation 2
+HeroVoice_Name_19014	Briar Rose Team Formation 3
+HeroVoice_Name_19015	Briar Rose Active A 1
+HeroVoice_Name_19016	Briar Rose Active A 2
+HeroVoice_Name_19017	Briar Rose Active A 3
+HeroVoice_Name_19018	Briar Rose Active B 1
+HeroVoice_Name_19019	Briar Rose Active B 2
+HeroVoice_Name_19020	Briar Rose Active B 3
+HeroVoice_Name_19300	Briar Rose Lobby Normal 1
+HeroVoice_Name_19301	Briar Rose Lobby Normal 2
+HeroVoice_Name_19302	Briar Rose Lobby Normal 3
+HeroVoice_Name_19303	Briar Rose Lobby Touch 1
+HeroVoice_Name_19304	Briar Rose Lobby Touch 2
+HeroVoice_Name_19305	Briar Rose Lobby Touch 3
+HeroVoice_Name_19306	Briar Rose Birthday Lobby Touch 1
+HeroVoice_Name_19307	Briar Rose Birthday Lobby Touch 2
+HeroVoice_Name_19308	Briar Rose Birthday Lobby Touch 3
+HeroVoice_Name_19600	First acquisition of Briar Rose
+HeroVoice_Name_19601	Briar Rose 4-star achievement
+HeroVoice_Name_19602	Achieve Briar Rose 5 stars
+HeroVoice_Name_19603	Use Briar Rose Experience Potion 1
+HeroVoice_Name_19604	Use Briar Rose Experience Potion 2
+HeroVoice_Name_19605	Use Briar Rose Experience Potion 3
+HeroVoice_Name_19606	Briar Rose Intimacy Level Up 1
+HeroVoice_Name_19607	Briar Rose Intimacy Level Up 2
+HeroVoice_Name_19608	Briar Rose Intimacy Level Up 3
+HeroVoice_Name_19609	Briar Rose Affinity Item Gift 1
+HeroVoice_Name_19610	Briar Rose Affinity Item Gift 2
+HeroVoice_Name_19611	Briar Rose Affinity Item Gift 3
+HeroVoice_Name_20000	Melphi Battle Sortie 1
+HeroVoice_Name_20001	Melphi Battle Sortie 2
+HeroVoice_Name_20002	Melphi Battle Sortie 3
+HeroVoice_Name_20003	Melphi wins 1
+HeroVoice_Name_20004	Melphi wins 2
+HeroVoice_Name_20005	Melphi wins 3
+HeroVoice_Name_20006	Melphi Fail 1
+HeroVoice_Name_20007	Melphi Fail 2
+HeroVoice_Name_20008	Melphi failure 3
+HeroVoice_Name_20009	Melphie incapacitated 1
+HeroVoice_Name_20010	Melphie incapacitated 2
+HeroVoice_Name_20011	Melphie incapacitated 3
+HeroVoice_Name_20012	Melphi Team Formation 1
+HeroVoice_Name_20013	Melphi Team Formation 2
+HeroVoice_Name_20014	Melphi Team Formation 3
+HeroVoice_Name_20015	Melphi Active A 1
+HeroVoice_Name_20016	Melphi Active A 2
+HeroVoice_Name_20017	Melphi Active A 3
+HeroVoice_Name_20018	Melphi Active B 1
+HeroVoice_Name_20019	Melphi Active B 2
+HeroVoice_Name_20020	Melphi Active B 3
+HeroVoice_Name_20300	Melphie Lobby Normal 1
+HeroVoice_Name_20301	Melphie Lobby Normal 2
+HeroVoice_Name_20302	Melphie Lobby Normal 3
+HeroVoice_Name_20303	Melphie Lobby Touch 1
+HeroVoice_Name_20304	Melphie Lobby Touch 2
+HeroVoice_Name_20305	Melphie Lobby Touch 3
+HeroVoice_Name_20306	Melphie Birthday Lobby Touch 1
+HeroVoice_Name_20307	Melphie Birthday Lobby Touch 2
+HeroVoice_Name_20308	Melphie Birthday Lobby Touch 3
+HeroVoice_Name_20600	Melphi first acquired
+HeroVoice_Name_20601	Melphi 3-star achievement
+HeroVoice_Name_20602	Melphi 4-star achievement
+HeroVoice_Name_20603	Melphi 5-star achievement
+HeroVoice_Name_20604	Use Melphi Experience Potion 1
+HeroVoice_Name_20605	Use Melphi Experience Potion 2
+HeroVoice_Name_20606	Use Melphi Experience Potion 3
+HeroVoice_Name_20607	Melphie Intimacy Level Up 1
+HeroVoice_Name_20608	Melphi Intimacy Level Up 2
+HeroVoice_Name_20609	Melphi Intimacy Level Up 3
+HeroVoice_Name_20610	Melphie Affinity Item Gift 1
+HeroVoice_Name_20611	Melphie Affinity Item Gift 2
+HeroVoice_Name_20612	Melphie Affinity Item Gift 3
+HeroVoice_Name_21000	Zepetto Battle Sorceress 1
+HeroVoice_Name_21001	Zepetto Battle Sortie 2
+HeroVoice_Name_21002	Zepetto Battle Sorceress 3
+HeroVoice_Name_21003	Zepetto wins 1
+HeroVoice_Name_21004	Zepetto wins 2
+HeroVoice_Name_21005	Zepetto wins 3
+HeroVoice_Name_21006	Zepeto Fail 1
+HeroVoice_Name_21007	Zepeto Failure 2
+HeroVoice_Name_21008	Zepeto Fail 3
+HeroVoice_Name_21009	Zepetto is incapable of battle 1
+HeroVoice_Name_21010	Zepetto battle incapacitated 2
+HeroVoice_Name_21011	Zepetto battle incapacitated 3
+HeroVoice_Name_21012	Zepeto Team Formation 1
+HeroVoice_Name_21013	Zepeto Team Formation 2
+HeroVoice_Name_21014	Zepeto Team Formation 3
+HeroVoice_Name_21015	Zepeto Active A 1
+HeroVoice_Name_21016	Zepeto Active A 2
+HeroVoice_Name_21017	Zepeto Active A 3
+HeroVoice_Name_21018	Zepeto Active B 1
+HeroVoice_Name_21019	Zepeto Active B 2
+HeroVoice_Name_21020	Zepeto Active B 3
+HeroVoice_Name_21300	Zepetto Lobby Normal 1
+HeroVoice_Name_21301	Zepetto Lobby Normal 2
+HeroVoice_Name_21302	Zepetto Lobby Normal 3
+HeroVoice_Name_21303	Zepeto Lobby Touch 1
+HeroVoice_Name_21304	Zepeto Lobby Touch 2
+HeroVoice_Name_21305	Zepetto Lobby Touch 3
+HeroVoice_Name_21306	Zepeto Birthday Lobby Touch 1
+HeroVoice_Name_21307	Zepeto Birthday Lobby Touch 2
+HeroVoice_Name_21308	Zepeto Birthday Lobby Touch 3
+HeroVoice_Name_21600	First acquisition of Zepeto
+HeroVoice_Name_21601	Achieve Zepetto 3 stars
+HeroVoice_Name_21602	Achieved Zepetto 4 stars
+HeroVoice_Name_21603	Achieved Zepetto 5 stars
+HeroVoice_Name_21604	Use Zepetto Experience Potion 1
+HeroVoice_Name_21605	Use Zepetto Experience Potion 2
+HeroVoice_Name_21606	Use Zepetto Experience Potion 3
+HeroVoice_Name_21607	Zepeto Intimacy Level Up 1
+HeroVoice_Name_21608	Zepeto Intimacy Level Up 2
+HeroVoice_Name_21609	Zepeto Intimacy Level Up 3
+HeroVoice_Name_21610	Zepeto Affinity Item Gift 1
+HeroVoice_Name_21611	Zepeto Affinity Item Gift 2
+HeroVoice_Name_21612	Zepeto Affinity Item Gift 3
+HeroVoice_Name_22000	DnD Battle Sorceress 1
+HeroVoice_Name_22001	DnD Battle Sorceress 2
+HeroVoice_Name_22002	DnD Battle Sorceress 3
+HeroVoice_Name_22003	DnD Victory 1
+HeroVoice_Name_22004	DnD Victory 2
+HeroVoice_Name_22005	DnD Victory 3
+HeroVoice_Name_22006	DnD Fail 1
+HeroVoice_Name_22007	DnD Fail 2
+HeroVoice_Name_22008	DnD Fail 3
+HeroVoice_Name_22009	DnD Combat Incapable 1
+HeroVoice_Name_22010	DnD Combat Incapacitated 2
+HeroVoice_Name_22011	DnD Combat Incapable 3
+HeroVoice_Name_22012	DnD Team Formation 1
+HeroVoice_Name_22013	DnD Team Formation 2
+HeroVoice_Name_22014	DnD Team Formation 3
+HeroVoice_Name_22015	DnD Active A 1
+HeroVoice_Name_22016	DnD Active A 2
+HeroVoice_Name_22017	DnD Active A 3
+HeroVoice_Name_22018	DnD Active B 1
+HeroVoice_Name_22019	DnD Active B 2
+HeroVoice_Name_22020	DnD Active B 3
+HeroVoice_Name_22300	DnD Lobby General 1
+HeroVoice_Name_22301	DnD Lobby General 2
+HeroVoice_Name_22302	DnD Lobby General 3
+HeroVoice_Name_22303	DnD Lobby Touch 1
+HeroVoice_Name_22304	DnD Lobby Touch 2
+HeroVoice_Name_22305	DnD Lobby Touch 3
+HeroVoice_Name_22306	DnD Birthday Lobby Touch 1
+HeroVoice_Name_22307	DnD Birthday Lobby Touch 2
+HeroVoice_Name_22308	DnD Birthday Lobby Touch 3
+HeroVoice_Name_22600	DnD First Acquisition
+HeroVoice_Name_22601	DnD 3-star achievement
+HeroVoice_Name_22602	DnD 4-star achievement
+HeroVoice_Name_22603	DnD 5-star achievement
+HeroVoice_Name_22604	Use DnD Experience Potion 1
+HeroVoice_Name_22605	DnD Experience Potion Use 2
+HeroVoice_Name_22606	Use DnD Experience Potion 3
+HeroVoice_Name_22607	DnD Intimacy Level Up 1
+HeroVoice_Name_22608	DnD Intimacy Level Up 2
+HeroVoice_Name_22609	DnD Intimacy Level Up 3
+HeroVoice_Name_22610	DnD Favorability Item Gift 1
+HeroVoice_Name_22611	DnD Favorability Item Gift 2
+HeroVoice_Name_22612	DnD Favorability Item Gift 3
+HeroVoice_Name_23000	Sasha Battle Sorceress 1
+HeroVoice_Name_23001	Sasha Battle Sorter 2
+HeroVoice_Name_23002	Sasha Battle sortie 3
+HeroVoice_Name_23003	Sasha wins 1
+HeroVoice_Name_23004	Sasha wins 2
+HeroVoice_Name_23005	Sasha wins 3
+HeroVoice_Name_23006	Sasha Fail 1
+HeroVoice_Name_23007	Sasha Fail 2
+HeroVoice_Name_23008	Sasha Fail 3
+HeroVoice_Name_23009	Sasha incapacitated 1
+HeroVoice_Name_23010	Sasha incapacitated 2
+HeroVoice_Name_23011	Sasha incapacitated 3
+HeroVoice_Name_23012	Sasha Team Formation 1
+HeroVoice_Name_23013	Sasha Team Formation 2
+HeroVoice_Name_23014	Sasha Team Formation 3
+HeroVoice_Name_23015	Sasha Active A 1
+HeroVoice_Name_23016	Sasha Active A 2
+HeroVoice_Name_23017	Sasha Active A 3
+HeroVoice_Name_23018	Sasha Active B 1
+HeroVoice_Name_23019	Sasha Active B 2
+HeroVoice_Name_23020	Sasha Active B 3
+HeroVoice_Name_23300	Sasha Robbie Normal 1
+HeroVoice_Name_23301	Sasha Robbie Normal 2
+HeroVoice_Name_23302	Sasha Robbie Normal 3
+HeroVoice_Name_23303	Sasha Robbie Touch 1
+HeroVoice_Name_23304	Sasha Robbie Touch 2
+HeroVoice_Name_23305	Sasha Robbie Touch 3
+HeroVoice_Name_23306	Sasha Birthday Lobby Touch 1
+HeroVoice_Name_23307	Sasha Birthday Lobby Touch 2
+HeroVoice_Name_23308	Sasha Birthday Lobby Touch 3
+HeroVoice_Name_23600	Sasha first acquired
+HeroVoice_Name_23601	Sasha 4-star achievement
+HeroVoice_Name_23602	Sasha 5-star achievement
+HeroVoice_Name_23603	Use Sasha Experience Potion 1
+HeroVoice_Name_23604	Use Sasha Experience Potion 2
+HeroVoice_Name_23605	Use Sasha Experience Potion 3
+HeroVoice_Name_23606	Sasha Intimacy Level Up 1
+HeroVoice_Name_23607	Sasha Intimacy Level Up 2
+HeroVoice_Name_23608	Sasha Intimacy Level Up 3
+HeroVoice_Name_23609	Sasha's Affinity Item Gift 1
+HeroVoice_Name_23610	Sasha's Affinity Item Gift 2
+HeroVoice_Name_23611	Sasha's Affinity Item Gift 3
+HeroVoice_Name_24000	Drosselmeyer Battle sortie 1
+HeroVoice_Name_24001	Drosselmeyer Battle sortie 2
+HeroVoice_Name_24002	Drosselmeyer Battle sortie 3
+HeroVoice_Name_24003	Drosselmeyer Victory 1
+HeroVoice_Name_24004	Drosselmeyer Victory 2
+HeroVoice_Name_24005	Drosselmeyer Victory 3
+HeroVoice_Name_24006	Drosselmeyer Fail 1
+HeroVoice_Name_24007	Drosselmeyer Failure 2
+HeroVoice_Name_24008	Drosselmeyer Failure 3
+HeroVoice_Name_24009	Drosselmeyer incapacitated 1
+HeroVoice_Name_24010	Drosselmeyer incapacitated 2
+HeroVoice_Name_24011	Drosselmeyer incapacitated 3
+HeroVoice_Name_24012	Drosselmeyer Team Formation 1
+HeroVoice_Name_24013	Drosselmeyer Team Formation 2
+HeroVoice_Name_24014	Drosselmeyer Team Formation 3
+HeroVoice_Name_24015	Drosselmeyer Active A 1
+HeroVoice_Name_24016	Drosselmeyer Active A 2
+HeroVoice_Name_24017	Drosselmeyer Active A 3
+HeroVoice_Name_24018	Drosselmeyer Active B 1
+HeroVoice_Name_24019	Drosselmeyer Active B 2
+HeroVoice_Name_24020	Drosselmeyer Active B 3
+HeroVoice_Name_24300	Drosselmeyer Lobby Normal 1
+HeroVoice_Name_24301	Drosselmeyer Lobby Normal 2
+HeroVoice_Name_24302	Drosselmeyer Lobby Normal 3
+HeroVoice_Name_24303	Drosselmeyer Robbie Touch 1
+HeroVoice_Name_24304	Drosselmeyer Robbie Touch 2
+HeroVoice_Name_24305	Drosselmeyer Robbie Touch 3
+HeroVoice_Name_24306	Drosselmeyer Birthday Lobby Touch 1
+HeroVoice_Name_24307	Drosselmeyer Birthday Lobby Touch 2
+HeroVoice_Name_24308	Drosselmeyer Birthday Lobby Touch 3
+HeroVoice_Name_24600	First acquisition of Drosselmeyer
+HeroVoice_Name_24601	Drosselmeyer 4-star achievement
+HeroVoice_Name_24602	Drosselmeyer 5-star achievement
+HeroVoice_Name_24603	Use Drosselmeyer Experience Potion 1
+HeroVoice_Name_24604	Use Drosselmeyer Experience Potion 2
+HeroVoice_Name_24605	Use Drosselmeyer Experience Potion 3
+HeroVoice_Name_24606	Drosselmeyer Intimacy Level Up 1
+HeroVoice_Name_24607	Drosselmeyer Intimacy Level Up 2
+HeroVoice_Name_24608	Drosselmeyer Intimacy Level Up 3
+HeroVoice_Name_24609	Drosselmeyer Affinity Item Gift 1
+HeroVoice_Name_24610	Drosselmeyer Affinity Item Gift 2
+HeroVoice_Name_24611	Drosselmeyer Affinity Item Gift 3
+HeroVoice_Name_25000	Cecilia Battle Sorceress 1
+HeroVoice_Name_25001	Cecilia Battle Sorceress 2
+HeroVoice_Name_25002	Cecilia Battle Sorceress 3
+HeroVoice_Name_25003	Cecilia Victory 1
+HeroVoice_Name_25004	Cecilia Victory 2
+HeroVoice_Name_25005	Cecilia Victory 3
+HeroVoice_Name_25006	Cecilia Fail 1
+HeroVoice_Name_25007	Cecilia Fail 2
+HeroVoice_Name_25008	Cecilia Fail 3
+HeroVoice_Name_25009	Cecilia incapacitated 1
+HeroVoice_Name_25010	Cecilia incapacitated 2
+HeroVoice_Name_25011	Cecilia incapacitated 3
+HeroVoice_Name_25012	Cecilia Team Formation 1
+HeroVoice_Name_25013	Cecilia Team Formation 2
+HeroVoice_Name_25014	Cecilia Team Formation 3
+HeroVoice_Name_25015	Cecilia Active A 1
+HeroVoice_Name_25016	Cecilia Active A 2
+HeroVoice_Name_25017	Cecilia Active A 3
+HeroVoice_Name_25018	Cecilia Active B 1
+HeroVoice_Name_25019	Cecilia Active B 2
+HeroVoice_Name_25020	Cecilia Active B 3
+HeroVoice_Name_25300	Cecilia Robbie Normal 1
+HeroVoice_Name_25301	Cecilia Robbie Normal 2
+HeroVoice_Name_25302	Cecilia Robbie Normal 3
+HeroVoice_Name_25303	Cecilia Robbie Touch 1
+HeroVoice_Name_25304	Cecilia Robbie Touch 2
+HeroVoice_Name_25305	Cecilia Robbie Touch 3
+HeroVoice_Name_25306	Cecilia's Birthday Lobby Touch 1
+HeroVoice_Name_25307	Cecilia's Birthday Lobby Touch 2
+HeroVoice_Name_25308	Cecilia's Birthday Lobby Touch 3
+HeroVoice_Name_25600	Cecilia first acquisition
+HeroVoice_Name_25601	Cecilia 4-star achievement
+HeroVoice_Name_25602	Cecilia 5-star achievement
+HeroVoice_Name_25603	Use Cecilia Experience Potion 1
+HeroVoice_Name_25604	Use Cecilia Experience Potion 2
+HeroVoice_Name_25605	Use Cecilia Experience Potion 3
+HeroVoice_Name_25606	Cecilia Intimacy Level Up 1
+HeroVoice_Name_25607	Cecilia Intimacy Level Up 2
+HeroVoice_Name_25608	Cecilia Intimacy Level Up 3
+HeroVoice_Name_25609	Cecilia's Affinity Item Gift 1
+HeroVoice_Name_25610	Cecilia's Affinity Item Gift 2
+HeroVoice_Name_25611	Cecilia's Affinity Item Gift 3
+HeroVoice_Name_26000	Battle sortie 1
+HeroVoice_Name_26001	Marie Battle Sortie 2
+HeroVoice_Name_26002	Marie Battle Sortie 3
+HeroVoice_Name_26003	Mari Victory 1
+HeroVoice_Name_26004	Mari Victory 2
+HeroVoice_Name_26005	Mari wins 3
+HeroVoice_Name_26006	Marie failed 1
+HeroVoice_Name_26007	Marie failed 2
+HeroVoice_Name_26008	Marie failed 3
+HeroVoice_Name_26009	Marie is unable to fight 1
+HeroVoice_Name_26010	Mari is incapacitated 2
+HeroVoice_Name_26011	Marie is incapacitated 3
+HeroVoice_Name_26012	Marie Team Formation 1
+HeroVoice_Name_26013	Mari Team Formation 2
+HeroVoice_Name_26014	Mari Team Formation 3
+HeroVoice_Name_26015	Marie Active A 1
+HeroVoice_Name_26016	Marie Active A 2
+HeroVoice_Name_26017	Marie Active A 3
+HeroVoice_Name_26018	Marie Active B 1
+HeroVoice_Name_26019	Marie Active B 2
+HeroVoice_Name_26020	Marie Active B 3
+HeroVoice_Name_26300	Marie Robbie Normal 1
+HeroVoice_Name_26301	Marie Robbie Normal 2
+HeroVoice_Name_26302	Marie Robbie Normal 3
+HeroVoice_Name_26303	Marie Robbie Touch 1
+HeroVoice_Name_26304	Marie Robbie Touch 2
+HeroVoice_Name_26305	Marie Robbie Touch 3
+HeroVoice_Name_26306	Marie Birthday Lobby Touch 1
+HeroVoice_Name_26307	Marie Birthday Lobby Touch 2
+HeroVoice_Name_26308	Marie Birthday Lobby Touch 3
+HeroVoice_Name_26600	First acquisition
+HeroVoice_Name_26601	Marie 3-star achievement
+HeroVoice_Name_26602	Marie 4-star achievement
+HeroVoice_Name_26603	Marie 5-star achievement
+HeroVoice_Name_26604	Use Marie Experience Potion 1
+HeroVoice_Name_26605	Use Marie Experience Potion 2
+HeroVoice_Name_26606	Use 3 experience potions
+HeroVoice_Name_26607	Marie Intimacy Level Up 1
+HeroVoice_Name_26608	Marie Intimacy Level Up 2
+HeroVoice_Name_26609	Marie Intimacy Level Up 3
+HeroVoice_Name_26610	Marie Affinity Item Gift 1
+HeroVoice_Name_26611	Marie Affinity Item Gift 2
+HeroVoice_Name_26612	Marie Affinity Item Gift 3
+HeroVoice_Name_27000	Dieter Battle Sortie 1
+HeroVoice_Name_27001	Dieter Battle Sortie 2
+HeroVoice_Name_27002	Dieter Battle Sortie 3
+HeroVoice_Name_27003	Dieter wins 1
+HeroVoice_Name_27004	Dieter wins 2
+HeroVoice_Name_27005	Dieter wins 3
+HeroVoice_Name_27006	Dieter Fail 1
+HeroVoice_Name_27007	Dieter Fail 2
+HeroVoice_Name_27008	Dieter Fail 3
+HeroVoice_Name_27009	Dieter is incapacitated 1
+HeroVoice_Name_27010	Dieter incapacitated 2
+HeroVoice_Name_27011	Dieter incapacitated 3
+HeroVoice_Name_27012	Dieter Team Formation 1
+HeroVoice_Name_27013	Dieter Team Formation 2
+HeroVoice_Name_27014	Dieter Team Formation 3
+HeroVoice_Name_27015	Dieter Active A 1
+HeroVoice_Name_27016	Dieter Active A 2
+HeroVoice_Name_27017	Dieter Active A 3
+HeroVoice_Name_27018	Dieter Active B 1
+HeroVoice_Name_27019	Dieter Active B 2
+HeroVoice_Name_27020	Dieter Active B 3
+HeroVoice_Name_27300	Dieter Robbie General 1
+HeroVoice_Name_27301	Dieter Robbie Normal 2
+HeroVoice_Name_27302	Dieter Robbie Normal 3
+HeroVoice_Name_27303	Dieter Robbie Touch 1
+HeroVoice_Name_27304	Dieter Robbie Touch 2
+HeroVoice_Name_27305	Dieter Robbie Touch 3
+HeroVoice_Name_27306	Dieter's Birthday Lobby Touch 1
+HeroVoice_Name_27307	Dieter's Birthday Lobby Touch 2
+HeroVoice_Name_27308	Dieter's Birthday Lobby Touch 3
+HeroVoice_Name_27600	Dieter first acquisition
+HeroVoice_Name_27601	Dieter 4-star achievement
+HeroVoice_Name_27602	Dieter 5-star achievement
+HeroVoice_Name_27603	Use Dieter Experience Potion 1
+HeroVoice_Name_27604	Use Dieter Experience Potion 2
+HeroVoice_Name_27605	Use Dieter Experience Potion 3
+HeroVoice_Name_27606	Dieter Intimacy Level Up 1
+HeroVoice_Name_27607	Dieter Intimacy Level Up 2
+HeroVoice_Name_27608	Dieter Intimacy Level Up 3
+HeroVoice_Name_27609	Dieter Affinity Item Gift 1
+HeroVoice_Name_27610	Dieter's Affinity Item Gift 2
+HeroVoice_Name_27611	Dieter's Affinity Item Gift 3
+HeroVoice_Name_28000	Air Battle Sortie 1
+HeroVoice_Name_28001	Air Battle Sortie 2
+HeroVoice_Name_28002	Air Battle Sortie 3
+HeroVoice_Name_28003	Air Victory 1
+HeroVoice_Name_28004	Air Victory 2
+HeroVoice_Name_28005	Air Victory 3
+HeroVoice_Name_28006	Air Fail 1
+HeroVoice_Name_28007	Air Fail 2
+HeroVoice_Name_28008	Air Fail 3
+HeroVoice_Name_28009	Aire is incapacitated 1
+HeroVoice_Name_28010	Aire incapacitated 2
+HeroVoice_Name_28011	Aire incapacitated 3
+HeroVoice_Name_28012	Air Team Formation 1
+HeroVoice_Name_28013	Air Team Formation 2
+HeroVoice_Name_28014	Air Team Formation 3
+HeroVoice_Name_28015	Air Active A 1
+HeroVoice_Name_28016	Air Active A 2
+HeroVoice_Name_28017	Air Active A 3
+HeroVoice_Name_28018	Air Active B 1
+HeroVoice_Name_28019	Air Active B 2
+HeroVoice_Name_28020	Air Active B 3
+HeroVoice_Name_28300	Air Lobby Normal 1
+HeroVoice_Name_28301	Air Lobby Normal 2
+HeroVoice_Name_28302	Air Lobby Normal 3
+HeroVoice_Name_28303	Air Lobby Touch 1
+HeroVoice_Name_28304	Air Lobby Touch 2
+HeroVoice_Name_28305	Air Lobby Touch 3
+HeroVoice_Name_28306	Air Birthday Lobby Touch 1
+HeroVoice_Name_28307	Air Birthday Lobby Touch 2
+HeroVoice_Name_28308	Air Birthday Lobby Touch 3
+HeroVoice_Name_28600	First acquisition of Air
+HeroVoice_Name_28601	Aiur 4-star achievement
+HeroVoice_Name_28602	Achieved 5 stars of Air
+HeroVoice_Name_28603	Use Air Experience Potion 1
+HeroVoice_Name_28604	Use Air Experience Potion 2
+HeroVoice_Name_28605	Use Air Experience Potion 3
+HeroVoice_Name_28606	Air Intimacy Level Up 1
+HeroVoice_Name_28607	Air Intimacy Level Up 2
+HeroVoice_Name_28608	Air Intimacy Level Up 3
+HeroVoice_Name_28609	Aire Affinity Item Gift 1
+HeroVoice_Name_28610	Aire Affinity Item Gift 2
+HeroVoice_Name_28611	Aire Affinity Item Gift 3
+HeroVoice_Name_29000	Florence Battle Sortie 1
+HeroVoice_Name_29001	Florence Battle Sortie 2
+HeroVoice_Name_29002	Florence Battle Sortie 3
+HeroVoice_Name_29003	Florence Victory 1
+HeroVoice_Name_29004	Florence Victory 2
+HeroVoice_Name_29005	Florence Victory 3
+HeroVoice_Name_29006	Florence Fail 1
+HeroVoice_Name_29007	Florence Fail 2
+HeroVoice_Name_29008	Florence Fail 3
+HeroVoice_Name_29009	Florence Battle Incapable 1
+HeroVoice_Name_29010	Florence Battle Incapable 2
+HeroVoice_Name_29011	Florence Battle Incapable 3
+HeroVoice_Name_29012	Florence Team Formation 1
+HeroVoice_Name_29013	Florence Team Formation 2
+HeroVoice_Name_29014	Florence Team Formation 3
+HeroVoice_Name_29015	Florence Active A 1
+HeroVoice_Name_29016	Florence Active A 2
+HeroVoice_Name_29017	Florence Active A 3
+HeroVoice_Name_29018	Florence Active B 1
+HeroVoice_Name_29019	Florence Active B 2
+HeroVoice_Name_29020	Florence Active B 3
+HeroVoice_Name_29300	Florence Robbie Normal 1
+HeroVoice_Name_29301	Florence Robbie Normal 2
+HeroVoice_Name_29302	Florence Robbie Normal 3
+HeroVoice_Name_29303	Florence Robbie Touch 1
+HeroVoice_Name_29304	Florence Robbie Touch 2
+HeroVoice_Name_29305	Florence Robbie Touch 3
+HeroVoice_Name_29306	Florence Birthday Lobby Touch 1
+HeroVoice_Name_29307	Florence Birthday Lobby Touch 2
+HeroVoice_Name_29308	Florence Birthday Lobby Touch 3
+HeroVoice_Name_29600	Florence First Acquired
+HeroVoice_Name_29601	Florence 4-star achievement
+HeroVoice_Name_29602	Florence 5-star achievement
+HeroVoice_Name_29603	Florence Experience Potion Use 1
+HeroVoice_Name_29604	Florence Experience Potion Use 2
+HeroVoice_Name_29605	Florence Experience Potion Use 3
+HeroVoice_Name_29606	Florence Intimacy Level Up 1
+HeroVoice_Name_29607	Florence Intimacy Level Up 2
+HeroVoice_Name_29608	Florence Intimacy Level Up 3
+HeroVoice_Name_29609	Florence Affinity Item Gift 1
+HeroVoice_Name_29610	Florence Affinity Item Gift 2
+HeroVoice_Name_29611	Florence Affinity Item Gift 3
+HeroVoice_Name_30000	Vera Battle Sortie 1
+HeroVoice_Name_30001	Vera Battle Sortie 2
+HeroVoice_Name_30002	Vera Battle Sortie 3
+HeroVoice_Name_30003	Vera wins 1
+HeroVoice_Name_30004	Vera wins 2
+HeroVoice_Name_30005	Vera wins 3
+HeroVoice_Name_30006	Vera Fail 1
+HeroVoice_Name_30007	Vera Fail 2
+HeroVoice_Name_30008	Vera Fail 3
+HeroVoice_Name_30009	Vera incapacitated 1
+HeroVoice_Name_30010	Vera incapacitated 2
+HeroVoice_Name_30011	Vera incapacitated 3
+HeroVoice_Name_30012	Vera Team Formation 1
+HeroVoice_Name_30013	Vera Team Formation 2
+HeroVoice_Name_30014	Vera Team Formation 3
+HeroVoice_Name_30015	Vera Active A 1
+HeroVoice_Name_30016	Vera Active A 2
+HeroVoice_Name_30017	Vera Active A 3
+HeroVoice_Name_30018	Vera Active B 1
+HeroVoice_Name_30019	Vera Active B 2
+HeroVoice_Name_30020	Vera Active B 3
+HeroVoice_Name_30300	Vera Robbie Normal 1
+HeroVoice_Name_30301	Vera Robbie Normal 2
+HeroVoice_Name_30302	Vera Robbie Normal 3
+HeroVoice_Name_30303	Vera Robbie Touch 1
+HeroVoice_Name_30304	Vera Robbie Touch 2
+HeroVoice_Name_30305	Vera Robbie Touch 3
+HeroVoice_Name_30306	Vera Birthday Lobby Touch 1
+HeroVoice_Name_30307	Vera Birthday Lobby Touch 2
+HeroVoice_Name_30308	Vera Birthday Lobby Touch 3
+HeroVoice_Name_30600	Vera first acquisition
+HeroVoice_Name_30601	Vera 4-star achievement
+HeroVoice_Name_30602	Vera 5-star achievement
+HeroVoice_Name_30603	Use Vera Experience Potion 1
+HeroVoice_Name_30604	Use Vera Experience Potion 2
+HeroVoice_Name_30605	Use Vera Experience Potion 3
+HeroVoice_Name_30606	Vera Intimacy Level Up 1
+HeroVoice_Name_30607	Vera Intimacy Level Up 2
+HeroVoice_Name_30608	Vera Intimacy Level Up 3
+HeroVoice_Name_30609	Vera Affinity Item Gift 1
+HeroVoice_Name_30610	Vera Affinity Item Gift 2
+HeroVoice_Name_30611	Vera Affinity Item Gift 3
+HeroVoice_Name_31000	Kismet Battle Sortie 1
+HeroVoice_Name_31001	Kismet Battle Sortie 2
+HeroVoice_Name_31002	Kismet Battle Sortie 3
+HeroVoice_Name_31003	Kismet Victory 1
+HeroVoice_Name_31004	Kismet Victory 2
+HeroVoice_Name_31005	Kismet Victory 3
+HeroVoice_Name_31006	Kismet Fail 1
+HeroVoice_Name_31007	Kismet Fail 2
+HeroVoice_Name_31008	Kismet Fail 3
+HeroVoice_Name_31009	Kismet Battle Incapacitated 1
+HeroVoice_Name_31010	Kismet Battle Incapacitated 2
+HeroVoice_Name_31011	Kismet Battle Incapacitated 3
+HeroVoice_Name_31012	Kismet Team Formation 1
+HeroVoice_Name_31013	Kismet Team Formation 2
+HeroVoice_Name_31014	Kismet Team Formation 3
+HeroVoice_Name_31015	Kismet Active A 1
+HeroVoice_Name_31016	Kismet Active A 2
+HeroVoice_Name_31017	Kismet Active A 3
+HeroVoice_Name_31018	Kismet Active B 1
+HeroVoice_Name_31019	Kismet Active B 2
+HeroVoice_Name_31020	Kismet Active B 3
+HeroVoice_Name_31300	Kismet Lobby Normal 1
+HeroVoice_Name_31301	Kismet Lobby Normal 2
+HeroVoice_Name_31302	Kismet Lobby Normal 3
+HeroVoice_Name_31303	Kismet Lobby Touch 1
+HeroVoice_Name_31304	Kismet Lobby Touch 2
+HeroVoice_Name_31305	Kismet Lobby Touch 3
+HeroVoice_Name_31306	Kismet Birthday Lobby Touch 1
+HeroVoice_Name_31307	Kismet Birthday Lobby Touch 2
+HeroVoice_Name_31308	Kismet Birthday Lobby Touch 3
+HeroVoice_Name_31600	First Kismet Acquisition
+HeroVoice_Name_31601	Kismet 4-star achievement
+HeroVoice_Name_31602	Kismet 5-star achievement
+HeroVoice_Name_31603	Use Kismet Experience Potion 1
+HeroVoice_Name_31604	Use Kismet Experience Potion 2
+HeroVoice_Name_31605	Use Kismet Experience Potion 3
+HeroVoice_Name_31606	Kismet Intimacy Level Up 1
+HeroVoice_Name_31607	Kismet Intimacy Level Up 2
+HeroVoice_Name_31608	Kismet Intimacy Level Up 3
+HeroVoice_Name_31609	Kismet Affinity Item Gift 1
+HeroVoice_Name_31610	Kismet Affinity Item Gift 2
+HeroVoice_Name_31611	Kismet Affinity Item Gift 3
+HeroVoice_Name_32000	Witch Cecilia Battle sortie 1
+HeroVoice_Name_32001	Witch Cecilia Battle sortie 2
+HeroVoice_Name_32002	Witch Cecilia Battle sortie 3
+HeroVoice_Name_32003	Witch Cecilia Victory 1
+HeroVoice_Name_32004	Witch Cecilia Victory 2
+HeroVoice_Name_32005	Witch Cecilia Victory 3
+HeroVoice_Name_32006	Witch Cecilia Fail 1
+HeroVoice_Name_32007	Witch Cecilia Fail 2
+HeroVoice_Name_32008	Witch Cecilia Fail 3
+HeroVoice_Name_32009	Witch Cecilia unable to fight 1
+HeroVoice_Name_32010	Witch Cecilia incapacitated 2
+HeroVoice_Name_32011	Witch Cecilia incapacitated 3
+HeroVoice_Name_32012	Witch Cecilia Team Formation 1
+HeroVoice_Name_32013	Witch Cecilia Team Formation 2
+HeroVoice_Name_32014	Witch Cecilia Team Formation 3
+HeroVoice_Name_32015	Witch Cecilia Active A 1
+HeroVoice_Name_32016	Witch Cecilia Active A 2
+HeroVoice_Name_32017	Witch Cecilia Active A 3
+HeroVoice_Name_32018	Witch Cecilia Active B 1
+HeroVoice_Name_32019	Witch Cecilia Active B 2
+HeroVoice_Name_32020	Witch Cecilia Active B 3
+HeroVoice_Name_32300	Witch Cecilia Robbie Normal 1
+HeroVoice_Name_32301	Witch Cecilia Robbie Normal 2
+HeroVoice_Name_32302	Witch Cecilia Robbie Normal 3
+HeroVoice_Name_32303	Witch Cecilia Robbie Touch 1
+HeroVoice_Name_32304	Witch Cecilia Robbie Touch 2
+HeroVoice_Name_32305	Witch Cecilia Robbie Touch 3
+HeroVoice_Name_32306	Witch Cecilia Birthday Lobby Touch 1
+HeroVoice_Name_32307	Witch Cecilia Birthday Lobby Touch 2
+HeroVoice_Name_32308	Witch Cecilia Birthday Lobby Touch 3
+HeroVoice_Name_32600	First Acquisition of Witch Cecilia
+HeroVoice_Name_32601	Witch Cecilia 4-star achievement
+HeroVoice_Name_32602	Witch Cecilia 5-star achievement
+HeroVoice_Name_32603	Witch Cecilia Experience Potion Use 1
+HeroVoice_Name_32604	Witch Cecilia Experience Potion Use 2
+HeroVoice_Name_32605	Witch Cecilia Experience Potion Use 3
+HeroVoice_Name_32606	Witch Cecilia Intimacy Level Up 1
+HeroVoice_Name_32607	Witch Cecilia Intimacy Level Up 2
+HeroVoice_Name_32608	Witch Cecilia Intimacy Level Up 3
+HeroVoice_Name_32609	Witch Cecilia's Affinity Item Gift 1
+HeroVoice_Name_32610	Witch Cecilia's Affinity Item Gift 2
+HeroVoice_Name_32611	Witch Cecilia's Affinity Item Gift 3
+HeroVoice_Name_33000	One day battle sortie 1
+HeroVoice_Name_33001	One Day Battle Sortie 2
+HeroVoice_Name_33002	3 Days of Battle
+HeroVoice_Name_33003	1 day win
+HeroVoice_Name_33004	2 wins a day
+HeroVoice_Name_33005	3 wins a day
+HeroVoice_Name_33006	1 day failure
+HeroVoice_Name_33007	2 failures per day
+HeroVoice_Name_33008	3 failures per day
+HeroVoice_Name_33009	Unable to fight for a day 1
+HeroVoice_Name_33010	Unable to fight for a day 2
+HeroVoice_Name_33011	Unable to fight for 3 days
+HeroVoice_Name_33012	Team formation for the day 1
+HeroVoice_Name_33013	Team formation for the day 2
+HeroVoice_Name_33014	Team formation for the day 3
+HeroVoice_Name_33015	Daily Active A 1
+HeroVoice_Name_33016	Daily Active A 2
+HeroVoice_Name_33017	Daily Active A 3
+HeroVoice_Name_33018	Daily Active B 1
+HeroVoice_Name_33019	Daily Active B 2
+HeroVoice_Name_33020	Daily Active B 3
+HeroVoice_Name_33300	One day lobby normal 1
+HeroVoice_Name_33301	One day lobby normal 2
+HeroVoice_Name_33302	One day lobby normal 3
+HeroVoice_Name_33303	One day lobby touch 1
+HeroVoice_Name_33304	One day lobby touch 2
+HeroVoice_Name_33305	One day lobby touch 3
+HeroVoice_Name_33306	One day birthday lobby touch 1
+HeroVoice_Name_33307	One day birthday lobby touch 2
+HeroVoice_Name_33308	One day birthday lobby touch 3
+HeroVoice_Name_33600	First acquisition of the day
+HeroVoice_Name_33601	Achieve 4 stars in one day
+HeroVoice_Name_33602	Achieve 5 stars in one day
+HeroVoice_Name_33603	Use 1 daily experience potion
+HeroVoice_Name_33604	Use daily experience potion 2
+HeroVoice_Name_33605	Use 3 daily experience potions
+HeroVoice_Name_33606	Daily Intimacy Level Up 1
+HeroVoice_Name_33607	Daily Intimacy Level Up 2
+HeroVoice_Name_33608	Daily Intimacy Level Up 3
+HeroVoice_Name_33609	Daily Favorability Item Gift 1
+HeroVoice_Name_33610	Daily Favorability Item Gift 2
+HeroVoice_Name_33611	Daily Favorability Item Gift 3
+HeroVoice_Name_34000	Kai Battle Sorceress 1
+HeroVoice_Name_34001	Kai Battle Sorceress 2
+HeroVoice_Name_34002	Kai Battle Sorceress 3
+HeroVoice_Name_34003	Kai wins 1
+HeroVoice_Name_34004	Kai wins 2
+HeroVoice_Name_34005	Kai wins 3
+HeroVoice_Name_34006	Kai Fail 1
+HeroVoice_Name_34007	Kai Fail 2
+HeroVoice_Name_34008	Kai Fail 3
+HeroVoice_Name_34009	Kai is incapacitated 1
+HeroVoice_Name_34010	Kai incapacitated 2
+HeroVoice_Name_34011	Kai incapacitated 3
+HeroVoice_Name_34012	Kai Team Formation 1
+HeroVoice_Name_34013	Kai Team Formation 2
+HeroVoice_Name_34014	Kai Team Formation 3
+HeroVoice_Name_34015	Kai Active A 1
+HeroVoice_Name_34016	Kai Active A 2
+HeroVoice_Name_34017	Kai Active A 3
+HeroVoice_Name_34018	Kai Active B 1
+HeroVoice_Name_34019	Kai Active B 2
+HeroVoice_Name_34020	Kai Active B 3
+HeroVoice_Name_34300	Kai Robbie Normal 1
+HeroVoice_Name_34301	Kai Robbie Normal 2
+HeroVoice_Name_34302	Kai Robbie Normal 3
+HeroVoice_Name_34303	Kai Robbie Touch 1
+HeroVoice_Name_34304	Kai Robbie Touch 2
+HeroVoice_Name_34305	Kai Robbie Touch 3
+HeroVoice_Name_34306	Kai Birthday Lobby Touch 1
+HeroVoice_Name_34307	Kai Birthday Lobby Touch 2
+HeroVoice_Name_34308	Kai Birthday Lobby Touch 3
+HeroVoice_Name_34600	Kai First Acquired
+HeroVoice_Name_34601	Kai 4-star achievement
+HeroVoice_Name_34602	Kai 5-star achievement
+HeroVoice_Name_34603	Use Kai Experience Potion 1
+HeroVoice_Name_34604	Use Kai Experience Potion 2
+HeroVoice_Name_34605	Use Kai Experience Potion 3
+HeroVoice_Name_34606	Kai Intimacy Level Up 1
+HeroVoice_Name_34607	Kai Intimacy Level Up 2
+HeroVoice_Name_34608	Kai Intimacy Level Up 3
+HeroVoice_Name_34609	Kai Affinity Item Gift 1
+HeroVoice_Name_34610	Kai Affinity Item Gift 2
+HeroVoice_Name_34611	Kai Affinity Item Gift 3
+HeroVoice_Name_35000	Lucian Battle Sorceress 1
+HeroVoice_Name_35001	Lucian Battle Sorceress 2
+HeroVoice_Name_35002	Lucian Battle Sorceress 3
+HeroVoice_Name_35003	Lucian wins 1
+HeroVoice_Name_35004	Lucian Victory 2
+HeroVoice_Name_35005	Lucian Victory 3
+HeroVoice_Name_35006	Lucian Fail 1
+HeroVoice_Name_35007	Lucian Fail 2
+HeroVoice_Name_35008	Lucian Fail 3
+HeroVoice_Name_35009	Lucian is incapacitated 1
+HeroVoice_Name_35010	Lucian incapacitated 2
+HeroVoice_Name_35011	Lucian incapacitated 3
+HeroVoice_Name_35012	Lucian Team Formation 1
+HeroVoice_Name_35013	Lucian Team Formation 2
+HeroVoice_Name_35014	Lucian Team Formation 3
+HeroVoice_Name_35015	Lucian Active A 1
+HeroVoice_Name_35016	Lucian Active A 2
+HeroVoice_Name_35017	Lucian Active A 3
+HeroVoice_Name_35018	Lucian Active B 1
+HeroVoice_Name_35019	Lucian Active B 2
+HeroVoice_Name_35020	Lucian Active B 3
+HeroVoice_Name_35300	Lucian Robbie Normal 1
+HeroVoice_Name_35301	Lucian Robbie Normal 2
+HeroVoice_Name_35302	Lucian Robbie Normal 3
+HeroVoice_Name_35303	Lucian Robbie Touch 1
+HeroVoice_Name_35304	Lucian Robbie Touch 2
+HeroVoice_Name_35305	Lucian Robbie Touch 3
+HeroVoice_Name_35306	Lucian Birthday Lobby Touch 1
+HeroVoice_Name_35307	Lucian Birthday Lobby Touch 2
+HeroVoice_Name_35308	Lucian Birthday Lobby Touch 3
+HeroVoice_Name_35600	Lucian first acquired
+HeroVoice_Name_35601	Lucian 2-star achievement
+HeroVoice_Name_35602	Lucian 3-star achievement
+HeroVoice_Name_35603	Lucian 4-star achievement
+HeroVoice_Name_35604	Lucian 5-star achievement
+HeroVoice_Name_35605	Use Lucian Experience Potion 1
+HeroVoice_Name_35606	Use Lucian Experience Potion 2
+HeroVoice_Name_35607	Use Lucian Experience Potion 3
+HeroVoice_Name_35608	Lucian Intimacy Level Up 1
+HeroVoice_Name_35609	Lucian Intimacy Level Up 2
+HeroVoice_Name_35610	Lucian Intimacy Level Up 3
+HeroVoice_Name_35611	Lucian Affinity Item Gift 1
+HeroVoice_Name_35612	Lucian Affinity Item Gift 2
+HeroVoice_Name_35613	Lucian Affinity Item Gift 3
+HeroVoice_Name_36000	Leila Battle Sorter 1
+HeroVoice_Name_36001	Leila Battle Sorter 2
+HeroVoice_Name_36002	Leila Battle sortie 3
+HeroVoice_Name_36003	Leila wins 1
+HeroVoice_Name_36004	Leila wins 2
+HeroVoice_Name_36005	Leila wins 3
+HeroVoice_Name_36006	Leila Fail 1
+HeroVoice_Name_36007	Leila Fail 2
+HeroVoice_Name_36008	Leila Fail 3
+HeroVoice_Name_36009	Leila incapacitated 1
+HeroVoice_Name_36010	Leila incapacitated 2
+HeroVoice_Name_36011	Leila incapacitated 3
+HeroVoice_Name_36012	Leila Team Formation 1
+HeroVoice_Name_36013	Leila Team Formation 2
+HeroVoice_Name_36014	Leila Team Formation 3
+HeroVoice_Name_36015	Leila Active A 1
+HeroVoice_Name_36016	Leila Active A 2
+HeroVoice_Name_36017	Leila Active A 3
+HeroVoice_Name_36018	Leila Active B 1
+HeroVoice_Name_36019	Leila Active B 2
+HeroVoice_Name_36020	Leila Active B 3
+HeroVoice_Name_36300	Leila Robbie Normal 1
+HeroVoice_Name_36301	Leila Robbie Normal 2
+HeroVoice_Name_36302	Leila Robbie Normal 3
+HeroVoice_Name_36303	Leila Robbie Touch 1
+HeroVoice_Name_36304	Leila Robbie Touch 2
+HeroVoice_Name_36305	Leila Robbie Touch 3
+HeroVoice_Name_36306	Leila's Birthday Lobby Touch 1
+HeroVoice_Name_36307	Leila's Birthday Lobby Touch 2
+HeroVoice_Name_36308	Leila's Birthday Lobby Touch 3
+HeroVoice_Name_36600	Leila first acquired
+HeroVoice_Name_36601	Reached 2 stars with Leila
+HeroVoice_Name_36602	Reached 3 stars with Leila
+HeroVoice_Name_36603	Reached 4 stars with Leila
+HeroVoice_Name_36604	Reach 5 stars with Leila
+HeroVoice_Name_36605	Use Leila Experience Potion 1
+HeroVoice_Name_36606	Use Leila Experience Potion 2
+HeroVoice_Name_36607	Use Leila Experience Potion 3
+HeroVoice_Name_36608	Leila Intimacy Level Up 1
+HeroVoice_Name_36609	Leila Intimacy Level Up 2
+HeroVoice_Name_36610	Leila Intimacy Level Up 3
+HeroVoice_Name_36611	Leila's Affinity Item Gift 1
+HeroVoice_Name_36612	Leila's Affinity Item Gift 2
+HeroVoice_Name_36613	Leila's Affinity Item Gift 3
+HeroVoice_Name_37000	Maximilian Battle Sorceress 1
+HeroVoice_Name_37001	Maximilian Battle Sorceress 2
+HeroVoice_Name_37002	Maximilian Battle Sorceress 3
+HeroVoice_Name_37003	Maximilian Victory 1
+HeroVoice_Name_37004	Maximilian Victory 2
+HeroVoice_Name_37005	Maximilian Victory 3
+HeroVoice_Name_37006	Maximilian Fail 1
+HeroVoice_Name_37007	Maximilian Fail 2
+HeroVoice_Name_37008	Maximilian Fail 3
+HeroVoice_Name_37009	Maximilian incapacitated 1
+HeroVoice_Name_37010	Maximilian incapacitated 2
+HeroVoice_Name_37011	Maximilian incapacitated 3
+HeroVoice_Name_37012	Maximilian Team Formation 1
+HeroVoice_Name_37013	Maximilian Team Formation 2
+HeroVoice_Name_37014	Maximilian Team Formation 3
+HeroVoice_Name_37015	Maximilian Active A 1
+HeroVoice_Name_37016	Maximilian Active A 2
+HeroVoice_Name_37017	Maximilian Active A 3
+HeroVoice_Name_37018	Maximilian Active B 1
+HeroVoice_Name_37019	Maximilian Active B 2
+HeroVoice_Name_37020	Maximilian Active B 3
+HeroVoice_Name_37300	Maximilian Robbie Normal 1
+HeroVoice_Name_37301	Maximilian Robbie Normal 2
+HeroVoice_Name_37302	Maximilian Robbie Normal 3
+HeroVoice_Name_37303	Maximilian Robbie Touch 1
+HeroVoice_Name_37304	Maximilian Robbie Touch 2
+HeroVoice_Name_37305	Maximilian Robbie Touch 3
+HeroVoice_Name_37306	Maximilian's Birthday Lobby Touch 1
+HeroVoice_Name_37307	Maximilian's Birthday Lobby Touch 2
+HeroVoice_Name_37308	Maximilian's Birthday Lobby Touch 3
+HeroVoice_Name_37600	Maximilian first acquired
+HeroVoice_Name_37601	Maximilian 3-star achievement
+HeroVoice_Name_37602	Maximilian 4-star achievement
+HeroVoice_Name_37603	Maximilian 5-star achievement
+HeroVoice_Name_37604	Maximilian Experience Potion Use 1
+HeroVoice_Name_37605	Maximilian Experience Potion Use 2
+HeroVoice_Name_37606	Maximilian Experience Potion Use 3
+HeroVoice_Name_37607	Maximilian Intimacy Level Up 1
+HeroVoice_Name_37608	Maximilian Intimacy Level Up 2
+HeroVoice_Name_37609	Maximilian Intimacy Level Up 3
+HeroVoice_Name_37610	Maximilian Affinity Item Gift 1
+HeroVoice_Name_37611	Maximilian Affinity Item Gift 2
+HeroVoice_Name_37612	Maximilian Affinity Item Gift 3
+HeroVoice_Name_38000	Olivier Battle sortie 1
+HeroVoice_Name_38001	Olivier Battle Sorceress 2
+HeroVoice_Name_38002	Olivier Battle sortie 3
+HeroVoice_Name_38003	Olivier wins 1
+HeroVoice_Name_38004	Olivier wins 2
+HeroVoice_Name_38005	Olivier wins 3
+HeroVoice_Name_38006	Olivier Fail 1
+HeroVoice_Name_38007	Olivier Fail 2
+HeroVoice_Name_38008	Olivier Fail 3
+HeroVoice_Name_38009	Olivier incapacitated 1
+HeroVoice_Name_38010	Olivier incapacitated 2
+HeroVoice_Name_38011	Olivier incapacitated 3
+HeroVoice_Name_38012	Olivier Team Formation 1
+HeroVoice_Name_38013	Olivier Team Formation 2
+HeroVoice_Name_38014	Olivier Team Formation 3
+HeroVoice_Name_38015	Olivier Active A 1
+HeroVoice_Name_38016	Olivier Active A 2
+HeroVoice_Name_38017	Olivier Active A 3
+HeroVoice_Name_38018	Olivier Active B 1
+HeroVoice_Name_38019	Olivier Active B 2
+HeroVoice_Name_38020	Olivier Active B 3
+HeroVoice_Name_38300	Olivier Robbie Normal 1
+HeroVoice_Name_38301	Olivier Robbie Normal 2
+HeroVoice_Name_38302	Olivier Robbie Normal 3
+HeroVoice_Name_38303	Olivier Robbie Touch 1
+HeroVoice_Name_38304	Olivier Robbie Touch 2
+HeroVoice_Name_38305	Olivier Robbie Touch 3
+HeroVoice_Name_38306	Olivier Birthday Lobby Touch 1
+HeroVoice_Name_38307	Olivier Birthday Lobby Touch 2
+HeroVoice_Name_38308	Olivier Birthday Lobby Touch 3
+HeroVoice_Name_38600	Olivier First Acquisition
+HeroVoice_Name_38601	Olivier 3-star achievement
+HeroVoice_Name_38602	Olivier 4-star achievement
+HeroVoice_Name_38603	Olivier 5-star achievement
+HeroVoice_Name_38604	Use Olivier Experience Potion 1
+HeroVoice_Name_38605	Use Olivier Experience Potion 2
+HeroVoice_Name_38606	Use Olivier Experience Potion 3
+HeroVoice_Name_38607	Olivier Intimacy Level Up 1
+HeroVoice_Name_38608	Olivier Intimacy Level Up 2
+HeroVoice_Name_38609	Olivier Intimacy Level Up 3
+HeroVoice_Name_38610	Olivier Affinity Item Gift 1
+HeroVoice_Name_38611	Olivier Affinity Item Gift 2
+HeroVoice_Name_38612	Olivier Affinity Item Gift 3
+HeroVoice_Name_39000	Ophelia Battle Sorceress 1
+HeroVoice_Name_39001	Ophelia Battle Sorceress 2
+HeroVoice_Name_39002	Ophelia Battle Sorceress 3
+HeroVoice_Name_39003	Ophelia Victory 1
+HeroVoice_Name_39004	Ophelia Victory 2
+HeroVoice_Name_39005	Ophelia Victory 3
+HeroVoice_Name_39006	Ophelia Fail 1
+HeroVoice_Name_39007	Ophelia Fail 2
+HeroVoice_Name_39008	Ophelia Fail 3
+HeroVoice_Name_39009	Ophelia incapacitated 1
+HeroVoice_Name_39010	Ophelia incapacitated 2
+HeroVoice_Name_39011	Ophelia incapacitated 3
+HeroVoice_Name_39012	Ophelia Team Formation 1
+HeroVoice_Name_39013	Ophelia Team Formation 2
+HeroVoice_Name_39014	Ophelia Team Formation 3
+HeroVoice_Name_39015	Ophelia Active A 1
+HeroVoice_Name_39016	Ophelia Active A 2
+HeroVoice_Name_39017	Ophelia Active A 3
+HeroVoice_Name_39018	Ophelia Active B 1
+HeroVoice_Name_39019	Ophelia Active B 2
+HeroVoice_Name_39020	Ophelia Active B 3
+HeroVoice_Name_39300	Ophelia Robbie Normal 1
+HeroVoice_Name_39301	Ophelia Robbie Normal 2
+HeroVoice_Name_39302	Ophelia Robbie Normal 3
+HeroVoice_Name_39303	Ophelia Robbie Touch 1
+HeroVoice_Name_39304	Ophelia Robbie Touch 2
+HeroVoice_Name_39305	Ophelia Robbie Touch 3
+HeroVoice_Name_39306	Ophelia's Birthday Lobby Touch 1
+HeroVoice_Name_39307	Ophelia's Birthday Lobby Touch 2
+HeroVoice_Name_39308	Ophelia's Birthday Lobby Touch 3
+HeroVoice_Name_39600	Ophelia first acquired
+HeroVoice_Name_39601	Ophelia 3-star achievement
+HeroVoice_Name_39602	Ophelia 4-star achievement
+HeroVoice_Name_39603	Ophelia 5-star achievement
+HeroVoice_Name_39604	Use Ophelia Experience Potion 1
+HeroVoice_Name_39605	Use Ophelia Experience Potion 2
+HeroVoice_Name_39606	Use Ophelia Experience Potion 3
+HeroVoice_Name_39607	Ophelia Intimacy Level Up 1
+HeroVoice_Name_39608	Ophelia Intimacy Level Up 2
+HeroVoice_Name_39609	Ophelia Intimacy Level Up 3
+HeroVoice_Name_39610	Ophelia's Affinity Item Gift 1
+HeroVoice_Name_39611	Ophelia's Affinity Item Gift 2
+HeroVoice_Name_39612	Ophelia's Affinity Item Gift 3
+HeroVoice_Name_40000	Anastasia Battle sortie 1
+HeroVoice_Name_40001	Anastasia Battle sortie 2
+HeroVoice_Name_40002	Anastasia Battle sortie 3
+HeroVoice_Name_40003	Anastasia wins 1
+HeroVoice_Name_40004	Anastasia wins 2
+HeroVoice_Name_40005	Anastasia wins 3
+HeroVoice_Name_40006	Anastasia Fail 1
+HeroVoice_Name_40007	Anastasia Fail 2
+HeroVoice_Name_40008	Anastasia Fail 3
+HeroVoice_Name_40009	Anastasia incapacitated 1
+HeroVoice_Name_40010	Anastasia incapacitated 2
+HeroVoice_Name_40011	Anastasia incapacitated 3
+HeroVoice_Name_40012	Anastasia Team Formation 1
+HeroVoice_Name_40013	Anastasia Team Formation 2
+HeroVoice_Name_40014	Anastasia Team Formation 3
+HeroVoice_Name_40015	Anastasia Active A 1
+HeroVoice_Name_40016	Anastasia Active A 2
+HeroVoice_Name_40017	Anastasia Active A 3
+HeroVoice_Name_40018	Anastasia Active B 1
+HeroVoice_Name_40019	Anastasia Active B 2
+HeroVoice_Name_40020	Anastasia Active B 3
+HeroVoice_Name_40300	Anastasia Robbie Normal 1
+HeroVoice_Name_40301	Anastasia Robbie Normal 2
+HeroVoice_Name_40302	Anastasia Robbie Normal 3
+HeroVoice_Name_40303	Anastasia Robbie Touch 1
+HeroVoice_Name_40304	Anastasia Robbie Touch 2
+HeroVoice_Name_40305	Anastasia Robbie Touch 3
+HeroVoice_Name_40306	Anastasia Birthday Lobby Touch 1
+HeroVoice_Name_40307	Anastasia Birthday Lobby Touch 2
+HeroVoice_Name_40308	Anastasia Birthday Lobby Touch 3
+HeroVoice_Name_40600	Anastasia first acquired
+HeroVoice_Name_40601	Anastasia 2-star achievement
+HeroVoice_Name_40602	Anastasia 3-star achievement
+HeroVoice_Name_40603	Anastasia 4-star achievement
+HeroVoice_Name_40604	Anastasia 5-star achievement
+HeroVoice_Name_40605	Anastasia Experience Potion Use 1
+HeroVoice_Name_40606	Anastasia Experience Potion Use 2
+HeroVoice_Name_40607	Anastasia Experience Potion Use 3
+HeroVoice_Name_40608	Anastasia Intimacy Level Up 1
+HeroVoice_Name_40609	Anastasia Intimacy Level Up 2
+HeroVoice_Name_40610	Anastasia Intimacy Level Up 3
+HeroVoice_Name_40611	Anastasia Affinity Item Gift 1
+HeroVoice_Name_40612	Anastasia Affinity Item Gift 2
+HeroVoice_Name_40613	Anastasia Affinity Item Gift 3
+HeroVoice_Name_41000	Peach Crush Battle Sortie 1
+HeroVoice_Name_41001	Peach Crush Battle Sortie 2
+HeroVoice_Name_41002	Peach Crush Battle Sortie 3
+HeroVoice_Name_41003	Peach Crush Win 1
+HeroVoice_Name_41004	Peach Crush Win 2
+HeroVoice_Name_41005	Peach Crush Win 3
+HeroVoice_Name_41006	Peach Crush Failed 1
+HeroVoice_Name_41007	Peach Crush Failed 2
+HeroVoice_Name_41008	Peach Crush Failed 3
+HeroVoice_Name_41009	Peach Crush Battle Incapacitated 1
+HeroVoice_Name_41010	Peach Crush Battle Incapacitated 2
+HeroVoice_Name_41011	Peach Crush Battle Incapacitated 3
+HeroVoice_Name_41012	Peach Crush Team Formation 1
+HeroVoice_Name_41013	Peach Crush Team Formation 2
+HeroVoice_Name_41014	Peach Crush Team Formation 3
+HeroVoice_Name_41015	Peach Crush Active A 1
+HeroVoice_Name_41016	Peach Crush Active A 2
+HeroVoice_Name_41017	Peach Crush Active A 3
+HeroVoice_Name_41018	Peach Crush Active B 1
+HeroVoice_Name_41019	Peach Crush Active B 2
+HeroVoice_Name_41020	Peach Crush Active B 3
+HeroVoice_Name_41300	Peach Crush Lobby Normal 1
+HeroVoice_Name_41301	Peach Crush Lobby Normal 2
+HeroVoice_Name_41302	Peach Crush Lobby Normal 3
+HeroVoice_Name_41303	Peach Crush Lobby Touch 1
+HeroVoice_Name_41304	Peach Crush Lobby Touch 2
+HeroVoice_Name_41305	Peach Crush Lobby Touch 3
+HeroVoice_Name_41306	Peach Crush Birthday Lobby Touch 1
+HeroVoice_Name_41307	Peach Crush Birthday Lobby Touch 2
+HeroVoice_Name_41308	Peach Crush Birthday Lobby Touch 3
+HeroVoice_Name_41600	Acquire Peach Crush for the first time
+HeroVoice_Name_41601	Peach Crush 4-star achievement
+HeroVoice_Name_41602	Peach Crush 5-star achievement
+HeroVoice_Name_41603	Use Peach Crush Experience Potion 1
+HeroVoice_Name_41604	Use Peach Crush Experience Potion 2
+HeroVoice_Name_41605	Use Peach Crush Experience Potion 3
+HeroVoice_Name_41606	Peach Crush Intimacy Level Up 1
+HeroVoice_Name_41607	Peach Crush Intimacy Level Up 2
+HeroVoice_Name_41608	Peach Crush Intimacy Level Up 3
+HeroVoice_Name_41609	Peach Crush Affinity Item Gift 1
+HeroVoice_Name_41610	Peach Crush Affinity Item Gift 2
+HeroVoice_Name_41611	Peach Crush Affinity Item Gift 3
+HeroVoice_Name_42000	Jargal Battle Sortie 1
+HeroVoice_Name_42001	Jargal Battle Sortie 2
+HeroVoice_Name_42002	Jargal Battle Sortie 3
+HeroVoice_Name_42003	Jargal Victory 1
+HeroVoice_Name_42004	Jargal Victory 2
+HeroVoice_Name_42005	Jargal Victory 3
+HeroVoice_Name_42006	Jargal Fail 1
+HeroVoice_Name_42007	Jargal Fail 2
+HeroVoice_Name_42008	Jargal Fail 3
+HeroVoice_Name_42009	Jargal battle incapacitated 1
+HeroVoice_Name_42010	Jargal battle incapacitated 2
+HeroVoice_Name_42011	Jargal battle incapacitated 3
+HeroVoice_Name_42012	Jargal Team Formation 1
+HeroVoice_Name_42013	Jargal Team Formation 2
+HeroVoice_Name_42014	Jargal Team Formation 3
+HeroVoice_Name_42015	Jargal Active A 1
+HeroVoice_Name_42016	Jargal Active A 2
+HeroVoice_Name_42017	Jargal Active A 3
+HeroVoice_Name_42018	Jargal Active B 1
+HeroVoice_Name_42019	Jargal Active B 2
+HeroVoice_Name_42020	Jargal Active B 3
+HeroVoice_Name_42300	Jargal Lobby Normal 1
+HeroVoice_Name_42301	Jargal Lobby Normal 2
+HeroVoice_Name_42302	Jargal Lobby Normal 3
+HeroVoice_Name_42303	Jargal Lobby Touch 1
+HeroVoice_Name_42304	Jargal Lobby Touch 2
+HeroVoice_Name_42305	Jargal Lobby Touch 3
+HeroVoice_Name_42306	Jargal Birthday Lobby Touch 1
+HeroVoice_Name_42307	Jargal Birthday Lobby Touch 2
+HeroVoice_Name_42308	Jargal Birthday Lobby Touch 3
+HeroVoice_Name_42600	First acquisition of Jargal
+HeroVoice_Name_42601	Achieve 3-star status with Jargal
+HeroVoice_Name_42602	Achieved 4 stars of Jargal
+HeroVoice_Name_42603	Achieved 5-star Jargal
+HeroVoice_Name_42604	Use Jargal Experience Potion 1
+HeroVoice_Name_42605	Use Jargal Experience Potion 2
+HeroVoice_Name_42606	Use Jargal Experience Potion 3
+HeroVoice_Name_42607	Jargal Intimacy Level Up 1
+HeroVoice_Name_42608	Jargal Intimacy Level Up 2
+HeroVoice_Name_42609	Jargal Intimacy Level Up 3
+HeroVoice_Name_42610	Jargal Affinity Item Gift 1
+HeroVoice_Name_42611	Jargal Affinity Item Gift 2
+HeroVoice_Name_42612	Jargal Affinity Item Gift 3
+HeroVoice_Name_43000	Nyx Battle Sortie 1
+HeroVoice_Name_43001	Nyx Battle Sortie 2
+HeroVoice_Name_43002	Nyx Battle Sortie 3
+HeroVoice_Name_43003	Nicks wins 1
+HeroVoice_Name_43004	Nicks wins 2
+HeroVoice_Name_43005	Nix wins 3
+HeroVoice_Name_43006	Nicks Fail 1
+HeroVoice_Name_43007	Nicks Fail 2
+HeroVoice_Name_43008	Nicks Fail 3
+HeroVoice_Name_43009	Nix is incapacitated 1
+HeroVoice_Name_43010	Nix incapacitated 2
+HeroVoice_Name_43011	Nyx incapacitated 3
+HeroVoice_Name_43012	Nicks Team Formation 1
+HeroVoice_Name_43013	Nicks Team Formation 2
+HeroVoice_Name_43014	Nicks Team Formation 3
+HeroVoice_Name_43015	Nix Active A 1
+HeroVoice_Name_43016	Nix Active A 2
+HeroVoice_Name_43017	Nix Active A 3
+HeroVoice_Name_43018	Nix Active B 1
+HeroVoice_Name_43019	Nix Active B 2
+HeroVoice_Name_43020	Nix Active B 3
+HeroVoice_Name_43300	Nicks Lobby Normal 1
+HeroVoice_Name_43301	Nyx Lobby Normal 2
+HeroVoice_Name_43302	Nyx Lobby Normal 3
+HeroVoice_Name_43303	Nicks Lobby Touch 1
+HeroVoice_Name_43304	Nicks Lobby Touch 2
+HeroVoice_Name_43305	Nicks Lobby Touch 3
+HeroVoice_Name_43306	Nick's Birthday Lobby Touch 1
+HeroVoice_Name_43307	Nick's Birthday Lobby Touch 2
+HeroVoice_Name_43308	Nick's Birthday Lobby Touch 3
+HeroVoice_Name_43600	Nix first acquisition
+HeroVoice_Name_43601	Nix 4-star achievement
+HeroVoice_Name_43602	Nix 5-star achievement
+HeroVoice_Name_43603	Use Nyx Experience Potion 1
+HeroVoice_Name_43604	Use Nyx Experience Potion 2
+HeroVoice_Name_43605	Use Nyx Experience Potion 3
+HeroVoice_Name_43606	Nyx Intimacy Level Up 1
+HeroVoice_Name_43607	Nyx Intimacy Level Up 2
+HeroVoice_Name_43608	Nyx Intimacy Level Up 3
+HeroVoice_Name_43609	Nix Affinity Item Gift 1
+HeroVoice_Name_43610	Nix Affinity Item Gift 2
+HeroVoice_Name_43611	Nix Affinity Item Gift 3
+HeroVoice_Name_44000	Saya Battle sortie 1
+HeroVoice_Name_44001	Saya Battle sortie 2
+HeroVoice_Name_44002	Saya Battle sortie 3
+HeroVoice_Name_44003	Saya Victory 1
+HeroVoice_Name_44004	Saya Victory 2
+HeroVoice_Name_44005	Saya Victory 3
+HeroVoice_Name_44006	Saya failed 1
+HeroVoice_Name_44007	Saya failed 2
+HeroVoice_Name_44008	Saya Failed 3
+HeroVoice_Name_44009	Saya is unable to fight 1
+HeroVoice_Name_44010	Saya is unable to fight 2
+HeroVoice_Name_44011	Saya is incapacitated 3
+HeroVoice_Name_44012	Saya Team Formation 1
+HeroVoice_Name_44013	Saya Team Formation 2
+HeroVoice_Name_44014	Saya Team Formation 3
+HeroVoice_Name_44015	Saya Active A 1
+HeroVoice_Name_44016	Saya Active A 2
+HeroVoice_Name_44017	Saya Active A 3
+HeroVoice_Name_44018	Saya Active B 1
+HeroVoice_Name_44019	Saya Active B 2
+HeroVoice_Name_44020	Saya Active B 3
+HeroVoice_Name_44300	Saya Lobby Normal 1
+HeroVoice_Name_44301	Saya Robbie Normal 2
+HeroVoice_Name_44302	Saya Robbie Normal 3
+HeroVoice_Name_44303	Saya Lobby Touch 1
+HeroVoice_Name_44304	Saya Lobby Touch 2
+HeroVoice_Name_44305	Saya Lobby Touch 3
+HeroVoice_Name_44306	Saya Birthday Lobby Touch 1
+HeroVoice_Name_44307	Saya Birthday Lobby Touch 2
+HeroVoice_Name_44308	Saya Birthday Lobby Touch 3
+HeroVoice_Name_44600	First Acquisition of Saya
+HeroVoice_Name_44601	Saya achieved 4 stars
+HeroVoice_Name_44602	Saya achieved 5 stars
+HeroVoice_Name_44603	Use Saya Experience Potion 1
+HeroVoice_Name_44604	Use Saya Experience Potion 2
+HeroVoice_Name_44605	Use Saya Experience Potion 3
+HeroVoice_Name_44606	Saya Intimacy Level Up 1
+HeroVoice_Name_44607	Saya Intimacy Level Up 2
+HeroVoice_Name_44608	Saya Intimacy Level Up 3
+HeroVoice_Name_44609	Saya Affinity Item Gift 1
+HeroVoice_Name_44610	Saya Affinity Item Gift 2
+HeroVoice_Name_44611	Saya Affinity Item Gift 3
+HeroVoice_Name_45000	Sea Battle Sortie 1
+HeroVoice_Name_45001	Sea Battle Sortie 2
+HeroVoice_Name_45002	Sea Battle Sortie 3
+HeroVoice_Name_45003	Sea Victory 1
+HeroVoice_Name_45004	Sea Victory 2
+HeroVoice_Name_45005	Sea Victory 3
+HeroVoice_Name_45006	Sea Fail 1
+HeroVoice_Name_45007	Sea Fail 2
+HeroVoice_Name_45008	Sea Fail 3
+HeroVoice_Name_45009	Sea battle impossible 1
+HeroVoice_Name_45010	Sea Battle Incapable 2
+HeroVoice_Name_45011	Sea battle incapacitated 3
+HeroVoice_Name_45012	Sea Team Formation 1
+HeroVoice_Name_45013	Sea Team Formation 2
+HeroVoice_Name_45014	Sea Team Formation 3
+HeroVoice_Name_45015	Sea Active A 1
+HeroVoice_Name_45016	Sea Active A 2
+HeroVoice_Name_45017	Sea Active A 3
+HeroVoice_Name_45018	Sea Active B 1
+HeroVoice_Name_45019	Sea Active B 2
+HeroVoice_Name_45020	Sea Active B 3
+HeroVoice_Name_45300	Sea Lobby Normal 1
+HeroVoice_Name_45301	Sea Lobby Normal 2
+HeroVoice_Name_45302	Sea Lobby Normal 3
+HeroVoice_Name_45303	Sea Lobby Touch 1
+HeroVoice_Name_45304	Sea Lobby Touch 2
+HeroVoice_Name_45305	Sea Lobby Touch 3
+HeroVoice_Name_45306	Sea Birthday Lobby Touch 1
+HeroVoice_Name_45307	Sea Birthday Lobby Touch 2
+HeroVoice_Name_45308	Sea Birthday Lobby Touch 3
+HeroVoice_Name_45600	First acquisition of the sea
+HeroVoice_Name_45601	Achieved 4 stars in the sea
+HeroVoice_Name_45602	Achieved 5 stars in the sea
+HeroVoice_Name_45603	Use Sea Experience Potion 1
+HeroVoice_Name_45604	Use Sea Experience Potion 2
+HeroVoice_Name_45605	Use Sea Experience Potion 3
+HeroVoice_Name_45606	Sea Intimacy Level Up 1
+HeroVoice_Name_45607	Sea Intimacy Level Up 2
+HeroVoice_Name_45608	Sea Intimacy Level Up 3
+HeroVoice_Name_45609	Sea Affinity Item Gift 1
+HeroVoice_Name_45610	Sea Affinity Item Gift 2
+HeroVoice_Name_45611	Sea Affinity Item Gift 3
+HeroVoice_Name_46000	Release Battle Sortie 1
+HeroVoice_Name_46001	Release Battle Sortie 2
+HeroVoice_Name_46002	Release Battle Sortie 3
+HeroVoice_Name_46003	Release Victory 1
+HeroVoice_Name_46004	Release Victory 2
+HeroVoice_Name_46005	Release Victory 3
+HeroVoice_Name_46006	Release Failed 1
+HeroVoice_Name_46007	Release Failed 2
+HeroVoice_Name_46008	Release Failed 3
+HeroVoice_Name_46009	Release Battle Incapacitated 1
+HeroVoice_Name_46010	Release Battle Incapacitated 2
+HeroVoice_Name_46011	Release Battle Incapacitated 3
+HeroVoice_Name_46012	Release Team Formation 1
+HeroVoice_Name_46013	Release Team Formation 2
+HeroVoice_Name_46014	Release Team Formation 3
+HeroVoice_Name_46015	Release Active A 1
+HeroVoice_Name_46016	Release Active A 2
+HeroVoice_Name_46017	Release Active A 3
+HeroVoice_Name_46018	Release Active B 1
+HeroVoice_Name_46019	Release Active B 2
+HeroVoice_Name_46020	Release Active B 3
+HeroVoice_Name_46300	Release Lobby General 1
+HeroVoice_Name_46301	Release Lobby General 2
+HeroVoice_Name_46302	Release Lobby General 3
+HeroVoice_Name_46303	Release Lobby Touch 1
+HeroVoice_Name_46304	Release Lobby Touch 2
+HeroVoice_Name_46305	Release Lobby Touch 3
+HeroVoice_Name_46306	Release Birthday Lobby Touch 1
+HeroVoice_Name_46307	Release Birthday Lobby Touch 2
+HeroVoice_Name_46308	Release Birthday Lobby Touch 3
+HeroVoice_Name_46600	Release First Acquisition
+HeroVoice_Name_46601	Release 4-star achievement
+HeroVoice_Name_46602	Release 5-star achievement
+HeroVoice_Name_46603	Release Experience Potion Use 1
+HeroVoice_Name_46604	Release Experience Potion Use 2
+HeroVoice_Name_46605	Release Experience Potion Use 3
+HeroVoice_Name_46606	Release Intimacy Level Up 1
+HeroVoice_Name_46607	Release Intimacy Level Up 2
+HeroVoice_Name_46608	Release Intimacy Level Up 3
+HeroVoice_Name_46609	Release Favorability Item Gift 1
+HeroVoice_Name_46610	Release Favorability Item Gift 2
+HeroVoice_Name_46611	Release Favorability Item Gift 3
+HeroVoice_Name_47000	Ark Polyph Battle Sortie 1
+HeroVoice_Name_47001	Ark Polyph Battle Sortie 2
+HeroVoice_Name_47002	Ark Polyph Battle Sortie 3
+HeroVoice_Name_47003	Arc Forif Victory 1
+HeroVoice_Name_47004	Arc Forif Victory 2
+HeroVoice_Name_47005	Arc Forif Victory 3
+HeroVoice_Name_47006	Arc Forif Failed 1
+HeroVoice_Name_47007	Arc Forif Failed 2
+HeroVoice_Name_47008	Arc Forif Failed 3
+HeroVoice_Name_47009	Arc Polyph Battle Incapable 1
+HeroVoice_Name_47010	Arc Polyph Battle Incapable 2
+HeroVoice_Name_47011	Arc Polyph Battle Incapable 3
+HeroVoice_Name_47012	Arc Forif Team Formation 1
+HeroVoice_Name_47013	Arc Forif Team Formation 2
+HeroVoice_Name_47014	Arc Forif Team Formation 3
+HeroVoice_Name_47015	Arc Polyph Active A 1
+HeroVoice_Name_47016	Arc Polyph Active A 2
+HeroVoice_Name_47017	Arc Polyph Active A 3
+HeroVoice_Name_47018	Arc Polyph Active B 1
+HeroVoice_Name_47019	Arc Forif Active B 2
+HeroVoice_Name_47020	Arc Forif Active B 3
+HeroVoice_Name_47300	Arc Polyph Lobby General 1
+HeroVoice_Name_47301	Arc Polyph Lobby Normal 2
+HeroVoice_Name_47302	Arc Polyph Lobby Normal 3
+HeroVoice_Name_47303	Arc Polyph Lobby Touch 1
+HeroVoice_Name_47304	Arc Forif Lobby Touch 2
+HeroVoice_Name_47305	Arc Polyph Lobby Touch 3
+HeroVoice_Name_47306	Arc Polyph Birthday Lobby Touch 1
+HeroVoice_Name_47307	Arc Forif Birthday Lobby Touch 2
+HeroVoice_Name_47308	Arc Forif Birthday Lobby Touch 3
+HeroVoice_Name_47600	First acquisition of Arc Polyph
+HeroVoice_Name_47601	Achieved 3 stars of Arc Polyph
+HeroVoice_Name_47602	Achieved 4-star Arc Polyph
+HeroVoice_Name_47603	Achieved 5-star Arc Polyph
+HeroVoice_Name_47604	Use Arc Forif Experience Potion 1
+HeroVoice_Name_47605	Use Arc Forif Experience Potion 2
+HeroVoice_Name_47606	Use Arc Forif Experience Potion 3
+HeroVoice_Name_47607	Arc Forif Intimacy Level Up 1
+HeroVoice_Name_47608	Arc Forif Intimacy Level Up 2
+HeroVoice_Name_47609	Arc Forif Intimacy Level Up 3
+HeroVoice_Name_47610	Arc Polyph Affinity Item Gift 1
+HeroVoice_Name_47611	Arc Polyph Affinity Item Gift 2
+HeroVoice_Name_47612	Arc Polyph Affinity Item Gift 3
+HeroVoice_Name_48000	Monica Battle Sorceress 1
+HeroVoice_Name_48001	Monica Battle Sorceress 2
+HeroVoice_Name_48002	Monica Battle Sorceress 3
+HeroVoice_Name_48003	Monica Battle Sorceress 4
+HeroVoice_Name_48004	Monica wins 1
+HeroVoice_Name_48005	Monica wins 2
+HeroVoice_Name_48006	Monica wins 3
+HeroVoice_Name_48007	Monica Fail 1
+HeroVoice_Name_48008	Monica Fail 2
+HeroVoice_Name_48009	Monica Fail 3
+HeroVoice_Name_48010	Monica incapacitated 1
+HeroVoice_Name_48011	Monica incapacitated 2
+HeroVoice_Name_48012	Monica incapacitated 3
+HeroVoice_Name_48013	Monica Team Formation 1
+HeroVoice_Name_48014	Monica Team Formation 2
+HeroVoice_Name_48015	Monica Team Formation 3
+HeroVoice_Name_48016	Monica Active A 1
+HeroVoice_Name_48017	Monica Active A 2
+HeroVoice_Name_48018	Monica Active A 3
+HeroVoice_Name_48019	Monica Active B 1
+HeroVoice_Name_48020	Monica Active B 2
+HeroVoice_Name_48021	Monica Active B 3
+HeroVoice_Name_48300	Monica Robbie Normal 1
+HeroVoice_Name_48301	Monica Robbie Normal 2
+HeroVoice_Name_48302	Monica Robbie Normal 3
+HeroVoice_Name_48303	Monica Robbie Normal 4
+HeroVoice_Name_48304	Monica Robbie Touch 1
+HeroVoice_Name_48305	Monica Robbie Touch 2
+HeroVoice_Name_48306	Monica Robbie Touch 3
+HeroVoice_Name_48307	Monica Robbie Touch 4
+HeroVoice_Name_48308	Monica Birthday Lobby Touch 1
+HeroVoice_Name_48309	Monica Birthday Lobby Touch 2
+HeroVoice_Name_48310	Monica Birthday Lobby Touch 3
+HeroVoice_Name_48311	Monica Birthday Lobby Touch 4
+HeroVoice_Name_48600	Monica first acquired
+HeroVoice_Name_48601	Monica 4-star achievement
+HeroVoice_Name_48602	Monica 5-star achievement
+HeroVoice_Name_48603	Monica Experience Potion Use 1
+HeroVoice_Name_48604	Monica Experience Potion Use 2
+HeroVoice_Name_48605	Monica Experience Potion Use 3
+HeroVoice_Name_48606	Monica Intimacy Level Up 1
+HeroVoice_Name_48607	Monica Intimacy Level Up 2
+HeroVoice_Name_48608	Monica Intimacy Level Up 3
+HeroVoice_Name_48609	Monica Affinity Item Gift 1
+HeroVoice_Name_48610	Monica Affinity Item Gift 2
+HeroVoice_Name_48611	Monica Affinity Item Gift 3
+HeroVoice_Name_49000	Meimei Battle sortie 1
+HeroVoice_Name_49001	Meimei Battle Sortie 2
+HeroVoice_Name_49002	Meimei Battle sortie 3
+HeroVoice_Name_49003	Meimei Battle sortie 4
+HeroVoice_Name_49004	Meimei wins 1
+HeroVoice_Name_49005	Meimei wins 2
+HeroVoice_Name_49006	Meimei wins 3
+HeroVoice_Name_49007	Mei Mei failed 1
+HeroVoice_Name_49008	Mei Mei Fail 2
+HeroVoice_Name_49009	Mei Mei failed 3
+HeroVoice_Name_49010	Meimei is incapacitated 1
+HeroVoice_Name_49011	Meimei is incapacitated 2
+HeroVoice_Name_49012	Meimei incapacitated 3
+HeroVoice_Name_49013	Meimei Team Formation 1
+HeroVoice_Name_49014	Meimei Team Formation 2
+HeroVoice_Name_49015	Meimei Team Formation 3
+HeroVoice_Name_49016	Mei Mei Active A 1
+HeroVoice_Name_49017	Mei Mei Active A 2
+HeroVoice_Name_49018	Mei Mei Active A 3
+HeroVoice_Name_49019	Mei Mei Active B 1
+HeroVoice_Name_49020	Mei Mei Active B 2
+HeroVoice_Name_49021	Mei Mei Active B 3
+HeroVoice_Name_49300	Meimei Lobby Normal 1
+HeroVoice_Name_49301	Meimei Lobby Normal 2
+HeroVoice_Name_49302	Meimei Lobby Normal 3
+HeroVoice_Name_49303	Meimei Lobby Normal 4
+HeroVoice_Name_49304	Meimei Lobby Touch 1
+HeroVoice_Name_49305	Meimei Lobby Touch 2
+HeroVoice_Name_49306	Meimei Lobby Touch 3
+HeroVoice_Name_49307	Meimei Lobby Touch 4
+HeroVoice_Name_49308	Meimei Birthday Lobby Touch 1
+HeroVoice_Name_49309	Meimei Birthday Lobby Touch 2
+HeroVoice_Name_49310	Meimei Birthday Lobby Touch 3
+HeroVoice_Name_49311	Meimei Birthday Lobby Touch 4
+HeroVoice_Name_49600	Meimei first acquired
+HeroVoice_Name_49601	Meimei 4-star achievement
+HeroVoice_Name_49602	Meimei 5-star achievement
+HeroVoice_Name_49603	Meimei Experience Potion Use 1
+HeroVoice_Name_49604	Meimei Experience Potion Use 2
+HeroVoice_Name_49605	Meimei Experience Potion Use 3
+HeroVoice_Name_49606	Meimei Intimacy Level Up 1
+HeroVoice_Name_49607	Meimei Intimacy Level Up 2
+HeroVoice_Name_49608	Meimei Intimacy Level Up 3
+HeroVoice_Name_49609	Meimei Affinity Item Gift 1
+HeroVoice_Name_49610	Meimei Affinity Item Gift 2
+HeroVoice_Name_49611	Meimei Affinity Item Gift 3
+HeroVoice_Name_50000	Harang Battle sortie 1
+HeroVoice_Name_50001	Harang Battle sortie 2
+HeroVoice_Name_50002	Harang Battle sortie 3
+HeroVoice_Name_50003	Harang wins 1
+HeroVoice_Name_50004	Harang wins 2
+HeroVoice_Name_50005	Harang wins 3
+HeroVoice_Name_50006	Harang failed 1
+HeroVoice_Name_50007	Harang failure 2
+HeroVoice_Name_50008	Harang failure 3
+HeroVoice_Name_50009	Harang battle incapacitated 1
+HeroVoice_Name_50010	Harang battle incapacitated 2
+HeroVoice_Name_50011	Harang battle incapacitated 3
+HeroVoice_Name_50012	Harang Team Formation 1
+HeroVoice_Name_50013	Harang Team Formation 2
+HeroVoice_Name_50014	Harang Team Formation 3
+HeroVoice_Name_50015	Harang Active A 1
+HeroVoice_Name_50016	Harang Active A 2
+HeroVoice_Name_50017	Harang Active A 3
+HeroVoice_Name_50018	Harang Active B 1
+HeroVoice_Name_50019	Harang Active B 2
+HeroVoice_Name_50020	Harang Active B 3
+HeroVoice_Name_50300	Harang Lobby General 1
+HeroVoice_Name_50301	Harang Lobby Normal 2
+HeroVoice_Name_50302	Harang Lobby Normal 3
+HeroVoice_Name_50303	Harang Lobby Touch 1
+HeroVoice_Name_50304	Harang Lobby Touch 2
+HeroVoice_Name_50305	Harang Lobby Touch 3
+HeroVoice_Name_50306	Harang Birthday Lobby Touch 1
+HeroVoice_Name_50307	Harang Birthday Lobby Touch 2
+HeroVoice_Name_50308	Harang Birthday Lobby Touch 3
+HeroVoice_Name_50600	Harang first acquisition
+HeroVoice_Name_50601	Harang 4-star achievement
+HeroVoice_Name_50602	Harang 5-star achievement
+HeroVoice_Name_50603	Use Harang Experience Potion 1
+HeroVoice_Name_50604	Use Harang Experience Potion 2
+HeroVoice_Name_50605	Harang Experience Potion Use 3
+HeroVoice_Name_50606	Harang Intimacy Level Up 1
+HeroVoice_Name_50607	Harang Intimacy Level Up 2
+HeroVoice_Name_50608	Harang Intimacy Level Up 3
+HeroVoice_Name_50609	Harang's favorability item gift 1
+HeroVoice_Name_50610	Harang's favorability item gift 2
+HeroVoice_Name_50611	Harang's favorability item gift 3
+HeroVoice_Name_51000	Claude Battle Sorceress 1
+HeroVoice_Name_51001	Claude Battle Sortie 2
+HeroVoice_Name_51002	Claude Battle Sortie 3
+HeroVoice_Name_51003	Claude Victory 1
+HeroVoice_Name_51004	Claude Victory 2
+HeroVoice_Name_51005	Claude Victory 3
+HeroVoice_Name_51006	Claude Fail 1
+HeroVoice_Name_51007	Claude Fail 2
+HeroVoice_Name_51008	Claude Fail 3
+HeroVoice_Name_51009	Claude incapacitated 1
+HeroVoice_Name_51010	Claude incapacitated 2
+HeroVoice_Name_51011	Claude incapacitated 3
+HeroVoice_Name_51012	Claude Team Formation 1
+HeroVoice_Name_51013	Claude Team Formation 2
+HeroVoice_Name_51014	Claude Team Formation 3
+HeroVoice_Name_51015	Claude Active A 1
+HeroVoice_Name_51016	Claude Active A 2
+HeroVoice_Name_51017	Claude Active A 3
+HeroVoice_Name_51018	Claude Active B 1
+HeroVoice_Name_51019	Claude Active B 2
+HeroVoice_Name_51020	Claude Active B 3
+HeroVoice_Name_51300	Claude Robbie Normal 1
+HeroVoice_Name_51301	Claude Robbie Normal 2
+HeroVoice_Name_51302	Claude Robbie Normal 3
+HeroVoice_Name_51303	Claude Robbie Touch 1
+HeroVoice_Name_51304	Claude Robbie Touch 2
+HeroVoice_Name_51305	Claude Robbie Touch 3
+HeroVoice_Name_51306	Claude Birthday Lobby Touch 1
+HeroVoice_Name_51307	Claude Birthday Lobby Touch 2
+HeroVoice_Name_51308	Claude Birthday Lobby Touch 3
+HeroVoice_Name_51600	Claude first acquisition
+HeroVoice_Name_51601	Claude 4-star achievement
+HeroVoice_Name_51602	Claude 5-star achievement
+HeroVoice_Name_51603	Use Claude Experience Potion 1
+HeroVoice_Name_51604	Use Claude Experience Potion 2
+HeroVoice_Name_51605	Use Claude Experience Potion 3
+HeroVoice_Name_51606	Claude Intimacy Level Up 1
+HeroVoice_Name_51607	Claude Intimacy Level Up 2
+HeroVoice_Name_51608	Claude Intimacy Level Up 3
+HeroVoice_Name_51609	Claude Affinity Item Gift 1
+HeroVoice_Name_51610	Claude Affinity Item Gift 2
+HeroVoice_Name_51611	Claude Affinity Item Gift 3
+HeroVoice_Name_52000	Rough Battle Sortie 1
+HeroVoice_Name_52001	Rough Battle Sortie 2
+HeroVoice_Name_52002	Rough Battle Sortie 3
+HeroVoice_Name_52003	Rough Victory 1
+HeroVoice_Name_52004	Rough Victory 2
+HeroVoice_Name_52005	Rough win 3
+HeroVoice_Name_52006	Rough Fail 1
+HeroVoice_Name_52007	Rough Fail 2
+HeroVoice_Name_52008	Rough Fail 3
+HeroVoice_Name_52009	Rough battle incapacitated 1
+HeroVoice_Name_52010	Rough battle incapacitated 2
+HeroVoice_Name_52011	Rough battle incapacitated 3
+HeroVoice_Name_52012	Rough Team Formation 1
+HeroVoice_Name_52013	Rough Team Formation 2
+HeroVoice_Name_52014	Rough Team Formation 3
+HeroVoice_Name_52015	Rough Active A 1
+HeroVoice_Name_52016	Rough Active A 2
+HeroVoice_Name_52017	Rough Active A 3
+HeroVoice_Name_52018	Rough Active B 1
+HeroVoice_Name_52019	Rough Active B 2
+HeroVoice_Name_52020	Rough Active B 3
+HeroVoice_Name_52300	Rough Lobby Normal 1
+HeroVoice_Name_52301	Rough Lobby Normal 2
+HeroVoice_Name_52302	Rough Lobby Normal 3
+HeroVoice_Name_52303	Rough Lobby Touch 1
+HeroVoice_Name_52304	Rough Lobby Touch 2
+HeroVoice_Name_52305	Rough Lobby Touch 3
+HeroVoice_Name_52306	Rough Birthday Lobby Touch 1
+HeroVoice_Name_52307	Rough Birthday Lobby Touch 2
+HeroVoice_Name_52308	Rough Birthday Lobby Touch 3
+HeroVoice_Name_52600	Rough first acquisition
+HeroVoice_Name_52601	Rough 4-star achievement
+HeroVoice_Name_52602	Rough 5-star achievement
+HeroVoice_Name_52603	Use Rough Experience Potion 1
+HeroVoice_Name_52604	Use Rough Experience Potion 2
+HeroVoice_Name_52605	Use Rough Experience Potion 3
+HeroVoice_Name_52606	Rough Intimacy Level Up 1
+HeroVoice_Name_52607	Rough Intimacy Level Up 2
+HeroVoice_Name_52608	Rough Intimacy Level Up 3
+HeroVoice_Name_52609	Rough Favorability Item Gift 1
+HeroVoice_Name_52610	Rough Affinity Item Gift 2
+HeroVoice_Name_52611	Rough Affinity Item Gift 3
+HeroVoice_Name_53000	Cain Battle Sorceress 1
+HeroVoice_Name_53001	Cain Battle Sorceress 2
+HeroVoice_Name_53002	Cain Battle Sorceress 3
+HeroVoice_Name_53003	Cain wins 1
+HeroVoice_Name_53004	Cain Victory 2
+HeroVoice_Name_53005	Cain Victory 3
+HeroVoice_Name_53006	Cain Fail 1
+HeroVoice_Name_53007	Cain Fail 2
+HeroVoice_Name_53008	Cain Fail 3
+HeroVoice_Name_53009	Cain incapacitated 1
+HeroVoice_Name_53010	Cain incapacitated 2
+HeroVoice_Name_53011	Cain incapacitated 3
+HeroVoice_Name_53012	Cain Team Formation 1
+HeroVoice_Name_53013	Cain Team Formation 2
+HeroVoice_Name_53014	Cain Team Formation 3
+HeroVoice_Name_53015	Cain Active A 1
+HeroVoice_Name_53016	Cain Active A 2
+HeroVoice_Name_53017	Cain Active A 3
+HeroVoice_Name_53018	Cain Active B 1
+HeroVoice_Name_53019	Cain Active B 2
+HeroVoice_Name_53020	Cain Active B 3
+HeroVoice_Name_53300	Cain Robbie Normal 1
+HeroVoice_Name_53301	Cain Robbie Normal 2
+HeroVoice_Name_53302	Cain Robbie Normal 3
+HeroVoice_Name_53303	Cain Robbie Touch 1
+HeroVoice_Name_53304	Cain Robbie Touch 2
+HeroVoice_Name_53305	Cain Robbie Touch 3
+HeroVoice_Name_53306	Cain Birthday Lobby Touch 1
+HeroVoice_Name_53307	Cain Birthday Lobby Touch 2
+HeroVoice_Name_53308	Cain Birthday Lobby Touch 3
+HeroVoice_Name_53600	Cain first acquisition
+HeroVoice_Name_53601	Cain 4-star achievement
+HeroVoice_Name_53602	Cain 5-star achievement
+HeroVoice_Name_53603	Use Cain Experience Potion 1
+HeroVoice_Name_53604	Use Cain Experience Potion 2
+HeroVoice_Name_53605	Use Cain Experience Potion 3
+HeroVoice_Name_53606	Cain Intimacy Level Up 1
+HeroVoice_Name_53607	Cain Intimacy Level Up 2
+HeroVoice_Name_53608	Cain Intimacy Level Up 3
+HeroVoice_Name_53609	Cain Affinity Item Gift 1
+HeroVoice_Name_53610	Cain Affinity Item Gift 2
+HeroVoice_Name_53611	Cain Affinity Item Gift 3
+HeroVoice_Name_54000	Miho Battle sortie 1
+HeroVoice_Name_54001	Miho Battle sortie 2
+HeroVoice_Name_54002	Miho Battle sortie 3
+HeroVoice_Name_54003	Miho wins 1
+HeroVoice_Name_54004	Miho wins 2
+HeroVoice_Name_54005	Miho wins 3
+HeroVoice_Name_54006	Miho failed 1
+HeroVoice_Name_54007	Miho failed 2
+HeroVoice_Name_54008	Miho failed 3
+HeroVoice_Name_54009	Miho is unable to fight 1
+HeroVoice_Name_54010	Miho incapacitated 2
+HeroVoice_Name_54011	Miho incapacitated 3
+HeroVoice_Name_54012	Miho Team Formation 1
+HeroVoice_Name_54013	Miho Team Formation 2
+HeroVoice_Name_54014	Miho Team Formation 3
+HeroVoice_Name_54015	Miho Active A 1
+HeroVoice_Name_54016	Miho Active A 2
+HeroVoice_Name_54017	Miho Active A 3
+HeroVoice_Name_54018	Miho Active B 1
+HeroVoice_Name_54019	Miho Active B 2
+HeroVoice_Name_54020	Miho Active B 3
+HeroVoice_Name_54300	Miho Lobby Normal 1
+HeroVoice_Name_54301	Miho Lobby Normal 2
+HeroVoice_Name_54302	Miho Lobby Normal 3
+HeroVoice_Name_54303	Miho Lobby Touch 1
+HeroVoice_Name_54304	Miho Lobby Touch 2
+HeroVoice_Name_54305	Miho Lobby Touch 3
+HeroVoice_Name_54306	Miho's Birthday Lobby Touch 1
+HeroVoice_Name_54307	Miho's Birthday Lobby Touch 2
+HeroVoice_Name_54308	Miho's Birthday Lobby Touch 3
+HeroVoice_Name_54600	Miho first acquired
+HeroVoice_Name_54601	Miho 4-star achievement
+HeroVoice_Name_54602	Miho 5-star achievement
+HeroVoice_Name_54603	Miho Experience Potion Use 1
+HeroVoice_Name_54604	Miho Experience Potion Use 2
+HeroVoice_Name_54605	Miho Experience Potion Use 3
+HeroVoice_Name_54606	Miho Intimacy Level Up 1
+HeroVoice_Name_54607	Miho Intimacy Level Up 2
+HeroVoice_Name_54608	Miho Intimacy Level Up 3
+HeroVoice_Name_54609	Miho's Affinity Item Gift 1
+HeroVoice_Name_54610	Miho's Affinity Item Gift 2
+HeroVoice_Name_54611	Miho's favorability item gift 3
+HeroVoice_Name_55000	Larissa Battle Sorceress 1
+HeroVoice_Name_55001	Larissa Battle Sortie 2
+HeroVoice_Name_55002	Larissa Battle sortie 3
+HeroVoice_Name_55003	Larissa Battle sortie 4
+HeroVoice_Name_55004	Larissa wins 1
+HeroVoice_Name_55005	Larissa wins 2
+HeroVoice_Name_55006	Larissa wins 3
+HeroVoice_Name_55007	Larissa Fail 1
+HeroVoice_Name_55008	Larissa Fail 2
+HeroVoice_Name_55009	Larissa Fail 3
+HeroVoice_Name_55010	Larissa incapacitated 1
+HeroVoice_Name_55011	Larissa incapacitated 2
+HeroVoice_Name_55012	Larissa incapacitated 3
+HeroVoice_Name_55013	Larissa Team Formation 1
+HeroVoice_Name_55014	Larissa Team Formation 2
+HeroVoice_Name_55015	Larissa Team Formation 3
+HeroVoice_Name_55016	Larissa Active A 1
+HeroVoice_Name_55017	Larissa Active A 2
+HeroVoice_Name_55018	Larissa Active A 3
+HeroVoice_Name_55019	Larissa Active B 1
+HeroVoice_Name_55020	Larissa Active B 2
+HeroVoice_Name_55021	Larissa Active B 3
+HeroVoice_Name_55300	Larissa Robbie Normal 1
+HeroVoice_Name_55301	Larissa Robbie Normal 2
+HeroVoice_Name_55302	Larissa Robbie Normal 3
+HeroVoice_Name_55303	Larissa Robbie Normal 4
+HeroVoice_Name_55304	Larissa Robbie Touch 1
+HeroVoice_Name_55305	Larissa Robbie Touch 2
+HeroVoice_Name_55306	Larissa Robbie Touch 3
+HeroVoice_Name_55307	Larissa Robbie Touch 4
+HeroVoice_Name_55308	Larissa Birthday Lobby Touch 1
+HeroVoice_Name_55309	Larissa Birthday Lobby Touch 2
+HeroVoice_Name_55310	Larissa Birthday Lobby Touch 3
+HeroVoice_Name_55311	Larissa Birthday Lobby Touch 4
+HeroVoice_Name_55600	Larissa first acquisition
+HeroVoice_Name_55601	Larissa 4-star achievement
+HeroVoice_Name_55602	Larissa 5-star achievement
+HeroVoice_Name_55603	Use Larissa Experience Potion 1
+HeroVoice_Name_55604	Use Larissa Experience Potion 2
+HeroVoice_Name_55605	Use Larissa Experience Potion 3
+HeroVoice_Name_55606	Larissa Intimacy Level Up 1
+HeroVoice_Name_55607	Larissa Intimacy Level Up 2
+HeroVoice_Name_55608	Larissa Intimacy Level Up 3
+HeroVoice_Name_55609	Larissa Affinity Item Gift 1
+HeroVoice_Name_55610	Larissa Affinity Item Gift 2
+HeroVoice_Name_55611	Larissa Affinity Item Gift 3
+HeroVoice_Name_56000	Amelie Battle Sorceress 1
+HeroVoice_Name_56001	Amelie Battle Sortie 2
+HeroVoice_Name_56002	Amelie Battle Sorceress 3
+HeroVoice_Name_56003	Amelie Battle Sorceress 4
+HeroVoice_Name_56004	Amelie wins 1
+HeroVoice_Name_56005	Amelie wins 2
+HeroVoice_Name_56006	Amelie wins 3
+HeroVoice_Name_56007	Amelie Fail 1
+HeroVoice_Name_56008	Amelie Fail 2
+HeroVoice_Name_56009	Amelie Fail 3
+HeroVoice_Name_56010	Amelie incapacitated 1
+HeroVoice_Name_56011	Amelie incapacitated 2
+HeroVoice_Name_56012	Amelie incapacitated 3
+HeroVoice_Name_56013	Amelie Team Formation 1
+HeroVoice_Name_56014	Amelie Team Formation 2
+HeroVoice_Name_56015	Amelie Team Formation 3
+HeroVoice_Name_56016	Amelie Active A 1
+HeroVoice_Name_56017	Amelie Active A 2
+HeroVoice_Name_56018	Amelie Active A 3
+HeroVoice_Name_56019	Amelie Active B 1
+HeroVoice_Name_56020	Amelie Active B 2
+HeroVoice_Name_56021	Amelie Active B 3
+HeroVoice_Name_56300	Amelie Robbie Normal 1
+HeroVoice_Name_56301	Amelie Robbie Normal 2
+HeroVoice_Name_56302	Amelie Robbie Normal 3
+HeroVoice_Name_56303	Amelie Robbie Normal 4
+HeroVoice_Name_56304	Amelie Robbie Touch 1
+HeroVoice_Name_56305	Amelie Robbie Touch 2
+HeroVoice_Name_56306	Amelie Robbie Touch 3
+HeroVoice_Name_56307	Amelie Robbie Touch 4
+HeroVoice_Name_56308	Amelie Birthday Lobby Touch 1
+HeroVoice_Name_56309	Amelie Birthday Lobby Touch 2
+HeroVoice_Name_56310	Amelie Birthday Lobby Touch 3
+HeroVoice_Name_56311	Amelie Birthday Lobby Touch 4
+HeroVoice_Name_56600	Amelie first acquired
+HeroVoice_Name_56601	Amelie 4 stars achieved
+HeroVoice_Name_56602	Amelie 5-star achievement
+HeroVoice_Name_56603	Use Amelie Experience Potion 1
+HeroVoice_Name_56604	Use Amelie Experience Potion 2
+HeroVoice_Name_56605	Use Amelie Experience Potion 3
+HeroVoice_Name_56606	Amelie Intimacy Level Up 1
+HeroVoice_Name_56607	Amelie Intimacy Level Up 2
+HeroVoice_Name_56608	Amelie Intimacy Level Up 3
+HeroVoice_Name_56609	Amelie's Affinity Item Gift 1
+HeroVoice_Name_56610	Amelie's Affinity Item Gift 2
+HeroVoice_Name_56611	Amelie's Affinity Item Gift 3
+HeroVoice_Name_57000	Yeon-o Battle sortie 1
+HeroVoice_Name_57001	Yeon-o Battle sortie 2
+HeroVoice_Name_57002	Yeon-o Battle sortie 3
+HeroVoice_Name_57003	Yeon-o Seung-ri 1
+HeroVoice_Name_57004	Yeon-o Seung-ri 2
+HeroVoice_Name_57005	Yeon-o Seung-ri 3
+HeroVoice_Name_57006	Yeon-o failed 1
+HeroVoice_Name_57007	Yeon-o failed 2
+HeroVoice_Name_57008	Yeon-o failed 3
+HeroVoice_Name_57009	Yeon-o battle incapacitated 1
+HeroVoice_Name_57010	Yeon-o battle incapacitated 2
+HeroVoice_Name_57011	Yeon-o battle incapacitated 3
+HeroVoice_Name_57012	Yeon-oh Team Formation 1
+HeroVoice_Name_57013	Yeon-oh Team Formation 2
+HeroVoice_Name_57014	Yeon-oh Team Formation 3
+HeroVoice_Name_57015	Yeon-o Active A 1
+HeroVoice_Name_57016	Yeon-o Active A 2
+HeroVoice_Name_57017	Yeon-o Active A 3
+HeroVoice_Name_57018	Yeon-o Active B 1
+HeroVoice_Name_57019	Yeon-oh Active B 2
+HeroVoice_Name_57020	Yeon-o Active B 3
+HeroVoice_Name_57300	Yeon-o Lobby General 1
+HeroVoice_Name_57301	Yeon-o Lobby Normal 2
+HeroVoice_Name_57302	Yeon-o Lobby Normal 3
+HeroVoice_Name_57303	Yeon-o Lobby Normal 4
+HeroVoice_Name_57304	Yeon-o Lobby Touch 1
+HeroVoice_Name_57305	Yeon-o Lobby Touch 2
+HeroVoice_Name_57306	Yeon-o Lobby Touch 3
+HeroVoice_Name_57307	Yeon-o Lobby Touch 4
+HeroVoice_Name_57308	Yeon-oh Birthday Lobby Touch 1
+HeroVoice_Name_57309	Yeon-oh Birthday Lobby Touch 2
+HeroVoice_Name_57310	Yeon-oh Birthday Lobby Touch 3
+HeroVoice_Name_57311	Yeon-oh Birthday Lobby Touch 4
+HeroVoice_Name_57600	First acquisition of Yeon-o
+HeroVoice_Name_57601	Achieved 4 stars in Yeon-o
+HeroVoice_Name_57602	Achieved 5 stars in Yeon-o
+HeroVoice_Name_57603	Use Yeon-o Experience Potion 1
+HeroVoice_Name_57604	Use Yeon-o Experience Potion 2
+HeroVoice_Name_57605	Use Yeon-o Experience Potion 3
+HeroVoice_Name_57606	Yeon-o Intimacy Level Up 1
+HeroVoice_Name_57607	Yeon-o Intimacy Level Up 2
+HeroVoice_Name_57608	Yeon-o Intimacy Level Up 3
+HeroVoice_Name_57609	Yeon-oh Affinity Item Gift 1
+HeroVoice_Name_57610	Yeon-oh's favorability item gift 2
+HeroVoice_Name_57611	Yeon-oh's favorability item gift 3
+HeroVoice_Name_58000	Mikhail Battle Sortie 1
+HeroVoice_Name_58001	Mikhail Battle Sortie 2
+HeroVoice_Name_58002	Mikhail Battle sortie 3
+HeroVoice_Name_58003	Mikhail Victory 1
+HeroVoice_Name_58004	Mikhail Victory 2
+HeroVoice_Name_58005	Mikhail Victory 3
+HeroVoice_Name_58006	Mikhail Fail 1
+HeroVoice_Name_58007	Mikhail Fail 2
+HeroVoice_Name_58008	Mikhail Fail 3
+HeroVoice_Name_58009	Mikhail is incapacitated 1
+HeroVoice_Name_58010	Mikhail is incapacitated 2
+HeroVoice_Name_58012	Mikhail Team Formation 1
+HeroVoice_Name_58013	Mikhail Team Formation 2
+HeroVoice_Name_58014	Mikhail Team Formation 3
+HeroVoice_Name_58015	Mikhail Active A 1
+HeroVoice_Name_58016	Mikhail Active A 2
+HeroVoice_Name_58017	Mikhail Active A 3
+HeroVoice_Name_58018	Mikhail Active B 1
+HeroVoice_Name_58019	Mikhail Active B 2
+HeroVoice_Name_58020	Mikhail Active B 3
+HeroVoice_Name_58300	Mikhail Roby General 1
+HeroVoice_Name_58301	Mikhail Roby Normal 2
+HeroVoice_Name_58302	Mikhail Roby Normal 3
+HeroVoice_Name_58303	Mikhail Roby Normal 4
+HeroVoice_Name_58304	Mikhail Robbie Touch 1
+HeroVoice_Name_58305	Mikhail Robbie Touch 2
+HeroVoice_Name_58306	Mikhail Robbie Touch 3
+HeroVoice_Name_58307	Mikhail Robbie Touch 4
+HeroVoice_Name_58308	Mikhail's Birthday Lobby Touch 1
+HeroVoice_Name_58309	Mikhail's Birthday Lobby Touch 2
+HeroVoice_Name_58310	Mikhail's Birthday Lobby Touch 3
+HeroVoice_Name_58311	Mikhail's Birthday Lobby Touch 4
+HeroVoice_Name_58600	Mikhail first acquired
+HeroVoice_Name_58601	Mikhail 4-star achievement
+HeroVoice_Name_58602	Mikhail 5-star achievement
+HeroVoice_Name_58603	Use Mikhail Experience Potion 1
+HeroVoice_Name_58604	Mikhail Experience Potion Use 2
+HeroVoice_Name_58605	Use Mikhail Experience Potion 3
+HeroVoice_Name_58606	Mikhail Intimacy Level Up 1
+HeroVoice_Name_58607	Mikhail Intimacy Level Up 2
+HeroVoice_Name_58608	Mikhail Intimacy Level Up 3
+HeroVoice_Name_58609	Mikhail's Affinity Item Gift 1
+HeroVoice_Name_58610	Mikhail's Affinity Item Gift 2
+HeroVoice_Name_58611	Mikhail's Affinity Item Gift 3
+HeroVoice_Name_59000	Siho Battle sortie 1
+HeroVoice_Name_59001	Siho Battle sortie 2
+HeroVoice_Name_59002	Siho Battle sortie 3
+HeroVoice_Name_59003	Siho Victory 1
+HeroVoice_Name_59004	Siho Victory 2
+HeroVoice_Name_59005	Siho Victory 3
+HeroVoice_Name_59006	Siho failure 1
+HeroVoice_Name_59007	Siho failure 2
+HeroVoice_Name_59008	Shiho failure 3
+HeroVoice_Name_59009	Siho Battle Incapable 1
+HeroVoice_Name_59010	Siho Battle Incapable 2
+HeroVoice_Name_59011	Siho Battle Incapable 3
+HeroVoice_Name_59012	Siho Team Formation 1
+HeroVoice_Name_59013	Siho Team Formation 2
+HeroVoice_Name_59014	Siho Team Formation 3
+HeroVoice_Name_59015	Siho Active A 1
+HeroVoice_Name_59016	Siho Active A 2
+HeroVoice_Name_59017	Siho Active A 3
+HeroVoice_Name_59018	Siho Active B 1
+HeroVoice_Name_59019	Siho Active B 2
+HeroVoice_Name_59020	Siho Active B 3
+HeroVoice_Name_59300	Siho Lobby General 1
+HeroVoice_Name_59301	Siho Lobby Normal 2
+HeroVoice_Name_59302	Siho Lobby Normal 3
+HeroVoice_Name_59303	Siho Lobby Touch 1
+HeroVoice_Name_59304	Siho Lobby Touch 2
+HeroVoice_Name_59305	Siho Lobby Touch 3
+HeroVoice_Name_59306	Siho Birthday Lobby Touch 1
+HeroVoice_Name_59307	Siho Birthday Lobby Touch 2
+HeroVoice_Name_59308	Siho Birthday Lobby Touch 3
+HeroVoice_Name_59600	First acquisition of the title
+HeroVoice_Name_59601	Achieved 4-star status
+HeroVoice_Name_59602	Achieved 5-star status
+HeroVoice_Name_59603	Use Siho Experience Potion 1
+HeroVoice_Name_59604	Use Siho Experience Potion 2
+HeroVoice_Name_59605	Use Siho Experience Potion 3
+HeroVoice_Name_59606	Siho Intimacy Level Up 1
+HeroVoice_Name_59607	Siho Intimacy Level Up 2
+HeroVoice_Name_59608	Siho Intimacy Level Up 3
+HeroVoice_Name_59609	Siho Affinity Item Gift 1
+HeroVoice_Name_59610	Siho Affinity Item Gift 2
+HeroVoice_Name_59611	Siho Affinity Item Gift 3
+HeroVoice_Name_60000	Saladin Battle Sorceress 1
+HeroVoice_Name_60001	Saladin Battle Sorceress 2
+HeroVoice_Name_60002	Saladin Battle Sorceress 3
+HeroVoice_Name_60003	Saladin Victory 1
+HeroVoice_Name_60004	Saladin Victory 2
+HeroVoice_Name_60005	Saladin Victory 3
+HeroVoice_Name_60006	Saladin Fail 1
+HeroVoice_Name_60007	Saladin Fail 2
+HeroVoice_Name_60008	Saladin Fail 3
+HeroVoice_Name_60009	Saladin incapacitated 1
+HeroVoice_Name_60010	Saladin incapacitated 2
+HeroVoice_Name_60011	Saladin incapacitated 3
+HeroVoice_Name_60012	Saladin Team Formation 1
+HeroVoice_Name_60013	Saladin Team Formation 2
+HeroVoice_Name_60014	Saladin Team Formation 3
+HeroVoice_Name_60015	Saladin Active A 1
+HeroVoice_Name_60016	Saladin Active A 2
+HeroVoice_Name_60017	Saladin Active A 3
+HeroVoice_Name_60018	Saladin Active B 1
+HeroVoice_Name_60019	Saladin Active B 2
+HeroVoice_Name_60020	Saladin Active B 3
+HeroVoice_Name_60300	Saladin Lobby Normal 1
+HeroVoice_Name_60301	Saladin Lobby Normal 2
+HeroVoice_Name_60302	Saladin Lobby Normal 3
+HeroVoice_Name_60303	Saladin Lobby Touch 1
+HeroVoice_Name_60304	Saladin Lobby Touch 2
+HeroVoice_Name_60305	Saladin Lobby Touch 3
+HeroVoice_Name_60306	Saladin Birthday Lobby Touch 1
+HeroVoice_Name_60307	Saladin Birthday Lobby Touch 2
+HeroVoice_Name_60308	Saladin Birthday Lobby Touch 3
+HeroVoice_Name_60600	Saladin First Acquisition
+HeroVoice_Name_60601	Saladin 4-star achievement
+HeroVoice_Name_60602	Saladin 5-star achievement
+HeroVoice_Name_60603	Use Saladin Experience Potion 1
+HeroVoice_Name_60604	Use Saladin Experience Potion 2
+HeroVoice_Name_60605	Use Saladin Experience Potion 3
+HeroVoice_Name_60606	Saladin Intimacy Level Up 1
+HeroVoice_Name_60607	Saladin Intimacy Level Up 2
+HeroVoice_Name_60608	Saladin Intimacy Level Up 3
+HeroVoice_Name_60609	Saladin Affinity Item Gift 1
+HeroVoice_Name_60610	Saladin Affinity Item Gift 2
+HeroVoice_Name_60611	Saladin Affinity Item Gift 3
+HeroVoice_Name_61000	Scheherazade Battle Sortie 1
+HeroVoice_Name_61001	Scheherazade Battle Sortie 2
+HeroVoice_Name_61002	Scheherazade Battle sortie 3
+HeroVoice_Name_61003	Scheherazade wins 1
+HeroVoice_Name_61004	Scheherazade Victory 2
+HeroVoice_Name_61005	Scheherazade Victory 3
+HeroVoice_Name_61006	Scheherazade Fail 1
+HeroVoice_Name_61007	Scheherazade Fail 2
+HeroVoice_Name_61008	Scheherazade Fail 3
+HeroVoice_Name_61009	Scheherazade incapacitated 1
+HeroVoice_Name_61010	Scheherazade incapacitated 2
+HeroVoice_Name_61011	Scheherazade incapacitated 3
+HeroVoice_Name_61012	Scheherazade Team Formation 1
+HeroVoice_Name_61013	Scheherazade Team Formation 2
+HeroVoice_Name_61014	Scheherazade Team Formation 3
+HeroVoice_Name_61015	Scheherazade Active A 1
+HeroVoice_Name_61016	Scheherazade Active A 2
+HeroVoice_Name_61017	Scheherazade Active A 3
+HeroVoice_Name_61018	Scheherazade Active B 1
+HeroVoice_Name_61019	Scheherazade Active B 2
+HeroVoice_Name_61020	Scheherazade Active B 3
+HeroVoice_Name_61300	Scheherazade Lobby Normal 1
+HeroVoice_Name_61301	Scheherazade Lobby Normal 2
+HeroVoice_Name_61302	Scheherazade Lobby Normal 3
+HeroVoice_Name_61303	Scheherazade Lobby Touch 1
+HeroVoice_Name_61304	Scheherazade Lobby Touch 2
+HeroVoice_Name_61305	Scheherazade Lobby Touch 3
+HeroVoice_Name_61306	Scheherazade Birthday Lobby Touch 1
+HeroVoice_Name_61307	Scheherazade Birthday Lobby Touch 2
+HeroVoice_Name_61308	Scheherazade Birthday Lobby Touch 3
+HeroVoice_Name_61600	First acquisition of Scheherazade
+HeroVoice_Name_61601	Scheherazade 4-star achievement
+HeroVoice_Name_61602	Scheherazade 5-star achievement
+HeroVoice_Name_61603	Use Scheherazade Experience Potion 1
+HeroVoice_Name_61604	Use Scheherazade Experience Potion 2
+HeroVoice_Name_61605	Use Scheherazade Experience Potion 3
+HeroVoice_Name_61606	Scheherazade Intimacy Level Up 1
+HeroVoice_Name_61607	Scheherazade Intimacy Level Up 2
+HeroVoice_Name_61608	Scheherazade Intimacy Level Up 3
+HeroVoice_Name_61609	Scheherazade Affinity Item Gift 1
+HeroVoice_Name_61610	Scheherazade Affinity Item Gift 2
+HeroVoice_Name_61611	Scheherazade Affinity Item Gift 3

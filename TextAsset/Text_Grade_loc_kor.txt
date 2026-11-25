@@ -1,0 +1,68 @@
+Grade_Name_0000	초원
+Grade_Name_0001	헬리아
+Grade_Name_0002	루나
+Grade_Name_0003	엘린
+Grade_Name_0004	퀸 하트
+Grade_Name_0005	밍밍
+Grade_Name_0006	앨리스
+Grade_Name_0007	빅보
+Grade_Name_0008	라라
+Grade_Name_0009	엘림스 스마일
+Grade_Name_0010	제인 도우
+Grade_Name_0011	피노키오
+Grade_Name_0012	리나
+Grade_Name_0013	스칼렛
+Grade_Name_0014	그레텔
+Grade_Name_0015	아라모드
+Grade_Name_0016	헨젤
+Grade_Name_0017	체셔
+Grade_Name_0018	플레어
+Grade_Name_0019	브라이어 로즈
+Grade_Name_0020	멜피
+Grade_Name_0021	제페토
+Grade_Name_0022	DnD
+Grade_Name_0023	사샤
+Grade_Name_0024	드로셀마이어
+Grade_Name_0025	세실리아
+Grade_Name_0026	마리
+Grade_Name_0027	디에터
+Grade_Name_0028	아이르
+Grade_Name_0029	플로렌스
+Grade_Name_0030	베라
+Grade_Name_0031	키스멧
+Grade_Name_0032	마녀 세실리아
+Grade_Name_0033	하루
+Grade_Name_0034	카이
+Grade_Name_0035	루시안
+Grade_Name_0036	레일라
+Grade_Name_0037	막시밀리안
+Grade_Name_0038	올리비에
+Grade_Name_0039	오필리아
+Grade_Name_0040	아나스타샤
+Grade_Name_0041	피치 크러시
+Grade_Name_0042	자르갈
+Grade_Name_0043	닉스
+Grade_Name_0044	사야
+Grade_Name_0045	바다
+Grade_Name_0046	릴리스
+Grade_Name_0047	아크 포리프
+Grade_Name_0048	모니카
+Grade_Name_0049	메이메이
+Grade_Name_0050	하랑
+Grade_Name_0051	클로드
+Grade_Name_0052	러프
+Grade_Name_0053	카인
+Grade_Name_0054	미호
+Grade_Name_0055	라리사
+Grade_Name_0056	아멜리
+Grade_Name_0057	연오
+Grade_Name_0058	미하일
+Grade_Name_0059	시호
+Grade_Name_0060	살라딘
+Grade_Name_0061	셰라자드
+Grade_Name_0062	크리스티앙
+Grade_Name_0063	죠안
+Grade_Name_0064	악마 카인
+Grade_Name_0065	소피
+Grade_Name_0066	타브리스
+Grade_Name_0067	티나

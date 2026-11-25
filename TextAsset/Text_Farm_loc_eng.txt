@@ -1,0 +1,90 @@
+Farm_Name_0000	Muddy Ball
+Farm_Name_0001	Cute Capybara
+Farm_Name_0002	Baby Duck
+Farm_Name_0003	Melody
+Farm_Name_0004	Quyom Orinergul
+Farm_Name_0005	Mini Tacos
+Farm_Name_0006	Petit Rabbit Doll
+Farm_Name_0007	Molang Bear
+Farm_Name_0008	Sodanyang
+Farm_Name_0009	Jelly Ghost
+Farm_Name_0010	Sweet Vanilla Bear
+Farm_Name_0011	Heart Seeker Rabbit
+Farm_Name_0012	Seolhyang (permanent pet)
+Farm_Name_0013	Love Love
+Farm_Name_0014	Dongdongi
+Farm_Name_0015	Bone Ball
+Farm_Name_0016	Grape Dangdang
+Farm_Name_0017	Little Fox
+Farm_Name_0018	Petite Betty
+Farm_Name_0019	Swimming Bunny
+Farm_Name_0020	Event Pet A
+Farm_Name_1000	Apple Tree
+Farm_Name_1001	Persimmon Tree
+Farm_Name_1002	Pear Tree
+Farm_Name_1003	Peach Tree
+Farm_Name_1004	Grapevine
+Farm_Name_1005	Plum Tree
+Farm_Name_1006	Night Tree
+Farm_Name_1007	Cherry Tree
+Farm_Name_1008	Banana Tree
+Farm_Name_1009	Palm Tree
+Farm_Name_2000	Blueberry Tree
+Farm_Name_2001	Pomegranate Tree
+Farm_Name_2002	Strawberry
+Farm_Name_2003	Watermelon
+Farm_Name_2004	Melon
+Farm_Name_2005	Sweet Potato
+Farm_Name_2006	Pumpkin
+Farm_Name_2007	Melon
+Farm_Name_2008	Tomato
+Farm_Name_2009	Carrots
+Farm_Name_2010	eggplant
+Farm_Name_2011	Potato
+Farm_Name_2012	Rice
+Farm_Name_2013	Cucumber
+Farm_Description_0000	A dirt-covered ball of a pet. Produces 37500 gold every 12 hours.
+Farm_Description_0001	A cute capybara pet. Produces 15 stamina every 12 hours.
+Farm_Description_0002	Baby Duck Pet. Produces 40000 gold every 12 hours.
+Farm_Description_0003	Melody pet. Produces 20 stamina every 12 hours.
+Farm_Description_0004	This is a Quyom Oriner's Cave pet. It produces 42500 gold every 12 hours.
+Farm_Description_0005	Mini Taco Pet. Produces 25 stamina every 12 hours.
+Farm_Description_0006	Petite Rabbit Doll pet. Produces 45,000 gold every 12 hours.
+Farm_Description_0007	This is a soft bear pet. It produces 30 stamina every 12 hours.
+Farm_Description_0008	This is a Sodanyang pet. It produces 47500 gold every 12 hours.
+Farm_Description_0009	Jelly Ghost Pet. Produces 30 stamina every 12 hours.
+Farm_Description_0010	Sweet Vanilla Bear Pet. Produces 50,000 gold every 12 hours.
+Farm_Description_0011	This is a Heartseeker Rabbit pet. It produces 30 stamina every 12 hours.
+Farm_Description_0012	This is a Seolhyang pet. You can get gold rewards and it is permanent. It produces 52500 gold every 12 hours.
+Farm_Description_0013	This is a Laburabu pet. It produces 30 stamina every 12 hours.
+Farm_Description_0014	Dongdongi is a pet. It produces 55,000 gold every 12 hours.
+Farm_Description_0015	A bone-chilling pet. Produces 30 stamina every 12 hours.
+Farm_Description_0016	This is a Roroa Clear Doll pet. It produces 57500 gold every 12 hours.
+Farm_Description_0017	Little Fox Pet. Produces 30 stamina every 12 hours.
+Farm_Description_0018	Petite Betty pet. Produces 60,000 gold every 12 hours.
+Farm_Description_0019	A swimming stamina pet. Produces 30 stamina every 12 hours.
+Farm_Description_0020	This is event pet A.
+Farm_Description_1000	It's an apple tree.
+Farm_Description_1001	It's a persimmon tree.
+Farm_Description_1002	It's a pear tree
+Farm_Description_1003	It's a peach tree.
+Farm_Description_1004	It's a grapevine
+Farm_Description_1005	It's a plum tree
+Farm_Description_1006	It's a chestnut tree
+Farm_Description_1007	It's a cherry tree.
+Farm_Description_1008	It's a banana tree.
+Farm_Description_1009	It's a palm tree
+Farm_Description_2000	This is a blueberry tree.
+Farm_Description_2001	This is a pomegranate tree.
+Farm_Description_2002	Strawberries.
+Farm_Description_2003	It's a watermelon.
+Farm_Description_2004	This is a melon.
+Farm_Description_2005	Sweet potatoes.
+Farm_Description_2006	It's a pumpkin.
+Farm_Description_2007	This is melon.
+Farm_Description_2008	Tomatoes.
+Farm_Description_2009	It's a carrot.
+Farm_Description_2010	is.
+Farm_Description_2011	Potatoes.
+Farm_Description_2012	It's rice.
+Farm_Description_2013	It's a cucumber.

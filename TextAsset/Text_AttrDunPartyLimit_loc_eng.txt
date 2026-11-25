@@ -1,0 +1,1 @@
+AttrDunPartyLimit_Desc_	(Val1 attribute character formation required: Val2 people) (Val1: Option1, Val2: RequiredCharacter)

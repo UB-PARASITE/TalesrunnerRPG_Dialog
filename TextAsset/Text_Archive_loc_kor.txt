@@ -1,0 +1,150 @@
+Archive_ArchiveName_0101	무 속성
+Archive_ArchiveName_0102	무 속성
+Archive_ArchiveName_0103	무 속성
+Archive_ArchiveName_0104	무 속성
+Archive_ArchiveName_0105	무 속성
+Archive_ArchiveName_0201	불 속성
+Archive_ArchiveName_0202	불 속성
+Archive_ArchiveName_0203	불 속성
+Archive_ArchiveName_0204	불 속성
+Archive_ArchiveName_0205	불 속성
+Archive_ArchiveName_0301	물 속성
+Archive_ArchiveName_0302	물 속성
+Archive_ArchiveName_0303	물 속성
+Archive_ArchiveName_0304	물 속성
+Archive_ArchiveName_0305	물 속성
+Archive_ArchiveName_0401	자연 속성
+Archive_ArchiveName_0402	자연 속성
+Archive_ArchiveName_0403	자연 속성
+Archive_ArchiveName_0404	자연 속성
+Archive_ArchiveName_0405	자연 속성
+Archive_ArchiveName_0501	빛 속성
+Archive_ArchiveName_0502	빛 속성
+Archive_ArchiveName_0503	빛 속성
+Archive_ArchiveName_0504	빛 속성
+Archive_ArchiveName_0505	빛 속성
+Archive_ArchiveName_0601	어둠 속성
+Archive_ArchiveName_0602	어둠 속성
+Archive_ArchiveName_0603	어둠 속성
+Archive_ArchiveName_0604	어둠 속성
+Archive_ArchiveName_0605	어둠 속성
+Archive_ArchiveName_0701	방어형
+Archive_ArchiveName_0702	방어형
+Archive_ArchiveName_0703	방어형
+Archive_ArchiveName_0704	방어형
+Archive_ArchiveName_0705	방어형
+Archive_ArchiveName_0801	공격형
+Archive_ArchiveName_0802	공격형
+Archive_ArchiveName_0803	공격형
+Archive_ArchiveName_0804	공격형
+Archive_ArchiveName_0805	공격형
+Archive_ArchiveName_0901	지원형
+Archive_ArchiveName_0902	지원형
+Archive_ArchiveName_0903	지원형
+Archive_ArchiveName_0904	지원형
+Archive_ArchiveName_0905	지원형
+Archive_ArchiveName_1001	회복형
+Archive_ArchiveName_1002	회복형
+Archive_ArchiveName_1003	회복형
+Archive_ArchiveName_1004	회복형
+Archive_ArchiveName_1005	회복형
+Archive_TabName_0101	공격력
+Archive_TabName_0102	방어력
+Archive_TabName_0103	최대 체력
+Archive_TabName_0104	크리티컬 확률
+Archive_TabName_0105	크리티컬 대미지
+Archive_TabName_0201	공격력
+Archive_TabName_0202	방어력
+Archive_TabName_0203	최대 체력
+Archive_TabName_0204	크리티컬 확률
+Archive_TabName_0205	크리티컬 대미지
+Archive_TabName_0301	공격력
+Archive_TabName_0302	방어력
+Archive_TabName_0303	최대 체력
+Archive_TabName_0304	크리티컬 확률
+Archive_TabName_0305	크리티컬 대미지
+Archive_TabName_0401	공격력
+Archive_TabName_0402	방어력
+Archive_TabName_0403	최대 체력
+Archive_TabName_0404	크리티컬 확률
+Archive_TabName_0405	크리티컬 대미지
+Archive_TabName_0501	공격력
+Archive_TabName_0502	방어력
+Archive_TabName_0503	최대 체력
+Archive_TabName_0504	크리티컬 확률
+Archive_TabName_0505	크리티컬 대미지
+Archive_TabName_0601	공격력
+Archive_TabName_0602	방어력
+Archive_TabName_0603	최대 체력
+Archive_TabName_0604	크리티컬 확률
+Archive_TabName_0605	크리티컬 대미지
+Archive_TabName_0701	공격력
+Archive_TabName_0702	방어력
+Archive_TabName_0703	최대 체력
+Archive_TabName_0704	크리티컬 확률
+Archive_TabName_0705	크리티컬 대미지
+Archive_TabName_0801	공격력
+Archive_TabName_0802	방어력
+Archive_TabName_0803	최대 체력
+Archive_TabName_0804	크리티컬 확률
+Archive_TabName_0805	크리티컬 대미지
+Archive_TabName_0901	공격력
+Archive_TabName_0902	방어력
+Archive_TabName_0903	최대 체력
+Archive_TabName_0904	크리티컬 확률
+Archive_TabName_0905	크리티컬 대미지
+Archive_TabName_1001	공격력
+Archive_TabName_1002	방어력
+Archive_TabName_1003	최대 체력
+Archive_TabName_1004	크리티컬 확률
+Archive_TabName_1005	크리티컬 대미지
+Archive_Desc_0101	무 속성 캐릭터 공격력 {v0.0}% 증가
+Archive_Desc_0102	무 속성 캐릭터 방어력 {v0.0}% 증가
+Archive_Desc_0103	무 속성 캐릭터 최대 체력 {v0.0}% 증가
+Archive_Desc_0104	무 속성 캐릭터 크리티컬 확률 {v0.0}% 증가
+Archive_Desc_0105	무 속성 캐릭터 크리티컬 대미지 {v0.0}% 증가
+Archive_Desc_0201	불 속성 캐릭터 공격력 {v0.0}% 증가
+Archive_Desc_0202	불 속성 캐릭터 방어력 {v0.0}% 증가
+Archive_Desc_0203	불 속성 캐릭터 최대 체력 {v0.0}% 증가
+Archive_Desc_0204	불 속성 캐릭터 크리티컬 확률 {v0.0}% 증가
+Archive_Desc_0205	불 속성 캐릭터 크리티컬 대미지 {v0.0}% 증가
+Archive_Desc_0301	물 속성 캐릭터 공격력 {v0.0}% 증가
+Archive_Desc_0302	물 속성 캐릭터 방어력 {v0.0}% 증가
+Archive_Desc_0303	물 속성 캐릭터 최대 체력 {v0.0}% 증가
+Archive_Desc_0304	물 속성 캐릭터 크리티컬 확률 {v0.0}% 증가
+Archive_Desc_0305	물 속성 캐릭터 크리티컬 대미지 {v0.0}% 증가
+Archive_Desc_0401	자연 속성 공격력 {v0.0}% 증가
+Archive_Desc_0402	자연 속성 방어력 {v0.0}% 증가
+Archive_Desc_0403	자연 속성 최대 체력 {v0.0}% 증가
+Archive_Desc_0404	자연 속성 크리티컬 확률 {v0.0}% 증가
+Archive_Desc_0405	자연 속성 크리티컬 대미지 {v0.0}% 증가
+Archive_Desc_0501	빛 속성 공격력 {v0.0}% 증가
+Archive_Desc_0502	빛 속성 방어력 {v0.0}% 증가
+Archive_Desc_0503	빛 속성 최대 체력 {v0.0}% 증가
+Archive_Desc_0504	빛 속성 크리티컬 확률 {v0.0}% 증가
+Archive_Desc_0505	빛 속성 크리티컬 대미지 {v0.0}% 증가
+Archive_Desc_0601	어둠 속성 공격력 {v0.0}% 증가
+Archive_Desc_0602	어둠 속성 방어력 {v0.0}% 증가
+Archive_Desc_0603	어둠 속성 최대 체력 {v0.0}% 증가
+Archive_Desc_0604	어둠 속성 크리티컬 확률 {v0.0}% 증가
+Archive_Desc_0605	어둠 속성 크리티컬 대미지 {v0.0}% 증가
+Archive_Desc_0701	방어형 공격력 {v0.0}% 증가
+Archive_Desc_0702	방어형 방어력 {v0.0}% 증가
+Archive_Desc_0703	방어형 최대 체력 {v0.0}% 증가
+Archive_Desc_0704	방어형 크리티컬 확률 {v0.0}% 증가
+Archive_Desc_0705	방어형 크리티컬 대미지 {v0.0}% 증가
+Archive_Desc_0801	공격형 공격력 {v0.0}% 증가
+Archive_Desc_0802	공격형 방어력 {v0.0}% 증가
+Archive_Desc_0803	공격형 최대 체력 {v0.0}% 증가
+Archive_Desc_0804	공격형 크리티컬 확률 {v0.0}% 증가
+Archive_Desc_0805	공격형 크리티컬 대미지 {v0.0}% 증가
+Archive_Desc_0901	지원형 공격력 {v0.0}% 증가
+Archive_Desc_0902	지원형 방어력 {v0.0}% 증가
+Archive_Desc_0903	지원형 최대 체력 {v0.0}% 증가
+Archive_Desc_0904	지원형 크리티컬 확률 {v0.0}% 증가
+Archive_Desc_0905	지원형 크리티컬 대미지 {v0.0}% 증가
+Archive_Desc_1001	회복형 공격력 {v0.0}% 증가
+Archive_Desc_1002	회복형 방어력 {v0.0}% 증가
+Archive_Desc_1003	회복형 최대 체력 {v0.0}% 증가
+Archive_Desc_1004	회복형 크리티컬 확률 {v0.0}% 증가
+Archive_Desc_1005	회복형 크리티컬 대미지 {v0.0}% 증가

@@ -1,0 +1,2947 @@
+HeroVoice_Name_0000	초원 전투 출격 1
+HeroVoice_Name_0001	초원 전투 출격 2
+HeroVoice_Name_0002	초원 전투 출격 3
+HeroVoice_Name_0003	초원 승리 1
+HeroVoice_Name_0004	초원 승리 2
+HeroVoice_Name_0005	초원 승리 3
+HeroVoice_Name_0006	초원 실패 1
+HeroVoice_Name_0007	초원 실패 2
+HeroVoice_Name_0008	초원 실패 3
+HeroVoice_Name_0009	초원 전투 불능 1
+HeroVoice_Name_0010	초원 전투 불능 2
+HeroVoice_Name_0011	초원 전투 불능 3
+HeroVoice_Name_0012	초원 팀 편성 1
+HeroVoice_Name_0013	초원 팀 편성 2
+HeroVoice_Name_0014	초원 팀 편성 3
+HeroVoice_Name_0015	초원 액티브 A 1
+HeroVoice_Name_0016	초원 액티브 A 2
+HeroVoice_Name_0017	초원 액티브 A 3
+HeroVoice_Name_0018	초원 액티브 B 1
+HeroVoice_Name_0019	초원 액티브 B 2
+HeroVoice_Name_0020	초원 액티브 B 3
+HeroVoice_Name_0300	초원 로비 일반 1
+HeroVoice_Name_0301	초원 로비 일반 2
+HeroVoice_Name_0302	초원 로비 일반 3
+HeroVoice_Name_0303	초원 로비 터치 1
+HeroVoice_Name_0304	초원 로비 터치 2
+HeroVoice_Name_0305	초원 로비 터치 3
+HeroVoice_Name_0306	초원 생일 로비 터치 1
+HeroVoice_Name_0307	초원 생일 로비 터치 2
+HeroVoice_Name_0308	초원 생일 로비 터치 3
+HeroVoice_Name_0600	초원 최초 획득
+HeroVoice_Name_0601	초원 4성 달성
+HeroVoice_Name_0602	초원 5성 달성
+HeroVoice_Name_0603	초원 경험치 포션 사용 1
+HeroVoice_Name_0604	초원 경험치 포션 사용 2
+HeroVoice_Name_0605	초원 경험치 포션 사용 3
+HeroVoice_Name_0606	초원 친밀도 레벨 업 1
+HeroVoice_Name_0607	초원 친밀도 레벨 업 2
+HeroVoice_Name_0608	초원 친밀도 레벨 업 3
+HeroVoice_Name_0609	초원 호감도 아이템 선물 1
+HeroVoice_Name_0610	초원 호감도 아이템 선물 2
+HeroVoice_Name_0611	초원 호감도 아이템 선물 3
+HeroVoice_Name_1000	헬리아 전투 출격 1
+HeroVoice_Name_1001	헬리아 전투 출격 2
+HeroVoice_Name_1002	헬리아 전투 출격 3
+HeroVoice_Name_1003	헬리아 승리 1
+HeroVoice_Name_1004	헬리아 승리 2
+HeroVoice_Name_1005	헬리아 승리 3
+HeroVoice_Name_1006	헬리아 실패 1
+HeroVoice_Name_1007	헬리아 실패 2
+HeroVoice_Name_1008	헬리아 실패 3
+HeroVoice_Name_1009	헬리아 전투 불능 1
+HeroVoice_Name_1010	헬리아 전투 불능 2
+HeroVoice_Name_1011	헬리아 전투 불능 3
+HeroVoice_Name_1012	헬리아 팀 편성 1
+HeroVoice_Name_1013	헬리아 팀 편성 2
+HeroVoice_Name_1014	헬리아 팀 편성 3
+HeroVoice_Name_1015	헬리아 액티브 A 1
+HeroVoice_Name_1016	헬리아 액티브 A 2
+HeroVoice_Name_1017	헬리아 액티브 A 3
+HeroVoice_Name_1018	헬리아 액티브 B 1
+HeroVoice_Name_1019	헬리아 액티브 B 2
+HeroVoice_Name_1020	헬리아 액티브 B 3
+HeroVoice_Name_1300	헬리아 로비 일반 1
+HeroVoice_Name_1301	헬리아 로비 일반 2
+HeroVoice_Name_1302	헬리아 로비 일반 3
+HeroVoice_Name_1303	헬리아 로비 터치 1
+HeroVoice_Name_1304	헬리아 로비 터치 2
+HeroVoice_Name_1305	헬리아 로비 터치 3
+HeroVoice_Name_1306	헬리아 생일 로비 터치 1
+HeroVoice_Name_1307	헬리아 생일 로비 터치 2
+HeroVoice_Name_1308	헬리아 생일 로비 터치 3
+HeroVoice_Name_1600	헬리아 최초 획득
+HeroVoice_Name_1601	헬리아 3성 달성
+HeroVoice_Name_1602	헬리아 4성 달성
+HeroVoice_Name_1603	헬리아 5성 달성
+HeroVoice_Name_1604	헬리아 경험치 포션 사용 1
+HeroVoice_Name_1605	헬리아 경험치 포션 사용 2
+HeroVoice_Name_1606	헬리아 경험치 포션 사용 3
+HeroVoice_Name_1607	헬리아 친밀도 레벨 업 1
+HeroVoice_Name_1608	헬리아 친밀도 레벨 업 2
+HeroVoice_Name_1609	헬리아 친밀도 레벨 업 3
+HeroVoice_Name_1610	헬리아 호감도 아이템 선물 1
+HeroVoice_Name_1611	헬리아 호감도 아이템 선물 2
+HeroVoice_Name_1612	헬리아 호감도 아이템 선물 3
+HeroVoice_Name_2000	루나 전투 출격 1
+HeroVoice_Name_2001	루나 전투 출격 2
+HeroVoice_Name_2002	루나 전투 출격 3
+HeroVoice_Name_2003	루나 승리 1
+HeroVoice_Name_2004	루나 승리 2
+HeroVoice_Name_2005	루나 승리 3
+HeroVoice_Name_2006	루나 실패 1
+HeroVoice_Name_2007	루나 실패 2
+HeroVoice_Name_2008	루나 실패 3
+HeroVoice_Name_2009	루나 전투 불능 1
+HeroVoice_Name_2010	루나 전투 불능 2
+HeroVoice_Name_2011	루나 전투 불능 3
+HeroVoice_Name_2012	루나 팀 편성 1
+HeroVoice_Name_2013	루나 팀 편성 2
+HeroVoice_Name_2014	루나 팀 편성 3
+HeroVoice_Name_2015	루나 액티브 A 1
+HeroVoice_Name_2016	루나 액티브 A 2
+HeroVoice_Name_2017	루나 액티브 A 3
+HeroVoice_Name_2018	루나 액티브 B 1
+HeroVoice_Name_2019	루나 액티브 B 2
+HeroVoice_Name_2020	루나 액티브 B 3
+HeroVoice_Name_2300	루나 로비 일반 1
+HeroVoice_Name_2301	루나 로비 일반 2
+HeroVoice_Name_2302	루나 로비 일반 3
+HeroVoice_Name_2303	루나 로비 터치 1
+HeroVoice_Name_2304	루나 로비 터치 2
+HeroVoice_Name_2305	루나 로비 터치 3
+HeroVoice_Name_2306	루나 생일 로비 터치 1
+HeroVoice_Name_2307	루나 생일 로비 터치 2
+HeroVoice_Name_2308	루나 생일 로비 터치 3
+HeroVoice_Name_2600	루나 최초 획득
+HeroVoice_Name_2601	루나 3성 달성
+HeroVoice_Name_2602	루나 4성 달성
+HeroVoice_Name_2603	루나 5성 달성
+HeroVoice_Name_2604	루나 경험치 포션 사용 1
+HeroVoice_Name_2605	루나 경험치 포션 사용 2
+HeroVoice_Name_2606	루나 경험치 포션 사용 3
+HeroVoice_Name_2607	루나 친밀도 레벨 업 1
+HeroVoice_Name_2608	루나 친밀도 레벨 업 2
+HeroVoice_Name_2609	루나 친밀도 레벨 업 3
+HeroVoice_Name_2610	루나 호감도 아이템 선물 1
+HeroVoice_Name_2611	루나 호감도 아이템 선물 2
+HeroVoice_Name_2612	루나 호감도 아이템 선물 3
+HeroVoice_Name_3000	엘린 전투 출격 1
+HeroVoice_Name_3001	엘린 전투 출격 2
+HeroVoice_Name_3002	엘린 전투 출격 3
+HeroVoice_Name_3003	엘린 승리 1
+HeroVoice_Name_3004	엘린 승리 2
+HeroVoice_Name_3005	엘린 승리 3
+HeroVoice_Name_3006	엘린 실패 1
+HeroVoice_Name_3007	엘린 실패 2
+HeroVoice_Name_3008	엘린 실패 3
+HeroVoice_Name_3009	엘린 전투 불능 1
+HeroVoice_Name_3010	엘린 전투 불능 2
+HeroVoice_Name_3011	엘린 전투 불능 3
+HeroVoice_Name_3012	엘린 팀 편성 1
+HeroVoice_Name_3013	엘린 팀 편성 2
+HeroVoice_Name_3014	엘린 팀 편성 3
+HeroVoice_Name_3015	엘린 액티브 A 1
+HeroVoice_Name_3016	엘린 액티브 A 2
+HeroVoice_Name_3017	엘린 액티브 A 3
+HeroVoice_Name_3018	엘린 액티브 B 1
+HeroVoice_Name_3019	엘린 액티브 B 2
+HeroVoice_Name_3020	엘린 액티브 B 3
+HeroVoice_Name_3300	엘린 로비 일반 1
+HeroVoice_Name_3301	엘린 로비 일반 2
+HeroVoice_Name_3302	엘린 로비 일반 3
+HeroVoice_Name_3303	엘린 로비 터치 1
+HeroVoice_Name_3304	엘린 로비 터치 2
+HeroVoice_Name_3305	엘린 로비 터치 3
+HeroVoice_Name_3306	엘린 생일 로비 터치 1
+HeroVoice_Name_3307	엘린 생일 로비 터치 2
+HeroVoice_Name_3308	엘린 생일 로비 터치 3
+HeroVoice_Name_3600	엘린 최초 획득
+HeroVoice_Name_3601	엘린 2성 달성
+HeroVoice_Name_3602	엘린 3성 달성
+HeroVoice_Name_3603	엘린 4성 달성
+HeroVoice_Name_3604	엘린 5성 달성
+HeroVoice_Name_3605	엘린 경험치 포션 사용 1
+HeroVoice_Name_3606	엘린 경험치 포션 사용 2
+HeroVoice_Name_3607	엘린 경험치 포션 사용 3
+HeroVoice_Name_3608	엘린 친밀도 레벨 업 1
+HeroVoice_Name_3609	엘린 친밀도 레벨 업 2
+HeroVoice_Name_3610	엘린 친밀도 레벨 업 3
+HeroVoice_Name_3611	엘린 호감도 아이템 선물 1
+HeroVoice_Name_3612	엘린 호감도 아이템 선물 2
+HeroVoice_Name_3613	엘린 호감도 아이템 선물 3
+HeroVoice_Name_4000	퀸 하트 전투 출격 1
+HeroVoice_Name_4001	퀸 하트 전투 출격 2
+HeroVoice_Name_4002	퀸 하트 전투 출격 3
+HeroVoice_Name_4003	퀸 하트 승리 1
+HeroVoice_Name_4004	퀸 하트 승리 2
+HeroVoice_Name_4005	퀸 하트 승리 3
+HeroVoice_Name_4006	퀸 하트 실패 1
+HeroVoice_Name_4007	퀸 하트 실패 2
+HeroVoice_Name_4008	퀸 하트 실패 3
+HeroVoice_Name_4009	퀸 하트 전투 불능 1
+HeroVoice_Name_4010	퀸 하트 전투 불능 2
+HeroVoice_Name_4011	퀸 하트 전투 불능 3
+HeroVoice_Name_4012	퀸 하트 팀 편성 1
+HeroVoice_Name_4013	퀸 하트 팀 편성 2
+HeroVoice_Name_4014	퀸 하트 팀 편성 3
+HeroVoice_Name_4015	퀸 하트 액티브 A 1
+HeroVoice_Name_4016	퀸 하트 액티브 A 2
+HeroVoice_Name_4017	퀸 하트 액티브 A 3
+HeroVoice_Name_4018	퀸 하트 액티브 B 1
+HeroVoice_Name_4019	퀸 하트 액티브 B 2
+HeroVoice_Name_4020	퀸 하트 액티브 B 3
+HeroVoice_Name_4300	퀸 하트 로비 일반 1
+HeroVoice_Name_4301	퀸 하트 로비 일반 2
+HeroVoice_Name_4302	퀸 하트 로비 일반 3
+HeroVoice_Name_4303	퀸 하트 로비 터치 1
+HeroVoice_Name_4304	퀸 하트 로비 터치 2
+HeroVoice_Name_4305	퀸 하트 로비 터치 3
+HeroVoice_Name_4306	퀸 하트 생일 로비 터치 1
+HeroVoice_Name_4307	퀸 하트 생일 로비 터치 2
+HeroVoice_Name_4308	퀸 하트 생일 로비 터치 3
+HeroVoice_Name_4600	퀸 하트 최초 획득
+HeroVoice_Name_4601	퀸 하트 3성 달성
+HeroVoice_Name_4602	퀸 하트 4성 달성
+HeroVoice_Name_4603	퀸 하트 5성 달성
+HeroVoice_Name_4604	퀸 하트 경험치 포션 사용 1
+HeroVoice_Name_4605	퀸 하트 경험치 포션 사용 2
+HeroVoice_Name_4606	퀸 하트 경험치 포션 사용 3
+HeroVoice_Name_4607	퀸 하트 친밀도 레벨 업 1
+HeroVoice_Name_4608	퀸 하트 친밀도 레벨 업 2
+HeroVoice_Name_4609	퀸 하트 친밀도 레벨 업 3
+HeroVoice_Name_4610	퀸 하트 호감도 아이템 선물 1
+HeroVoice_Name_4611	퀸 하트 호감도 아이템 선물 2
+HeroVoice_Name_4612	퀸 하트 호감도 아이템 선물 3
+HeroVoice_Name_5000	밍밍 전투 출격 1
+HeroVoice_Name_5001	밍밍 전투 출격 2
+HeroVoice_Name_5002	밍밍 전투 출격 3
+HeroVoice_Name_5003	밍밍 승리 1
+HeroVoice_Name_5004	밍밍 승리 2
+HeroVoice_Name_5005	밍밍 승리 3
+HeroVoice_Name_5006	밍밍 실패 1
+HeroVoice_Name_5007	밍밍 실패 2
+HeroVoice_Name_5008	밍밍 실패 3
+HeroVoice_Name_5009	밍밍 전투 불능 1
+HeroVoice_Name_5010	밍밍 전투 불능 2
+HeroVoice_Name_5011	밍밍 전투 불능 3
+HeroVoice_Name_5012	밍밍 팀 편성 1
+HeroVoice_Name_5013	밍밍 팀 편성 2
+HeroVoice_Name_5014	밍밍 팀 편성 3
+HeroVoice_Name_5015	밍밍 액티브 A 1
+HeroVoice_Name_5016	밍밍 액티브 A 2
+HeroVoice_Name_5017	밍밍 액티브 A 3
+HeroVoice_Name_5018	밍밍 액티브 B 1
+HeroVoice_Name_5019	밍밍 액티브 B 2
+HeroVoice_Name_5020	밍밍 액티브 B 3
+HeroVoice_Name_5300	밍밍 로비 일반 1
+HeroVoice_Name_5301	밍밍 로비 일반 2
+HeroVoice_Name_5302	밍밍 로비 일반 3
+HeroVoice_Name_5303	밍밍 로비 터치 1
+HeroVoice_Name_5304	밍밍 로비 터치 2
+HeroVoice_Name_5305	밍밍 로비 터치 3
+HeroVoice_Name_5306	밍밍 생일 로비 터치 1
+HeroVoice_Name_5307	밍밍 생일 로비 터치 2
+HeroVoice_Name_5308	밍밍 생일 로비 터치 3
+HeroVoice_Name_5600	밍밍 최초 획득
+HeroVoice_Name_5601	밍밍 4성 달성
+HeroVoice_Name_5602	밍밍 5성 달성
+HeroVoice_Name_5603	밍밍 경험치 포션 사용 1
+HeroVoice_Name_5604	밍밍 경험치 포션 사용 2
+HeroVoice_Name_5605	밍밍 경험치 포션 사용 3
+HeroVoice_Name_5606	밍밍 친밀도 레벨 업 1
+HeroVoice_Name_5607	밍밍 친밀도 레벨 업 2
+HeroVoice_Name_5608	밍밍 친밀도 레벨 업 3
+HeroVoice_Name_5609	밍밍 호감도 아이템 선물 1
+HeroVoice_Name_5610	밍밍 호감도 아이템 선물 2
+HeroVoice_Name_5611	밍밍 호감도 아이템 선물 3
+HeroVoice_Name_6000	앨리스 전투 출격 1
+HeroVoice_Name_6001	앨리스 전투 출격 2
+HeroVoice_Name_6002	앨리스 전투 출격 3
+HeroVoice_Name_6003	앨리스 승리 1
+HeroVoice_Name_6004	앨리스 승리 2
+HeroVoice_Name_6005	앨리스 승리 3
+HeroVoice_Name_6006	앨리스 실패 1
+HeroVoice_Name_6007	앨리스 실패 2
+HeroVoice_Name_6008	앨리스 실패 3
+HeroVoice_Name_6009	앨리스 전투 불능 1
+HeroVoice_Name_6010	앨리스 전투 불능 2
+HeroVoice_Name_6011	앨리스 전투 불능 3
+HeroVoice_Name_6012	앨리스 팀 편성 1
+HeroVoice_Name_6013	앨리스 팀 편성 2
+HeroVoice_Name_6014	앨리스 팀 편성 3
+HeroVoice_Name_6015	앨리스 액티브 A 1
+HeroVoice_Name_6016	앨리스 액티브 A 2
+HeroVoice_Name_6017	앨리스 액티브 A 3
+HeroVoice_Name_6018	앨리스 액티브 B 1
+HeroVoice_Name_6019	앨리스 액티브 B 2
+HeroVoice_Name_6020	앨리스 액티브 B 3
+HeroVoice_Name_6300	앨리스 로비 일반 1
+HeroVoice_Name_6301	앨리스 로비 일반 2
+HeroVoice_Name_6302	앨리스 로비 일반 3
+HeroVoice_Name_6303	앨리스 로비 터치 1
+HeroVoice_Name_6304	앨리스 로비 터치 2
+HeroVoice_Name_6305	앨리스 로비 터치 3
+HeroVoice_Name_6306	앨리스 생일 로비 터치 1
+HeroVoice_Name_6307	앨리스 생일 로비 터치 2
+HeroVoice_Name_6308	앨리스 생일 로비 터치 3
+HeroVoice_Name_6600	앨리스 최초 획득
+HeroVoice_Name_6601	앨리스 4성 달성
+HeroVoice_Name_6602	앨리스 5성 달성
+HeroVoice_Name_6603	앨리스 경험치 포션 사용 1
+HeroVoice_Name_6604	앨리스 경험치 포션 사용 2
+HeroVoice_Name_6605	앨리스 경험치 포션 사용 3
+HeroVoice_Name_6606	앨리스 친밀도 레벨 업 1
+HeroVoice_Name_6607	앨리스 친밀도 레벨 업 2
+HeroVoice_Name_6608	앨리스 친밀도 레벨 업 3
+HeroVoice_Name_6609	앨리스 호감도 아이템 선물 1
+HeroVoice_Name_6610	앨리스 호감도 아이템 선물 2
+HeroVoice_Name_6611	앨리스 호감도 아이템 선물 3
+HeroVoice_Name_7000	빅보 전투 출격 1
+HeroVoice_Name_7001	빅보 전투 출격 2
+HeroVoice_Name_7002	빅보 전투 출격 3
+HeroVoice_Name_7003	빅보 승리 1
+HeroVoice_Name_7004	빅보 승리 2
+HeroVoice_Name_7005	빅보 승리 3
+HeroVoice_Name_7006	빅보 실패 1
+HeroVoice_Name_7007	빅보 실패 2
+HeroVoice_Name_7008	빅보 실패 3
+HeroVoice_Name_7009	빅보 전투 불능 1
+HeroVoice_Name_7010	빅보 전투 불능 2
+HeroVoice_Name_7011	빅보 전투 불능 3
+HeroVoice_Name_7012	빅보 팀 편성 1
+HeroVoice_Name_7013	빅보 팀 편성 2
+HeroVoice_Name_7014	빅보 팀 편성 3
+HeroVoice_Name_7015	빅보 액티브 A 1
+HeroVoice_Name_7016	빅보 액티브 A 2
+HeroVoice_Name_7017	빅보 액티브 A 3
+HeroVoice_Name_7018	빅보 액티브 B 1
+HeroVoice_Name_7019	빅보 액티브 B 2
+HeroVoice_Name_7020	빅보 액티브 B 3
+HeroVoice_Name_7300	빅보 로비 일반 1
+HeroVoice_Name_7301	빅보 로비 일반 2
+HeroVoice_Name_7302	빅보 로비 일반 3
+HeroVoice_Name_7303	빅보 로비 터치 1
+HeroVoice_Name_7304	빅보 로비 터치 2
+HeroVoice_Name_7305	빅보 로비 터치 3
+HeroVoice_Name_7306	빅보 생일 로비 터치 1
+HeroVoice_Name_7307	빅보 생일 로비 터치 2
+HeroVoice_Name_7308	빅보 생일 로비 터치 3
+HeroVoice_Name_7600	빅보 최초 획득
+HeroVoice_Name_7601	빅보 3성 달성
+HeroVoice_Name_7602	빅보 4성 달성
+HeroVoice_Name_7603	빅보 5성 달성
+HeroVoice_Name_7604	빅보 경험치 포션 사용 1
+HeroVoice_Name_7605	빅보 경험치 포션 사용 2
+HeroVoice_Name_7606	빅보 경험치 포션 사용 3
+HeroVoice_Name_7607	빅보 친밀도 레벨 업 1
+HeroVoice_Name_7608	빅보 친밀도 레벨 업 2
+HeroVoice_Name_7609	빅보 친밀도 레벨 업 3
+HeroVoice_Name_7610	빅보 호감도 아이템 선물 1
+HeroVoice_Name_7611	빅보 호감도 아이템 선물 2
+HeroVoice_Name_7612	빅보 호감도 아이템 선물 3
+HeroVoice_Name_8000	라라 전투 출격 1
+HeroVoice_Name_8001	라라 전투 출격 2
+HeroVoice_Name_8002	라라 전투 출격 3
+HeroVoice_Name_8003	라라 승리 1
+HeroVoice_Name_8004	라라 승리 2
+HeroVoice_Name_8005	라라 승리 3
+HeroVoice_Name_8006	라라 실패 1
+HeroVoice_Name_8007	라라 실패 2
+HeroVoice_Name_8008	라라 실패 3
+HeroVoice_Name_8009	라라 전투 불능 1
+HeroVoice_Name_8010	라라 전투 불능 2
+HeroVoice_Name_8011	라라 전투 불능 3
+HeroVoice_Name_8012	라라 팀 편성 1
+HeroVoice_Name_8013	라라 팀 편성 2
+HeroVoice_Name_8014	라라 팀 편성 3
+HeroVoice_Name_8015	라라 액티브 A 1
+HeroVoice_Name_8016	라라 액티브 A 2
+HeroVoice_Name_8017	라라 액티브 A 3
+HeroVoice_Name_8018	라라 액티브 B 1
+HeroVoice_Name_8019	라라 액티브 B 2
+HeroVoice_Name_8020	라라 액티브 B 3
+HeroVoice_Name_8300	라라 로비 일반 1
+HeroVoice_Name_8301	라라 로비 일반 2
+HeroVoice_Name_8302	라라 로비 일반 3
+HeroVoice_Name_8303	라라 로비 터치 1
+HeroVoice_Name_8304	라라 로비 터치 2
+HeroVoice_Name_8305	라라 로비 터치 3
+HeroVoice_Name_8306	라라 생일 로비 터치 1
+HeroVoice_Name_8307	라라 생일 로비 터치 2
+HeroVoice_Name_8308	라라 생일 로비 터치 3
+HeroVoice_Name_8600	라라 최초 획득
+HeroVoice_Name_8601	라라 4성 달성
+HeroVoice_Name_8602	라라 5성 달성
+HeroVoice_Name_8603	라라 경험치 포션 사용 1
+HeroVoice_Name_8604	라라 경험치 포션 사용 2
+HeroVoice_Name_8605	라라 경험치 포션 사용 3
+HeroVoice_Name_8606	라라 친밀도 레벨 업 1
+HeroVoice_Name_8607	라라 친밀도 레벨 업 2
+HeroVoice_Name_8608	라라 친밀도 레벨 업 3
+HeroVoice_Name_8609	라라 호감도 아이템 선물 1
+HeroVoice_Name_8610	라라 호감도 아이템 선물 2
+HeroVoice_Name_8611	라라 호감도 아이템 선물 3
+HeroVoice_Name_9000	엘림스 스마일 전투 출격 1
+HeroVoice_Name_9001	엘림스 스마일 전투 출격 2
+HeroVoice_Name_9002	엘림스 스마일 전투 출격 3
+HeroVoice_Name_9003	엘림스 스마일 승리 1
+HeroVoice_Name_9004	엘림스 스마일 승리 2
+HeroVoice_Name_9005	엘림스 스마일 승리 3
+HeroVoice_Name_9006	엘림스 스마일 실패 1
+HeroVoice_Name_9007	엘림스 스마일 실패 2
+HeroVoice_Name_9008	엘림스 스마일 실패 3
+HeroVoice_Name_9009	엘림스 스마일 전투 불능 1
+HeroVoice_Name_9010	엘림스 스마일 전투 불능 2
+HeroVoice_Name_9011	엘림스 스마일 전투 불능 3
+HeroVoice_Name_9012	엘림스 스마일 팀 편성 1
+HeroVoice_Name_9013	엘림스 스마일 팀 편성 2
+HeroVoice_Name_9014	엘림스 스마일 팀 편성 3
+HeroVoice_Name_9015	엘림스 스마일 액티브 A 1
+HeroVoice_Name_9016	엘림스 스마일 액티브 A 2
+HeroVoice_Name_9017	엘림스 스마일 액티브 A 3
+HeroVoice_Name_9018	엘림스 스마일 액티브 B 1
+HeroVoice_Name_9019	엘림스 스마일 액티브 B 2
+HeroVoice_Name_9020	엘림스 스마일 액티브 B 3
+HeroVoice_Name_9300	엘림스 스마일 로비 일반 1
+HeroVoice_Name_9301	엘림스 스마일 로비 일반 2
+HeroVoice_Name_9302	엘림스 스마일 로비 일반 3
+HeroVoice_Name_9303	엘림스 스마일 로비 터치 1
+HeroVoice_Name_9304	엘림스 스마일 로비 터치 2
+HeroVoice_Name_9305	엘림스 스마일 로비 터치 3
+HeroVoice_Name_9306	엘림스 스마일 생일 로비 터치 1
+HeroVoice_Name_9307	엘림스 스마일 생일 로비 터치 2
+HeroVoice_Name_9308	엘림스 스마일 생일 로비 터치 3
+HeroVoice_Name_9600	엘림스 스마일 최초 획득
+HeroVoice_Name_9601	엘림스 스마일 4성 달성
+HeroVoice_Name_9602	엘림스 스마일 5성 달성
+HeroVoice_Name_9603	엘림스 스마일 경험치 포션 사용 1
+HeroVoice_Name_9604	엘림스 스마일 경험치 포션 사용 2
+HeroVoice_Name_9605	엘림스 스마일 경험치 포션 사용 3
+HeroVoice_Name_9606	엘림스 스마일 친밀도 레벨 업 1
+HeroVoice_Name_9607	엘림스 스마일 친밀도 레벨 업 2
+HeroVoice_Name_9608	엘림스 스마일 친밀도 레벨 업 3
+HeroVoice_Name_9609	엘림스 스마일 호감도 아이템 선물 1
+HeroVoice_Name_9610	엘림스 스마일 호감도 아이템 선물 2
+HeroVoice_Name_9611	엘림스 스마일 호감도 아이템 선물 3
+HeroVoice_Name_10000	제인도우 전투 출격 1
+HeroVoice_Name_10001	제인도우 전투 출격 2
+HeroVoice_Name_10002	제인도우 전투 출격 3
+HeroVoice_Name_10003	제인도우 승리 1
+HeroVoice_Name_10004	제인도우 승리 2
+HeroVoice_Name_10005	제인도우 승리 3
+HeroVoice_Name_10006	제인도우 실패 1
+HeroVoice_Name_10007	제인도우 실패 2
+HeroVoice_Name_10008	제인도우 실패 3
+HeroVoice_Name_10009	제인도우 실패 4
+HeroVoice_Name_10010	제인도우 실패 5
+HeroVoice_Name_10011	제인도우 전투 불능 1
+HeroVoice_Name_10012	제인도우 전투 불능 2
+HeroVoice_Name_10013	제인도우 전투 불능 3
+HeroVoice_Name_10014	제인도우 전투 불능 4
+HeroVoice_Name_10015	제인도우 전투 불능 5
+HeroVoice_Name_10016	제인도우 팀 편성 1
+HeroVoice_Name_10017	제인도우 팀 편성 2
+HeroVoice_Name_10018	제인도우 팀 편성 3
+HeroVoice_Name_10019	제인도우 팀 편성 4
+HeroVoice_Name_10020	제인도우 액티브 A 1
+HeroVoice_Name_10021	제인도우 액티브 A 2
+HeroVoice_Name_10022	제인도우 액티브 A 3
+HeroVoice_Name_10023	제인도우 액티브 B 1
+HeroVoice_Name_10024	제인도우 액티브 B 2
+HeroVoice_Name_10025	제인도우 액티브 B 3
+HeroVoice_Name_10300	제인도우 로비 일반 1
+HeroVoice_Name_10301	제인도우 로비 일반 2
+HeroVoice_Name_10302	제인도우 로비 일반 3
+HeroVoice_Name_10303	제인도우 로비 일반 4
+HeroVoice_Name_10304	제인도우 로비 일반 5
+HeroVoice_Name_10305	제인도우 로비 터치 1
+HeroVoice_Name_10306	제인도우 로비 터치 2
+HeroVoice_Name_10307	제인도우 로비 터치 3
+HeroVoice_Name_10308	제인도우 로비 터치 4
+HeroVoice_Name_10309	제인도우 생일 로비 터치 1
+HeroVoice_Name_10310	제인도우 생일 로비 터치 2
+HeroVoice_Name_10311	제인도우 생일 로비 터치 3
+HeroVoice_Name_10312	제인도우 생일 로비 터치 4
+HeroVoice_Name_10600	제인도우 최초 획득
+HeroVoice_Name_10601	제인도우 3성 달성
+HeroVoice_Name_10602	제인도우 4성 달성
+HeroVoice_Name_10603	제인도우 5성 달성
+HeroVoice_Name_10604	제인도우 경험치 포션 사용 1
+HeroVoice_Name_10605	제인도우 경험치 포션 사용 2
+HeroVoice_Name_10606	제인도우 경험치 포션 사용 3
+HeroVoice_Name_10607	제인도우 경험치 포션 사용 4
+HeroVoice_Name_10608	제인도우 친밀도 레벨 업 1
+HeroVoice_Name_10609	제인도우 친밀도 레벨 업 2
+HeroVoice_Name_10610	제인도우 친밀도 레벨 업 3
+HeroVoice_Name_10611	제인도우 친밀도 레벨 업 4
+HeroVoice_Name_10612	제인도우 호감도 아이템 선물 1
+HeroVoice_Name_10613	제인도우 호감도 아이템 선물 2
+HeroVoice_Name_10614	제인도우 호감도 아이템 선물 3
+HeroVoice_Name_10615	제인도우 호감도 아이템 선물 4
+HeroVoice_Name_10616	제인도우 호감도 아이템 선물 5
+HeroVoice_Name_11000	피노키오 전투 출격 1
+HeroVoice_Name_11001	피노키오 전투 출격 2
+HeroVoice_Name_11002	피노키오 전투 출격 3
+HeroVoice_Name_11003	피노키오 승리 1
+HeroVoice_Name_11004	피노키오 승리 2
+HeroVoice_Name_11005	피노키오 승리 3
+HeroVoice_Name_11006	피노키오 실패 1
+HeroVoice_Name_11007	피노키오 실패 2
+HeroVoice_Name_11008	피노키오 실패 3
+HeroVoice_Name_11009	피노키오 전투 불능 1
+HeroVoice_Name_11010	피노키오 전투 불능 2
+HeroVoice_Name_11011	피노키오 전투 불능 3
+HeroVoice_Name_11012	피노키오 팀 편성 1
+HeroVoice_Name_11013	피노키오 팀 편성 2
+HeroVoice_Name_11014	피노키오 팀 편성 3
+HeroVoice_Name_11015	피노키오 액티브 A 1
+HeroVoice_Name_11016	피노키오 액티브 A 2
+HeroVoice_Name_11017	피노키오 액티브 A 3
+HeroVoice_Name_11018	피노키오 액티브 B 1
+HeroVoice_Name_11019	피노키오 액티브 B 2
+HeroVoice_Name_11020	피노키오 액티브 B 3
+HeroVoice_Name_11300	피노키오 로비 일반 1
+HeroVoice_Name_11301	피노키오 로비 일반 2
+HeroVoice_Name_11302	피노키오 로비 일반 3
+HeroVoice_Name_11303	피노키오 로비 터치 1
+HeroVoice_Name_11304	피노키오 로비 터치 2
+HeroVoice_Name_11305	피노키오 로비 터치 3
+HeroVoice_Name_11306	피노키오 생일 로비 터치 1
+HeroVoice_Name_11307	피노키오 생일 로비 터치 2
+HeroVoice_Name_11308	피노키오 생일 로비 터치 3
+HeroVoice_Name_11600	피노키오 최초 획득
+HeroVoice_Name_11601	피노키오 3성 달성
+HeroVoice_Name_11602	피노키오 4성 달성
+HeroVoice_Name_11603	피노키오 5성 달성
+HeroVoice_Name_11604	피노키오 경험치 포션 사용 1
+HeroVoice_Name_11605	피노키오 경험치 포션 사용 2
+HeroVoice_Name_11606	피노키오 경험치 포션 사용 3
+HeroVoice_Name_11607	피노키오 친밀도 레벨 업 1
+HeroVoice_Name_11608	피노키오 친밀도 레벨 업 2
+HeroVoice_Name_11609	피노키오 친밀도 레벨 업 3
+HeroVoice_Name_11610	피노키오 호감도 아이템 선물 1
+HeroVoice_Name_11611	피노키오 호감도 아이템 선물 2
+HeroVoice_Name_11612	피노키오 호감도 아이템 선물 3
+HeroVoice_Name_12000	리나 전투 출격 1
+HeroVoice_Name_12001	리나 전투 출격 2
+HeroVoice_Name_12002	리나 전투 출격 3
+HeroVoice_Name_12003	리나 승리 1
+HeroVoice_Name_12004	리나 승리 2
+HeroVoice_Name_12005	리나 승리 3
+HeroVoice_Name_12006	리나 실패 1
+HeroVoice_Name_12007	리나 실패 2
+HeroVoice_Name_12008	리나 실패 3
+HeroVoice_Name_12009	리나 전투 불능 1
+HeroVoice_Name_12010	리나 전투 불능 2
+HeroVoice_Name_12011	리나 전투 불능 3
+HeroVoice_Name_12012	리나 팀 편성 1
+HeroVoice_Name_12013	리나 팀 편성 2
+HeroVoice_Name_12014	리나 팀 편성 3
+HeroVoice_Name_12015	리나 액티브 A 1
+HeroVoice_Name_12016	리나 액티브 A 2
+HeroVoice_Name_12017	리나 액티브 A 3
+HeroVoice_Name_12018	리나 액티브 B 1
+HeroVoice_Name_12019	리나 액티브 B 2
+HeroVoice_Name_12020	리나 액티브 B 3
+HeroVoice_Name_12300	리나 로비 일반 1
+HeroVoice_Name_12301	리나 로비 일반 2
+HeroVoice_Name_12302	리나 로비 일반 3
+HeroVoice_Name_12303	리나 로비 터치 1
+HeroVoice_Name_12304	리나 로비 터치 2
+HeroVoice_Name_12305	리나 로비 터치 3
+HeroVoice_Name_12306	리나 생일 로비 터치 1
+HeroVoice_Name_12307	리나 생일 로비 터치 2
+HeroVoice_Name_12308	리나 생일 로비 터치 3
+HeroVoice_Name_12600	리나 최초 획득
+HeroVoice_Name_12601	리나 2성 달성
+HeroVoice_Name_12602	리나 3성 달성
+HeroVoice_Name_12603	리나 4성 달성
+HeroVoice_Name_12604	리나 5성 달성
+HeroVoice_Name_12605	리나 경험치 포션 사용 1
+HeroVoice_Name_12606	리나 경험치 포션 사용 2
+HeroVoice_Name_12607	리나 경험치 포션 사용 3
+HeroVoice_Name_12608	리나 친밀도 레벨 업 1
+HeroVoice_Name_12609	리나 친밀도 레벨 업 2
+HeroVoice_Name_12610	리나 친밀도 레벨 업 3
+HeroVoice_Name_12611	리나 호감도 아이템 선물 1
+HeroVoice_Name_12612	리나 호감도 아이템 선물 2
+HeroVoice_Name_12613	리나 호감도 아이템 선물 3
+HeroVoice_Name_13000	스칼렛 전투 출격 1
+HeroVoice_Name_13001	스칼렛 전투 출격 2
+HeroVoice_Name_13002	스칼렛 전투 출격 3
+HeroVoice_Name_13003	스칼렛 승리 1
+HeroVoice_Name_13004	스칼렛 승리 2
+HeroVoice_Name_13005	스칼렛 승리 3
+HeroVoice_Name_13006	스칼렛 실패 1
+HeroVoice_Name_13007	스칼렛 실패 2
+HeroVoice_Name_13008	스칼렛 실패 3
+HeroVoice_Name_13009	스칼렛 전투 불능 1
+HeroVoice_Name_13010	스칼렛 전투 불능 2
+HeroVoice_Name_13011	스칼렛 전투 불능 3
+HeroVoice_Name_13012	스칼렛 팀 편성 1
+HeroVoice_Name_13013	스칼렛 팀 편성 2
+HeroVoice_Name_13014	스칼렛 팀 편성 3
+HeroVoice_Name_13015	스칼렛 액티브 A 1
+HeroVoice_Name_13016	스칼렛 액티브 A 2
+HeroVoice_Name_13017	스칼렛 액티브 A 3
+HeroVoice_Name_13018	스칼렛 액티브 B 1
+HeroVoice_Name_13019	스칼렛 액티브 B 2
+HeroVoice_Name_13020	스칼렛 액티브 B 3
+HeroVoice_Name_13300	스칼렛 로비 일반 1
+HeroVoice_Name_13301	스칼렛 로비 일반 2
+HeroVoice_Name_13302	스칼렛 로비 일반 3
+HeroVoice_Name_13303	스칼렛 로비 터치 1
+HeroVoice_Name_13304	스칼렛 로비 터치 2
+HeroVoice_Name_13305	스칼렛 로비 터치 3
+HeroVoice_Name_13306	스칼렛 생일 로비 터치 1
+HeroVoice_Name_13307	스칼렛 생일 로비 터치 2
+HeroVoice_Name_13308	스칼렛 생일 로비 터치 3
+HeroVoice_Name_13600	스칼렛 최초 획득
+HeroVoice_Name_13601	스칼렛 2성 달성
+HeroVoice_Name_13602	스칼렛 3성 달성
+HeroVoice_Name_13603	스칼렛 4성 달성
+HeroVoice_Name_13604	스칼렛 5성 달성
+HeroVoice_Name_13605	스칼렛 경험치 포션 사용 1
+HeroVoice_Name_13606	스칼렛 경험치 포션 사용 2
+HeroVoice_Name_13607	스칼렛 경험치 포션 사용 3
+HeroVoice_Name_13608	스칼렛 친밀도 레벨 업 1
+HeroVoice_Name_13609	스칼렛 친밀도 레벨 업 2
+HeroVoice_Name_13610	스칼렛 친밀도 레벨 업 3
+HeroVoice_Name_13611	스칼렛 호감도 아이템 선물 1
+HeroVoice_Name_13612	스칼렛 호감도 아이템 선물 2
+HeroVoice_Name_13613	스칼렛 호감도 아이템 선물 3
+HeroVoice_Name_14000	그레텔 전투 출격 1
+HeroVoice_Name_14001	그레텔 전투 출격 2
+HeroVoice_Name_14002	그레텔 전투 출격 3
+HeroVoice_Name_14003	그레텔 승리 1
+HeroVoice_Name_14004	그레텔 승리 2
+HeroVoice_Name_14005	그레텔 승리 3
+HeroVoice_Name_14006	그레텔 실패 1
+HeroVoice_Name_14007	그레텔 실패 2
+HeroVoice_Name_14008	그레텔 실패 3
+HeroVoice_Name_14009	그레텔 전투 불능 1
+HeroVoice_Name_14010	그레텔 전투 불능 2
+HeroVoice_Name_14011	그레텔 전투 불능 3
+HeroVoice_Name_14012	그레텔 팀 편성 1
+HeroVoice_Name_14013	그레텔 팀 편성 2
+HeroVoice_Name_14014	그레텔 팀 편성 3
+HeroVoice_Name_14015	그레텔 액티브 A 1
+HeroVoice_Name_14016	그레텔 액티브 A 2
+HeroVoice_Name_14017	그레텔 액티브 A 3
+HeroVoice_Name_14018	그레텔 액티브 B 1
+HeroVoice_Name_14019	그레텔 액티브 B 2
+HeroVoice_Name_14020	그레텔 액티브 B 3
+HeroVoice_Name_14300	그레텔 로비 일반 1
+HeroVoice_Name_14301	그레텔 로비 일반 2
+HeroVoice_Name_14302	그레텔 로비 일반 3
+HeroVoice_Name_14303	그레텔 로비 터치 1
+HeroVoice_Name_14304	그레텔 로비 터치 2
+HeroVoice_Name_14305	그레텔 로비 터치 3
+HeroVoice_Name_14306	그레텔 생일 로비 터치 1
+HeroVoice_Name_14307	그레텔 생일 로비 터치 2
+HeroVoice_Name_14308	그레텔 생일 로비 터치 3
+HeroVoice_Name_14600	그레텔 최초 획득
+HeroVoice_Name_14601	그레텔 2성 달성
+HeroVoice_Name_14602	그레텔 3성 달성
+HeroVoice_Name_14603	그레텔 4성 달성
+HeroVoice_Name_14604	그레텔 5성 달성
+HeroVoice_Name_14605	그레텔 경험치 포션 사용 1
+HeroVoice_Name_14606	그레텔 경험치 포션 사용 2
+HeroVoice_Name_14607	그레텔 경험치 포션 사용 3
+HeroVoice_Name_14608	그레텔 친밀도 레벨 업 1
+HeroVoice_Name_14609	그레텔 친밀도 레벨 업 2
+HeroVoice_Name_14610	그레텔 친밀도 레벨 업 3
+HeroVoice_Name_14611	그레텔 호감도 아이템 선물 1
+HeroVoice_Name_14612	그레텔 호감도 아이템 선물 2
+HeroVoice_Name_14613	그레텔 호감도 아이템 선물 3
+HeroVoice_Name_15000	아라모드 전투 출격 1
+HeroVoice_Name_15001	아라모드 전투 출격 2
+HeroVoice_Name_15002	아라모드 전투 출격 3
+HeroVoice_Name_15003	아라모드 승리 1
+HeroVoice_Name_15004	아라모드 승리 2
+HeroVoice_Name_15005	아라모드 승리 3
+HeroVoice_Name_15006	아라모드 실패 1
+HeroVoice_Name_15007	아라모드 실패 2
+HeroVoice_Name_15008	아라모드 실패 3
+HeroVoice_Name_15009	아라모드 전투 불능 1
+HeroVoice_Name_15010	아라모드 전투 불능 2
+HeroVoice_Name_15011	아라모드 전투 불능 3
+HeroVoice_Name_15012	아라모드 팀 편성 1
+HeroVoice_Name_15013	아라모드 팀 편성 2
+HeroVoice_Name_15014	아라모드 팀 편성 3
+HeroVoice_Name_15015	아라모드 액티브 A 1
+HeroVoice_Name_15016	아라모드 액티브 A 2
+HeroVoice_Name_15017	아라모드 액티브 A 3
+HeroVoice_Name_15018	아라모드 액티브 B 1
+HeroVoice_Name_15019	아라모드 액티브 B 2
+HeroVoice_Name_15020	아라모드 액티브 B 3
+HeroVoice_Name_15300	아라모드 로비 일반 1
+HeroVoice_Name_15301	아라모드 로비 일반 2
+HeroVoice_Name_15302	아라모드 로비 일반 3
+HeroVoice_Name_15303	아라모드 로비 터치 1
+HeroVoice_Name_15304	아라모드 로비 터치 2
+HeroVoice_Name_15305	아라모드 로비 터치 3
+HeroVoice_Name_15306	아라모드 생일 로비 터치 1
+HeroVoice_Name_15307	아라모드 생일 로비 터치 2
+HeroVoice_Name_15308	아라모드 생일 로비 터치 3
+HeroVoice_Name_15600	아라모드 최초 획득
+HeroVoice_Name_15601	아라모드 2성 달성
+HeroVoice_Name_15602	아라모드 3성 달성
+HeroVoice_Name_15603	아라모드 4성 달성
+HeroVoice_Name_15604	아라모드 5성 달성
+HeroVoice_Name_15605	아라모드 경험치 포션 사용 1
+HeroVoice_Name_15606	아라모드 경험치 포션 사용 2
+HeroVoice_Name_15607	아라모드 경험치 포션 사용 3
+HeroVoice_Name_15608	아라모드 친밀도 레벨 업 1
+HeroVoice_Name_15609	아라모드 친밀도 레벨 업 2
+HeroVoice_Name_15610	아라모드 친밀도 레벨 업 3
+HeroVoice_Name_15611	아라모드 호감도 아이템 선물 1
+HeroVoice_Name_15612	아라모드 호감도 아이템 선물 2
+HeroVoice_Name_15613	아라모드 호감도 아이템 선물 3
+HeroVoice_Name_16000	헨젤 전투 출격 1
+HeroVoice_Name_16001	헨젤 전투 출격 2
+HeroVoice_Name_16002	헨젤 전투 출격 3
+HeroVoice_Name_16003	헨젤 승리 1
+HeroVoice_Name_16004	헨젤 승리 2
+HeroVoice_Name_16005	헨젤 승리 3
+HeroVoice_Name_16006	헨젤 실패 1
+HeroVoice_Name_16007	헨젤 실패 2
+HeroVoice_Name_16008	헨젤 실패 3
+HeroVoice_Name_16009	헨젤 전투 불능 1
+HeroVoice_Name_16010	헨젤 전투 불능 2
+HeroVoice_Name_16011	헨젤 전투 불능 3
+HeroVoice_Name_16012	헨젤 팀 편성 1
+HeroVoice_Name_16013	헨젤 팀 편성 2
+HeroVoice_Name_16014	헨젤 팀 편성 3
+HeroVoice_Name_16015	헨젤 액티브 A 1
+HeroVoice_Name_16016	헨젤 액티브 A 2
+HeroVoice_Name_16017	헨젤 액티브 A 3
+HeroVoice_Name_16018	헨젤 액티브 B 1
+HeroVoice_Name_16019	헨젤 액티브 B 2
+HeroVoice_Name_16020	헨젤 액티브 B 3
+HeroVoice_Name_16300	헨젤 로비 일반 1
+HeroVoice_Name_16301	헨젤 로비 일반 2
+HeroVoice_Name_16302	헨젤 로비 일반 3
+HeroVoice_Name_16303	헨젤 로비 터치 1
+HeroVoice_Name_16304	헨젤 로비 터치 2
+HeroVoice_Name_16305	헨젤 로비 터치 3
+HeroVoice_Name_16306	헨젤 생일 로비 터치 1
+HeroVoice_Name_16307	헨젤 생일 로비 터치 2
+HeroVoice_Name_16308	헨젤 생일 로비 터치 3
+HeroVoice_Name_16600	헨젤 최초 획득
+HeroVoice_Name_16601	헨젤 2성 달성
+HeroVoice_Name_16602	헨젤 3성 달성
+HeroVoice_Name_16603	헨젤 4성 달성
+HeroVoice_Name_16604	헨젤 5성 달성
+HeroVoice_Name_16605	헨젤 경험치 포션 사용 1
+HeroVoice_Name_16606	헨젤 경험치 포션 사용 2
+HeroVoice_Name_16607	헨젤 경험치 포션 사용 3
+HeroVoice_Name_16608	헨젤 친밀도 레벨 업 1
+HeroVoice_Name_16609	헨젤 친밀도 레벨 업 2
+HeroVoice_Name_16610	헨젤 친밀도 레벨 업 3
+HeroVoice_Name_16611	헨젤 호감도 아이템 선물 1
+HeroVoice_Name_16612	헨젤 호감도 아이템 선물 2
+HeroVoice_Name_16613	헨젤 호감도 아이템 선물 3
+HeroVoice_Name_17000	체셔 전투 출격 1
+HeroVoice_Name_17001	체셔 전투 출격 2
+HeroVoice_Name_17002	체셔 전투 출격 3
+HeroVoice_Name_17003	체셔 승리 1
+HeroVoice_Name_17004	체셔 승리 2
+HeroVoice_Name_17005	체셔 승리 3
+HeroVoice_Name_17006	체셔 실패 1
+HeroVoice_Name_17007	체셔 실패 2
+HeroVoice_Name_17008	체셔 실패 3
+HeroVoice_Name_17009	체셔 전투 불능 1
+HeroVoice_Name_17010	체셔 전투 불능 2
+HeroVoice_Name_17011	체셔 전투 불능 3
+HeroVoice_Name_17012	체셔 팀 편성 1
+HeroVoice_Name_17013	체셔 팀 편성 2
+HeroVoice_Name_17014	체셔 팀 편성 3
+HeroVoice_Name_17015	체셔 액티브 A 1
+HeroVoice_Name_17016	체셔 액티브 A 2
+HeroVoice_Name_17017	체셔 액티브 A 3
+HeroVoice_Name_17018	체셔 액티브 B 1
+HeroVoice_Name_17019	체셔 액티브 B 2
+HeroVoice_Name_17020	체셔 액티브 B 3
+HeroVoice_Name_17300	체셔 로비 일반 1
+HeroVoice_Name_17301	체셔 로비 일반 2
+HeroVoice_Name_17302	체셔 로비 일반 3
+HeroVoice_Name_17303	체셔 로비 터치 1
+HeroVoice_Name_17304	체셔 로비 터치 2
+HeroVoice_Name_17305	체셔 로비 터치 3
+HeroVoice_Name_17306	체셔 생일 로비 터치 1
+HeroVoice_Name_17307	체셔 생일 로비 터치 2
+HeroVoice_Name_17308	체셔 생일 로비 터치 3
+HeroVoice_Name_17600	체셔 최초 획득
+HeroVoice_Name_17601	체셔 3성 달성
+HeroVoice_Name_17602	체셔 4성 달성
+HeroVoice_Name_17603	체셔 5성 달성
+HeroVoice_Name_17604	체셔 경험치 포션 사용 1
+HeroVoice_Name_17605	체셔 경험치 포션 사용 2
+HeroVoice_Name_17606	체셔 경험치 포션 사용 3
+HeroVoice_Name_17607	체셔 친밀도 레벨 업 1
+HeroVoice_Name_17608	체셔 친밀도 레벨 업 2
+HeroVoice_Name_17609	체셔 친밀도 레벨 업 3
+HeroVoice_Name_17610	체셔 호감도 아이템 선물 1
+HeroVoice_Name_17611	체셔 호감도 아이템 선물 2
+HeroVoice_Name_17612	체셔 호감도 아이템 선물 3
+HeroVoice_Name_18000	플레어 전투 출격 1
+HeroVoice_Name_18001	플레어 전투 출격 2
+HeroVoice_Name_18002	플레어 전투 출격 3
+HeroVoice_Name_18003	플레어 승리 1
+HeroVoice_Name_18004	플레어 승리 2
+HeroVoice_Name_18005	플레어 승리 3
+HeroVoice_Name_18006	플레어 실패 1
+HeroVoice_Name_18007	플레어 실패 2
+HeroVoice_Name_18008	플레어 실패 3
+HeroVoice_Name_18009	플레어 전투 불능 1
+HeroVoice_Name_18010	플레어 전투 불능 2
+HeroVoice_Name_18011	플레어 전투 불능 3
+HeroVoice_Name_18012	플레어 팀 편성 1
+HeroVoice_Name_18013	플레어 팀 편성 2
+HeroVoice_Name_18014	플레어 팀 편성 3
+HeroVoice_Name_18015	플레어 액티브 A 1
+HeroVoice_Name_18016	플레어 액티브 A 2
+HeroVoice_Name_18017	플레어 액티브 A 3
+HeroVoice_Name_18018	플레어 액티브 B 1
+HeroVoice_Name_18019	플레어 액티브 B 2
+HeroVoice_Name_18020	플레어 액티브 B 3
+HeroVoice_Name_18300	플레어 로비 일반 1
+HeroVoice_Name_18301	플레어 로비 일반 2
+HeroVoice_Name_18302	플레어 로비 일반 3
+HeroVoice_Name_18303	플레어 로비 터치 1
+HeroVoice_Name_18304	플레어 로비 터치 2
+HeroVoice_Name_18305	플레어 로비 터치 3
+HeroVoice_Name_18306	플레어 생일 로비 터치 1
+HeroVoice_Name_18307	플레어 생일 로비 터치 2
+HeroVoice_Name_18308	플레어 생일 로비 터치 3
+HeroVoice_Name_18600	플레어 최초 획득
+HeroVoice_Name_18601	플레어 4성 달성
+HeroVoice_Name_18602	플레어 5성 달성
+HeroVoice_Name_18603	플레어 경험치 포션 사용 1
+HeroVoice_Name_18604	플레어 경험치 포션 사용 2
+HeroVoice_Name_18605	플레어 경험치 포션 사용 3
+HeroVoice_Name_18606	플레어 친밀도 레벨 업 1
+HeroVoice_Name_18607	플레어 친밀도 레벨 업 2
+HeroVoice_Name_18608	플레어 친밀도 레벨 업 3
+HeroVoice_Name_18609	플레어 호감도 아이템 선물 1
+HeroVoice_Name_18610	플레어 호감도 아이템 선물 2
+HeroVoice_Name_18611	플레어 호감도 아이템 선물 3
+HeroVoice_Name_19000	브라이어 로즈 전투 출격 1
+HeroVoice_Name_19001	브라이어 로즈 전투 출격 2
+HeroVoice_Name_19002	브라이어 로즈 전투 출격 3
+HeroVoice_Name_19003	브라이어 로즈 승리 1
+HeroVoice_Name_19004	브라이어 로즈 승리 2
+HeroVoice_Name_19005	브라이어 로즈 승리 3
+HeroVoice_Name_19006	브라이어 로즈 실패 1
+HeroVoice_Name_19007	브라이어 로즈 실패 2
+HeroVoice_Name_19008	브라이어 로즈 실패 3
+HeroVoice_Name_19009	브라이어 로즈 전투 불능 1
+HeroVoice_Name_19010	브라이어 로즈 전투 불능 2
+HeroVoice_Name_19011	브라이어 로즈 전투 불능 3
+HeroVoice_Name_19012	브라이어 로즈 팀 편성 1
+HeroVoice_Name_19013	브라이어 로즈 팀 편성 2
+HeroVoice_Name_19014	브라이어 로즈 팀 편성 3
+HeroVoice_Name_19015	브라이어 로즈 액티브 A 1
+HeroVoice_Name_19016	브라이어 로즈 액티브 A 2
+HeroVoice_Name_19017	브라이어 로즈 액티브 A 3
+HeroVoice_Name_19018	브라이어 로즈 액티브 B 1
+HeroVoice_Name_19019	브라이어 로즈 액티브 B 2
+HeroVoice_Name_19020	브라이어 로즈 액티브 B 3
+HeroVoice_Name_19300	브라이어 로즈 로비 일반 1
+HeroVoice_Name_19301	브라이어 로즈 로비 일반 2
+HeroVoice_Name_19302	브라이어 로즈 로비 일반 3
+HeroVoice_Name_19303	브라이어 로즈 로비 터치 1
+HeroVoice_Name_19304	브라이어 로즈 로비 터치 2
+HeroVoice_Name_19305	브라이어 로즈 로비 터치 3
+HeroVoice_Name_19306	브라이어 로즈 생일 로비 터치 1
+HeroVoice_Name_19307	브라이어 로즈 생일 로비 터치 2
+HeroVoice_Name_19308	브라이어 로즈 생일 로비 터치 3
+HeroVoice_Name_19600	브라이어 로즈 최초 획득
+HeroVoice_Name_19601	브라이어 로즈 4성 달성
+HeroVoice_Name_19602	브라이어 로즈 5성 달성
+HeroVoice_Name_19603	브라이어 로즈 경험치 포션 사용 1
+HeroVoice_Name_19604	브라이어 로즈 경험치 포션 사용 2
+HeroVoice_Name_19605	브라이어 로즈 경험치 포션 사용 3
+HeroVoice_Name_19606	브라이어 로즈 친밀도 레벨 업 1
+HeroVoice_Name_19607	브라이어 로즈 친밀도 레벨 업 2
+HeroVoice_Name_19608	브라이어 로즈 친밀도 레벨 업 3
+HeroVoice_Name_19609	브라이어 로즈 호감도 아이템 선물 1
+HeroVoice_Name_19610	브라이어 로즈 호감도 아이템 선물 2
+HeroVoice_Name_19611	브라이어 로즈 호감도 아이템 선물 3
+HeroVoice_Name_20000	멜피 전투 출격 1
+HeroVoice_Name_20001	멜피 전투 출격 2
+HeroVoice_Name_20002	멜피 전투 출격 3
+HeroVoice_Name_20003	멜피 승리 1
+HeroVoice_Name_20004	멜피 승리 2
+HeroVoice_Name_20005	멜피 승리 3
+HeroVoice_Name_20006	멜피 실패 1
+HeroVoice_Name_20007	멜피 실패 2
+HeroVoice_Name_20008	멜피 실패 3
+HeroVoice_Name_20009	멜피 전투 불능 1
+HeroVoice_Name_20010	멜피 전투 불능 2
+HeroVoice_Name_20011	멜피 전투 불능 3
+HeroVoice_Name_20012	멜피 팀 편성 1
+HeroVoice_Name_20013	멜피 팀 편성 2
+HeroVoice_Name_20014	멜피 팀 편성 3
+HeroVoice_Name_20015	멜피 액티브 A 1
+HeroVoice_Name_20016	멜피 액티브 A 2
+HeroVoice_Name_20017	멜피 액티브 A 3
+HeroVoice_Name_20018	멜피 액티브 B 1
+HeroVoice_Name_20019	멜피 액티브 B 2
+HeroVoice_Name_20020	멜피 액티브 B 3
+HeroVoice_Name_20300	멜피 로비 일반 1
+HeroVoice_Name_20301	멜피 로비 일반 2
+HeroVoice_Name_20302	멜피 로비 일반 3
+HeroVoice_Name_20303	멜피 로비 터치 1
+HeroVoice_Name_20304	멜피 로비 터치 2
+HeroVoice_Name_20305	멜피 로비 터치 3
+HeroVoice_Name_20306	멜피 생일 로비 터치 1
+HeroVoice_Name_20307	멜피 생일 로비 터치 2
+HeroVoice_Name_20308	멜피 생일 로비 터치 3
+HeroVoice_Name_20600	멜피 최초 획득
+HeroVoice_Name_20601	멜피 3성 달성
+HeroVoice_Name_20602	멜피 4성 달성
+HeroVoice_Name_20603	멜피 5성 달성
+HeroVoice_Name_20604	멜피 경험치 포션 사용 1
+HeroVoice_Name_20605	멜피 경험치 포션 사용 2
+HeroVoice_Name_20606	멜피 경험치 포션 사용 3
+HeroVoice_Name_20607	멜피 친밀도 레벨 업 1
+HeroVoice_Name_20608	멜피 친밀도 레벨 업 2
+HeroVoice_Name_20609	멜피 친밀도 레벨 업 3
+HeroVoice_Name_20610	멜피 호감도 아이템 선물 1
+HeroVoice_Name_20611	멜피 호감도 아이템 선물 2
+HeroVoice_Name_20612	멜피 호감도 아이템 선물 3
+HeroVoice_Name_21000	제페토 전투 출격 1
+HeroVoice_Name_21001	제페토 전투 출격 2
+HeroVoice_Name_21002	제페토 전투 출격 3
+HeroVoice_Name_21003	제페토 승리 1
+HeroVoice_Name_21004	제페토 승리 2
+HeroVoice_Name_21005	제페토 승리 3
+HeroVoice_Name_21006	제페토 실패 1
+HeroVoice_Name_21007	제페토 실패 2
+HeroVoice_Name_21008	제페토 실패 3
+HeroVoice_Name_21009	제페토 전투 불능 1
+HeroVoice_Name_21010	제페토 전투 불능 2
+HeroVoice_Name_21011	제페토 전투 불능 3
+HeroVoice_Name_21012	제페토 팀 편성 1
+HeroVoice_Name_21013	제페토 팀 편성 2
+HeroVoice_Name_21014	제페토 팀 편성 3
+HeroVoice_Name_21015	제페토 액티브 A 1
+HeroVoice_Name_21016	제페토 액티브 A 2
+HeroVoice_Name_21017	제페토 액티브 A 3
+HeroVoice_Name_21018	제페토 액티브 B 1
+HeroVoice_Name_21019	제페토 액티브 B 2
+HeroVoice_Name_21020	제페토 액티브 B 3
+HeroVoice_Name_21300	제페토 로비 일반 1
+HeroVoice_Name_21301	제페토 로비 일반 2
+HeroVoice_Name_21302	제페토 로비 일반 3
+HeroVoice_Name_21303	제페토 로비 터치 1
+HeroVoice_Name_21304	제페토 로비 터치 2
+HeroVoice_Name_21305	제페토 로비 터치 3
+HeroVoice_Name_21306	제페토 생일 로비 터치 1
+HeroVoice_Name_21307	제페토 생일 로비 터치 2
+HeroVoice_Name_21308	제페토 생일 로비 터치 3
+HeroVoice_Name_21600	제페토 최초 획득
+HeroVoice_Name_21601	제페토 3성 달성
+HeroVoice_Name_21602	제페토 4성 달성
+HeroVoice_Name_21603	제페토 5성 달성
+HeroVoice_Name_21604	제페토 경험치 포션 사용 1
+HeroVoice_Name_21605	제페토 경험치 포션 사용 2
+HeroVoice_Name_21606	제페토 경험치 포션 사용 3
+HeroVoice_Name_21607	제페토 친밀도 레벨 업 1
+HeroVoice_Name_21608	제페토 친밀도 레벨 업 2
+HeroVoice_Name_21609	제페토 친밀도 레벨 업 3
+HeroVoice_Name_21610	제페토 호감도 아이템 선물 1
+HeroVoice_Name_21611	제페토 호감도 아이템 선물 2
+HeroVoice_Name_21612	제페토 호감도 아이템 선물 3
+HeroVoice_Name_22000	DnD 전투 출격 1
+HeroVoice_Name_22001	DnD 전투 출격 2
+HeroVoice_Name_22002	DnD 전투 출격 3
+HeroVoice_Name_22003	DnD 승리 1
+HeroVoice_Name_22004	DnD 승리 2
+HeroVoice_Name_22005	DnD 승리 3
+HeroVoice_Name_22006	DnD 실패 1
+HeroVoice_Name_22007	DnD 실패 2
+HeroVoice_Name_22008	DnD 실패 3
+HeroVoice_Name_22009	DnD 전투 불능 1
+HeroVoice_Name_22010	DnD 전투 불능 2
+HeroVoice_Name_22011	DnD 전투 불능 3
+HeroVoice_Name_22012	DnD 팀 편성 1
+HeroVoice_Name_22013	DnD 팀 편성 2
+HeroVoice_Name_22014	DnD 팀 편성 3
+HeroVoice_Name_22015	DnD 액티브 A 1
+HeroVoice_Name_22016	DnD 액티브 A 2
+HeroVoice_Name_22017	DnD 액티브 A 3
+HeroVoice_Name_22018	DnD 액티브 B 1
+HeroVoice_Name_22019	DnD 액티브 B 2
+HeroVoice_Name_22020	DnD 액티브 B 3
+HeroVoice_Name_22300	DnD 로비 일반 1
+HeroVoice_Name_22301	DnD 로비 일반 2
+HeroVoice_Name_22302	DnD 로비 일반 3
+HeroVoice_Name_22303	DnD 로비 터치 1
+HeroVoice_Name_22304	DnD 로비 터치 2
+HeroVoice_Name_22305	DnD 로비 터치 3
+HeroVoice_Name_22306	DnD 생일 로비 터치 1
+HeroVoice_Name_22307	DnD 생일 로비 터치 2
+HeroVoice_Name_22308	DnD 생일 로비 터치 3
+HeroVoice_Name_22600	DnD 최초 획득
+HeroVoice_Name_22601	DnD 3성 달성
+HeroVoice_Name_22602	DnD 4성 달성
+HeroVoice_Name_22603	DnD 5성 달성
+HeroVoice_Name_22604	DnD 경험치 포션 사용 1
+HeroVoice_Name_22605	DnD 경험치 포션 사용 2
+HeroVoice_Name_22606	DnD 경험치 포션 사용 3
+HeroVoice_Name_22607	DnD 친밀도 레벨 업 1
+HeroVoice_Name_22608	DnD 친밀도 레벨 업 2
+HeroVoice_Name_22609	DnD 친밀도 레벨 업 3
+HeroVoice_Name_22610	DnD 호감도 아이템 선물 1
+HeroVoice_Name_22611	DnD 호감도 아이템 선물 2
+HeroVoice_Name_22612	DnD 호감도 아이템 선물 3
+HeroVoice_Name_23000	사샤 전투 출격 1
+HeroVoice_Name_23001	사샤 전투 출격 2
+HeroVoice_Name_23002	사샤 전투 출격 3
+HeroVoice_Name_23003	사샤 승리 1
+HeroVoice_Name_23004	사샤 승리 2
+HeroVoice_Name_23005	사샤 승리 3
+HeroVoice_Name_23006	사샤 실패 1
+HeroVoice_Name_23007	사샤 실패 2
+HeroVoice_Name_23008	사샤 실패 3
+HeroVoice_Name_23009	사샤 전투 불능 1
+HeroVoice_Name_23010	사샤 전투 불능 2
+HeroVoice_Name_23011	사샤 전투 불능 3
+HeroVoice_Name_23012	사샤 팀 편성 1
+HeroVoice_Name_23013	사샤 팀 편성 2
+HeroVoice_Name_23014	사샤 팀 편성 3
+HeroVoice_Name_23015	사샤 액티브 A 1
+HeroVoice_Name_23016	사샤 액티브 A 2
+HeroVoice_Name_23017	사샤 액티브 A 3
+HeroVoice_Name_23018	사샤 액티브 B 1
+HeroVoice_Name_23019	사샤 액티브 B 2
+HeroVoice_Name_23020	사샤 액티브 B 3
+HeroVoice_Name_23300	사샤 로비 일반 1
+HeroVoice_Name_23301	사샤 로비 일반 2
+HeroVoice_Name_23302	사샤 로비 일반 3
+HeroVoice_Name_23303	사샤 로비 터치 1
+HeroVoice_Name_23304	사샤 로비 터치 2
+HeroVoice_Name_23305	사샤 로비 터치 3
+HeroVoice_Name_23306	사샤 생일 로비 터치 1
+HeroVoice_Name_23307	사샤 생일 로비 터치 2
+HeroVoice_Name_23308	사샤 생일 로비 터치 3
+HeroVoice_Name_23600	사샤 최초 획득
+HeroVoice_Name_23601	사샤 4성 달성
+HeroVoice_Name_23602	사샤 5성 달성
+HeroVoice_Name_23603	사샤 경험치 포션 사용 1
+HeroVoice_Name_23604	사샤 경험치 포션 사용 2
+HeroVoice_Name_23605	사샤 경험치 포션 사용 3
+HeroVoice_Name_23606	사샤 친밀도 레벨 업 1
+HeroVoice_Name_23607	사샤 친밀도 레벨 업 2
+HeroVoice_Name_23608	사샤 친밀도 레벨 업 3
+HeroVoice_Name_23609	사샤 호감도 아이템 선물 1
+HeroVoice_Name_23610	사샤 호감도 아이템 선물 2
+HeroVoice_Name_23611	사샤 호감도 아이템 선물 3
+HeroVoice_Name_24000	드로셀마이어 전투 출격 1
+HeroVoice_Name_24001	드로셀마이어 전투 출격 2
+HeroVoice_Name_24002	드로셀마이어 전투 출격 3
+HeroVoice_Name_24003	드로셀마이어 승리 1
+HeroVoice_Name_24004	드로셀마이어 승리 2
+HeroVoice_Name_24005	드로셀마이어 승리 3
+HeroVoice_Name_24006	드로셀마이어 실패 1
+HeroVoice_Name_24007	드로셀마이어 실패 2
+HeroVoice_Name_24008	드로셀마이어 실패 3
+HeroVoice_Name_24009	드로셀마이어 전투 불능 1
+HeroVoice_Name_24010	드로셀마이어 전투 불능 2
+HeroVoice_Name_24011	드로셀마이어 전투 불능 3
+HeroVoice_Name_24012	드로셀마이어 팀 편성 1
+HeroVoice_Name_24013	드로셀마이어 팀 편성 2
+HeroVoice_Name_24014	드로셀마이어 팀 편성 3
+HeroVoice_Name_24015	드로셀마이어 액티브 A 1
+HeroVoice_Name_24016	드로셀마이어 액티브 A 2
+HeroVoice_Name_24017	드로셀마이어 액티브 A 3
+HeroVoice_Name_24018	드로셀마이어 액티브 B 1
+HeroVoice_Name_24019	드로셀마이어 액티브 B 2
+HeroVoice_Name_24020	드로셀마이어 액티브 B 3
+HeroVoice_Name_24300	드로셀마이어 로비 일반 1
+HeroVoice_Name_24301	드로셀마이어 로비 일반 2
+HeroVoice_Name_24302	드로셀마이어 로비 일반 3
+HeroVoice_Name_24303	드로셀마이어 로비 터치 1
+HeroVoice_Name_24304	드로셀마이어 로비 터치 2
+HeroVoice_Name_24305	드로셀마이어 로비 터치 3
+HeroVoice_Name_24306	드로셀마이어 생일 로비 터치 1
+HeroVoice_Name_24307	드로셀마이어 생일 로비 터치 2
+HeroVoice_Name_24308	드로셀마이어 생일 로비 터치 3
+HeroVoice_Name_24600	드로셀마이어 최초 획득
+HeroVoice_Name_24601	드로셀마이어 4성 달성
+HeroVoice_Name_24602	드로셀마이어 5성 달성
+HeroVoice_Name_24603	드로셀마이어 경험치 포션 사용 1
+HeroVoice_Name_24604	드로셀마이어 경험치 포션 사용 2
+HeroVoice_Name_24605	드로셀마이어 경험치 포션 사용 3
+HeroVoice_Name_24606	드로셀마이어 친밀도 레벨 업 1
+HeroVoice_Name_24607	드로셀마이어 친밀도 레벨 업 2
+HeroVoice_Name_24608	드로셀마이어 친밀도 레벨 업 3
+HeroVoice_Name_24609	드로셀마이어 호감도 아이템 선물 1
+HeroVoice_Name_24610	드로셀마이어 호감도 아이템 선물 2
+HeroVoice_Name_24611	드로셀마이어 호감도 아이템 선물 3
+HeroVoice_Name_25000	세실리아 전투 출격 1
+HeroVoice_Name_25001	세실리아 전투 출격 2
+HeroVoice_Name_25002	세실리아 전투 출격 3
+HeroVoice_Name_25003	세실리아 승리 1
+HeroVoice_Name_25004	세실리아 승리 2
+HeroVoice_Name_25005	세실리아 승리 3
+HeroVoice_Name_25006	세실리아 실패 1
+HeroVoice_Name_25007	세실리아 실패 2
+HeroVoice_Name_25008	세실리아 실패 3
+HeroVoice_Name_25009	세실리아 전투 불능 1
+HeroVoice_Name_25010	세실리아 전투 불능 2
+HeroVoice_Name_25011	세실리아 전투 불능 3
+HeroVoice_Name_25012	세실리아 팀 편성 1
+HeroVoice_Name_25013	세실리아 팀 편성 2
+HeroVoice_Name_25014	세실리아 팀 편성 3
+HeroVoice_Name_25015	세실리아 액티브 A 1
+HeroVoice_Name_25016	세실리아 액티브 A 2
+HeroVoice_Name_25017	세실리아 액티브 A 3
+HeroVoice_Name_25018	세실리아 액티브 B 1
+HeroVoice_Name_25019	세실리아 액티브 B 2
+HeroVoice_Name_25020	세실리아 액티브 B 3
+HeroVoice_Name_25300	세실리아 로비 일반 1
+HeroVoice_Name_25301	세실리아 로비 일반 2
+HeroVoice_Name_25302	세실리아 로비 일반 3
+HeroVoice_Name_25303	세실리아 로비 터치 1
+HeroVoice_Name_25304	세실리아 로비 터치 2
+HeroVoice_Name_25305	세실리아 로비 터치 3
+HeroVoice_Name_25306	세실리아 생일 로비 터치 1
+HeroVoice_Name_25307	세실리아 생일 로비 터치 2
+HeroVoice_Name_25308	세실리아 생일 로비 터치 3
+HeroVoice_Name_25600	세실리아 최초 획득
+HeroVoice_Name_25601	세실리아 4성 달성
+HeroVoice_Name_25602	세실리아 5성 달성
+HeroVoice_Name_25603	세실리아 경험치 포션 사용 1
+HeroVoice_Name_25604	세실리아 경험치 포션 사용 2
+HeroVoice_Name_25605	세실리아 경험치 포션 사용 3
+HeroVoice_Name_25606	세실리아 친밀도 레벨 업 1
+HeroVoice_Name_25607	세실리아 친밀도 레벨 업 2
+HeroVoice_Name_25608	세실리아 친밀도 레벨 업 3
+HeroVoice_Name_25609	세실리아 호감도 아이템 선물 1
+HeroVoice_Name_25610	세실리아 호감도 아이템 선물 2
+HeroVoice_Name_25611	세실리아 호감도 아이템 선물 3
+HeroVoice_Name_26000	마리 전투 출격 1
+HeroVoice_Name_26001	마리 전투 출격 2
+HeroVoice_Name_26002	마리 전투 출격 3
+HeroVoice_Name_26003	마리 승리 1
+HeroVoice_Name_26004	마리 승리 2
+HeroVoice_Name_26005	마리 승리 3
+HeroVoice_Name_26006	마리 실패 1
+HeroVoice_Name_26007	마리 실패 2
+HeroVoice_Name_26008	마리 실패 3
+HeroVoice_Name_26009	마리 전투 불능 1
+HeroVoice_Name_26010	마리 전투 불능 2
+HeroVoice_Name_26011	마리 전투 불능 3
+HeroVoice_Name_26012	마리 팀 편성 1
+HeroVoice_Name_26013	마리 팀 편성 2
+HeroVoice_Name_26014	마리 팀 편성 3
+HeroVoice_Name_26015	마리 액티브 A 1
+HeroVoice_Name_26016	마리 액티브 A 2
+HeroVoice_Name_26017	마리 액티브 A 3
+HeroVoice_Name_26018	마리 액티브 B 1
+HeroVoice_Name_26019	마리 액티브 B 2
+HeroVoice_Name_26020	마리 액티브 B 3
+HeroVoice_Name_26300	마리 로비 일반 1
+HeroVoice_Name_26301	마리 로비 일반 2
+HeroVoice_Name_26302	마리 로비 일반 3
+HeroVoice_Name_26303	마리 로비 터치 1
+HeroVoice_Name_26304	마리 로비 터치 2
+HeroVoice_Name_26305	마리 로비 터치 3
+HeroVoice_Name_26306	마리 생일 로비 터치 1
+HeroVoice_Name_26307	마리 생일 로비 터치 2
+HeroVoice_Name_26308	마리 생일 로비 터치 3
+HeroVoice_Name_26600	마리 최초 획득
+HeroVoice_Name_26601	마리 3성 달성
+HeroVoice_Name_26602	마리 4성 달성
+HeroVoice_Name_26603	마리 5성 달성
+HeroVoice_Name_26604	마리 경험치 포션 사용 1
+HeroVoice_Name_26605	마리 경험치 포션 사용 2
+HeroVoice_Name_26606	마리 경험치 포션 사용 3
+HeroVoice_Name_26607	마리 친밀도 레벨 업 1
+HeroVoice_Name_26608	마리 친밀도 레벨 업 2
+HeroVoice_Name_26609	마리 친밀도 레벨 업 3
+HeroVoice_Name_26610	마리 호감도 아이템 선물 1
+HeroVoice_Name_26611	마리 호감도 아이템 선물 2
+HeroVoice_Name_26612	마리 호감도 아이템 선물 3
+HeroVoice_Name_27000	디에터 전투 출격 1
+HeroVoice_Name_27001	디에터 전투 출격 2
+HeroVoice_Name_27002	디에터 전투 출격 3
+HeroVoice_Name_27003	디에터 승리 1
+HeroVoice_Name_27004	디에터 승리 2
+HeroVoice_Name_27005	디에터 승리 3
+HeroVoice_Name_27006	디에터 실패 1
+HeroVoice_Name_27007	디에터 실패 2
+HeroVoice_Name_27008	디에터 실패 3
+HeroVoice_Name_27009	디에터 전투 불능 1
+HeroVoice_Name_27010	디에터 전투 불능 2
+HeroVoice_Name_27011	디에터 전투 불능 3
+HeroVoice_Name_27012	디에터 팀 편성 1
+HeroVoice_Name_27013	디에터 팀 편성 2
+HeroVoice_Name_27014	디에터 팀 편성 3
+HeroVoice_Name_27015	디에터 액티브 A 1
+HeroVoice_Name_27016	디에터 액티브 A 2
+HeroVoice_Name_27017	디에터 액티브 A 3
+HeroVoice_Name_27018	디에터 액티브 B 1
+HeroVoice_Name_27019	디에터 액티브 B 2
+HeroVoice_Name_27020	디에터 액티브 B 3
+HeroVoice_Name_27300	디에터 로비 일반 1
+HeroVoice_Name_27301	디에터 로비 일반 2
+HeroVoice_Name_27302	디에터 로비 일반 3
+HeroVoice_Name_27303	디에터 로비 터치 1
+HeroVoice_Name_27304	디에터 로비 터치 2
+HeroVoice_Name_27305	디에터 로비 터치 3
+HeroVoice_Name_27306	디에터 생일 로비 터치 1
+HeroVoice_Name_27307	디에터 생일 로비 터치 2
+HeroVoice_Name_27308	디에터 생일 로비 터치 3
+HeroVoice_Name_27600	디에터 최초 획득
+HeroVoice_Name_27601	디에터 4성 달성
+HeroVoice_Name_27602	디에터 5성 달성
+HeroVoice_Name_27603	디에터 경험치 포션 사용 1
+HeroVoice_Name_27604	디에터 경험치 포션 사용 2
+HeroVoice_Name_27605	디에터 경험치 포션 사용 3
+HeroVoice_Name_27606	디에터 친밀도 레벨 업 1
+HeroVoice_Name_27607	디에터 친밀도 레벨 업 2
+HeroVoice_Name_27608	디에터 친밀도 레벨 업 3
+HeroVoice_Name_27609	디에터 호감도 아이템 선물 1
+HeroVoice_Name_27610	디에터 호감도 아이템 선물 2
+HeroVoice_Name_27611	디에터 호감도 아이템 선물 3
+HeroVoice_Name_28000	아이르 전투 출격 1
+HeroVoice_Name_28001	아이르 전투 출격 2
+HeroVoice_Name_28002	아이르 전투 출격 3
+HeroVoice_Name_28003	아이르 승리 1
+HeroVoice_Name_28004	아이르 승리 2
+HeroVoice_Name_28005	아이르 승리 3
+HeroVoice_Name_28006	아이르 실패 1
+HeroVoice_Name_28007	아이르 실패 2
+HeroVoice_Name_28008	아이르 실패 3
+HeroVoice_Name_28009	아이르 전투 불능 1
+HeroVoice_Name_28010	아이르 전투 불능 2
+HeroVoice_Name_28011	아이르 전투 불능 3
+HeroVoice_Name_28012	아이르 팀 편성 1
+HeroVoice_Name_28013	아이르 팀 편성 2
+HeroVoice_Name_28014	아이르 팀 편성 3
+HeroVoice_Name_28015	아이르 액티브 A 1
+HeroVoice_Name_28016	아이르 액티브 A 2
+HeroVoice_Name_28017	아이르 액티브 A 3
+HeroVoice_Name_28018	아이르 액티브 B 1
+HeroVoice_Name_28019	아이르 액티브 B 2
+HeroVoice_Name_28020	아이르 액티브 B 3
+HeroVoice_Name_28300	아이르 로비 일반 1
+HeroVoice_Name_28301	아이르 로비 일반 2
+HeroVoice_Name_28302	아이르 로비 일반 3
+HeroVoice_Name_28303	아이르 로비 터치 1
+HeroVoice_Name_28304	아이르 로비 터치 2
+HeroVoice_Name_28305	아이르 로비 터치 3
+HeroVoice_Name_28306	아이르 생일 로비 터치 1
+HeroVoice_Name_28307	아이르 생일 로비 터치 2
+HeroVoice_Name_28308	아이르 생일 로비 터치 3
+HeroVoice_Name_28600	아이르 최초 획득
+HeroVoice_Name_28601	아이르 4성 달성
+HeroVoice_Name_28602	아이르 5성 달성
+HeroVoice_Name_28603	아이르 경험치 포션 사용 1
+HeroVoice_Name_28604	아이르 경험치 포션 사용 2
+HeroVoice_Name_28605	아이르 경험치 포션 사용 3
+HeroVoice_Name_28606	아이르 친밀도 레벨 업 1
+HeroVoice_Name_28607	아이르 친밀도 레벨 업 2
+HeroVoice_Name_28608	아이르 친밀도 레벨 업 3
+HeroVoice_Name_28609	아이르 호감도 아이템 선물 1
+HeroVoice_Name_28610	아이르 호감도 아이템 선물 2
+HeroVoice_Name_28611	아이르 호감도 아이템 선물 3
+HeroVoice_Name_29000	플로렌스 전투 출격 1
+HeroVoice_Name_29001	플로렌스 전투 출격 2
+HeroVoice_Name_29002	플로렌스 전투 출격 3
+HeroVoice_Name_29003	플로렌스 승리 1
+HeroVoice_Name_29004	플로렌스 승리 2
+HeroVoice_Name_29005	플로렌스 승리 3
+HeroVoice_Name_29006	플로렌스 실패 1
+HeroVoice_Name_29007	플로렌스 실패 2
+HeroVoice_Name_29008	플로렌스 실패 3
+HeroVoice_Name_29009	플로렌스 전투 불능 1
+HeroVoice_Name_29010	플로렌스 전투 불능 2
+HeroVoice_Name_29011	플로렌스 전투 불능 3
+HeroVoice_Name_29012	플로렌스 팀 편성 1
+HeroVoice_Name_29013	플로렌스 팀 편성 2
+HeroVoice_Name_29014	플로렌스 팀 편성 3
+HeroVoice_Name_29015	플로렌스 액티브 A 1
+HeroVoice_Name_29016	플로렌스 액티브 A 2
+HeroVoice_Name_29017	플로렌스 액티브 A 3
+HeroVoice_Name_29018	플로렌스 액티브 B 1
+HeroVoice_Name_29019	플로렌스 액티브 B 2
+HeroVoice_Name_29020	플로렌스 액티브 B 3
+HeroVoice_Name_29300	플로렌스 로비 일반 1
+HeroVoice_Name_29301	플로렌스 로비 일반 2
+HeroVoice_Name_29302	플로렌스 로비 일반 3
+HeroVoice_Name_29303	플로렌스 로비 터치 1
+HeroVoice_Name_29304	플로렌스 로비 터치 2
+HeroVoice_Name_29305	플로렌스 로비 터치 3
+HeroVoice_Name_29306	플로렌스 생일 로비 터치 1
+HeroVoice_Name_29307	플로렌스 생일 로비 터치 2
+HeroVoice_Name_29308	플로렌스 생일 로비 터치 3
+HeroVoice_Name_29600	플로렌스 최초 획득
+HeroVoice_Name_29601	플로렌스 4성 달성
+HeroVoice_Name_29602	플로렌스 5성 달성
+HeroVoice_Name_29603	플로렌스 경험치 포션 사용 1
+HeroVoice_Name_29604	플로렌스 경험치 포션 사용 2
+HeroVoice_Name_29605	플로렌스 경험치 포션 사용 3
+HeroVoice_Name_29606	플로렌스 친밀도 레벨 업 1
+HeroVoice_Name_29607	플로렌스 친밀도 레벨 업 2
+HeroVoice_Name_29608	플로렌스 친밀도 레벨 업 3
+HeroVoice_Name_29609	플로렌스 호감도 아이템 선물 1
+HeroVoice_Name_29610	플로렌스 호감도 아이템 선물 2
+HeroVoice_Name_29611	플로렌스 호감도 아이템 선물 3
+HeroVoice_Name_30000	베라 전투 출격 1
+HeroVoice_Name_30001	베라 전투 출격 2
+HeroVoice_Name_30002	베라 전투 출격 3
+HeroVoice_Name_30003	베라 승리 1
+HeroVoice_Name_30004	베라 승리 2
+HeroVoice_Name_30005	베라 승리 3
+HeroVoice_Name_30006	베라 실패 1
+HeroVoice_Name_30007	베라 실패 2
+HeroVoice_Name_30008	베라 실패 3
+HeroVoice_Name_30009	베라 전투 불능 1
+HeroVoice_Name_30010	베라 전투 불능 2
+HeroVoice_Name_30011	베라 전투 불능 3
+HeroVoice_Name_30012	베라 팀 편성 1
+HeroVoice_Name_30013	베라 팀 편성 2
+HeroVoice_Name_30014	베라 팀 편성 3
+HeroVoice_Name_30015	베라 액티브 A 1
+HeroVoice_Name_30016	베라 액티브 A 2
+HeroVoice_Name_30017	베라 액티브 A 3
+HeroVoice_Name_30018	베라 액티브 B 1
+HeroVoice_Name_30019	베라 액티브 B 2
+HeroVoice_Name_30020	베라 액티브 B 3
+HeroVoice_Name_30300	베라 로비 일반 1
+HeroVoice_Name_30301	베라 로비 일반 2
+HeroVoice_Name_30302	베라 로비 일반 3
+HeroVoice_Name_30303	베라 로비 터치 1
+HeroVoice_Name_30304	베라 로비 터치 2
+HeroVoice_Name_30305	베라 로비 터치 3
+HeroVoice_Name_30306	베라 생일 로비 터치 1
+HeroVoice_Name_30307	베라 생일 로비 터치 2
+HeroVoice_Name_30308	베라 생일 로비 터치 3
+HeroVoice_Name_30600	베라 최초 획득
+HeroVoice_Name_30601	베라 4성 달성
+HeroVoice_Name_30602	베라 5성 달성
+HeroVoice_Name_30603	베라 경험치 포션 사용 1
+HeroVoice_Name_30604	베라 경험치 포션 사용 2
+HeroVoice_Name_30605	베라 경험치 포션 사용 3
+HeroVoice_Name_30606	베라 친밀도 레벨 업 1
+HeroVoice_Name_30607	베라 친밀도 레벨 업 2
+HeroVoice_Name_30608	베라 친밀도 레벨 업 3
+HeroVoice_Name_30609	베라 호감도 아이템 선물 1
+HeroVoice_Name_30610	베라 호감도 아이템 선물 2
+HeroVoice_Name_30611	베라 호감도 아이템 선물 3
+HeroVoice_Name_31000	키스멧 전투 출격 1
+HeroVoice_Name_31001	키스멧 전투 출격 2
+HeroVoice_Name_31002	키스멧 전투 출격 3
+HeroVoice_Name_31003	키스멧 승리 1
+HeroVoice_Name_31004	키스멧 승리 2
+HeroVoice_Name_31005	키스멧 승리 3
+HeroVoice_Name_31006	키스멧 실패 1
+HeroVoice_Name_31007	키스멧 실패 2
+HeroVoice_Name_31008	키스멧 실패 3
+HeroVoice_Name_31009	키스멧 전투 불능 1
+HeroVoice_Name_31010	키스멧 전투 불능 2
+HeroVoice_Name_31011	키스멧 전투 불능 3
+HeroVoice_Name_31012	키스멧 팀 편성 1
+HeroVoice_Name_31013	키스멧 팀 편성 2
+HeroVoice_Name_31014	키스멧 팀 편성 3
+HeroVoice_Name_31015	키스멧 액티브 A 1
+HeroVoice_Name_31016	키스멧 액티브 A 2
+HeroVoice_Name_31017	키스멧 액티브 A 3
+HeroVoice_Name_31018	키스멧 액티브 B 1
+HeroVoice_Name_31019	키스멧 액티브 B 2
+HeroVoice_Name_31020	키스멧 액티브 B 3
+HeroVoice_Name_31300	키스멧 로비 일반 1
+HeroVoice_Name_31301	키스멧 로비 일반 2
+HeroVoice_Name_31302	키스멧 로비 일반 3
+HeroVoice_Name_31303	키스멧 로비 터치 1
+HeroVoice_Name_31304	키스멧 로비 터치 2
+HeroVoice_Name_31305	키스멧 로비 터치 3
+HeroVoice_Name_31306	키스멧 생일 로비 터치 1
+HeroVoice_Name_31307	키스멧 생일 로비 터치 2
+HeroVoice_Name_31308	키스멧 생일 로비 터치 3
+HeroVoice_Name_31600	키스멧 최초 획득
+HeroVoice_Name_31601	키스멧 4성 달성
+HeroVoice_Name_31602	키스멧 5성 달성
+HeroVoice_Name_31603	키스멧 경험치 포션 사용 1
+HeroVoice_Name_31604	키스멧 경험치 포션 사용 2
+HeroVoice_Name_31605	키스멧 경험치 포션 사용 3
+HeroVoice_Name_31606	키스멧 친밀도 레벨 업 1
+HeroVoice_Name_31607	키스멧 친밀도 레벨 업 2
+HeroVoice_Name_31608	키스멧 친밀도 레벨 업 3
+HeroVoice_Name_31609	키스멧 호감도 아이템 선물 1
+HeroVoice_Name_31610	키스멧 호감도 아이템 선물 2
+HeroVoice_Name_31611	키스멧 호감도 아이템 선물 3
+HeroVoice_Name_32000	마녀 세실리아 전투 출격 1
+HeroVoice_Name_32001	마녀 세실리아 전투 출격 2
+HeroVoice_Name_32002	마녀 세실리아 전투 출격 3
+HeroVoice_Name_32003	마녀 세실리아 승리 1
+HeroVoice_Name_32004	마녀 세실리아 승리 2
+HeroVoice_Name_32005	마녀 세실리아 승리 3
+HeroVoice_Name_32006	마녀 세실리아 실패 1
+HeroVoice_Name_32007	마녀 세실리아 실패 2
+HeroVoice_Name_32008	마녀 세실리아 실패 3
+HeroVoice_Name_32009	마녀 세실리아 전투 불능 1
+HeroVoice_Name_32010	마녀 세실리아 전투 불능 2
+HeroVoice_Name_32011	마녀 세실리아 전투 불능 3
+HeroVoice_Name_32012	마녀 세실리아 팀 편성 1
+HeroVoice_Name_32013	마녀 세실리아 팀 편성 2
+HeroVoice_Name_32014	마녀 세실리아 팀 편성 3
+HeroVoice_Name_32015	마녀 세실리아 액티브 A 1
+HeroVoice_Name_32016	마녀 세실리아 액티브 A 2
+HeroVoice_Name_32017	마녀 세실리아 액티브 A 3
+HeroVoice_Name_32018	마녀 세실리아 액티브 B 1
+HeroVoice_Name_32019	마녀 세실리아 액티브 B 2
+HeroVoice_Name_32020	마녀 세실리아 액티브 B 3
+HeroVoice_Name_32300	마녀 세실리아 로비 일반 1
+HeroVoice_Name_32301	마녀 세실리아 로비 일반 2
+HeroVoice_Name_32302	마녀 세실리아 로비 일반 3
+HeroVoice_Name_32303	마녀 세실리아 로비 일반 4
+HeroVoice_Name_32304	마녀 세실리아 로비 일반 5
+HeroVoice_Name_32305	마녀 세실리아 로비 터치 1
+HeroVoice_Name_32306	마녀 세실리아 로비 터치 2
+HeroVoice_Name_32307	마녀 세실리아 로비 터치 3
+HeroVoice_Name_32308	마녀 세실리아 로비 터치 4
+HeroVoice_Name_32309	마녀 세실리아 로비 터치 5
+HeroVoice_Name_32310	마녀 세실리아 로비 터치 6
+HeroVoice_Name_32311	마녀 세실리아 생일 로비 터치 1
+HeroVoice_Name_32312	마녀 세실리아 생일 로비 터치 2
+HeroVoice_Name_32313	마녀 세실리아 생일 로비 터치 3
+HeroVoice_Name_32600	마녀 세실리아 최초 획득
+HeroVoice_Name_32601	마녀 세실리아 4성 달성
+HeroVoice_Name_32602	마녀 세실리아 5성 달성
+HeroVoice_Name_32603	마녀 세실리아 경험치 포션 사용 1
+HeroVoice_Name_32604	마녀 세실리아 경험치 포션 사용 2
+HeroVoice_Name_32605	마녀 세실리아 경험치 포션 사용 3
+HeroVoice_Name_32606	마녀 세실리아 친밀도 레벨 업 1
+HeroVoice_Name_32607	마녀 세실리아 친밀도 레벨 업 2
+HeroVoice_Name_32608	마녀 세실리아 친밀도 레벨 업 3
+HeroVoice_Name_32609	마녀 세실리아 호감도 아이템 선물 1
+HeroVoice_Name_32610	마녀 세실리아 호감도 아이템 선물 2
+HeroVoice_Name_32611	마녀 세실리아 호감도 아이템 선물 3
+HeroVoice_Name_33000	하루 전투 출격 1
+HeroVoice_Name_33001	하루 전투 출격 2
+HeroVoice_Name_33002	하루 전투 출격 3
+HeroVoice_Name_33003	하루 승리 1
+HeroVoice_Name_33004	하루 승리 2
+HeroVoice_Name_33005	하루 승리 3
+HeroVoice_Name_33006	하루 실패 1
+HeroVoice_Name_33007	하루 실패 2
+HeroVoice_Name_33008	하루 실패 3
+HeroVoice_Name_33009	하루 전투 불능 1
+HeroVoice_Name_33010	하루 전투 불능 2
+HeroVoice_Name_33011	하루 전투 불능 3
+HeroVoice_Name_33012	하루 팀 편성 1
+HeroVoice_Name_33013	하루 팀 편성 2
+HeroVoice_Name_33014	하루 팀 편성 3
+HeroVoice_Name_33015	하루 액티브 A 1
+HeroVoice_Name_33016	하루 액티브 A 2
+HeroVoice_Name_33017	하루 액티브 A 3
+HeroVoice_Name_33018	하루 액티브 B 1
+HeroVoice_Name_33019	하루 액티브 B 2
+HeroVoice_Name_33020	하루 액티브 B 3
+HeroVoice_Name_33300	하루 로비 일반 1
+HeroVoice_Name_33301	하루 로비 일반 2
+HeroVoice_Name_33302	하루 로비 일반 3
+HeroVoice_Name_33303	하루 로비 터치 1
+HeroVoice_Name_33304	하루 로비 터치 2
+HeroVoice_Name_33305	하루 로비 터치 3
+HeroVoice_Name_33306	하루 생일 로비 터치 1
+HeroVoice_Name_33307	하루 생일 로비 터치 2
+HeroVoice_Name_33308	하루 생일 로비 터치 3
+HeroVoice_Name_33600	하루 최초 획득
+HeroVoice_Name_33601	하루 4성 달성
+HeroVoice_Name_33602	하루 5성 달성
+HeroVoice_Name_33603	하루 경험치 포션 사용 1
+HeroVoice_Name_33604	하루 경험치 포션 사용 2
+HeroVoice_Name_33605	하루 경험치 포션 사용 3
+HeroVoice_Name_33606	하루 친밀도 레벨 업 1
+HeroVoice_Name_33607	하루 친밀도 레벨 업 2
+HeroVoice_Name_33608	하루 친밀도 레벨 업 3
+HeroVoice_Name_33609	하루 호감도 아이템 선물 1
+HeroVoice_Name_33610	하루 호감도 아이템 선물 2
+HeroVoice_Name_33611	하루 호감도 아이템 선물 3
+HeroVoice_Name_34000	카이 전투 출격 1
+HeroVoice_Name_34001	카이 전투 출격 2
+HeroVoice_Name_34002	카이 전투 출격 3
+HeroVoice_Name_34003	카이 승리 1
+HeroVoice_Name_34004	카이 승리 2
+HeroVoice_Name_34005	카이 승리 3
+HeroVoice_Name_34006	카이 실패 1
+HeroVoice_Name_34007	카이 실패 2
+HeroVoice_Name_34008	카이 실패 3
+HeroVoice_Name_34009	카이 전투 불능 1
+HeroVoice_Name_34010	카이 전투 불능 2
+HeroVoice_Name_34011	카이 전투 불능 3
+HeroVoice_Name_34012	카이 팀 편성 1
+HeroVoice_Name_34013	카이 팀 편성 2
+HeroVoice_Name_34014	카이 팀 편성 3
+HeroVoice_Name_34015	카이 액티브 A 1
+HeroVoice_Name_34016	카이 액티브 A 2
+HeroVoice_Name_34017	카이 액티브 A 3
+HeroVoice_Name_34018	카이 액티브 B 1
+HeroVoice_Name_34019	카이 액티브 B 2
+HeroVoice_Name_34020	카이 액티브 B 3
+HeroVoice_Name_34300	카이 로비 일반 1
+HeroVoice_Name_34301	카이 로비 일반 2
+HeroVoice_Name_34302	카이 로비 일반 3
+HeroVoice_Name_34303	카이 로비 터치 1
+HeroVoice_Name_34304	카이 로비 터치 2
+HeroVoice_Name_34305	카이 로비 터치 3
+HeroVoice_Name_34306	카이 생일 로비 터치 1
+HeroVoice_Name_34307	카이 생일 로비 터치 2
+HeroVoice_Name_34308	카이 생일 로비 터치 3
+HeroVoice_Name_34600	카이 최초 획득
+HeroVoice_Name_34601	카이 4성 달성
+HeroVoice_Name_34602	카이 5성 달성
+HeroVoice_Name_34603	카이 경험치 포션 사용 1
+HeroVoice_Name_34604	카이 경험치 포션 사용 2
+HeroVoice_Name_34605	카이 경험치 포션 사용 3
+HeroVoice_Name_34606	카이 친밀도 레벨 업 1
+HeroVoice_Name_34607	카이 친밀도 레벨 업 2
+HeroVoice_Name_34608	카이 친밀도 레벨 업 3
+HeroVoice_Name_34609	카이 호감도 아이템 선물 1
+HeroVoice_Name_34610	카이 호감도 아이템 선물 2
+HeroVoice_Name_34611	카이 호감도 아이템 선물 3
+HeroVoice_Name_35000	루시안 전투 출격 1
+HeroVoice_Name_35001	루시안 전투 출격 2
+HeroVoice_Name_35002	루시안 전투 출격 3
+HeroVoice_Name_35003	루시안 승리 1
+HeroVoice_Name_35004	루시안 승리 2
+HeroVoice_Name_35005	루시안 승리 3
+HeroVoice_Name_35006	루시안 실패 1
+HeroVoice_Name_35007	루시안 실패 2
+HeroVoice_Name_35008	루시안 실패 3
+HeroVoice_Name_35009	루시안 전투 불능 1
+HeroVoice_Name_35010	루시안 전투 불능 2
+HeroVoice_Name_35011	루시안 전투 불능 3
+HeroVoice_Name_35012	루시안 팀 편성 1
+HeroVoice_Name_35013	루시안 팀 편성 2
+HeroVoice_Name_35014	루시안 팀 편성 3
+HeroVoice_Name_35015	루시안 액티브 A 1
+HeroVoice_Name_35016	루시안 액티브 A 2
+HeroVoice_Name_35017	루시안 액티브 A 3
+HeroVoice_Name_35018	루시안 액티브 B 1
+HeroVoice_Name_35019	루시안 액티브 B 2
+HeroVoice_Name_35020	루시안 액티브 B 3
+HeroVoice_Name_35300	루시안 로비 일반 1
+HeroVoice_Name_35301	루시안 로비 일반 2
+HeroVoice_Name_35302	루시안 로비 일반 3
+HeroVoice_Name_35303	루시안 로비 터치 1
+HeroVoice_Name_35304	루시안 로비 터치 2
+HeroVoice_Name_35305	루시안 로비 터치 3
+HeroVoice_Name_35306	루시안 생일 로비 터치 1
+HeroVoice_Name_35307	루시안 생일 로비 터치 2
+HeroVoice_Name_35308	루시안 생일 로비 터치 3
+HeroVoice_Name_35600	루시안 최초 획득
+HeroVoice_Name_35601	루시안 2성 달성
+HeroVoice_Name_35602	루시안 3성 달성
+HeroVoice_Name_35603	루시안 4성 달성
+HeroVoice_Name_35604	루시안 5성 달성
+HeroVoice_Name_35605	루시안 경험치 포션 사용 1
+HeroVoice_Name_35606	루시안 경험치 포션 사용 2
+HeroVoice_Name_35607	루시안 경험치 포션 사용 3
+HeroVoice_Name_35608	루시안 친밀도 레벨 업 1
+HeroVoice_Name_35609	루시안 친밀도 레벨 업 2
+HeroVoice_Name_35610	루시안 친밀도 레벨 업 3
+HeroVoice_Name_35611	루시안 호감도 아이템 선물 1
+HeroVoice_Name_35612	루시안 호감도 아이템 선물 2
+HeroVoice_Name_35613	루시안 호감도 아이템 선물 3
+HeroVoice_Name_36000	레일라 전투 출격 1
+HeroVoice_Name_36001	레일라 전투 출격 2
+HeroVoice_Name_36002	레일라 전투 출격 3
+HeroVoice_Name_36003	레일라 승리 1
+HeroVoice_Name_36004	레일라 승리 2
+HeroVoice_Name_36005	레일라 승리 3
+HeroVoice_Name_36006	레일라 실패 1
+HeroVoice_Name_36007	레일라 실패 2
+HeroVoice_Name_36008	레일라 실패 3
+HeroVoice_Name_36009	레일라 전투 불능 1
+HeroVoice_Name_36010	레일라 전투 불능 2
+HeroVoice_Name_36011	레일라 전투 불능 3
+HeroVoice_Name_36012	레일라 팀 편성 1
+HeroVoice_Name_36013	레일라 팀 편성 2
+HeroVoice_Name_36014	레일라 팀 편성 3
+HeroVoice_Name_36015	레일라 액티브 A 1
+HeroVoice_Name_36016	레일라 액티브 A 2
+HeroVoice_Name_36017	레일라 액티브 A 3
+HeroVoice_Name_36018	레일라 액티브 B 1
+HeroVoice_Name_36019	레일라 액티브 B 2
+HeroVoice_Name_36020	레일라 액티브 B 3
+HeroVoice_Name_36300	레일라 로비 일반 1
+HeroVoice_Name_36301	레일라 로비 일반 2
+HeroVoice_Name_36302	레일라 로비 일반 3
+HeroVoice_Name_36303	레일라 로비 터치 1
+HeroVoice_Name_36304	레일라 로비 터치 2
+HeroVoice_Name_36305	레일라 로비 터치 3
+HeroVoice_Name_36306	레일라 생일 로비 터치 1
+HeroVoice_Name_36307	레일라 생일 로비 터치 2
+HeroVoice_Name_36308	레일라 생일 로비 터치 3
+HeroVoice_Name_36600	레일라 최초 획득
+HeroVoice_Name_36601	레일라 2성 달성
+HeroVoice_Name_36602	레일라 3성 달성
+HeroVoice_Name_36603	레일라 4성 달성
+HeroVoice_Name_36604	레일라 5성 달성
+HeroVoice_Name_36605	레일라 경험치 포션 사용 1
+HeroVoice_Name_36606	레일라 경험치 포션 사용 2
+HeroVoice_Name_36607	레일라 경험치 포션 사용 3
+HeroVoice_Name_36608	레일라 친밀도 레벨 업 1
+HeroVoice_Name_36609	레일라 친밀도 레벨 업 2
+HeroVoice_Name_36610	레일라 친밀도 레벨 업 3
+HeroVoice_Name_36611	레일라 호감도 아이템 선물 1
+HeroVoice_Name_36612	레일라 호감도 아이템 선물 2
+HeroVoice_Name_36613	레일라 호감도 아이템 선물 3
+HeroVoice_Name_37000	막시밀리안 전투 출격 1
+HeroVoice_Name_37001	막시밀리안 전투 출격 2
+HeroVoice_Name_37002	막시밀리안 전투 출격 3
+HeroVoice_Name_37003	막시밀리안 승리 1
+HeroVoice_Name_37004	막시밀리안 승리 2
+HeroVoice_Name_37005	막시밀리안 승리 3
+HeroVoice_Name_37006	막시밀리안 실패 1
+HeroVoice_Name_37007	막시밀리안 실패 2
+HeroVoice_Name_37008	막시밀리안 실패 3
+HeroVoice_Name_37009	막시밀리안 전투 불능 1
+HeroVoice_Name_37010	막시밀리안 전투 불능 2
+HeroVoice_Name_37011	막시밀리안 전투 불능 3
+HeroVoice_Name_37012	막시밀리안 팀 편성 1
+HeroVoice_Name_37013	막시밀리안 팀 편성 2
+HeroVoice_Name_37014	막시밀리안 팀 편성 3
+HeroVoice_Name_37015	막시밀리안 액티브 A 1
+HeroVoice_Name_37016	막시밀리안 액티브 A 2
+HeroVoice_Name_37017	막시밀리안 액티브 A 3
+HeroVoice_Name_37018	막시밀리안 액티브 B 1
+HeroVoice_Name_37019	막시밀리안 액티브 B 2
+HeroVoice_Name_37020	막시밀리안 액티브 B 3
+HeroVoice_Name_37300	막시밀리안 로비 일반 1
+HeroVoice_Name_37301	막시밀리안 로비 일반 2
+HeroVoice_Name_37302	막시밀리안 로비 일반 3
+HeroVoice_Name_37303	막시밀리안 로비 터치 1
+HeroVoice_Name_37304	막시밀리안 로비 터치 2
+HeroVoice_Name_37305	막시밀리안 로비 터치 3
+HeroVoice_Name_37306	막시밀리안 생일 로비 터치 1
+HeroVoice_Name_37307	막시밀리안 생일 로비 터치 2
+HeroVoice_Name_37308	막시밀리안 생일 로비 터치 3
+HeroVoice_Name_37600	막시밀리안 최초 획득
+HeroVoice_Name_37601	막시밀리안 3성 달성
+HeroVoice_Name_37602	막시밀리안 4성 달성
+HeroVoice_Name_37603	막시밀리안 5성 달성
+HeroVoice_Name_37604	막시밀리안 경험치 포션 사용 1
+HeroVoice_Name_37605	막시밀리안 경험치 포션 사용 2
+HeroVoice_Name_37606	막시밀리안 경험치 포션 사용 3
+HeroVoice_Name_37607	막시밀리안 친밀도 레벨 업 1
+HeroVoice_Name_37608	막시밀리안 친밀도 레벨 업 2
+HeroVoice_Name_37609	막시밀리안 친밀도 레벨 업 3
+HeroVoice_Name_37610	막시밀리안 호감도 아이템 선물 1
+HeroVoice_Name_37611	막시밀리안 호감도 아이템 선물 2
+HeroVoice_Name_37612	막시밀리안 호감도 아이템 선물 3
+HeroVoice_Name_38000	올리비에 전투 출격 1
+HeroVoice_Name_38001	올리비에 전투 출격 2
+HeroVoice_Name_38002	올리비에 전투 출격 3
+HeroVoice_Name_38003	올리비에 승리 1
+HeroVoice_Name_38004	올리비에 승리 2
+HeroVoice_Name_38005	올리비에 승리 3
+HeroVoice_Name_38006	올리비에 실패 1
+HeroVoice_Name_38007	올리비에 실패 2
+HeroVoice_Name_38008	올리비에 실패 3
+HeroVoice_Name_38009	올리비에 전투 불능 1
+HeroVoice_Name_38010	올리비에 전투 불능 2
+HeroVoice_Name_38011	올리비에 전투 불능 3
+HeroVoice_Name_38012	올리비에 팀 편성 1
+HeroVoice_Name_38013	올리비에 팀 편성 2
+HeroVoice_Name_38014	올리비에 팀 편성 3
+HeroVoice_Name_38015	올리비에 액티브 A 1
+HeroVoice_Name_38016	올리비에 액티브 A 2
+HeroVoice_Name_38017	올리비에 액티브 A 3
+HeroVoice_Name_38018	올리비에 액티브 B 1
+HeroVoice_Name_38019	올리비에 액티브 B 2
+HeroVoice_Name_38020	올리비에 액티브 B 3
+HeroVoice_Name_38300	올리비에 로비 일반 1
+HeroVoice_Name_38301	올리비에 로비 일반 2
+HeroVoice_Name_38302	올리비에 로비 일반 3
+HeroVoice_Name_38303	올리비에 로비 터치 1
+HeroVoice_Name_38304	올리비에 로비 터치 2
+HeroVoice_Name_38305	올리비에 로비 터치 3
+HeroVoice_Name_38306	올리비에 생일 로비 터치 1
+HeroVoice_Name_38307	올리비에 생일 로비 터치 2
+HeroVoice_Name_38308	올리비에 생일 로비 터치 3
+HeroVoice_Name_38600	올리비에 최초 획득
+HeroVoice_Name_38601	올리비에 3성 달성
+HeroVoice_Name_38602	올리비에 4성 달성
+HeroVoice_Name_38603	올리비에 5성 달성
+HeroVoice_Name_38604	올리비에 경험치 포션 사용 1
+HeroVoice_Name_38605	올리비에 경험치 포션 사용 2
+HeroVoice_Name_38606	올리비에 경험치 포션 사용 3
+HeroVoice_Name_38607	올리비에 친밀도 레벨 업 1
+HeroVoice_Name_38608	올리비에 친밀도 레벨 업 2
+HeroVoice_Name_38609	올리비에 친밀도 레벨 업 3
+HeroVoice_Name_38610	올리비에 호감도 아이템 선물 1
+HeroVoice_Name_38611	올리비에 호감도 아이템 선물 2
+HeroVoice_Name_38612	올리비에 호감도 아이템 선물 3
+HeroVoice_Name_39000	오필리아 전투 출격 1
+HeroVoice_Name_39001	오필리아 전투 출격 2
+HeroVoice_Name_39002	오필리아 전투 출격 3
+HeroVoice_Name_39003	오필리아 승리 1
+HeroVoice_Name_39004	오필리아 승리 2
+HeroVoice_Name_39005	오필리아 승리 3
+HeroVoice_Name_39006	오필리아 실패 1
+HeroVoice_Name_39007	오필리아 실패 2
+HeroVoice_Name_39008	오필리아 실패 3
+HeroVoice_Name_39009	오필리아 전투 불능 1
+HeroVoice_Name_39010	오필리아 전투 불능 2
+HeroVoice_Name_39011	오필리아 전투 불능 3
+HeroVoice_Name_39012	오필리아 팀 편성 1
+HeroVoice_Name_39013	오필리아 팀 편성 2
+HeroVoice_Name_39014	오필리아 팀 편성 3
+HeroVoice_Name_39015	오필리아 액티브 A 1
+HeroVoice_Name_39016	오필리아 액티브 A 2
+HeroVoice_Name_39017	오필리아 액티브 A 3
+HeroVoice_Name_39018	오필리아 액티브 B 1
+HeroVoice_Name_39019	오필리아 액티브 B 2
+HeroVoice_Name_39020	오필리아 액티브 B 3
+HeroVoice_Name_39300	오필리아 로비 일반 1
+HeroVoice_Name_39301	오필리아 로비 일반 2
+HeroVoice_Name_39302	오필리아 로비 일반 3
+HeroVoice_Name_39303	오필리아 로비 터치 1
+HeroVoice_Name_39304	오필리아 로비 터치 2
+HeroVoice_Name_39305	오필리아 로비 터치 3
+HeroVoice_Name_39306	오필리아 생일 로비 터치 1
+HeroVoice_Name_39307	오필리아 생일 로비 터치 2
+HeroVoice_Name_39308	오필리아 생일 로비 터치 3
+HeroVoice_Name_39600	오필리아 최초 획득
+HeroVoice_Name_39601	오필리아 3성 달성
+HeroVoice_Name_39602	오필리아 4성 달성
+HeroVoice_Name_39603	오필리아 5성 달성
+HeroVoice_Name_39604	오필리아 경험치 포션 사용 1
+HeroVoice_Name_39605	오필리아 경험치 포션 사용 2
+HeroVoice_Name_39606	오필리아 경험치 포션 사용 3
+HeroVoice_Name_39607	오필리아 친밀도 레벨 업 1
+HeroVoice_Name_39608	오필리아 친밀도 레벨 업 2
+HeroVoice_Name_39609	오필리아 친밀도 레벨 업 3
+HeroVoice_Name_39610	오필리아 호감도 아이템 선물 1
+HeroVoice_Name_39611	오필리아 호감도 아이템 선물 2
+HeroVoice_Name_39612	오필리아 호감도 아이템 선물 3
+HeroVoice_Name_40000	아나스타샤 전투 출격 1
+HeroVoice_Name_40001	아나스타샤 전투 출격 2
+HeroVoice_Name_40002	아나스타샤 전투 출격 3
+HeroVoice_Name_40003	아나스타샤 승리 1
+HeroVoice_Name_40004	아나스타샤 승리 2
+HeroVoice_Name_40005	아나스타샤 승리 3
+HeroVoice_Name_40006	아나스타샤 실패 1
+HeroVoice_Name_40007	아나스타샤 실패 2
+HeroVoice_Name_40008	아나스타샤 실패 3
+HeroVoice_Name_40009	아나스타샤 전투 불능 1
+HeroVoice_Name_40010	아나스타샤 전투 불능 2
+HeroVoice_Name_40011	아나스타샤 전투 불능 3
+HeroVoice_Name_40012	아나스타샤 팀 편성 1
+HeroVoice_Name_40013	아나스타샤 팀 편성 2
+HeroVoice_Name_40014	아나스타샤 팀 편성 3
+HeroVoice_Name_40015	아나스타샤 액티브 A 1
+HeroVoice_Name_40016	아나스타샤 액티브 A 2
+HeroVoice_Name_40017	아나스타샤 액티브 A 3
+HeroVoice_Name_40018	아나스타샤 액티브 B 1
+HeroVoice_Name_40019	아나스타샤 액티브 B 2
+HeroVoice_Name_40020	아나스타샤 액티브 B 3
+HeroVoice_Name_40300	아나스타샤 로비 일반 1
+HeroVoice_Name_40301	아나스타샤 로비 일반 2
+HeroVoice_Name_40302	아나스타샤 로비 일반 3
+HeroVoice_Name_40303	아나스타샤 로비 터치 1
+HeroVoice_Name_40304	아나스타샤 로비 터치 2
+HeroVoice_Name_40305	아나스타샤 로비 터치 3
+HeroVoice_Name_40306	아나스타샤 생일 로비 터치 1
+HeroVoice_Name_40307	아나스타샤 생일 로비 터치 2
+HeroVoice_Name_40308	아나스타샤 생일 로비 터치 3
+HeroVoice_Name_40600	아나스타샤 최초 획득
+HeroVoice_Name_40601	아나스타샤 2성 달성
+HeroVoice_Name_40602	아나스타샤 3성 달성
+HeroVoice_Name_40603	아나스타샤 4성 달성
+HeroVoice_Name_40604	아나스타샤 5성 달성
+HeroVoice_Name_40605	아나스타샤 경험치 포션 사용 1
+HeroVoice_Name_40606	아나스타샤 경험치 포션 사용 2
+HeroVoice_Name_40607	아나스타샤 경험치 포션 사용 3
+HeroVoice_Name_40608	아나스타샤 친밀도 레벨 업 1
+HeroVoice_Name_40609	아나스타샤 친밀도 레벨 업 2
+HeroVoice_Name_40610	아나스타샤 친밀도 레벨 업 3
+HeroVoice_Name_40611	아나스타샤 호감도 아이템 선물 1
+HeroVoice_Name_40612	아나스타샤 호감도 아이템 선물 2
+HeroVoice_Name_40613	아나스타샤 호감도 아이템 선물 3
+HeroVoice_Name_41000	피치 크러시 전투 출격 1
+HeroVoice_Name_41001	피치 크러시 전투 출격 2
+HeroVoice_Name_41002	피치 크러시 전투 출격 3
+HeroVoice_Name_41003	피치 크러시 승리 1
+HeroVoice_Name_41004	피치 크러시 승리 2
+HeroVoice_Name_41005	피치 크러시 승리 3
+HeroVoice_Name_41006	피치 크러시 실패 1
+HeroVoice_Name_41007	피치 크러시 실패 2
+HeroVoice_Name_41008	피치 크러시 실패 3
+HeroVoice_Name_41009	피치 크러시 전투 불능 1
+HeroVoice_Name_41010	피치 크러시 전투 불능 2
+HeroVoice_Name_41011	피치 크러시 전투 불능 3
+HeroVoice_Name_41012	피치 크러시 팀 편성 1
+HeroVoice_Name_41013	피치 크러시 팀 편성 2
+HeroVoice_Name_41014	피치 크러시 팀 편성 3
+HeroVoice_Name_41015	피치 크러시 액티브 A 1
+HeroVoice_Name_41016	피치 크러시 액티브 A 2
+HeroVoice_Name_41017	피치 크러시 액티브 A 3
+HeroVoice_Name_41018	피치 크러시 액티브 B 1
+HeroVoice_Name_41019	피치 크러시 액티브 B 2
+HeroVoice_Name_41020	피치 크러시 액티브 B 3
+HeroVoice_Name_41300	피치 크러시 로비 일반 1
+HeroVoice_Name_41301	피치 크러시 로비 일반 2
+HeroVoice_Name_41302	피치 크러시 로비 일반 3
+HeroVoice_Name_41303	피치 크러시 로비 터치 1
+HeroVoice_Name_41304	피치 크러시 로비 터치 2
+HeroVoice_Name_41305	피치 크러시 로비 터치 3
+HeroVoice_Name_41306	피치 크러시 생일 로비 터치 1
+HeroVoice_Name_41307	피치 크러시 생일 로비 터치 2
+HeroVoice_Name_41308	피치 크러시 생일 로비 터치 3
+HeroVoice_Name_41600	피치 크러시 최초 획득
+HeroVoice_Name_41601	피치 크러시 4성 달성
+HeroVoice_Name_41602	피치 크러시 5성 달성
+HeroVoice_Name_41603	피치 크러시 경험치 포션 사용 1
+HeroVoice_Name_41604	피치 크러시 경험치 포션 사용 2
+HeroVoice_Name_41605	피치 크러시 경험치 포션 사용 3
+HeroVoice_Name_41606	피치 크러시 친밀도 레벨 업 1
+HeroVoice_Name_41607	피치 크러시 친밀도 레벨 업 2
+HeroVoice_Name_41608	피치 크러시 친밀도 레벨 업 3
+HeroVoice_Name_41609	피치 크러시 호감도 아이템 선물 1
+HeroVoice_Name_41610	피치 크러시 호감도 아이템 선물 2
+HeroVoice_Name_41611	피치 크러시 호감도 아이템 선물 3
+HeroVoice_Name_42000	자르갈 전투 출격 1
+HeroVoice_Name_42001	자르갈 전투 출격 2
+HeroVoice_Name_42002	자르갈 전투 출격 3
+HeroVoice_Name_42003	자르갈 승리 1
+HeroVoice_Name_42004	자르갈 승리 2
+HeroVoice_Name_42005	자르갈 승리 3
+HeroVoice_Name_42006	자르갈 실패 1
+HeroVoice_Name_42007	자르갈 실패 2
+HeroVoice_Name_42008	자르갈 실패 3
+HeroVoice_Name_42009	자르갈 전투 불능 1
+HeroVoice_Name_42010	자르갈 전투 불능 2
+HeroVoice_Name_42011	자르갈 전투 불능 3
+HeroVoice_Name_42012	자르갈 팀 편성 1
+HeroVoice_Name_42013	자르갈 팀 편성 2
+HeroVoice_Name_42014	자르갈 팀 편성 3
+HeroVoice_Name_42015	자르갈 액티브 A 1
+HeroVoice_Name_42016	자르갈 액티브 A 2
+HeroVoice_Name_42017	자르갈 액티브 A 3
+HeroVoice_Name_42018	자르갈 액티브 B 1
+HeroVoice_Name_42019	자르갈 액티브 B 2
+HeroVoice_Name_42020	자르갈 액티브 B 3
+HeroVoice_Name_42300	자르갈 로비 일반 1
+HeroVoice_Name_42301	자르갈 로비 일반 2
+HeroVoice_Name_42302	자르갈 로비 일반 3
+HeroVoice_Name_42303	자르갈 로비 터치 1
+HeroVoice_Name_42304	자르갈 로비 터치 2
+HeroVoice_Name_42305	자르갈 로비 터치 3
+HeroVoice_Name_42306	자르갈 생일 로비 터치 1
+HeroVoice_Name_42307	자르갈 생일 로비 터치 2
+HeroVoice_Name_42308	자르갈 생일 로비 터치 3
+HeroVoice_Name_42600	자르갈 최초 획득
+HeroVoice_Name_42601	자르갈 3성 달성
+HeroVoice_Name_42602	자르갈 4성 달성
+HeroVoice_Name_42603	자르갈 5성 달성
+HeroVoice_Name_42604	자르갈 경험치 포션 사용 1
+HeroVoice_Name_42605	자르갈 경험치 포션 사용 2
+HeroVoice_Name_42606	자르갈 경험치 포션 사용 3
+HeroVoice_Name_42607	자르갈 친밀도 레벨 업 1
+HeroVoice_Name_42608	자르갈 친밀도 레벨 업 2
+HeroVoice_Name_42609	자르갈 친밀도 레벨 업 3
+HeroVoice_Name_42610	자르갈 호감도 아이템 선물 1
+HeroVoice_Name_42611	자르갈 호감도 아이템 선물 2
+HeroVoice_Name_42612	자르갈 호감도 아이템 선물 3
+HeroVoice_Name_43000	닉스 전투 출격 1
+HeroVoice_Name_43001	닉스 전투 출격 2
+HeroVoice_Name_43002	닉스 전투 출격 3
+HeroVoice_Name_43003	닉스 승리 1
+HeroVoice_Name_43004	닉스 승리 2
+HeroVoice_Name_43005	닉스 승리 3
+HeroVoice_Name_43006	닉스 실패 1
+HeroVoice_Name_43007	닉스 실패 2
+HeroVoice_Name_43008	닉스 실패 3
+HeroVoice_Name_43009	닉스 전투 불능 1
+HeroVoice_Name_43010	닉스 전투 불능 2
+HeroVoice_Name_43011	닉스 전투 불능 3
+HeroVoice_Name_43012	닉스 팀 편성 1
+HeroVoice_Name_43013	닉스 팀 편성 2
+HeroVoice_Name_43014	닉스 팀 편성 3
+HeroVoice_Name_43015	닉스 액티브 A 1
+HeroVoice_Name_43016	닉스 액티브 A 2
+HeroVoice_Name_43017	닉스 액티브 A 3
+HeroVoice_Name_43018	닉스 액티브 B 1
+HeroVoice_Name_43019	닉스 액티브 B 2
+HeroVoice_Name_43020	닉스 액티브 B 3
+HeroVoice_Name_43300	닉스 로비 일반 1
+HeroVoice_Name_43301	닉스 로비 일반 2
+HeroVoice_Name_43302	닉스 로비 일반 3
+HeroVoice_Name_43303	닉스 로비 터치 1
+HeroVoice_Name_43304	닉스 로비 터치 2
+HeroVoice_Name_43305	닉스 로비 터치 3
+HeroVoice_Name_43306	닉스 생일 로비 터치 1
+HeroVoice_Name_43307	닉스 생일 로비 터치 2
+HeroVoice_Name_43308	닉스 생일 로비 터치 3
+HeroVoice_Name_43600	닉스 최초 획득
+HeroVoice_Name_43601	닉스 4성 달성
+HeroVoice_Name_43602	닉스 5성 달성
+HeroVoice_Name_43603	닉스 경험치 포션 사용 1
+HeroVoice_Name_43604	닉스 경험치 포션 사용 2
+HeroVoice_Name_43605	닉스 경험치 포션 사용 3
+HeroVoice_Name_43606	닉스 친밀도 레벨 업 1
+HeroVoice_Name_43607	닉스 친밀도 레벨 업 2
+HeroVoice_Name_43608	닉스 친밀도 레벨 업 3
+HeroVoice_Name_43609	닉스 호감도 아이템 선물 1
+HeroVoice_Name_43610	닉스 호감도 아이템 선물 2
+HeroVoice_Name_43611	닉스 호감도 아이템 선물 3
+HeroVoice_Name_44000	사야 전투 출격 1
+HeroVoice_Name_44001	사야 전투 출격 2
+HeroVoice_Name_44002	사야 전투 출격 3
+HeroVoice_Name_44003	사야 승리 1
+HeroVoice_Name_44004	사야 승리 2
+HeroVoice_Name_44005	사야 승리 3
+HeroVoice_Name_44006	사야 실패 1
+HeroVoice_Name_44007	사야 실패 2
+HeroVoice_Name_44008	사야 실패 3
+HeroVoice_Name_44009	사야 전투 불능 1
+HeroVoice_Name_44010	사야 전투 불능 2
+HeroVoice_Name_44011	사야 전투 불능 3
+HeroVoice_Name_44012	사야 팀 편성 1
+HeroVoice_Name_44013	사야 팀 편성 2
+HeroVoice_Name_44014	사야 팀 편성 3
+HeroVoice_Name_44015	사야 액티브 A 1
+HeroVoice_Name_44016	사야 액티브 A 2
+HeroVoice_Name_44017	사야 액티브 A 3
+HeroVoice_Name_44018	사야 액티브 B 1
+HeroVoice_Name_44019	사야 액티브 B 2
+HeroVoice_Name_44020	사야 액티브 B 3
+HeroVoice_Name_44300	사야 로비 일반 1
+HeroVoice_Name_44301	사야 로비 일반 2
+HeroVoice_Name_44302	사야 로비 일반 3
+HeroVoice_Name_44303	사야 로비 터치 1
+HeroVoice_Name_44304	사야 로비 터치 2
+HeroVoice_Name_44305	사야 로비 터치 3
+HeroVoice_Name_44306	사야 생일 로비 터치 1
+HeroVoice_Name_44307	사야 생일 로비 터치 2
+HeroVoice_Name_44308	사야 생일 로비 터치 3
+HeroVoice_Name_44600	사야 최초 획득
+HeroVoice_Name_44601	사야 4성 달성
+HeroVoice_Name_44602	사야 5성 달성
+HeroVoice_Name_44603	사야 경험치 포션 사용 1
+HeroVoice_Name_44604	사야 경험치 포션 사용 2
+HeroVoice_Name_44605	사야 경험치 포션 사용 3
+HeroVoice_Name_44606	사야 친밀도 레벨 업 1
+HeroVoice_Name_44607	사야 친밀도 레벨 업 2
+HeroVoice_Name_44608	사야 친밀도 레벨 업 3
+HeroVoice_Name_44609	사야 호감도 아이템 선물 1
+HeroVoice_Name_44610	사야 호감도 아이템 선물 2
+HeroVoice_Name_44611	사야 호감도 아이템 선물 3
+HeroVoice_Name_45000	바다 전투 출격 1
+HeroVoice_Name_45001	바다 전투 출격 2
+HeroVoice_Name_45002	바다 전투 출격 3
+HeroVoice_Name_45003	바다 승리 1
+HeroVoice_Name_45004	바다 승리 2
+HeroVoice_Name_45005	바다 승리 3
+HeroVoice_Name_45006	바다 실패 1
+HeroVoice_Name_45007	바다 실패 2
+HeroVoice_Name_45008	바다 실패 3
+HeroVoice_Name_45009	바다 전투 불능 1
+HeroVoice_Name_45010	바다 전투 불능 2
+HeroVoice_Name_45011	바다 전투 불능 3
+HeroVoice_Name_45012	바다 팀 편성 1
+HeroVoice_Name_45013	바다 팀 편성 2
+HeroVoice_Name_45014	바다 팀 편성 3
+HeroVoice_Name_45015	바다 액티브 A 1
+HeroVoice_Name_45016	바다 액티브 A 2
+HeroVoice_Name_45017	바다 액티브 A 3
+HeroVoice_Name_45018	바다 액티브 B 1
+HeroVoice_Name_45019	바다 액티브 B 2
+HeroVoice_Name_45020	바다 액티브 B 3
+HeroVoice_Name_45300	바다 로비 일반 1
+HeroVoice_Name_45301	바다 로비 일반 2
+HeroVoice_Name_45302	바다 로비 일반 3
+HeroVoice_Name_45303	바다 로비 터치 1
+HeroVoice_Name_45304	바다 로비 터치 2
+HeroVoice_Name_45305	바다 로비 터치 3
+HeroVoice_Name_45306	바다 생일 로비 터치 1
+HeroVoice_Name_45307	바다 생일 로비 터치 2
+HeroVoice_Name_45308	바다 생일 로비 터치 3
+HeroVoice_Name_45600	바다 최초 획득
+HeroVoice_Name_45601	바다 4성 달성
+HeroVoice_Name_45602	바다 5성 달성
+HeroVoice_Name_45603	바다 경험치 포션 사용 1
+HeroVoice_Name_45604	바다 경험치 포션 사용 2
+HeroVoice_Name_45605	바다 경험치 포션 사용 3
+HeroVoice_Name_45606	바다 친밀도 레벨 업 1
+HeroVoice_Name_45607	바다 친밀도 레벨 업 2
+HeroVoice_Name_45608	바다 친밀도 레벨 업 3
+HeroVoice_Name_45609	바다 호감도 아이템 선물 1
+HeroVoice_Name_45610	바다 호감도 아이템 선물 2
+HeroVoice_Name_45611	바다 호감도 아이템 선물 3
+HeroVoice_Name_46000	릴리스 전투 출격 1
+HeroVoice_Name_46001	릴리스 전투 출격 2
+HeroVoice_Name_46002	릴리스 전투 출격 3
+HeroVoice_Name_46003	릴리스 승리 1
+HeroVoice_Name_46004	릴리스 승리 2
+HeroVoice_Name_46005	릴리스 승리 3
+HeroVoice_Name_46006	릴리스 실패 1
+HeroVoice_Name_46007	릴리스 실패 2
+HeroVoice_Name_46008	릴리스 실패 3
+HeroVoice_Name_46009	릴리스 전투 불능 1
+HeroVoice_Name_46010	릴리스 전투 불능 2
+HeroVoice_Name_46011	릴리스 전투 불능 3
+HeroVoice_Name_46012	릴리스 팀 편성 1
+HeroVoice_Name_46013	릴리스 팀 편성 2
+HeroVoice_Name_46014	릴리스 팀 편성 3
+HeroVoice_Name_46015	릴리스 액티브 A 1
+HeroVoice_Name_46016	릴리스 액티브 A 2
+HeroVoice_Name_46017	릴리스 액티브 A 3
+HeroVoice_Name_46018	릴리스 액티브 B 1
+HeroVoice_Name_46019	릴리스 액티브 B 2
+HeroVoice_Name_46020	릴리스 액티브 B 3
+HeroVoice_Name_46300	릴리스 로비 일반 1
+HeroVoice_Name_46301	릴리스 로비 일반 2
+HeroVoice_Name_46302	릴리스 로비 일반 3
+HeroVoice_Name_46303	릴리스 로비 터치 1
+HeroVoice_Name_46304	릴리스 로비 터치 2
+HeroVoice_Name_46305	릴리스 로비 터치 3
+HeroVoice_Name_46306	릴리스 생일 로비 터치 1
+HeroVoice_Name_46307	릴리스 생일 로비 터치 2
+HeroVoice_Name_46308	릴리스 생일 로비 터치 3
+HeroVoice_Name_46600	릴리스 최초 획득
+HeroVoice_Name_46601	릴리스 4성 달성
+HeroVoice_Name_46602	릴리스 5성 달성
+HeroVoice_Name_46603	릴리스 경험치 포션 사용 1
+HeroVoice_Name_46604	릴리스 경험치 포션 사용 2
+HeroVoice_Name_46605	릴리스 경험치 포션 사용 3
+HeroVoice_Name_46606	릴리스 친밀도 레벨 업 1
+HeroVoice_Name_46607	릴리스 친밀도 레벨 업 2
+HeroVoice_Name_46608	릴리스 친밀도 레벨 업 3
+HeroVoice_Name_46609	릴리스 호감도 아이템 선물 1
+HeroVoice_Name_46610	릴리스 호감도 아이템 선물 2
+HeroVoice_Name_46611	릴리스 호감도 아이템 선물 3
+HeroVoice_Name_47000	아크 포리프 전투 출격 1
+HeroVoice_Name_47001	아크 포리프 전투 출격 2
+HeroVoice_Name_47002	아크 포리프 전투 출격 3
+HeroVoice_Name_47003	아크 포리프 승리 1
+HeroVoice_Name_47004	아크 포리프 승리 2
+HeroVoice_Name_47005	아크 포리프 승리 3
+HeroVoice_Name_47006	아크 포리프 실패 1
+HeroVoice_Name_47007	아크 포리프 실패 2
+HeroVoice_Name_47008	아크 포리프 실패 3
+HeroVoice_Name_47009	아크 포리프 전투 불능 1
+HeroVoice_Name_47010	아크 포리프 전투 불능 2
+HeroVoice_Name_47011	아크 포리프 전투 불능 3
+HeroVoice_Name_47012	아크 포리프 팀 편성 1
+HeroVoice_Name_47013	아크 포리프 팀 편성 2
+HeroVoice_Name_47014	아크 포리프 팀 편성 3
+HeroVoice_Name_47015	아크 포리프 액티브 A 1
+HeroVoice_Name_47016	아크 포리프 액티브 A 2
+HeroVoice_Name_47017	아크 포리프 액티브 A 3
+HeroVoice_Name_47018	아크 포리프 액티브 B 1
+HeroVoice_Name_47019	아크 포리프 액티브 B 2
+HeroVoice_Name_47020	아크 포리프 액티브 B 3
+HeroVoice_Name_47300	아크 포리프 로비 일반 1
+HeroVoice_Name_47301	아크 포리프 로비 일반 2
+HeroVoice_Name_47302	아크 포리프 로비 일반 3
+HeroVoice_Name_47303	아크 포리프 로비 터치 1
+HeroVoice_Name_47304	아크 포리프 로비 터치 2
+HeroVoice_Name_47305	아크 포리프 로비 터치 3
+HeroVoice_Name_47306	아크 포리프 생일 로비 터치 1
+HeroVoice_Name_47307	아크 포리프 생일 로비 터치 2
+HeroVoice_Name_47308	아크 포리프 생일 로비 터치 3
+HeroVoice_Name_47600	아크 포리프 최초 획득
+HeroVoice_Name_47601	아크 포리프 3성 달성
+HeroVoice_Name_47602	아크 포리프 4성 달성
+HeroVoice_Name_47603	아크 포리프 5성 달성
+HeroVoice_Name_47604	아크 포리프 경험치 포션 사용 1
+HeroVoice_Name_47605	아크 포리프 경험치 포션 사용 2
+HeroVoice_Name_47606	아크 포리프 경험치 포션 사용 3
+HeroVoice_Name_47607	아크 포리프 친밀도 레벨 업 1
+HeroVoice_Name_47608	아크 포리프 친밀도 레벨 업 2
+HeroVoice_Name_47609	아크 포리프 친밀도 레벨 업 3
+HeroVoice_Name_47610	아크 포리프 호감도 아이템 선물 1
+HeroVoice_Name_47611	아크 포리프 호감도 아이템 선물 2
+HeroVoice_Name_47612	아크 포리프 호감도 아이템 선물 3
+HeroVoice_Name_48000	모니카 전투 출격 1
+HeroVoice_Name_48001	모니카 전투 출격 2
+HeroVoice_Name_48002	모니카 전투 출격 3
+HeroVoice_Name_48003	모니카 전투 출격 4
+HeroVoice_Name_48004	모니카 승리 1
+HeroVoice_Name_48005	모니카 승리 2
+HeroVoice_Name_48006	모니카 승리 3
+HeroVoice_Name_48007	모니카 실패 1
+HeroVoice_Name_48008	모니카 실패 2
+HeroVoice_Name_48009	모니카 실패 3
+HeroVoice_Name_48010	모니카 전투 불능 1
+HeroVoice_Name_48011	모니카 전투 불능 2
+HeroVoice_Name_48012	모니카 전투 불능 3
+HeroVoice_Name_48013	모니카 팀 편성 1
+HeroVoice_Name_48014	모니카 팀 편성 2
+HeroVoice_Name_48015	모니카 팀 편성 3
+HeroVoice_Name_48016	모니카 액티브 A 1
+HeroVoice_Name_48017	모니카 액티브 A 2
+HeroVoice_Name_48018	모니카 액티브 A 3
+HeroVoice_Name_48019	모니카 액티브 B 1
+HeroVoice_Name_48020	모니카 액티브 B 2
+HeroVoice_Name_48021	모니카 액티브 B 3
+HeroVoice_Name_48300	모니카 로비 일반 1
+HeroVoice_Name_48301	모니카 로비 일반 2
+HeroVoice_Name_48302	모니카 로비 일반 3
+HeroVoice_Name_48303	모니카 로비 일반 4
+HeroVoice_Name_48304	모니카 로비 터치 1
+HeroVoice_Name_48305	모니카 로비 터치 2
+HeroVoice_Name_48306	모니카 로비 터치 3
+HeroVoice_Name_48307	모니카 로비 터치 4
+HeroVoice_Name_48308	모니카 생일 로비 터치 1
+HeroVoice_Name_48309	모니카 생일 로비 터치 2
+HeroVoice_Name_48310	모니카 생일 로비 터치 3
+HeroVoice_Name_48311	모니카 생일 로비 터치 4
+HeroVoice_Name_48600	모니카 최초 획득
+HeroVoice_Name_48601	모니카 4성 달성
+HeroVoice_Name_48602	모니카 5성 달성
+HeroVoice_Name_48603	모니카 경험치 포션 사용 1
+HeroVoice_Name_48604	모니카 경험치 포션 사용 2
+HeroVoice_Name_48605	모니카 경험치 포션 사용 3
+HeroVoice_Name_48606	모니카 친밀도 레벨 업 1
+HeroVoice_Name_48607	모니카 친밀도 레벨 업 2
+HeroVoice_Name_48608	모니카 친밀도 레벨 업 3
+HeroVoice_Name_48609	모니카 호감도 아이템 선물 1
+HeroVoice_Name_48610	모니카 호감도 아이템 선물 2
+HeroVoice_Name_48611	모니카 호감도 아이템 선물 3
+HeroVoice_Name_49000	메이메이 전투 출격 1
+HeroVoice_Name_49001	메이메이 전투 출격 2
+HeroVoice_Name_49002	메이메이 전투 출격 3
+HeroVoice_Name_49003	메이메이 전투 출격 4
+HeroVoice_Name_49004	메이메이 승리 1
+HeroVoice_Name_49005	메이메이 승리 2
+HeroVoice_Name_49006	메이메이 승리 3
+HeroVoice_Name_49007	메이메이 실패 1
+HeroVoice_Name_49008	메이메이 실패 2
+HeroVoice_Name_49009	메이메이 실패 3
+HeroVoice_Name_49010	메이메이 전투 불능 1
+HeroVoice_Name_49011	메이메이 전투 불능 2
+HeroVoice_Name_49012	메이메이 전투 불능 3
+HeroVoice_Name_49013	메이메이 팀 편성 1
+HeroVoice_Name_49014	메이메이 팀 편성 2
+HeroVoice_Name_49015	메이메이 팀 편성 3
+HeroVoice_Name_49016	메이메이 액티브 A 1
+HeroVoice_Name_49017	메이메이 액티브 A 2
+HeroVoice_Name_49018	메이메이 액티브 A 3
+HeroVoice_Name_49019	메이메이 액티브 B 1
+HeroVoice_Name_49020	메이메이 액티브 B 2
+HeroVoice_Name_49021	메이메이 액티브 B 3
+HeroVoice_Name_49300	메이메이 로비 일반 1
+HeroVoice_Name_49301	메이메이 로비 일반 2
+HeroVoice_Name_49302	메이메이 로비 일반 3
+HeroVoice_Name_49303	메이메이 로비 일반 4
+HeroVoice_Name_49304	메이메이 로비 터치 1
+HeroVoice_Name_49305	메이메이 로비 터치 2
+HeroVoice_Name_49306	메이메이 로비 터치 3
+HeroVoice_Name_49307	메이메이 로비 터치 4
+HeroVoice_Name_49308	메이메이 생일 로비 터치 1
+HeroVoice_Name_49309	메이메이 생일 로비 터치 2
+HeroVoice_Name_49310	메이메이 생일 로비 터치 3
+HeroVoice_Name_49311	메이메이 생일 로비 터치 4
+HeroVoice_Name_49600	메이메이 최초 획득
+HeroVoice_Name_49601	메이메이 4성 달성
+HeroVoice_Name_49602	메이메이 5성 달성
+HeroVoice_Name_49603	메이메이 경험치 포션 사용 1
+HeroVoice_Name_49604	메이메이 경험치 포션 사용 2
+HeroVoice_Name_49605	메이메이 경험치 포션 사용 3
+HeroVoice_Name_49606	메이메이 친밀도 레벨 업 1
+HeroVoice_Name_49607	메이메이 친밀도 레벨 업 2
+HeroVoice_Name_49608	메이메이 친밀도 레벨 업 3
+HeroVoice_Name_49609	메이메이 호감도 아이템 선물 1
+HeroVoice_Name_49610	메이메이 호감도 아이템 선물 2
+HeroVoice_Name_49611	메이메이 호감도 아이템 선물 3
+HeroVoice_Name_50000	하랑 전투 출격 1
+HeroVoice_Name_50001	하랑 전투 출격 2
+HeroVoice_Name_50002	하랑 전투 출격 3
+HeroVoice_Name_50003	하랑 승리 1
+HeroVoice_Name_50004	하랑 승리 2
+HeroVoice_Name_50005	하랑 승리 3
+HeroVoice_Name_50006	하랑 실패 1
+HeroVoice_Name_50007	하랑 실패 2
+HeroVoice_Name_50008	하랑 실패 3
+HeroVoice_Name_50009	하랑 전투 불능 1
+HeroVoice_Name_50010	하랑 전투 불능 2
+HeroVoice_Name_50011	하랑 전투 불능 3
+HeroVoice_Name_50012	하랑 팀 편성 1
+HeroVoice_Name_50013	하랑 팀 편성 2
+HeroVoice_Name_50014	하랑 팀 편성 3
+HeroVoice_Name_50015	하랑 액티브 A 1
+HeroVoice_Name_50016	하랑 액티브 A 2
+HeroVoice_Name_50017	하랑 액티브 A 3
+HeroVoice_Name_50018	하랑 액티브 B 1
+HeroVoice_Name_50019	하랑 액티브 B 2
+HeroVoice_Name_50020	하랑 액티브 B 3
+HeroVoice_Name_50300	하랑 로비 일반 1
+HeroVoice_Name_50301	하랑 로비 일반 2
+HeroVoice_Name_50302	하랑 로비 일반 3
+HeroVoice_Name_50303	하랑 로비 터치 1
+HeroVoice_Name_50304	하랑 로비 터치 2
+HeroVoice_Name_50305	하랑 로비 터치 3
+HeroVoice_Name_50306	하랑 생일 로비 터치 1
+HeroVoice_Name_50307	하랑 생일 로비 터치 2
+HeroVoice_Name_50308	하랑 생일 로비 터치 3
+HeroVoice_Name_50600	하랑 최초 획득
+HeroVoice_Name_50601	하랑 4성 달성
+HeroVoice_Name_50602	하랑 5성 달성
+HeroVoice_Name_50603	하랑 경험치 포션 사용 1
+HeroVoice_Name_50604	하랑 경험치 포션 사용 2
+HeroVoice_Name_50605	하랑 경험치 포션 사용 3
+HeroVoice_Name_50606	하랑 친밀도 레벨 업 1
+HeroVoice_Name_50607	하랑 친밀도 레벨 업 2
+HeroVoice_Name_50608	하랑 친밀도 레벨 업 3
+HeroVoice_Name_50609	하랑 호감도 아이템 선물 1
+HeroVoice_Name_50610	하랑 호감도 아이템 선물 2
+HeroVoice_Name_50611	하랑 호감도 아이템 선물 3
+HeroVoice_Name_51000	클로드 전투 출격 1
+HeroVoice_Name_51001	클로드 전투 출격 2
+HeroVoice_Name_51002	클로드 전투 출격 3
+HeroVoice_Name_51003	클로드 승리 1
+HeroVoice_Name_51004	클로드 승리 2
+HeroVoice_Name_51005	클로드 승리 3
+HeroVoice_Name_51006	클로드 실패 1
+HeroVoice_Name_51007	클로드 실패 2
+HeroVoice_Name_51008	클로드 실패 3
+HeroVoice_Name_51009	클로드 전투 불능 1
+HeroVoice_Name_51010	클로드 전투 불능 2
+HeroVoice_Name_51011	클로드 전투 불능 3
+HeroVoice_Name_51012	클로드 팀 편성 1
+HeroVoice_Name_51013	클로드 팀 편성 2
+HeroVoice_Name_51014	클로드 팀 편성 3
+HeroVoice_Name_51015	클로드 액티브 A 1
+HeroVoice_Name_51016	클로드 액티브 A 2
+HeroVoice_Name_51017	클로드 액티브 A 3
+HeroVoice_Name_51018	클로드 액티브 B 1
+HeroVoice_Name_51019	클로드 액티브 B 2
+HeroVoice_Name_51020	클로드 액티브 B 3
+HeroVoice_Name_51300	클로드 로비 일반 1
+HeroVoice_Name_51301	클로드 로비 일반 2
+HeroVoice_Name_51302	클로드 로비 일반 3
+HeroVoice_Name_51303	클로드 로비 터치 1
+HeroVoice_Name_51304	클로드 로비 터치 2
+HeroVoice_Name_51305	클로드 로비 터치 3
+HeroVoice_Name_51306	클로드 생일 로비 터치 1
+HeroVoice_Name_51307	클로드 생일 로비 터치 2
+HeroVoice_Name_51308	클로드 생일 로비 터치 3
+HeroVoice_Name_51600	클로드 최초 획득
+HeroVoice_Name_51601	클로드 4성 달성
+HeroVoice_Name_51602	클로드 5성 달성
+HeroVoice_Name_51603	클로드 경험치 포션 사용 1
+HeroVoice_Name_51604	클로드 경험치 포션 사용 2
+HeroVoice_Name_51605	클로드 경험치 포션 사용 3
+HeroVoice_Name_51606	클로드 친밀도 레벨 업 1
+HeroVoice_Name_51607	클로드 친밀도 레벨 업 2
+HeroVoice_Name_51608	클로드 친밀도 레벨 업 3
+HeroVoice_Name_51609	클로드 호감도 아이템 선물 1
+HeroVoice_Name_51610	클로드 호감도 아이템 선물 2
+HeroVoice_Name_51611	클로드 호감도 아이템 선물 3
+HeroVoice_Name_52000	러프 전투 출격 1
+HeroVoice_Name_52001	러프 전투 출격 2
+HeroVoice_Name_52002	러프 전투 출격 3
+HeroVoice_Name_52003	러프 승리 1
+HeroVoice_Name_52004	러프 승리 2
+HeroVoice_Name_52005	러프 승리 3
+HeroVoice_Name_52006	러프 실패 1
+HeroVoice_Name_52007	러프 실패 2
+HeroVoice_Name_52008	러프 실패 3
+HeroVoice_Name_52009	러프 전투 불능 1
+HeroVoice_Name_52010	러프 전투 불능 2
+HeroVoice_Name_52011	러프 전투 불능 3
+HeroVoice_Name_52012	러프 팀 편성 1
+HeroVoice_Name_52013	러프 팀 편성 2
+HeroVoice_Name_52014	러프 팀 편성 3
+HeroVoice_Name_52015	러프 액티브 A 1
+HeroVoice_Name_52016	러프 액티브 A 2
+HeroVoice_Name_52017	러프 액티브 A 3
+HeroVoice_Name_52018	러프 액티브 B 1
+HeroVoice_Name_52019	러프 액티브 B 2
+HeroVoice_Name_52020	러프 액티브 B 3
+HeroVoice_Name_52300	러프 로비 일반 1
+HeroVoice_Name_52301	러프 로비 일반 2
+HeroVoice_Name_52302	러프 로비 일반 3
+HeroVoice_Name_52303	러프 로비 터치 1
+HeroVoice_Name_52304	러프 로비 터치 2
+HeroVoice_Name_52305	러프 로비 터치 3
+HeroVoice_Name_52306	러프 생일 로비 터치 1
+HeroVoice_Name_52307	러프 생일 로비 터치 2
+HeroVoice_Name_52308	러프 생일 로비 터치 3
+HeroVoice_Name_52600	러프 최초 획득
+HeroVoice_Name_52601	러프 4성 달성
+HeroVoice_Name_52602	러프 5성 달성
+HeroVoice_Name_52603	러프 경험치 포션 사용 1
+HeroVoice_Name_52604	러프 경험치 포션 사용 2
+HeroVoice_Name_52605	러프 경험치 포션 사용 3
+HeroVoice_Name_52606	러프 친밀도 레벨 업 1
+HeroVoice_Name_52607	러프 친밀도 레벨 업 2
+HeroVoice_Name_52608	러프 친밀도 레벨 업 3
+HeroVoice_Name_52609	러프 호감도 아이템 선물 1
+HeroVoice_Name_52610	러프 호감도 아이템 선물 2
+HeroVoice_Name_52611	러프 호감도 아이템 선물 3
+HeroVoice_Name_53000	카인 전투 출격 1
+HeroVoice_Name_53001	카인 전투 출격 2
+HeroVoice_Name_53002	카인 전투 출격 3
+HeroVoice_Name_53003	카인 승리 1
+HeroVoice_Name_53004	카인 승리 2
+HeroVoice_Name_53005	카인 승리 3
+HeroVoice_Name_53006	카인 실패 1
+HeroVoice_Name_53007	카인 실패 2
+HeroVoice_Name_53008	카인 실패 3
+HeroVoice_Name_53009	카인 전투 불능 1
+HeroVoice_Name_53010	카인 전투 불능 2
+HeroVoice_Name_53011	카인 전투 불능 3
+HeroVoice_Name_53012	카인 팀 편성 1
+HeroVoice_Name_53013	카인 팀 편성 2
+HeroVoice_Name_53014	카인 팀 편성 3
+HeroVoice_Name_53015	카인 액티브 A 1
+HeroVoice_Name_53016	카인 액티브 A 2
+HeroVoice_Name_53017	카인 액티브 A 3
+HeroVoice_Name_53018	카인 액티브 B 1
+HeroVoice_Name_53019	카인 액티브 B 2
+HeroVoice_Name_53020	카인 액티브 B 3
+HeroVoice_Name_53300	카인 로비 일반 1
+HeroVoice_Name_53301	카인 로비 일반 2
+HeroVoice_Name_53302	카인 로비 일반 3
+HeroVoice_Name_53303	카인 로비 터치 1
+HeroVoice_Name_53304	카인 로비 터치 2
+HeroVoice_Name_53305	카인 로비 터치 3
+HeroVoice_Name_53306	카인 생일 로비 터치 1
+HeroVoice_Name_53307	카인 생일 로비 터치 2
+HeroVoice_Name_53308	카인 생일 로비 터치 3
+HeroVoice_Name_53600	카인 최초 획득
+HeroVoice_Name_53601	카인 4성 달성
+HeroVoice_Name_53602	카인 5성 달성
+HeroVoice_Name_53603	카인 경험치 포션 사용 1
+HeroVoice_Name_53604	카인 경험치 포션 사용 2
+HeroVoice_Name_53605	카인 경험치 포션 사용 3
+HeroVoice_Name_53606	카인 친밀도 레벨 업 1
+HeroVoice_Name_53607	카인 친밀도 레벨 업 2
+HeroVoice_Name_53608	카인 친밀도 레벨 업 3
+HeroVoice_Name_53609	카인 호감도 아이템 선물 1
+HeroVoice_Name_53610	카인 호감도 아이템 선물 2
+HeroVoice_Name_53611	카인 호감도 아이템 선물 3
+HeroVoice_Name_54000	미호 전투 출격 1
+HeroVoice_Name_54001	미호 전투 출격 2
+HeroVoice_Name_54002	미호 전투 출격 3
+HeroVoice_Name_54003	미호 승리 1
+HeroVoice_Name_54004	미호 승리 2
+HeroVoice_Name_54005	미호 승리 3
+HeroVoice_Name_54006	미호 실패 1
+HeroVoice_Name_54007	미호 실패 2
+HeroVoice_Name_54008	미호 실패 3
+HeroVoice_Name_54009	미호 전투 불능 1
+HeroVoice_Name_54010	미호 전투 불능 2
+HeroVoice_Name_54011	미호 전투 불능 3
+HeroVoice_Name_54012	미호 팀 편성 1
+HeroVoice_Name_54013	미호 팀 편성 2
+HeroVoice_Name_54014	미호 팀 편성 3
+HeroVoice_Name_54015	미호 액티브 A 1
+HeroVoice_Name_54016	미호 액티브 A 2
+HeroVoice_Name_54017	미호 액티브 A 3
+HeroVoice_Name_54018	미호 액티브 B 1
+HeroVoice_Name_54019	미호 액티브 B 2
+HeroVoice_Name_54020	미호 액티브 B 3
+HeroVoice_Name_54300	미호 로비 일반 1
+HeroVoice_Name_54301	미호 로비 일반 2
+HeroVoice_Name_54302	미호 로비 일반 3
+HeroVoice_Name_54303	미호 로비 터치 1
+HeroVoice_Name_54304	미호 로비 터치 2
+HeroVoice_Name_54305	미호 로비 터치 3
+HeroVoice_Name_54306	미호 생일 로비 터치 1
+HeroVoice_Name_54307	미호 생일 로비 터치 2
+HeroVoice_Name_54308	미호 생일 로비 터치 3
+HeroVoice_Name_54600	미호 최초 획득
+HeroVoice_Name_54601	미호 4성 달성
+HeroVoice_Name_54602	미호 5성 달성
+HeroVoice_Name_54603	미호 경험치 포션 사용 1
+HeroVoice_Name_54604	미호 경험치 포션 사용 2
+HeroVoice_Name_54605	미호 경험치 포션 사용 3
+HeroVoice_Name_54606	미호 친밀도 레벨 업 1
+HeroVoice_Name_54607	미호 친밀도 레벨 업 2
+HeroVoice_Name_54608	미호 친밀도 레벨 업 3
+HeroVoice_Name_54609	미호 호감도 아이템 선물 1
+HeroVoice_Name_54610	미호 호감도 아이템 선물 2
+HeroVoice_Name_54611	미호 호감도 아이템 선물 3
+HeroVoice_Name_55000	라리사 전투 출격 1
+HeroVoice_Name_55001	라리사 전투 출격 2
+HeroVoice_Name_55002	라리사 전투 출격 3
+HeroVoice_Name_55003	라리사 전투 출격 4
+HeroVoice_Name_55004	라리사 승리 1
+HeroVoice_Name_55005	라리사 승리 2
+HeroVoice_Name_55006	라리사 승리 3
+HeroVoice_Name_55007	라리사 실패 1
+HeroVoice_Name_55008	라리사 실패 2
+HeroVoice_Name_55009	라리사 실패 3
+HeroVoice_Name_55010	라리사 전투 불능 1
+HeroVoice_Name_55011	라리사 전투 불능 2
+HeroVoice_Name_55012	라리사 전투 불능 3
+HeroVoice_Name_55013	라리사 팀 편성 1
+HeroVoice_Name_55014	라리사 팀 편성 2
+HeroVoice_Name_55015	라리사 팀 편성 3
+HeroVoice_Name_55016	라리사 액티브 A 1
+HeroVoice_Name_55017	라리사 액티브 A 2
+HeroVoice_Name_55018	라리사 액티브 A 3
+HeroVoice_Name_55019	라리사 액티브 B 1
+HeroVoice_Name_55020	라리사 액티브 B 2
+HeroVoice_Name_55021	라리사 액티브 B 3
+HeroVoice_Name_55300	라리사 로비 일반 1
+HeroVoice_Name_55301	라리사 로비 일반 2
+HeroVoice_Name_55302	라리사 로비 일반 3
+HeroVoice_Name_55303	라리사 로비 일반 4
+HeroVoice_Name_55304	라리사 로비 터치 1
+HeroVoice_Name_55305	라리사 로비 터치 2
+HeroVoice_Name_55306	라리사 로비 터치 3
+HeroVoice_Name_55307	라리사 로비 터치 4
+HeroVoice_Name_55308	라리사 생일 로비 터치 1
+HeroVoice_Name_55309	라리사 생일 로비 터치 2
+HeroVoice_Name_55310	라리사 생일 로비 터치 3
+HeroVoice_Name_55311	라리사 생일 로비 터치 4
+HeroVoice_Name_55600	라리사 최초 획득
+HeroVoice_Name_55601	라리사 4성 달성
+HeroVoice_Name_55602	라리사 5성 달성
+HeroVoice_Name_55603	라리사 경험치 포션 사용 1
+HeroVoice_Name_55604	라리사 경험치 포션 사용 2
+HeroVoice_Name_55605	라리사 경험치 포션 사용 3
+HeroVoice_Name_55606	라리사 친밀도 레벨 업 1
+HeroVoice_Name_55607	라리사 친밀도 레벨 업 2
+HeroVoice_Name_55608	라리사 친밀도 레벨 업 3
+HeroVoice_Name_55609	라리사 호감도 아이템 선물 1
+HeroVoice_Name_55610	라리사 호감도 아이템 선물 2
+HeroVoice_Name_55611	라리사 호감도 아이템 선물 3
+HeroVoice_Name_56000	아멜리 전투 출격 1
+HeroVoice_Name_56001	아멜리 전투 출격 2
+HeroVoice_Name_56002	아멜리 전투 출격 3
+HeroVoice_Name_56003	아멜리 전투 출격 4
+HeroVoice_Name_56004	아멜리 승리 1
+HeroVoice_Name_56005	아멜리 승리 2
+HeroVoice_Name_56006	아멜리 승리 3
+HeroVoice_Name_56007	아멜리 실패 1
+HeroVoice_Name_56008	아멜리 실패 2
+HeroVoice_Name_56009	아멜리 실패 3
+HeroVoice_Name_56010	아멜리 전투 불능 1
+HeroVoice_Name_56011	아멜리 전투 불능 2
+HeroVoice_Name_56012	아멜리 전투 불능 3
+HeroVoice_Name_56013	아멜리 팀 편성 1
+HeroVoice_Name_56014	아멜리 팀 편성 2
+HeroVoice_Name_56015	아멜리 팀 편성 3
+HeroVoice_Name_56016	아멜리 액티브 A 1
+HeroVoice_Name_56017	아멜리 액티브 A 2
+HeroVoice_Name_56018	아멜리 액티브 A 3
+HeroVoice_Name_56019	아멜리 액티브 B 1
+HeroVoice_Name_56020	아멜리 액티브 B 2
+HeroVoice_Name_56021	아멜리 액티브 B 3
+HeroVoice_Name_56300	아멜리 로비 일반 1
+HeroVoice_Name_56301	아멜리 로비 일반 2
+HeroVoice_Name_56302	아멜리 로비 일반 3
+HeroVoice_Name_56303	아멜리 로비 일반 4
+HeroVoice_Name_56304	아멜리 로비 터치 1
+HeroVoice_Name_56305	아멜리 로비 터치 2
+HeroVoice_Name_56306	아멜리 로비 터치 3
+HeroVoice_Name_56307	아멜리 로비 터치 4
+HeroVoice_Name_56308	아멜리 생일 로비 터치 1
+HeroVoice_Name_56309	아멜리 생일 로비 터치 2
+HeroVoice_Name_56310	아멜리 생일 로비 터치 3
+HeroVoice_Name_56311	아멜리 생일 로비 터치 4
+HeroVoice_Name_56600	아멜리 최초 획득
+HeroVoice_Name_56601	아멜리 4성 달성
+HeroVoice_Name_56602	아멜리 5성 달성
+HeroVoice_Name_56603	아멜리 경험치 포션 사용 1
+HeroVoice_Name_56604	아멜리 경험치 포션 사용 2
+HeroVoice_Name_56605	아멜리 경험치 포션 사용 3
+HeroVoice_Name_56606	아멜리 친밀도 레벨 업 1
+HeroVoice_Name_56607	아멜리 친밀도 레벨 업 2
+HeroVoice_Name_56608	아멜리 친밀도 레벨 업 3
+HeroVoice_Name_56609	아멜리 호감도 아이템 선물 1
+HeroVoice_Name_56610	아멜리 호감도 아이템 선물 2
+HeroVoice_Name_56611	아멜리 호감도 아이템 선물 3
+HeroVoice_Name_57000	연오 전투 출격 1
+HeroVoice_Name_57001	연오 전투 출격 2
+HeroVoice_Name_57002	연오 전투 출격 3
+HeroVoice_Name_57003	연오 승리 1
+HeroVoice_Name_57004	연오 승리 2
+HeroVoice_Name_57005	연오 승리 3
+HeroVoice_Name_57006	연오 실패 1
+HeroVoice_Name_57007	연오 실패 2
+HeroVoice_Name_57008	연오 실패 3
+HeroVoice_Name_57009	연오 전투 불능 1
+HeroVoice_Name_57010	연오 전투 불능 2
+HeroVoice_Name_57011	연오 전투 불능 3
+HeroVoice_Name_57012	연오 팀 편성 1
+HeroVoice_Name_57013	연오 팀 편성 2
+HeroVoice_Name_57014	연오 팀 편성 3
+HeroVoice_Name_57015	연오 액티브 A 1
+HeroVoice_Name_57016	연오 액티브 A 2
+HeroVoice_Name_57017	연오 액티브 A 3
+HeroVoice_Name_57018	연오 액티브 B 1
+HeroVoice_Name_57019	연오 액티브 B 2
+HeroVoice_Name_57020	연오 액티브 B 3
+HeroVoice_Name_57300	연오 로비 일반 1
+HeroVoice_Name_57301	연오 로비 일반 2
+HeroVoice_Name_57302	연오 로비 일반 3
+HeroVoice_Name_57303	연오 로비 일반 4
+HeroVoice_Name_57304	연오 로비 터치 1
+HeroVoice_Name_57305	연오 로비 터치 2
+HeroVoice_Name_57306	연오 로비 터치 3
+HeroVoice_Name_57307	연오 로비 터치 4
+HeroVoice_Name_57308	연오 생일 로비 터치 1
+HeroVoice_Name_57309	연오 생일 로비 터치 2
+HeroVoice_Name_57310	연오 생일 로비 터치 3
+HeroVoice_Name_57311	연오 생일 로비 터치 4
+HeroVoice_Name_57600	연오 최초 획득
+HeroVoice_Name_57601	연오 4성 달성
+HeroVoice_Name_57602	연오 5성 달성
+HeroVoice_Name_57603	연오 경험치 포션 사용 1
+HeroVoice_Name_57604	연오 경험치 포션 사용 2
+HeroVoice_Name_57605	연오 경험치 포션 사용 3
+HeroVoice_Name_57606	연오 친밀도 레벨 업 1
+HeroVoice_Name_57607	연오 친밀도 레벨 업 2
+HeroVoice_Name_57608	연오 친밀도 레벨 업 3
+HeroVoice_Name_57609	연오 호감도 아이템 선물 1
+HeroVoice_Name_57610	연오 호감도 아이템 선물 2
+HeroVoice_Name_57611	연오 호감도 아이템 선물 3
+HeroVoice_Name_58000	미하일 전투 출격 1
+HeroVoice_Name_58001	미하일 전투 출격 2
+HeroVoice_Name_58002	미하일 전투 출격 3
+HeroVoice_Name_58003	미하일 승리 1
+HeroVoice_Name_58004	미하일 승리 2
+HeroVoice_Name_58005	미하일 승리 3
+HeroVoice_Name_58006	미하일 실패 1
+HeroVoice_Name_58007	미하일 실패 2
+HeroVoice_Name_58008	미하일 실패 3
+HeroVoice_Name_58009	미하일 전투 불능 1
+HeroVoice_Name_58010	미하일 전투 불능 2
+HeroVoice_Name_58012	미하일 팀 편성 1
+HeroVoice_Name_58013	미하일 팀 편성 2
+HeroVoice_Name_58014	미하일 팀 편성 3
+HeroVoice_Name_58015	미하일 액티브 A 1
+HeroVoice_Name_58016	미하일 액티브 A 2
+HeroVoice_Name_58017	미하일 액티브 A 3
+HeroVoice_Name_58018	미하일 액티브 B 1
+HeroVoice_Name_58019	미하일 액티브 B 2
+HeroVoice_Name_58020	미하일 액티브 B 3
+HeroVoice_Name_58300	미하일 로비 일반 1
+HeroVoice_Name_58301	미하일 로비 일반 2
+HeroVoice_Name_58302	미하일 로비 일반 3
+HeroVoice_Name_58303	미하일 로비 일반 4
+HeroVoice_Name_58304	미하일 로비 터치 1
+HeroVoice_Name_58305	미하일 로비 터치 2
+HeroVoice_Name_58306	미하일 로비 터치 3
+HeroVoice_Name_58307	미하일 로비 터치 4
+HeroVoice_Name_58308	미하일 생일 로비 터치 1
+HeroVoice_Name_58309	미하일 생일 로비 터치 2
+HeroVoice_Name_58310	미하일 생일 로비 터치 3
+HeroVoice_Name_58311	미하일 생일 로비 터치 4
+HeroVoice_Name_58600	미하일 최초 획득
+HeroVoice_Name_58601	미하일 4성 달성
+HeroVoice_Name_58602	미하일 5성 달성
+HeroVoice_Name_58603	미하일 경험치 포션 사용 1
+HeroVoice_Name_58604	미하일 경험치 포션 사용 2
+HeroVoice_Name_58605	미하일 경험치 포션 사용 3
+HeroVoice_Name_58606	미하일 친밀도 레벨 업 1
+HeroVoice_Name_58607	미하일 친밀도 레벨 업 2
+HeroVoice_Name_58608	미하일 친밀도 레벨 업 3
+HeroVoice_Name_58609	미하일 호감도 아이템 선물 1
+HeroVoice_Name_58610	미하일 호감도 아이템 선물 2
+HeroVoice_Name_58611	미하일 호감도 아이템 선물 3
+HeroVoice_Name_59000	시호 전투 출격 1
+HeroVoice_Name_59001	시호 전투 출격 2
+HeroVoice_Name_59002	시호 전투 출격 3
+HeroVoice_Name_59003	시호 승리 1
+HeroVoice_Name_59004	시호 승리 2
+HeroVoice_Name_59005	시호 승리 3
+HeroVoice_Name_59006	시호 실패 1
+HeroVoice_Name_59007	시호 실패 2
+HeroVoice_Name_59008	시호 실패 3
+HeroVoice_Name_59009	시호 전투 불능 1
+HeroVoice_Name_59010	시호 전투 불능 2
+HeroVoice_Name_59011	시호 전투 불능 3
+HeroVoice_Name_59012	시호 팀 편성 1
+HeroVoice_Name_59013	시호 팀 편성 2
+HeroVoice_Name_59014	시호 팀 편성 3
+HeroVoice_Name_59015	시호 액티브 A 1
+HeroVoice_Name_59016	시호 액티브 A 2
+HeroVoice_Name_59017	시호 액티브 A 3
+HeroVoice_Name_59018	시호 액티브 B 1
+HeroVoice_Name_59019	시호 액티브 B 2
+HeroVoice_Name_59020	시호 액티브 B 3
+HeroVoice_Name_59300	시호 로비 일반 1
+HeroVoice_Name_59301	시호 로비 일반 2
+HeroVoice_Name_59302	시호 로비 일반 3
+HeroVoice_Name_59303	시호 로비 터치 1
+HeroVoice_Name_59304	시호 로비 터치 2
+HeroVoice_Name_59305	시호 로비 터치 3
+HeroVoice_Name_59306	시호 생일 로비 터치 1
+HeroVoice_Name_59307	시호 생일 로비 터치 2
+HeroVoice_Name_59308	시호 생일 로비 터치 3
+HeroVoice_Name_59600	시호 최초 획득
+HeroVoice_Name_59601	시호 4성 달성
+HeroVoice_Name_59602	시호 5성 달성
+HeroVoice_Name_59603	시호 경험치 포션 사용 1
+HeroVoice_Name_59604	시호 경험치 포션 사용 2
+HeroVoice_Name_59605	시호 경험치 포션 사용 3
+HeroVoice_Name_59606	시호 친밀도 레벨 업 1
+HeroVoice_Name_59607	시호 친밀도 레벨 업 2
+HeroVoice_Name_59608	시호 친밀도 레벨 업 3
+HeroVoice_Name_59609	시호 호감도 아이템 선물 1
+HeroVoice_Name_59610	시호 호감도 아이템 선물 2
+HeroVoice_Name_59611	시호 호감도 아이템 선물 3
+HeroVoice_Name_60000	살라딘 전투 출격 1
+HeroVoice_Name_60001	살라딘 전투 출격 2
+HeroVoice_Name_60002	살라딘 전투 출격 3
+HeroVoice_Name_60003	살라딘 승리 1
+HeroVoice_Name_60004	살라딘 승리 2
+HeroVoice_Name_60005	살라딘 승리 3
+HeroVoice_Name_60006	살라딘 실패 1
+HeroVoice_Name_60007	살라딘 실패 2
+HeroVoice_Name_60008	살라딘 실패 3
+HeroVoice_Name_60009	살라딘 전투 불능 1
+HeroVoice_Name_60010	살라딘 전투 불능 2
+HeroVoice_Name_60011	살라딘 전투 불능 3
+HeroVoice_Name_60012	살라딘 팀 편성 1
+HeroVoice_Name_60013	살라딘 팀 편성 2
+HeroVoice_Name_60014	살라딘 팀 편성 3
+HeroVoice_Name_60015	살라딘 액티브 A 1
+HeroVoice_Name_60016	살라딘 액티브 A 2
+HeroVoice_Name_60017	살라딘 액티브 A 3
+HeroVoice_Name_60018	살라딘 액티브 B 1
+HeroVoice_Name_60019	살라딘 액티브 B 2
+HeroVoice_Name_60020	살라딘 액티브 B 3
+HeroVoice_Name_60300	살라딘 로비 일반 1
+HeroVoice_Name_60301	살라딘 로비 일반 2
+HeroVoice_Name_60302	살라딘 로비 일반 3
+HeroVoice_Name_60303	살라딘 로비 터치 1
+HeroVoice_Name_60304	살라딘 로비 터치 2
+HeroVoice_Name_60305	살라딘 로비 터치 3
+HeroVoice_Name_60600	살라딘 최초 획득
+HeroVoice_Name_60601	살라딘 2성 달성
+HeroVoice_Name_60602	살라딘 3성 달성
+HeroVoice_Name_60603	살라딘 4성 달성
+HeroVoice_Name_60604	살라딘 5성 달성
+HeroVoice_Name_60605	살라딘 경험치 포션 사용 1
+HeroVoice_Name_60606	살라딘 경험치 포션 사용 2
+HeroVoice_Name_60607	살라딘 경험치 포션 사용 3
+HeroVoice_Name_60608	살라딘 친밀도 레벨 업 1
+HeroVoice_Name_60609	살라딘 친밀도 레벨 업 2
+HeroVoice_Name_60610	살라딘 친밀도 레벨 업 3
+HeroVoice_Name_60611	살라딘 친밀도 레벨 업 4
+HeroVoice_Name_60612	살라딘 호감도 아이템 선물 1
+HeroVoice_Name_60613	살라딘 호감도 아이템 선물 2
+HeroVoice_Name_60614	살라딘 호감도 아이템 선물 3
+HeroVoice_Name_61000	셰라자드 전투 출격 1
+HeroVoice_Name_61001	셰라자드 전투 출격 2
+HeroVoice_Name_61002	셰라자드 전투 출격 3
+HeroVoice_Name_61003	셰라자드 전투 출격 4
+HeroVoice_Name_61004	셰라자드 승리 1
+HeroVoice_Name_61005	셰라자드 승리 2
+HeroVoice_Name_61006	셰라자드 승리 3
+HeroVoice_Name_61007	셰라자드 실패 1
+HeroVoice_Name_61008	셰라자드 실패 2
+HeroVoice_Name_61009	셰라자드 실패 3
+HeroVoice_Name_61010	셰라자드 전투 불능 1
+HeroVoice_Name_61011	셰라자드 전투 불능 2
+HeroVoice_Name_61012	셰라자드 전투 불능 3
+HeroVoice_Name_61013	셰라자드 팀 편성 1
+HeroVoice_Name_61014	셰라자드 팀 편성 2
+HeroVoice_Name_61015	셰라자드 팀 편성 3
+HeroVoice_Name_61016	셰라자드 액티브 A 1
+HeroVoice_Name_61017	셰라자드 액티브 A 2
+HeroVoice_Name_61018	셰라자드 액티브 A 3
+HeroVoice_Name_61019	셰라자드 액티브 B 1
+HeroVoice_Name_61020	셰라자드 액티브 B 2
+HeroVoice_Name_61021	셰라자드 액티브 B 3
+HeroVoice_Name_61300	셰라자드 로비 일반 1
+HeroVoice_Name_61301	셰라자드 로비 일반 2
+HeroVoice_Name_61302	셰라자드 로비 일반 3
+HeroVoice_Name_61303	셰라자드 로비 일반 4
+HeroVoice_Name_61304	셰라자드 로비 일반 5
+HeroVoice_Name_61305	셰라자드 로비 터치 1
+HeroVoice_Name_61306	셰라자드 로비 터치 2
+HeroVoice_Name_61307	셰라자드 로비 터치 3
+HeroVoice_Name_61308	셰라자드 로비 터치 4
+HeroVoice_Name_61309	셰라자드 로비 터치 5
+HeroVoice_Name_61600	셰라자드 최초 획득
+HeroVoice_Name_61601	셰라자드 4성 달성
+HeroVoice_Name_61602	셰라자드 5성 달성
+HeroVoice_Name_61603	셰라자드 경험치 포션 사용 1
+HeroVoice_Name_61604	셰라자드 경험치 포션 사용 2
+HeroVoice_Name_61605	셰라자드 경험치 포션 사용 3
+HeroVoice_Name_61606	셰라자드 친밀도 레벨 업 1
+HeroVoice_Name_61607	셰라자드 친밀도 레벨 업 2
+HeroVoice_Name_61608	셰라자드 친밀도 레벨 업 3
+HeroVoice_Name_61609	셰라자드 친밀도 레벨 업 4
+HeroVoice_Name_61610	셰라자드 호감도 아이템 선물 1
+HeroVoice_Name_61611	셰라자드 호감도 아이템 선물 2
+HeroVoice_Name_61612	셰라자드 호감도 아이템 선물 3
+HeroVoice_Name_62000	크리스티앙 전투 출격 1
+HeroVoice_Name_62001	크리스티앙 전투 출격 2
+HeroVoice_Name_62002	크리스티앙 전투 출격 3
+HeroVoice_Name_62003	크리스티앙 승리 1
+HeroVoice_Name_62004	크리스티앙 승리 2
+HeroVoice_Name_62005	크리스티앙 승리 3
+HeroVoice_Name_62006	크리스티앙 실패 1
+HeroVoice_Name_62007	크리스티앙 실패 2
+HeroVoice_Name_62008	크리스티앙 실패 3
+HeroVoice_Name_62009	크리스티앙 전투 불능 1
+HeroVoice_Name_62010	크리스티앙 전투 불능 2
+HeroVoice_Name_62011	크리스티앙 전투 불능 3
+HeroVoice_Name_62012	크리스티앙 팀 편성 1
+HeroVoice_Name_62013	크리스티앙 팀 편성 2
+HeroVoice_Name_62014	크리스티앙 팀 편성 3
+HeroVoice_Name_62015	크리스티앙 액티브 A 1
+HeroVoice_Name_62016	크리스티앙 액티브 A 2
+HeroVoice_Name_62017	크리스티앙 액티브 A 3
+HeroVoice_Name_62018	크리스티앙 액티브 B 1
+HeroVoice_Name_62019	크리스티앙 액티브 B 2
+HeroVoice_Name_62020	크리스티앙 액티브 B 3
+HeroVoice_Name_62300	크리스티앙 로비 일반 1
+HeroVoice_Name_62301	크리스티앙 로비 일반 2
+HeroVoice_Name_62302	크리스티앙 로비 일반 3
+HeroVoice_Name_62303	크리스티앙 로비 터치 1
+HeroVoice_Name_62304	크리스티앙 로비 터치 2
+HeroVoice_Name_62305	크리스티앙 로비 터치 3
+HeroVoice_Name_62600	크리스티앙 최초 획득
+HeroVoice_Name_62601	크리스티앙 4성 달성
+HeroVoice_Name_62602	크리스티앙 5성 달성
+HeroVoice_Name_62603	크리스티앙 경험치 포션 사용 1
+HeroVoice_Name_62604	크리스티앙 경험치 포션 사용 2
+HeroVoice_Name_62605	크리스티앙 경험치 포션 사용 3
+HeroVoice_Name_62606	크리스티앙 친밀도 레벨 업 1
+HeroVoice_Name_62607	크리스티앙 친밀도 레벨 업 2
+HeroVoice_Name_62608	크리스티앙 친밀도 레벨 업 3
+HeroVoice_Name_62609	크리스티앙 친밀도 레벨 업 4
+HeroVoice_Name_62610	크리스티앙 호감도 아이템 선물 1
+HeroVoice_Name_62611	크리스티앙 호감도 아이템 선물 2
+HeroVoice_Name_62612	크리스티앙 호감도 아이템 선물 3
+HeroVoice_Name_63000	죠안 전투 출격 1
+HeroVoice_Name_63001	죠안 전투 출격 2
+HeroVoice_Name_63002	죠안 전투 출격 3
+HeroVoice_Name_63003	죠안 전투 출격 4
+HeroVoice_Name_63004	죠안 승리 1
+HeroVoice_Name_63005	죠안 승리 2
+HeroVoice_Name_63006	죠안 승리 3
+HeroVoice_Name_63007	죠안 실패 1
+HeroVoice_Name_63008	죠안 실패 2
+HeroVoice_Name_63009	죠안 실패 3
+HeroVoice_Name_63010	죠안 전투 불능 1
+HeroVoice_Name_63011	죠안 전투 불능 2
+HeroVoice_Name_63012	죠안 전투 불능 3
+HeroVoice_Name_63013	죠안 팀 편성 1
+HeroVoice_Name_63014	죠안 팀 편성 2
+HeroVoice_Name_63015	죠안 팀 편성 3
+HeroVoice_Name_63016	죠안 액티브 A 1
+HeroVoice_Name_63017	죠안 액티브 A 2
+HeroVoice_Name_63018	죠안 액티브 A 3
+HeroVoice_Name_63019	죠안 액티브 B 1
+HeroVoice_Name_63020	죠안 액티브 B 2
+HeroVoice_Name_63021	죠안 액티브 B 3
+HeroVoice_Name_63300	죠안 로비 일반 1
+HeroVoice_Name_63301	죠안 로비 일반 2
+HeroVoice_Name_63302	죠안 로비 일반 3
+HeroVoice_Name_63303	죠안 로비 일반 4
+HeroVoice_Name_63304	죠안 로비 일반 5
+HeroVoice_Name_63305	죠안 로비 터치 1
+HeroVoice_Name_63306	죠안 로비 터치 2
+HeroVoice_Name_63307	죠안 로비 터치 3
+HeroVoice_Name_63308	죠안 로비 터치 4
+HeroVoice_Name_63309	죠안 로비 터치 5
+HeroVoice_Name_63600	죠안 최초 획득
+HeroVoice_Name_63601	죠안 4성 달성
+HeroVoice_Name_63602	죠안 5성 달성
+HeroVoice_Name_63603	죠안 경험치 포션 사용 1
+HeroVoice_Name_63604	죠안 경험치 포션 사용 2
+HeroVoice_Name_63605	죠안 경험치 포션 사용 3
+HeroVoice_Name_63606	죠안 친밀도 레벨 업 1
+HeroVoice_Name_63607	죠안 친밀도 레벨 업 2
+HeroVoice_Name_63608	죠안 친밀도 레벨 업 3
+HeroVoice_Name_63609	죠안 친밀도 레벨 업 4
+HeroVoice_Name_63610	죠안 호감도 아이템 선물 1
+HeroVoice_Name_63611	죠안 호감도 아이템 선물 2
+HeroVoice_Name_63612	죠안 호감도 아이템 선물 3
+HeroVoice_Name_64000	악마 카인 전투 출격 1
+HeroVoice_Name_64001	악마 카인 전투 출격 2
+HeroVoice_Name_64002	악마 카인 전투 출격 3
+HeroVoice_Name_64003	악마 카인 전투 출격 4
+HeroVoice_Name_64004	악마 카인 승리 1
+HeroVoice_Name_64005	악마 카인 승리 2
+HeroVoice_Name_64006	악마 카인 승리 3
+HeroVoice_Name_64007	악마 카인 승리 4
+HeroVoice_Name_64008	악마 카인 실패 1
+HeroVoice_Name_64009	악마 카인 실패 2
+HeroVoice_Name_64010	악마 카인 실패 3
+HeroVoice_Name_64011	악마 카인 전투 불능 1
+HeroVoice_Name_64012	악마 카인 전투 불능 2
+HeroVoice_Name_64013	악마 카인 전투 불능 3
+HeroVoice_Name_64014	악마 카인 팀 편성 1
+HeroVoice_Name_64015	악마 카인 팀 편성 2
+HeroVoice_Name_64016	악마 카인 팀 편성 3
+HeroVoice_Name_64017	악마 카인 액티브 A 1
+HeroVoice_Name_64018	악마 카인 액티브 A 2
+HeroVoice_Name_64019	악마 카인 액티브 A 3
+HeroVoice_Name_64020	악마 카인 액티브 B 1
+HeroVoice_Name_64021	악마 카인 액티브 B 2
+HeroVoice_Name_64022	악마 카인 액티브 B 3
+HeroVoice_Name_64300	악마 카인 로비 일반 1
+HeroVoice_Name_64301	악마 카인 로비 일반 2
+HeroVoice_Name_64302	악마 카인 로비 일반 3
+HeroVoice_Name_64303	악마 카인 로비 터치 1
+HeroVoice_Name_64304	악마 카인 로비 터치 2
+HeroVoice_Name_64305	악마 카인 로비 터치 3
+HeroVoice_Name_64306	악마 카인 로비 터치 4
+HeroVoice_Name_64307	악마 카인 생일 로비 터치 1
+HeroVoice_Name_64308	악마 카인 생일 로비 터치 2
+HeroVoice_Name_64309	악마 카인 생일 로비 터치 3
+HeroVoice_Name_64600	악마 카인 최초 획득
+HeroVoice_Name_64601	악마 카인 4성 달성
+HeroVoice_Name_64602	악마 카인 5성 달성
+HeroVoice_Name_64603	악마 카인 경험치 포션 사용 1
+HeroVoice_Name_64604	악마 카인 경험치 포션 사용 2
+HeroVoice_Name_64605	악마 카인 경험치 포션 사용 3
+HeroVoice_Name_64606	악마 카인 친밀도 레벨 업 1
+HeroVoice_Name_64607	악마 카인 친밀도 레벨 업 2
+HeroVoice_Name_64608	악마 카인 친밀도 레벨 업 3
+HeroVoice_Name_64609	악마 카인 호감도 아이템 선물 1
+HeroVoice_Name_64610	악마 카인 호감도 아이템 선물 2
+HeroVoice_Name_64611	악마 카인 호감도 아이템 선물 3
+HeroVoice_Name_65000	소피 전투 출격 1
+HeroVoice_Name_65001	소피 전투 출격 2
+HeroVoice_Name_65002	소피 전투 출격 3
+HeroVoice_Name_65003	소피 승리 1
+HeroVoice_Name_65004	소피 승리 2
+HeroVoice_Name_65005	소피 승리 3
+HeroVoice_Name_65006	소피 실패 1
+HeroVoice_Name_65007	소피 실패 2
+HeroVoice_Name_65008	소피 실패 3
+HeroVoice_Name_65009	소피 전투 불능 1
+HeroVoice_Name_65010	소피 전투 불능 2
+HeroVoice_Name_65011	소피 전투 불능 3
+HeroVoice_Name_65012	소피 팀 편성 1
+HeroVoice_Name_65013	소피 팀 편성 2
+HeroVoice_Name_65014	소피 팀 편성 3
+HeroVoice_Name_65015	소피 액티브 A 1
+HeroVoice_Name_65016	소피 액티브 A 2
+HeroVoice_Name_65017	소피 액티브 A 3
+HeroVoice_Name_65018	소피 액티브 B 1
+HeroVoice_Name_65019	소피 액티브 B 2
+HeroVoice_Name_65020	소피 액티브 B 3
+HeroVoice_Name_65300	소피 로비 일반 1
+HeroVoice_Name_65301	소피 로비 일반 2
+HeroVoice_Name_65302	소피 로비 일반 3
+HeroVoice_Name_65303	소피 로비 터치 1
+HeroVoice_Name_65304	소피 로비 터치 2
+HeroVoice_Name_65305	소피 로비 터치 3
+HeroVoice_Name_65306	소피 생일 로비 터치 1
+HeroVoice_Name_65307	소피 생일 로비 터치 2
+HeroVoice_Name_65308	소피 생일 로비 터치 3
+HeroVoice_Name_65600	소피 최초 획득
+HeroVoice_Name_65601	소피 4성 달성
+HeroVoice_Name_65602	소피 5성 달성
+HeroVoice_Name_65603	소피 경험치 포션 사용 1
+HeroVoice_Name_65604	소피 경험치 포션 사용 2
+HeroVoice_Name_65605	소피 경험치 포션 사용 3
+HeroVoice_Name_65606	소피 친밀도 레벨 업 1
+HeroVoice_Name_65607	소피 친밀도 레벨 업 2
+HeroVoice_Name_65608	소피 친밀도 레벨 업 3
+HeroVoice_Name_65609	소피 호감도 아이템 선물 1
+HeroVoice_Name_65610	소피 호감도 아이템 선물 2
+HeroVoice_Name_65611	소피 호감도 아이템 선물 3
+HeroVoice_Name_66000	타브리스 전투 출격 1
+HeroVoice_Name_66001	타브리스 전투 출격 2
+HeroVoice_Name_66002	타브리스 전투 출격 3
+HeroVoice_Name_66003	타브리스 전투 출격 4
+HeroVoice_Name_66004	타브리스 승리 1
+HeroVoice_Name_66005	타브리스 승리 2
+HeroVoice_Name_66006	타브리스 승리 3
+HeroVoice_Name_66007	타브리스 승리 4
+HeroVoice_Name_66008	타브리스 실패 1
+HeroVoice_Name_66009	타브리스 실패 2
+HeroVoice_Name_66010	타브리스 실패 3
+HeroVoice_Name_66011	타브리스 전투 불능 1
+HeroVoice_Name_66012	타브리스 전투 불능 2
+HeroVoice_Name_66013	타브리스 전투 불능 3
+HeroVoice_Name_66014	타브리스 팀 편성 1
+HeroVoice_Name_66015	타브리스 팀 편성 2
+HeroVoice_Name_66016	타브리스 팀 편성 3
+HeroVoice_Name_66017	타브리스 액티브 A 1
+HeroVoice_Name_66018	타브리스 액티브 A 2
+HeroVoice_Name_66019	타브리스 액티브 A 3
+HeroVoice_Name_66020	타브리스 액티브 B 1
+HeroVoice_Name_66021	타브리스 액티브 B 2
+HeroVoice_Name_66022	타브리스 액티브 B 3
+HeroVoice_Name_66300	타브리스 로비 일반 1
+HeroVoice_Name_66301	타브리스 로비 일반 2
+HeroVoice_Name_66302	타브리스 로비 일반 3
+HeroVoice_Name_66303	타브리스 로비 일반 4
+HeroVoice_Name_66304	타브리스 로비 터치 1
+HeroVoice_Name_66305	타브리스 로비 터치 2
+HeroVoice_Name_66306	타브리스 로비 터치 3
+HeroVoice_Name_66307	타브리스 로비 터치 4
+HeroVoice_Name_66308	타브리스 로비 터치 5
+HeroVoice_Name_66309	타브리스 생일 로비 터치 1
+HeroVoice_Name_66310	타브리스 생일 로비 터치 2
+HeroVoice_Name_66311	타브리스 생일 로비 터치 3
+HeroVoice_Name_66312	타브리스 생일 로비 터치 4
+HeroVoice_Name_66600	타브리스 최초 획득
+HeroVoice_Name_66601	타브리스 4성 달성
+HeroVoice_Name_66602	타브리스 5성 달성
+HeroVoice_Name_66603	타브리스 경험치 포션 사용 1
+HeroVoice_Name_66604	타브리스 경험치 포션 사용 2
+HeroVoice_Name_66605	타브리스 경험치 포션 사용 3
+HeroVoice_Name_66606	타브리스 친밀도 레벨 업 1
+HeroVoice_Name_66607	타브리스 친밀도 레벨 업 2
+HeroVoice_Name_66608	타브리스 친밀도 레벨 업 3
+HeroVoice_Name_66609	타브리스 친밀도 레벨 업 4
+HeroVoice_Name_66610	타브리스 친밀도 레벨 업 5
+HeroVoice_Name_66611	타브리스 호감도 아이템 선물 1
+HeroVoice_Name_66612	타브리스 호감도 아이템 선물 2
+HeroVoice_Name_66613	타브리스 호감도 아이템 선물 3
+HeroVoice_Name_67000	티나 전투 출격 1
+HeroVoice_Name_67001	티나 전투 출격 2
+HeroVoice_Name_67002	티나 전투 출격 3
+HeroVoice_Name_67003	티나 승리 1
+HeroVoice_Name_67004	티나 승리 2
+HeroVoice_Name_67005	티나 승리 3
+HeroVoice_Name_67006	티나 실패 1
+HeroVoice_Name_67007	티나 실패 2
+HeroVoice_Name_67008	티나 실패 3
+HeroVoice_Name_67009	티나 전투 불능 1
+HeroVoice_Name_67010	티나 전투 불능 2
+HeroVoice_Name_67011	티나 전투 불능 3
+HeroVoice_Name_67012	티나 팀 편성 1
+HeroVoice_Name_67013	티나 팀 편성 2
+HeroVoice_Name_67014	티나 팀 편성 3
+HeroVoice_Name_67015	티나 액티브 A 1
+HeroVoice_Name_67016	티나 액티브 A 2
+HeroVoice_Name_67017	티나 액티브 A 3
+HeroVoice_Name_67018	티나 액티브 B 1
+HeroVoice_Name_67019	티나 액티브 B 2
+HeroVoice_Name_67020	티나 액티브 B 3
+HeroVoice_Name_67300	티나 로비 일반 1
+HeroVoice_Name_67301	티나 로비 일반 2
+HeroVoice_Name_67302	티나 로비 일반 3
+HeroVoice_Name_67303	티나 로비 터치 1
+HeroVoice_Name_67304	티나 로비 터치 2
+HeroVoice_Name_67305	티나 로비 터치 3
+HeroVoice_Name_67306	티나 로비 터치 4
+HeroVoice_Name_67307	티나 생일 로비 터치 1
+HeroVoice_Name_67308	티나 생일 로비 터치 2
+HeroVoice_Name_67309	티나 생일 로비 터치 3
+HeroVoice_Name_67600	티나 최초 획득
+HeroVoice_Name_67601	티나 4성 달성
+HeroVoice_Name_67602	티나 5성 달성
+HeroVoice_Name_67603	티나 경험치 포션 사용 1
+HeroVoice_Name_67604	티나 경험치 포션 사용 2
+HeroVoice_Name_67605	티나 경험치 포션 사용 3
+HeroVoice_Name_67606	티나 친밀도 레벨 업 1
+HeroVoice_Name_67607	티나 친밀도 레벨 업 2
+HeroVoice_Name_67608	티나 친밀도 레벨 업 3
+HeroVoice_Name_67609	티나 친밀도 레벨 업 4
+HeroVoice_Name_67610	티나 친밀도 레벨 업 5
+HeroVoice_Name_67611	티나 호감도 아이템 선물 1
+HeroVoice_Name_67612	티나 호감도 아이템 선물 2
+HeroVoice_Name_67613	티나 호감도 아이템 선물 3

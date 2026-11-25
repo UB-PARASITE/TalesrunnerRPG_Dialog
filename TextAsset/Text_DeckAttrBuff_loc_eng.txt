@@ -1,0 +1,30 @@
+DeckAttrBuff_Name_0001	3 identical attributes
+DeckAttrBuff_Name_0002	3 identical attributes + 2 identical attributes
+DeckAttrBuff_Name_0003	4 identical attributes
+DeckAttrBuff_Name_0004	4 with same attribute + 1 without attribute
+DeckAttrBuff_Name_0005	5 people with the same attribute
+DeckAttrBuff_Name_0006	Darkness Attribute 1
+DeckAttrBuff_Name_0007	Darkness Attribute 2
+DeckAttrBuff_Name_0008	Darkness Attribute 3
+DeckAttrBuff_Name_0009	Darkness attribute 4
+DeckAttrBuff_Name_0010	Darkness attribute 5
+DeckAttrBuff_Name_0011	Light attribute 1
+DeckAttrBuff_Name_0012	Light attribute 2
+DeckAttrBuff_Name_0013	Light attribute 3
+DeckAttrBuff_Name_0014	Light attribute 4
+DeckAttrBuff_Name_0015	Light attribute 5
+DeckAttrBuff_Desc_0001	Attack power increased by {v0.0}% / Maximum health increased by {v0.0}%
+DeckAttrBuff_Desc_0002	Attack power increased by {v0.0}% / Maximum health increased by {v0.0}%
+DeckAttrBuff_Desc_0003	Attack power increased by {v0.0}% / Maximum health increased by {v0.0}%
+DeckAttrBuff_Desc_0004	Attack power increased by {v0.0}% / Max HP increased by {v0.0}%\\rWhen starting battle, change attribute of no attribute to the same attribute
+DeckAttrBuff_Desc_0005	Attack power increased by {v0.0}% / Maximum health increased by {v0.0}%
+DeckAttrBuff_Desc_0006	Attack power increased by {v0.0}%
+DeckAttrBuff_Desc_0007	Attack power increased by {v0.0}% / Maximum health increased by {v0.0}%
+DeckAttrBuff_Desc_0008	Attack power increased by {v0.0}% / Max HP increased by {v0.0}% / Critical chance increased by {v0.0}%
+DeckAttrBuff_Desc_0009	Attack power increased by {v0.0}% / Max HP increased by {v0.0}% / Critical chance increased by {v0.0}%
+DeckAttrBuff_Desc_0010	Attack power increased by {v0.0}% / Max HP increased by {v0.0}% / Critical chance increased by {v0.0}%
+DeckAttrBuff_Desc_0011	Attack power increased by {v0.0}%
+DeckAttrBuff_Desc_0012	Attack power increased by {v0.0}% / Maximum health increased by {v0.0}%
+DeckAttrBuff_Desc_0013	Attack power {v0.0}% / Max HP {v0.0}% / Damage increased by {v0.0}% when using skills
+DeckAttrBuff_Desc_0014	Attack power {v0.0}% / Max HP {v0.0}% / Damage increased by {v0.0}% when using skills
+DeckAttrBuff_Desc_0015	Attack power {v0.0}% / Max HP {v0.0}% / Damage increased by {v0.0}% when using skills

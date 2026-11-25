@@ -1,0 +1,6 @@
+BossRaidBuff_Tooltip_0001	Attacker character attack power increased by {v0.0}%
+BossRaidBuff_Tooltip_0002	Fire attribute defense power increased by {v0.0}%
+BossRaidBuff_Tooltip_0003	Support character attack power increased by {v0.0}%
+BossRaidBuff_Tooltip_0004	Nature attribute character attack power increased by {v0.0}%
+BossRaidBuff_Tooltip_0005	Character critical resistance increased by {v0.0}%
+BossRaidBuff_Tooltip_0006	Character critical damage increased by {v0.0}%

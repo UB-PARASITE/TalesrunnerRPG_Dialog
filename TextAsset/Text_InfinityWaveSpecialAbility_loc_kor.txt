@@ -1,0 +1,15 @@
+InfinityWaveSpecialAbility_Tooltip_0001	최대Hp {v0.0}% 증가
+InfinityWaveSpecialAbility_Tooltip_0002	방어력 {v0.0}% 증가
+InfinityWaveSpecialAbility_Tooltip_0003	공격력 {v0.0}% 증가
+InfinityWaveSpecialAbility_Tooltip_0004	크리티컬 저항 {v0.0}% 증가
+InfinityWaveSpecialAbility_Tooltip_0005	디버프 저항 {v0.0}% 증가 및 받는 대미지 {v0.0}% 감소
+InfinityWaveSpecialAbility_Tooltip_0006	회피율 {v0.0}% 증가
+InfinityWaveSpecialAbility_Tooltip_0007	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveSpecialAbility_Tooltip_0008	명중률 {v0.0}% 증가 및 받는 회복량 {v0.0}% 증가
+InfinityWaveSpecialAbility_Tooltip_0009	크리티컬 확률 {v0.0}% 증가
+InfinityWaveSpecialAbility_Tooltip_0010	디버프 저항 {v0.0}% 증가
+InfinityWaveSpecialAbility_Tooltip_0011	크리티컬 저항 {v0.0}% 증가
+InfinityWaveSpecialAbility_Tooltip_0012	명중률 {v0.0}% 증가 및 받는 대미지 {v0.0}% 감소
+InfinityWaveSpecialAbility_Tooltip_0013	디버프 저항 {v0.0}% 증가 및 크리티컬 저항 {v0.0}% 증가
+InfinityWaveSpecialAbility_Tooltip_0014	받는 대미지 {v0.0}% 감소
+InfinityWaveSpecialAbility_Tooltip_0015	회피율 {v0.0}% 증가

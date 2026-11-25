@@ -1,0 +1,10 @@
+ArchiveAddBuff_Desc_0001	Increases all character attack power by {v0.0}% and maximum health by {v0.0}%
+ArchiveAddBuff_Desc_0002	Increases all character attack power by {v0.0}% and critical chance by {v0.0}%
+ArchiveAddBuff_Desc_0003	Increases all character attack power by {v0.0}% and hit rate by {v0.0}%
+ArchiveAddBuff_Desc_0004	Increases attack power of all characters by {v0.0}% and defense power by {v0.0}%
+ArchiveAddBuff_Desc_0005	Reduces damage taken by all characters by {v0.0}%
+ArchiveAddBuff_Desc_0006	Increases total character damage by {v0.0}%
+ArchiveAddBuff_Desc_0007	Increases all character defense by {v0.0}% and maximum health by {v0.0}%
+ArchiveAddBuff_Desc_0008	Increases all characters' normal attack power by {v0.0}% and skill attack power by {v0.0}%
+ArchiveAddBuff_Desc_0009	Increases evasion rate of all characters by {v0.0}%
+ArchiveAddBuff_Desc_0010	Increases maximum health of all characters by {v0.0}%

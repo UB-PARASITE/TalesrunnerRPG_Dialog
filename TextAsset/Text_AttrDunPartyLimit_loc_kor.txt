@@ -1,0 +1,1 @@
+AttrDunPartyLimit_Desc_	(Val1속성 캐릭터 편성 필수: Val2명)(Val1: Option1, Val2: RequiredCharacter)

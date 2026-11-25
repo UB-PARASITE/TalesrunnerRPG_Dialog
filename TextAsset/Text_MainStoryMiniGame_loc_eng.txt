@@ -1,0 +1,18 @@
+MainStoryMiniGame_Name_0001	Minigame 1
+MainStoryMiniGame_Name_0002	Minigame 2
+MainStoryMiniGame_Name_0003	Minigame 3
+MainStoryMiniGame_Name_0004	Minigame 4
+MainStoryMiniGame_Name_0005	Minigame 5
+MainStoryMiniGame_Name_0006	Minigame 6
+MainStoryMiniGame_Name_0007	Minigame 7
+MainStoryMiniGame_Name_0008	Minigame 8
+MainStoryMiniGame_Name_0009	Minigame 9
+MainStoryMiniGame_Desc_0001	Minigame 1 Brief introduction and description
+MainStoryMiniGame_Desc_0002	Minigame 2 brief introduction and description
+MainStoryMiniGame_Desc_0003	Minigame 3 brief introduction and description
+MainStoryMiniGame_Desc_0004	Minigame 4 Brief introduction and description
+MainStoryMiniGame_Desc_0005	Minigame 5 brief introduction and description
+MainStoryMiniGame_Desc_0006	Minigame 6 Brief introduction and description
+MainStoryMiniGame_Desc_0007	Minigame 7 brief introduction and description
+MainStoryMiniGame_Desc_0008	Minigame 8 Brief introduction and description
+MainStoryMiniGame_Desc_0009	Minigame 9 Brief introduction and description

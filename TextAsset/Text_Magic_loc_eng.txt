@@ -1,0 +1,963 @@
+Magic_Name_0000	Elin's Mistake
+Magic_Name_0001	Elin's Poison Potion
+Magic_Name_0002	Helia's Stun
+Magic_Name_0003	Elin's Attack Potion
+Magic_Name_0004	Potion Rain and Recovery
+Magic_Name_0005	Powerful Recovery
+Magic_Name_0006	Queen Heart's defense reduced
+Magic_Name_0007	Queen Heart's Silence
+Magic_Name_0008	Queen Heart's Continuous Pain
+Magic_Name_0009	Whirlwind Burn
+Magic_Name_0010	Fire Dragon's Wave
+Magic_Name_0011	Earthquake's Stun
+Magic_Name_0012	Heaven's Fall
+Magic_Name_0013	Bigbo's Lazy
+Magic_Name_0014	Bigbo's Exhaustion
+Magic_Name_0015	Bigbo's scorched earth
+Magic_Name_0016	Recovery of Elim's Smile
+Magic_Name_0017	Elim's Smile Treatment
+Magic_Name_0018	Elim's Smile's Curse
+Magic_Name_0019	The Terror of Elim's Smile
+Magic_Name_0020	Jane Doe Skill A
+Magic_Name_0021	Jane Doe Skill A_Confirmed Critical
+Magic_Name_0022	Jane Doe Hunter Skill B
+Magic_Name_0023	Pinocchio's Cowardly Hammer
+Magic_Name_0024	Pinocchio's Groggy Smash
+Magic_Name_0025	Lina's Finale
+Magic_Name_0026	Gretel's Cake Drop
+Magic_Name_0027	Gretel's Chocolate Cover
+Magic_Name_0028	Aramode's Blind Cream
+Magic_Name_0029	Aramode's Choco Vanilla Spiral
+Magic_Name_0030	Hansel's Bubble Cross
+Magic_Name_0031	Hansel's Fortress
+Magic_Name_0032	Cheshire Cat's first debuff
+Magic_Name_0033	Summon Mimi of Flare
+Magic_Name_0034	Flare's Mimi Stat Enhancement
+Magic_Name_0035	Flare Fifi's Burn Effect
+Magic_Name_0036	Briar Rose's Sleep
+Magic_Name_0037	Briar Rose's Debuff
+Magic_Name_0038	Zepetto's Ally Strengthening
+Magic_Name_0039	Summon Zepetto's Doll
+Magic_Name_0040	Zepetto's Wooden Doll Stat Enhancement
+Magic_Name_0041	Melphi Good Night Nightmare
+Magic_Name_0042	Attack of the Melphi Sheep
+Magic_Name_0043	DnD Music Therapy
+Magic_Name_0044	DnD Climax
+Magic_Name_0045	Sasha, please look at me just once
+Magic_Name_0046	Sasha Delicious Party_Continuous Recovery
+Magic_Name_0047	Sasha Delicious Party Gauge Recovery
+Magic_Name_0048	Drosselmeyer Volley
+Magic_Name_0049	Drosselmeyer Nutcracker BOMB
+Magic_Name_0050	Cecilia's Night in the Light
+Magic_Name_0051	Cecilia, the girl who calls the night
+Magic_Name_0052	I'm serious about the Marie figure
+Magic_Name_0053	I'm serious about the Marie figure
+Magic_Name_0054	Marie, the fairy of the star kingdom
+Magic_Name_0055	Follow Dieter Jim
+Magic_Name_0056	Air Aqua Melody
+Magic_Name_0057	Air BubbleMelody
+Magic_Name_0058	Florence Flowering
+Magic_Name_0059	Florence Bloomingshine
+Magic_Name_0060	Vera Vera's True Punch (1)
+Magic_Name_0061	Vera Vera's True Punch (2)
+Magic_Name_0062	Vera, guys, please (1)
+Magic_Name_0063	Vera, guys, please (2)
+Magic_Name_0064	Kismet Your future is...(1)
+Magic_Name_0065	Kismet Your future is...(2)
+Magic_Name_0066	Witch Cecilia Darkness that Splits the Night (1)
+Magic_Name_0067	Witch Cecilia A Night of Sorrow
+Magic_Name_0068	Witch Cecilia's Sorrowful Night_Effect Delete
+Magic_Name_0069	Pierce through the darkness of the day
+Magic_Name_0070	One Day Bloody Blade
+Magic_Name_0071	Kai in the dark space
+Magic_Name_0072	Kai Comfortable
+Magic_Name_0073	Lucian Mark of Pain
+Magic_Name_0074	Lucian becomes stronger through pain
+Magic_Name_0075	Maximilian Swift
+Magic_Name_0076	Maximilian's Ray of Blood
+Magic_Name_0077	Olivier Knight's Pride
+Magic_Name_0078	Ophelia Weakening Potion
+Magic_Name_0079	Ophelia Chemistry Potion
+Magic_Name_0080	Anastasia Talanquera
+Magic_Name_0081	Anastasia Ventiska
+Magic_Name_0082	Peach Crush Active A
+Magic_Name_0083	Jargal Throwing
+Magic_Name_0084	Jargal I'm a wolf too!!
+Magic_Name_0085	Nyx Active A Cloaking
+Magic_Name_0086	Nix Active B Overcharge
+Magic_Name_0087	Nyx Active B Reduce enemy defense
+Magic_Name_0088	Sword: Flower and Bird Island
+Magic_Name_0089	Tameshigiri
+Magic_Name_0090	Sea Active Skill A
+Magic_Name_0091	Sea Active Skill B (1)
+Magic_Name_0092	Protection for Arc Polyph Warriors
+Magic_Name_0093	Monica Color Splash
+Magic_Name_0094	Monica Artistic Dimension - Painting World
+Magic_Name_0095	Monica Artistic Dimension - Painting World 2
+Magic_Name_0096	Meimei Gyeoksan Tau
+Magic_Name_0097	Meimei Gyeoksan Tau 2
+Magic_Name_0098	Meimei Il-yeop Ji-hwa
+Magic_Name_0099	Harang's Branding Crime
+Magic_Name_0100	Harang Gucheonjimong
+Magic_Name_0101	Claude Surprise ♣
+Magic_Name_0102	Claude Showtime! 1
+Magic_Name_0103	Claude Showtime! 2
+Magic_Name_0104	Rough Lion Flip
+Magic_Name_0105	Cain Baptism of Light and Darkness (Full)
+Magic_Name_0106	Cain Baptism of Light and Darkness (Most Debuffs)
+Magic_Name_0107	Cain Angel of Reversal
+Magic_Name_0108	Cain's Angel of Reversal 2
+Magic_Name_0109	Miho Embracing the Sun
+Magic_Name_0110	Miho New Sun
+Magic_Name_0111	Miho New Sun 2
+Magic_Name_0112	Larissa1-1
+Magic_Name_0113	Larissa1-2
+Magic_Name_0114	Larissa2
+Magic_Name_0115	Larissa2_Provides a shield
+Magic_Name_0116	(Added) Olivier Active B Effect
+Magic_Name_0117	Amelie Active B
+Magic_Name_0118	Yeon-o Active B
+Magic_Name_0119	Mikhail Active A
+Magic_Name_0120	Mikhail Active B
+Magic_Name_0121	Nyx Active A Effect 2
+Magic_Name_0122	Shiho Active Skill A-1
+Magic_Name_0123	Siho Active Skill A-2 (Aggro)
+Magic_Name_0124	Shiho Active Skill B-1
+Magic_Name_0125	Shiho Active Skill B-2
+Magic_Name_0126	Peach Crush Active B
+Magic_Name_0127	Saladin Active Skill A
+Magic_Name_0128	Saladin Active Skill B
+Magic_Name_0129	Scheherazade Active Skill A
+Magic_Name_0130	Scheherazade Active Skill B
+Magic_Name_1000	Author Active Skill 1 Tales of Healing Book
+Magic_Name_1001	World Skill 1 Sweet Fragrance
+Magic_Name_1002	World Skill 2 Circus Show Held!
+Magic_Name_1003	Author Active Skill 2 Beware of the Needles
+Magic_Name_1004	World Skill 3 Dark Path
+Magic_Name_1005	World Skill 4 Picnic Road
+Magic_Name_1006	Author Active Skill 3 Armor-Covering Doll
+Magic_Name_1007	Author Active Skill 4 Bubble Wash
+Magic_Name_1008	Author Active Skill 4 Bubble Wash 2
+Magic_Name_1009	World Skill 5 Prophecy of Victory
+Magic_Name_1010	Author Active Skill 5 Flame Flower
+Magic_Name_1011	Author Active Skill 6 Winter Forest Blizzard
+Magic_Name_2000	Reduces damage taken by Trump Check Ace
+Magic_Name_2001	Fairy Healing Fairy Heal
+Magic_Name_2002	Mimi's Taunt Effect
+Magic_Name_2003	Fifi's Burn Effect
+Magic_Name_2004	Increased defense of Ogre Tanker Ace
+Magic_Name_2005	Mad Pierrot Supporter HP Recovery
+Magic_Name_2006	Reduces damage taken by Royal Guard Knights
+Magic_Name_2007	Hollow Knight Stun
+Magic_Name_2008	Hollow Knight Bleeding
+Magic_Name_2009	Procyon Guard Stone Body
+Magic_Name_2010	Increased damage of Queen Heart
+Magic_Name_2011	Queen Heart's Silence
+Magic_Name_2012	Gretel's Cake Drop
+Magic_Name_2013	Gretel's Chocolate Swamp
+Magic_Name_2014	Hansel's Bubble Cross
+Magic_Name_2015	Hansel's Fortress
+Magic_Name_2016	Aramode's Blind Cream
+Magic_Name_2017	Aramode's Choco Vanilla Spiral
+Magic_Name_2018	Summon Mimi of Flare
+Magic_Name_2019	Flare's Mimi Stat Enhancement
+Magic_Name_2020	Flare Fifi's Burn Effect
+Magic_Name_2021	Briar Rose's Self Stun
+Magic_Name_2022	Briar Rose's Debuff
+Magic_Name_2023	Melphi Good Night Nightmare
+Magic_Name_2024	Melphi Sheep Attack
+Magic_Name_2025	Jargal Throwing
+Magic_Name_2026	Jargal I'm a wolf too!!
+Magic_Name_2027	Nutcracker Musket Bottle Confirmed Cri
+Magic_Name_2028	Nutcracker Musician Action Power Increase
+Magic_Name_2029	Pierce through the darkness of the day
+Magic_Name_2030	One Day Bloody Blade
+Magic_Name_2031	Follow Dieter Jim
+Magic_Name_2032	Drosselmeyer Volley
+Magic_Name_2033	Drosselmeyer Nutcracker BOMB
+Magic_Name_2034	Kismet Your future is...
+Magic_Name_2035	Kismet Your future is...
+Magic_Name_2036	Kismet Thalassophobia
+Magic_Name_2037	Air Aqua Melody
+Magic_Name_2038	Air BubbleMelody
+Magic_Name_2039	Florence Flowering
+Magic_Name_2040	Florence Bloomingshine
+Magic_Name_2041	Owl Nastia Snowstorm
+Magic_Name_2042	Cecilia's Night in the Light
+Magic_Name_2043	Cecilia, the girl who calls the night
+Magic_Name_2044	Witch Cecilia Darkness that divides the night
+Magic_Name_2045	Witch Cecilia A Night of Sorrow
+Magic_Name_2046	Fairy Heal Fairy Heal (Abyss of Darkness only)
+Magic_Name_2047	Snow Fairy Magician's Heal
+Magic_Name_2048	Lua Serenege Eternal Snow
+Magic_Name_2049	Dark Shape Recognition
+Magic_Name_2050	Darkness Shape Collapse
+Magic_Name_2051	Reduces damage taken by Trump Inspector Ace
+Magic_Name_2052	Mad Pierrot Supporter HP Recovery
+Magic_Name_2053	Reduces damage taken by Royal Guard Knights
+Magic_Name_2054	Hollow Knight Stun
+Magic_Name_2055	Hollow Knight Bleeding
+Magic_Name_2056	Procyon Guard Stone Body
+Magic_Name_2057	Nutcracker Musket Bottle Confirmed Cri
+Magic_Name_2058	Nutcracker Musician Action Power Increase
+Magic_Name_2059	Snow Fairy Magician's Heal
+Magic_Name_2060	Manta Dangdang Defense reduced
+Magic_Name_2061	King Slami Slow
+Magic_Name_2062	Glow-in-the-dark effect
+Magic_Name_2063	Glow-in-the-dark goblin effect
+Magic_Name_2064	Millennium Tiger A Effect
+Magic_Name_2065	Millennium Tiger A Effect 2
+Magic_Name_2066	Millennium Tiger B Effect
+Magic_Name_4000	Rising Power
+Magic_Name_4001	Steel Armor
+Magic_Name_4002	Burning Firepower
+Magic_Name_4003	Eagle's Eye
+Magic_Name_4004	Light Footwork
+Magic_Name_4005	Lucky Strike
+Magic_Name_4006	Fatal Blow
+Magic_Name_4007	Strong Body
+Magic_Name_4008	Overflowing stamina
+Magic_Name_4009	Quick Action
+Magic_Name_4010	Strong Power
+Magic_Name_4011	Prevent Harm
+Magic_Name_4012	Rising Power 2
+Magic_Name_4013	Steel Armor 2
+Magic_Name_4014	Burning Firepower 2
+Magic_Name_4015	Eagle's Eye 2
+Magic_Name_4016	Light Footwork 2
+Magic_Name_4017	Lucky Strike 2
+Magic_Name_4018	Fatal Blow 2
+Magic_Name_4019	Strong Body 2
+Magic_Name_4020	Overflowing Stamina 2
+Magic_Name_4021	Quick Action 2
+Magic_Name_4022	Strong Power 2
+Magic_Name_4023	Prevent Harm 2
+Magic_Name_4024	Rising Power 3
+Magic_Name_4025	Steel Armor 3
+Magic_Name_4026	Burning Firepower 3
+Magic_Name_4027	Eagle Eye 3
+Magic_Name_4028	Light Footwork 3
+Magic_Name_4029	Lucky Strike 3
+Magic_Name_4030	Fatal Blow 3
+Magic_Name_4031	Strong Body 3
+Magic_Name_4032	Overflowing Stamina 3
+Magic_Name_4033	Quick Action 3
+Magic_Name_4034	Strong Power 3
+Magic_Name_4035	Prevent Harm 3
+Magic_Name_4036	Will to Defend
+Magic_Name_4037	Power of Defense
+Magic_Name_4038	Extreme Defense
+Magic_Name_4039	Will to Attack
+Magic_Name_4040	Power of Attack
+Magic_Name_4041	Extreme Attack
+Magic_Name_4042	Will to Support
+Magic_Name_4043	The Power of Support
+Magic_Name_4044	Extreme support
+Magic_Name_4045	Will to Recover
+Magic_Name_4046	Power of Recovery
+Magic_Name_4047	Extreme Recovery
+Magic_Name_4048	Damage Amplification
+Magic_Name_4049	Critical Amplification
+Magic_Name_4050	Strongest Attack
+Magic_Name_4051	Extreme Attack
+Magic_Name_4052	Heavy hit
+Magic_Name_4053	Best Defense
+Magic_Name_4054	Strongest Defense
+Magic_Name_4055	Extremely strong defense enhancement
+Magic_Name_4056	Stamina Increase
+Magic_Name_4057	Extreme Stamina Enhancement
+Magic_Name_4058	Weakening Harm
+Magic_Name_4059	Sharp Attack
+Magic_Name_5000	Voltaire Motion Change
+Magic_Name_5001	Hard Volter Vulcano Effect
+Magic_Name_5002	Voltaire Dragon Breath Effect
+Magic_Name_5003	Hard Volter Dragon Breath Effect
+Magic_Name_5004	Hard Volter Dragon Breath Effect 2
+Magic_Name_5005	Asla motion change
+Magic_Name_5006	Summon Asla Slime
+Magic_Name_5007	Asla Mini Slime Stat Increase
+Magic_Name_5008	Summon Normal Asla Slime
+Magic_Name_5009	Normal Asla Mini Slime Stat Increase
+Magic_Name_5010	Summon Hard Asla Slime
+Magic_Name_5011	Hard Asla Mini Slime Stat Increase
+Magic_Name_5012	Predator of the Asla Snowfields
+Magic_Name_5013	Predator of the Asla Snowfield 2
+Magic_Name_5014	Hard Asla Snowfield Predator
+Magic_Name_5015	Hard Asla Snowfield Predator 2
+Magic_Name_5016	Windia Active Skill A Effect
+Magic_Name_5017	Hard Windia Active Skill A Effect
+Magic_Name_5018	Windia Active B Skill Effect
+Magic_Name_5019	Hard Windia Active B Skill Effect
+Magic_Name_8000	Grassland Unique Weapon Effect 1
+Magic_Name_8001	Grassland Unique Weapon Effect 2
+Magic_Name_8002	Grassland Unique Weapon Effect 3
+Magic_Name_8003	Grassland Unique Weapon Effect 4
+Magic_Name_8004	Helia Unique Weapon Effect 1
+Magic_Name_8005	Helia Unique Weapon Effect 2
+Magic_Name_8006	Helia Unique Weapon Effect 3
+Magic_Name_8007	Helia Unique Weapon Effect 4
+Magic_Name_8008	Luna Unique Weapon Effect 1
+Magic_Name_8009	Luna's Unique Weapon Effect 2
+Magic_Name_8010	Luna Unique Weapon Effect 3
+Magic_Name_8011	Luna's Unique Weapon Effect 4
+Magic_Name_8012	Elin's Unique Weapon Effect 1
+Magic_Name_8013	Elin's Unique Weapon Effect 2
+Magic_Name_8014	Elin's Unique Weapon Effect 3
+Magic_Name_8015	Elin's Unique Weapon Effect 4
+Magic_Name_8016	Queen Heart Unique Weapon Effect 1
+Magic_Name_8017	Queen Heart Unique Weapon Effect 2
+Magic_Name_8018	Queen Heart Unique Weapon Effect 3
+Magic_Name_8019	Queen Heart Unique Weapon Effect 4
+Magic_Name_8020	Mingming Unique Weapon Effect 1
+Magic_Name_8021	Mingming Unique Weapon Effect 2
+Magic_Name_8022	Mingming Unique Weapon Effect 3
+Magic_Name_8023	Mingming Unique Weapon Effect 4
+Magic_Name_8024	Alice's Unique Weapon Effect 1
+Magic_Name_8025	Alice's Unique Weapon Effect 2
+Magic_Name_8026	Alice's Unique Weapon Effect 3
+Magic_Name_8027	Alice's Unique Weapon Effect 4
+Magic_Name_8028	Bigbo Unique Weapon Effect 1
+Magic_Name_8029	Bigbo Unique Weapon Effect 2
+Magic_Name_8030	Bigbo Unique Weapon Effect 3
+Magic_Name_8031	Bigbo Unique Weapon Effect 4
+Magic_Name_8032	Lara's Unique Weapon Effect 1
+Magic_Name_8033	Lara's Unique Weapon Effect 2
+Magic_Name_8034	Lara's Unique Weapon Effect 3
+Magic_Name_8035	Lara's Unique Weapon Effect 4
+Magic_Name_8036	Elim's Smile Unique Weapon Effect 1
+Magic_Name_8037	Elim's Smile Unique Weapon Effect 2
+Magic_Name_8038	Elim's Smile Unique Weapon Effect 3
+Magic_Name_8039	Elim's Smile Unique Weapon Effect 4
+Magic_Name_8040	Jane Doe Unique Weapon Effect 1
+Magic_Name_8041	Jane Doe Unique Weapon Effect 2
+Magic_Name_8042	Jane Doe Unique Weapon Effect 3
+Magic_Name_8043	Jane Doe Unique Weapon Effect 4
+Magic_Name_8044	Pinocchio Unique Weapon Effect 1
+Magic_Name_8045	Pinocchio Unique Weapon Effect 2
+Magic_Name_8046	Pinocchio Unique Weapon Effect 3
+Magic_Name_8047	Pinocchio Unique Weapon Effect 4
+Magic_Name_8048	Lina's Unique Weapon Effect 1
+Magic_Name_8049	Lina's Unique Weapon Effect 2
+Magic_Name_8050	Lina's Unique Weapon Effect 3
+Magic_Name_8051	Lina's Unique Weapon Effect 4
+Magic_Name_8052	Scarlett Unique Weapon Effect 1
+Magic_Name_8053	Scarlett Unique Weapon Effect 2
+Magic_Name_8054	Scarlett Unique Weapon Effect 3
+Magic_Name_8055	Scarlett Unique Weapon Effect 4
+Magic_Name_8056	Gretel Unique Weapon Effect 1
+Magic_Name_8057	Gretel Unique Weapon Effect 2
+Magic_Name_8058	Gretel Unique Weapon Effect 3
+Magic_Name_8059	Gretel Unique Weapon Effect 4
+Magic_Name_8060	Aramode Unique Weapon Effect 1
+Magic_Name_8061	Aramode Unique Weapon Effect 2
+Magic_Name_8062	Aramode Unique Weapon Effect 3
+Magic_Name_8063	Aramode Unique Weapon Effect 4
+Magic_Name_8064	Hansel Unique Weapon Effect 1
+Magic_Name_8065	Hansel Unique Weapon Effect 2
+Magic_Name_8066	Hansel Unique Weapon Effect 3
+Magic_Name_8067	Hansel Unique Weapon Effect 4
+Magic_Name_8068	Cheshire Unique Weapon Effect 1
+Magic_Name_8069	Cheshire Unique Weapon Effect 2
+Magic_Name_8070	Cheshire Unique Weapon Effect 3
+Magic_Name_8071	Cheshire Unique Weapon Effect 4
+Magic_Name_8072	Flare Unique Weapon Effect 1
+Magic_Name_8073	Flare Unique Weapon Effect 2
+Magic_Name_8074	Flare Unique Weapon Effect 3
+Magic_Name_8075	Flare Unique Weapon Effect 4
+Magic_Name_8076	Briar Rose Unique Weapon Effect 1
+Magic_Name_8077	Briar Rose Unique Weapon Effect 2
+Magic_Name_8078	Briar Rose Unique Weapon Effect 3
+Magic_Name_8079	Briar Rose Unique Weapon Effect 4
+Magic_Name_8080	Melphi Unique Weapon Effect 1
+Magic_Name_8081	Melphi Unique Weapon Effect 2
+Magic_Name_8082	Melphi's Unique Weapon Effect 3
+Magic_Name_8083	Melphi's Unique Weapon Effect 4
+Magic_Name_8084	Zepetto's Unique Weapon Effect 1
+Magic_Name_8085	Zepetto's Unique Weapon Effect 2
+Magic_Name_8086	Zepetto's Unique Weapon Effect 3
+Magic_Name_8087	Zepetto's Unique Weapon Effect 4
+Magic_Name_8088	DnD Unique Weapon Effect 1
+Magic_Name_8089	DnD Unique Weapon Effect 2
+Magic_Name_8090	DnD Unique Weapon Effect 3
+Magic_Name_8091	DnD Unique Weapon Effect 4
+Magic_Name_8092	Sasha's Unique Weapon Effect 1
+Magic_Name_8093	Sasha's Unique Weapon Effect 2
+Magic_Name_8094	Sasha's Unique Weapon Effect 3
+Magic_Name_8095	Sasha's Unique Weapon Effect 4
+Magic_Name_8096	Drosselmeyer Unique Weapon Effect 1
+Magic_Name_8097	Drosselmeyer Unique Weapon Effect 2
+Magic_Name_8098	Drosselmeyer Unique Weapon Effect 3
+Magic_Name_8099	Drosselmeyer Unique Weapon Effect 4
+Magic_Name_8100	Cecilia's Unique Weapon Effect 1
+Magic_Name_8101	Cecilia's Unique Weapon Effect 2
+Magic_Name_8102	Cecilia's Unique Weapon Effect 3
+Magic_Name_8103	Cecilia's Unique Weapon Effect 4
+Magic_Name_8104	Marie's Unique Weapon Effect 1
+Magic_Name_8105	Mari Unique Weapon Effect 2
+Magic_Name_8106	Marie's Unique Weapon Effect 3
+Magic_Name_8107	Marie's Unique Weapon Effect 4
+Magic_Name_8108	Dieter's Unique Weapon Effect 1
+Magic_Name_8109	Dieter's Unique Weapon Effect 2
+Magic_Name_8110	Dieter's Unique Weapon Effect 3
+Magic_Name_8111	Dieter's Unique Weapon Effect 4
+Magic_Name_8112	Air Unique Weapon Effect 1
+Magic_Name_8113	Air Unique Weapon Effect 2
+Magic_Name_8114	Air Unique Weapon Effect 3
+Magic_Name_8115	Air Unique Weapon Effect 4
+Magic_Name_8116	Florence Unique Weapon Effect 1
+Magic_Name_8117	Florence Unique Weapon Effect 2
+Magic_Name_8118	Florence Unique Weapon Effect 3
+Magic_Name_8119	Florence Unique Weapon Effect 4
+Magic_Name_8120	Vera Unique Weapon Effect 1
+Magic_Name_8121	Vera's Unique Weapon Effect 2
+Magic_Name_8122	Vera Unique Weapon Effect 3
+Magic_Name_8123	Vera's Unique Weapon Effect 4
+Magic_Name_8124	Kismet Unique Weapon Effect 1
+Magic_Name_8125	Kismet Unique Weapon Effect 2
+Magic_Name_8126	Kismet Unique Weapon Effect 3
+Magic_Name_8127	Kismet Unique Weapon Effect 4
+Magic_Name_8128	Witch Cecilia Unique Weapon Effect 1
+Magic_Name_8129	Witch Cecilia Unique Weapon Effect 2
+Magic_Name_8130	Witch Cecilia Unique Weapon Effect 3
+Magic_Name_8131	Witch Cecilia Unique Weapon Effect 4
+Magic_Name_8132	Daily Unique Weapon Effect 1
+Magic_Name_8133	Daily Unique Weapon Effect 2
+Magic_Name_8134	Daily Unique Weapon Effect 3
+Magic_Name_8135	Daily Unique Weapon Effect 4
+Magic_Name_8136	Kai's Unique Weapon Effect 1
+Magic_Name_8137	Kai's Unique Weapon Effect 2
+Magic_Name_8138	Kai's Unique Weapon Effect 3
+Magic_Name_8139	Kai's Unique Weapon Effect 4
+Magic_Name_8140	Lucian Unique Weapon Effect 1
+Magic_Name_8141	Lucian Unique Weapon Effect 2
+Magic_Name_8142	Lucian Unique Weapon Effect 3
+Magic_Name_8143	Lucian Unique Weapon Effect 4
+Magic_Name_8144	Leila's Unique Weapon Effect 1
+Magic_Name_8145	Leila's Unique Weapon Effect 2
+Magic_Name_8146	Leila's Unique Weapon Effect 3
+Magic_Name_8147	Leila's Unique Weapon Effect 4
+Magic_Name_8148	Maximilian Unique Weapon Effect 1
+Magic_Name_8149	Maximilian Unique Weapon Effect 2
+Magic_Name_8150	Maximilian Unique Weapon Effect 3
+Magic_Name_8151	Maximilian Unique Weapon Effect 4
+Magic_Name_8152	Olivier's Unique Weapon Effect 1
+Magic_Name_8153	Olivier's Unique Weapon Effect 2
+Magic_Name_8154	Olivier's Unique Weapon Effect 3
+Magic_Name_8155	Olivier's Unique Weapon Effect 4
+Magic_Name_8156	Ophelia's Unique Weapon Effect 1
+Magic_Name_8157	Ophelia's Unique Weapon Effect 2
+Magic_Name_8158	Ophelia's Unique Weapon Effect 3
+Magic_Name_8159	Ophelia's Unique Weapon Effect 4
+Magic_Name_8160	Anastasia Unique Weapon Effect 1
+Magic_Name_8161	Anastasia Unique Weapon Effect 2
+Magic_Name_8162	Anastasia Unique Weapon Effect 3
+Magic_Name_8163	Anastasia Unique Weapon Effect 4
+Magic_Name_8164	Peach Crush Unique Weapon Effect 1
+Magic_Name_8165	Peach Crush Unique Weapon Effect 2
+Magic_Name_8166	Peach Crush Unique Weapon Effect 3
+Magic_Name_8167	Peach Crush Unique Weapon Effect 4
+Magic_Name_8168	Jargal Unique Weapon Effect 1
+Magic_Name_8169	Jargal Unique Weapon Effect 2
+Magic_Name_8170	Jargal Unique Weapon Effect 3
+Magic_Name_8171	Jargal Unique Weapon Effect 4
+Magic_Name_8172	Nyx's Unique Weapon Effect 1
+Magic_Name_8173	Nyx's Unique Weapon Effect 2
+Magic_Name_8174	Nyx's Unique Weapon Effect 3
+Magic_Name_8175	Nyx's Unique Weapon Effect 4
+Magic_Name_8176	Saya Unique Weapon Effect 1
+Magic_Name_8177	Saya Unique Weapon Effect 2
+Magic_Name_8178	Saya Unique Weapon Effect 3
+Magic_Name_8179	Saya Unique Weapon Effect 4
+Magic_Name_8180	Sea Unique Weapon Effect 1
+Magic_Name_8181	Sea Unique Weapon Effect 2
+Magic_Name_8182	Sea Unique Weapon Effect 3
+Magic_Name_8183	Sea Unique Weapon Effect 4
+Magic_Name_8184	Release Unique Weapon Effect 1
+Magic_Name_8185	Release Unique Weapon Effect 2
+Magic_Name_8186	Release Unique Weapon Effect 3
+Magic_Name_8187	Release Unique Weapon Effect 4
+Magic_Name_8188	Arc Polyph Unique Weapon Effect 1
+Magic_Name_8189	Arc Polyph Unique Weapon Effect 2
+Magic_Name_8190	Arc Polyph Unique Weapon Effect 3
+Magic_Name_8191	Arc Polyph Unique Weapon Effect 4
+Magic_Name_8192	Monica's Unique Weapon Effect 1
+Magic_Name_8193	Monica's Unique Weapon Effect 2
+Magic_Name_8194	Monica's Unique Weapon Effect 3
+Magic_Name_8195	Monica's Unique Weapon Effect 4
+Magic_Name_8196	Meimei's Unique Weapon Effect 1
+Magic_Name_8197	Meimei's Unique Weapon Effect 2
+Magic_Name_8198	Meimei's Unique Weapon Effect 3
+Magic_Name_8199	Meimei's Unique Weapon Effect 4
+Magic_Name_8200	Harang's Unique Weapon Effect 1
+Magic_Name_8201	Harang's Unique Weapon Effect 2
+Magic_Name_8202	Harang's Unique Weapon Effect 3
+Magic_Name_8203	Harang's Unique Weapon Effect 4
+Magic_Name_8204	Claude's Unique Weapon Effect 1
+Magic_Name_8205	Claude's Unique Weapon Effect 2
+Magic_Name_8206	Claude's Unique Weapon Effect 3
+Magic_Name_8207	Claude's Unique Weapon Effect 4
+Magic_Name_8208	Rough Unique Weapon Effect 1
+Magic_Name_8209	Rough Unique Weapon Effect 2
+Magic_Name_8210	Rough Unique Weapon Effect 3
+Magic_Name_8211	Rough Unique Weapon Effect 4
+Magic_Name_8212	Cain Unique Weapon Effect 1
+Magic_Name_8213	Cain's Unique Weapon Effect 2
+Magic_Name_8214	Cain's Unique Weapon Effect 3
+Magic_Name_8215	Cain's Unique Weapon Effect 4
+Magic_Name_8216	Miho's Unique Weapon Effect 1
+Magic_Name_8217	Miho's Unique Weapon Effect 2
+Magic_Name_8218	Miho's Unique Weapon Effect 3
+Magic_Name_8219	Miho's Unique Weapon Effect 4
+Magic_Name_8220	Larissa's Unique Weapon Effect 1
+Magic_Name_8221	Larissa's Unique Weapon Effect 2
+Magic_Name_8222	Larissa's Unique Weapon Effect 3
+Magic_Name_8223	Larissa's Unique Weapon Effect 4
+Magic_Name_8224	Amelie's Unique Weapon Effect 1
+Magic_Name_8225	Amelie's Unique Weapon Effect 2
+Magic_Name_8226	Amelie's Unique Weapon Effect 3
+Magic_Name_8227	Amelie's Unique Weapon Effect 4
+Magic_Name_8228	Yeon-o Unique Weapon Effect 1
+Magic_Name_8229	Yeon-o Unique Weapon Effect 2
+Magic_Name_8230	Yeon-o Unique Weapon Effect 3
+Magic_Name_8231	Yeon-o Unique Weapon Effect 4
+Magic_Name_8232	Mikhail's Unique Weapon Effect 1
+Magic_Name_8233	Mikhail's Unique Weapon Effect 2
+Magic_Name_8234	Mikhail's Unique Weapon Effect 3
+Magic_Name_8235	Mikhail's Unique Weapon Effect 4
+Magic_Name_8236	Siho Unique Weapon Effect 1
+Magic_Name_8237	Siho Unique Weapon Effect 2
+Magic_Name_8238	Shiho Unique Weapon Effect 3
+Magic_Name_8239	Siho Unique Weapon Effect 4
+Magic_Name_8240	Saladin Unique Weapon Effect 1
+Magic_Name_8241	Saladin Unique Weapon Effect 2
+Magic_Name_8242	Saladin Unique Weapon Effect 3
+Magic_Name_8243	Saladin Unique Weapon Effect 4
+Magic_Name_8244	Scheherazade Unique Weapon Effect 1
+Magic_Name_8245	Scheherazade Unique Weapon Effect 2
+Magic_Name_8246	Scheherazade Unique Weapon Effect 3
+Magic_Name_8247	Scheherazade Unique Weapon Effect 4
+Magic_Name_10000	(Passive) Grassland Speed Up
+Magic_Name_10001	(Passive) Grassland Agile Movement
+Magic_Name_10002	(Passive) One-sided attack on the grassland
+Magic_Name_10003	(Passive) Helya's Command
+Magic_Name_10004	(Passive) Helia Tales Shield
+Magic_Name_10005	(Passive) Helya's Counterattack
+Magic_Name_10006	(Passive) Luna Frozen Demonstration
+Magic_Name_10007	(Passive) Luna Sharp Arrow
+Magic_Name_10008	(Passive) Under the light of Luna's moon
+Magic_Name_10009	(Passive) Elin's additional health recovery
+Magic_Name_10010	(Passive) Increases Aelin's max HP
+Magic_Name_10011	(Passive) Allyn's additional health recovery
+Magic_Name_10012	(Passive) Queenheart Queen's Duty 1
+Magic_Name_10013	(Passive) Queenheart Queen's Duty 2
+Magic_Name_10014	(Passive) For Her Majesty Queen Heart!!
+Magic_Name_10015	(Passive) Queen Heart Queen's Majesty (Increases damage taken)
+Magic_Name_10016	(Passive) Queen Heart Queen's Majesty (Defense Reduction)
+Magic_Name_10017	(Passive) Mingming Fire Strike
+Magic_Name_10018	(Passive) Mingming Action Actor Mingming
+Magic_Name_10019	(Passive) Mingming Onslaught Dragon
+Magic_Name_10020	(Passive) Alice Blue Sword Demon
+Magic_Name_10021	(Passive) Alice Warrior's Attitude
+Magic_Name_10022	(Passive) Alice's Protection from Another World
+Magic_Name_10023	(Passive) Big Bo's Inner Fury
+Magic_Name_10024	(Passive) Big Bo Extreme Training
+Magic_Name_10025	(Passive) Big Bo Rage Control
+Magic_Name_10026	(Passive) Queen Lara's Protection
+Magic_Name_10027	(Passive) Lara's Blessing of Joy
+Magic_Name_10028	(Passive) Lara's Brilliant Radiance
+Magic_Name_10029	(Passive) Elim's Smile Emotion Absorption_Stack Increase
+Magic_Name_10030	(Passive) Elim's Smile Emotion Absorption_Reduction
+Magic_Name_10031	(Passive) Elim's Smile Emotion Absorption_Deviate Resistance Increase
+Magic_Name_10032	(Passive) Elim's Smile Emotion Absorption_Stack Reset
+Magic_Name_10033	(Passive) Elim's Smile Emotion Healing
+Magic_Name_10034	(Passive) Elim's Smile Resurrection Artifact
+Magic_Name_10035	(Passive) Elim's Smile Resurrection Artifact 2
+Magic_Name_10036	(Passive) Jane Doe Passive 1
+Magic_Name_10037	(Passive) Jane Doe Passive 2
+Magic_Name_10038	(Passive) Jane Doe Passive 3
+Magic_Name_10039	(Passive) Pinocchio Nature's Breath
+Magic_Name_10040	(Passive) Pinocchio's Merciless Hammer
+Magic_Name_10041	(Passive) Pinocchio Groggy Attack
+Magic_Name_10042	(Passive) Lina Skill A Passive
+Magic_Name_10043	(Passive) The charm of Lina Vale
+Magic_Name_10044	(Passive) Lina Refreshing Breeze
+Magic_Name_10045	(Passive) Lina's Ready Stance
+Magic_Name_10046	(Passive) Scarlet Residual Soul
+Magic_Name_10047	(Passive) Scarlet Hunting Skill
+Magic_Name_10048	(Passive) Scarlet Great Soul Collector
+Magic_Name_10049	(Passive) Gretel Sugar Row
+Magic_Name_10050	(Passive) Gretel Tea Time
+Magic_Name_10051	(Passive) Gretel Sugar High
+Magic_Name_10052	(Passive) Aramode Protein Cream
+Magic_Name_10053	(Passive) Aramode Protect Cream
+Magic_Name_10054	(Passive) Aramode Caffeine Cream
+Magic_Name_10055	(Passive) Hansel Iron Will
+Magic_Name_10056	(Passive) Hansel's Training Achievement
+Magic_Name_10057	(Passive) Hansel First Aid
+Magic_Name_10058	(Passive) The Cheshire Cat is invisible?
+Magic_Name_10059	(Passive) The Cheshire Cat is getting scarier?
+Magic_Name_10060	(Passive) Cheshire Cat Secretly Greatly
+Magic_Name_10061	(Passive) Don't harm Flare Mimi!
+Magic_Name_10062	(Passive) Flare Physical Ability Enhancement
+Magic_Name_10063	(Passive) Flare Flame Girl Flare
+Magic_Name_10064	(Passive) Don't wake Briar Rose!
+Magic_Name_10065	(Passive) Briar Rose is harmful!
+Magic_Name_10066	(Passive) Briar Rose PillowCare
+Magic_Name_10067	(Passive) Melphi Nightmare Spark
+Magic_Name_10068	(Passive) Melphi Nightmare Spark_Sleep
+Magic_Name_10069	(Passive) Melphi Nightmare Flower
+Magic_Name_10070	(Passive) Melphi Nightmare Fairy
+Magic_Name_10071	(Passive) Zepetto Healing Thread
+Magic_Name_10072	(Passive) Zepetto Healing Thread HP Recovery
+Magic_Name_10073	(Passive) Zepetto Link Shield
+Magic_Name_10074	(Passive) Strengthen Zepetto's allies
+Magic_Name_10075	(Passive) Zepetto Wooden Doll Passive
+Magic_Name_10076	(Passive) DnD Cheer
+Magic_Name_10077	(Passive) DnD cheer buff 1
+Magic_Name_10078	(Passive) DnD Melody of Recovery
+Magic_Name_10079	(Passive) DnD Duktongsa-go
+Magic_Name_10080	(Passive) Sasha Delicious Food
+Magic_Name_10081	(Passive) Sasha is scary!
+Magic_Name_10082	(Passive) Sasha, cheer up!
+Magic_Name_10083	(Passive) Sasha, cheer up!
+Magic_Name_10084	(Passive) Drosselmeyer Warmonger
+Magic_Name_10085	(Passive) Drosselmeyer Explosive Bullet
+Magic_Name_10086	(Passive) Pierces Drosselmeyer
+Magic_Name_10087	(Passive) Pierces Drosselmeyer 2
+Magic_Name_10088	(Passive) Cecilia Deep Winter Night
+Magic_Name_10089	(Passive) Cecilia's Seeping Night
+Magic_Name_10090	(Passive) Cecilia's Never-ending Night
+Magic_Name_10091	(Passive) Marie's Only Prince_Drosselmeyer Exclusive
+Magic_Name_10092	(Passive) Marie Stella's Protection
+Magic_Name_10093	(Passive) Marie Costume Star!
+Magic_Name_10094	(Passive) Dieter the Great King
+Magic_Name_10095	(Passive) Dieter's body is healthy!
+Magic_Name_10096	(Passive) Dieter is so insolent!!
+Magic_Name_10097	(Passive) Air Passive 1
+Magic_Name_10098	(Passive) Air Passive 2
+Magic_Name_10099	(Passive) Air Passive 3
+Magic_Name_10100	(Passive) Air Passive 3_Fire attribute added
+Magic_Name_10101	(Passive) Florence Floral Care
+Magic_Name_10102	(Passive) Florence Nature Beautiful
+Magic_Name_10103	(Passive) Florence Magic Watering Can
+Magic_Name_10104	(Passive) Florence Magic Watering Can
+Magic_Name_10105	(Passive) Vera Spicy Punch
+Magic_Name_10106	(Passive) If you get hit by Vera, it'll hurt ♥
+Magic_Name_10107	(Passive) If you get hit by Vera, you'll be slow? ♥_Reduces action power
+Magic_Name_10108	(Passive) If you get hit by Vera, you'll be slow? ♥_Action power absorption
+Magic_Name_10109	(Passive) Kismet Passive 1_For all allies
+Magic_Name_10110	(Passive) Kismet Passive 2
+Magic_Name_10111	(Passive) Kismet Passive 3
+Magic_Name_10112	(Passive) Witch Cecilia Passive 1
+Magic_Name_10113	(Passive) Witch Cecilia Passive 1
+Magic_Name_10114	(Passive) Witch Cecilia Passive 2
+Magic_Name_10115	(Passive) Witch Cecilia Passive 3
+Magic_Name_10116	(Passive) Witch Cecilia Passive 3_Effect Removal
+Magic_Name_10117	(Passive) 1 Passive per day
+Magic_Name_10118	(Passive) 2 daily passives
+Magic_Name_10119	(Passive) 3 daily passives
+Magic_Name_10120	(Passive) Kai Passive 1
+Magic_Name_10121	(Passive) Kai Passive 2
+Magic_Name_10122	(Passive) Kai Passive 3
+Magic_Name_10123	(Passive) Lucian Passive 1
+Magic_Name_10124	(Passive) Lucian Passive 2
+Magic_Name_10125	(Passive) Lucian Passive 3
+Magic_Name_10126	(Passive) Lucian Passive 3_Remove applied debuffs
+Magic_Name_10127	(Passive) Leila Passive 1
+Magic_Name_10128	(Passive) Leila Passive 1_For random ally setting
+Magic_Name_10129	(Passive) Leila Passive 2
+Magic_Name_10130	(Passive) Leila Passive 3
+Magic_Name_10131	(Passive) Leila Active B exclusive passive
+Magic_Name_10132	(Passive) Maximilian Passive 1
+Magic_Name_10133	(Passive) Maximilian Passive 2
+Magic_Name_10134	(Passive) Maximilian Passive 3
+Magic_Name_10135	(Passive) Maximilian Passive 3_Bleeding Reduction
+Magic_Name_10136	(Passive) Olivier Passive 1
+Magic_Name_10137	(Passive) Olivier Passive 2
+Magic_Name_10138	(Passive) Olivier Passive 3
+Magic_Name_10139	(Passive) Ophelia Passive 1
+Magic_Name_10140	(Passive) Ophelia Passive 2
+Magic_Name_10141	(Passive) Ophelia Passive 3
+Magic_Name_10142	(Passive) Anastasia Passive 1
+Magic_Name_10143	(Passive) Anastasia Passive 2
+Magic_Name_10144	(Passive) Anastasia Passive 3
+Magic_Name_10145	(Passive) Peach Crush Passive 1
+Magic_Name_10146	(Passive) Peach Crush Passive 2
+Magic_Name_10147	(Passive) Peach Crush Passive 3
+Magic_Name_10148	(Passive) Jargal Passive 1
+Magic_Name_10149	(Passive) Jargal Passive 2
+Magic_Name_10150	(Passive) Jargal Passive 3
+Magic_Name_10151	(Passive) Nyx Passive 1
+Magic_Name_10152	(Passive) Nyx Passive 2
+Magic_Name_10153	(Passive) Nyx Passive 3
+Magic_Name_10154	(Passive) Sayah Passive 1
+Magic_Name_10155	(Passive) Sayah Passive 2
+Magic_Name_10156	(Passive) Sayah Passive 3
+Magic_Name_10157	(Passive) Sea Passive 1
+Magic_Name_10158	(Passive) Sea Passive 2
+Magic_Name_10159	(Passive) Sea Passive 3
+Magic_Name_10160	(Passive) Sea Passive 3
+Magic_Name_10161	(Passive) Release Active A exclusive passive
+Magic_Name_10162	(Passive) Release Active B Exclusive Passive
+Magic_Name_10163	(Passive) Release Active B Exclusive Passive 2
+Magic_Name_10164	(Passive) Release Passive 1
+Magic_Name_10165	(Passive) Release Passive 2
+Magic_Name_10166	(Passive) Release Passive 3
+Magic_Name_10167	(Passive) Passive exclusive to Arc Active B
+Magic_Name_10168	(Passive) Arc Passive 1
+Magic_Name_10169	(Passive) Arc Passive 2
+Magic_Name_10170	(Passive) Arc Passive 2
+Magic_Name_10171	(Passive) Arc Passive 3
+Magic_Name_10172	(Passive) Monica Passive 1
+Magic_Name_10173	(Passive) Monica Passive 1
+Magic_Name_10174	(Passive) Monica Passive 1
+Magic_Name_10175	(Passive) Monica Passive 1
+Magic_Name_10176	(Passive) Monica Passive 2
+Magic_Name_10177	(Passive) Monica Passive 3
+Magic_Name_10178	(Passive) Mei Mei Passive 1
+Magic_Name_10179	(Passive) Mei Mei Passive 2
+Magic_Name_10180	(Passive) Mei Mei Passive 3
+Magic_Name_10181	(Passive) Mei Mei Passive 3_Share Damage
+Magic_Name_10182	(Passive) Harang Passive 1
+Magic_Name_10183	(Passive) Harang Passive 1_Energy Ratio Notarization
+Magic_Name_10184	(Passive) Harang Passive 2
+Magic_Name_10185	(Passive) Harang Passive 3
+Magic_Name_10186	(Passive) Claude Passive 1
+Magic_Name_10187	(Passive) Claude Passive 2
+Magic_Name_10188	(Passive) Claude Passive 3
+Magic_Name_10189	(Passive) Rough Active A exclusive passive
+Magic_Name_10190	(Passive) Rough Active B exclusive passive
+Magic_Name_10191	Miya's cheer
+Magic_Name_10192	Reverse Rider
+Magic_Name_10193	Overlit Bike
+Magic_Name_10194	Overdrive Bike 2
+Magic_Name_10195	(Passive) Cain Passive 1
+Magic_Name_10196	(Passive) Cain Passive 2
+Magic_Name_10197	(Passive) Cain Passive 3
+Magic_Name_10198	(Passive) Cain Passive 3
+Magic_Name_10199	(Passive) Cain Passive 3
+Magic_Name_10200	(Passive) Miho Passive 1
+Magic_Name_10201	(Passive) Miho Passive 2
+Magic_Name_10202	(Passive) Miho Passive 3
+Magic_Name_10203	(Passive) Larissa Passive 1-1
+Magic_Name_10204	(Passive) Larissa Passive 1-2
+Magic_Name_10205	(Passive) Larissa Passive 2
+Magic_Name_10206	(Passive) Larissa Passive 3-1
+Magic_Name_10207	(Passive) Larissa Passive 3-2
+Magic_Name_10208	(Active) Amelie Active A Effect
+Magic_Name_10209	(Active) Amelie Active B Effect
+Magic_Name_10210	(Passive) Amelie Passive 1
+Magic_Name_10211	(Passive) Amelie Passive 2
+Magic_Name_10212	(Passive) Amelie Passive 3-1
+Magic_Name_10213	(Passive) Amelie Passive 3-2
+Magic_Name_10214	(Active) Yeon-o Active A Effect
+Magic_Name_10215	(Passive) Yeon-o Passive 1-1 (Energy Gain)
+Magic_Name_10216	(Passive) Yeon-o Passive 1-2 (Energy Proportional Notarization)
+Magic_Name_10217	(Passive) Yeon-o Passive 1-2 (Energy 100 effect limit)
+Magic_Name_10218	(Passive) Yeon-o Passive 1-3 (Extra Hit)
+Magic_Name_10219	(Passive) Yeon-o Passive 1-4 (Energy Consumption)
+Magic_Name_10220	(Passive) Yeon-o Passive 2
+Magic_Name_10221	(Passive) Yeon-o Passive 3-1 (Target Lock)
+Magic_Name_10222	(Passive) Mikhail Passive 1
+Magic_Name_10223	Mikhail Active A Normal Attack Change
+Magic_Name_10224	(Passive) Mikhail Passive 2
+Magic_Name_10225	(Passive) Mikhail Passive 3-1
+Magic_Name_10226	(Passive) Mikhail Passive 3-2
+Magic_Name_10227	Mikhail Active B Normal Attack Change
+Magic_Name_10228	Arc Paring Motion
+Magic_Name_10229	Arc probability for parrying (= evasion)
+Magic_Name_10230	(Passive) Shiho Passive 1
+Magic_Name_10231	(Passive) Shiho Passive 1-2 (Wave Transition)
+Magic_Name_10232	(Passive) Shiho Passive 1-3 (Enemy Debuff)
+Magic_Name_10233	(Passive) Shiho Passive 1-4 (Hit when hit)
+Magic_Name_10234	(Passive) Shiho Passive 2
+Magic_Name_10235	(Passive) Shiho Passive 3-1
+Magic_Name_10236	(Passive) Shiho Passive 3-2
+Magic_Name_10237	(Passive) Shiho Passive 3-3
+Magic_Name_10238	(Passive) Anastasia Passive 3 (Reduces allies' damage taken)
+Magic_Name_10239	(Passive) Add 1 Nyx Passive
+Magic_Name_10240	(Passive) Saladin Passive 1
+Magic_Name_10241	(Passive) Saladin Passive 1
+Magic_Name_10242	(Passive) Saladin Passive 1
+Magic_Name_10243	(Passive) Scheherazade Passive 1
+Magic_Name_10244	(Passive) Scheherazade Passive 1
+Magic_Name_10245	(Passive) Scheherazade Passive 1
+Magic_Name_13000	(Passive) Voltaire Unbreakable Resistance
+Magic_Name_13001	(Passive) Voltaire Flame Symbol
+Magic_Name_13002	(Passive) Volter Flame Symbol Hard
+Magic_Name_13003	(Passive) Voltaire Flame of Pain
+Magic_Name_13004	(Passive) Voltaire Flame of Pain Hard
+Magic_Name_13005	(Passive) Voltaire Dragon Fury
+Magic_Name_13006	(Passive) Voltaire Dragon Fury Hard
+Magic_Name_13007	(Passive) Passive exclusively for strengthening equipment
+Magic_Name_13008	(Passive) Unique weapon growth-only passive
+Magic_Name_13009	(Passive) Passive exclusively for skill enhancement
+Magic_Name_13010	(Passive) Queen Heart Queen's Duty 1_Boss Mob
+Magic_Name_13011	(Passive) Queen Heart Queen's Duty 2_Boss Mob
+Magic_Name_13012	(Passive) For Her Majesty Queen Heart!!_Boss Mob
+Magic_Name_13013	(Passive) Queen Heart Queen's Majesty (Increased damage taken)_Boss Mob
+Magic_Name_13014	(Passive) Queen Heart Queen's Majesty (Charm)_Boss Mob
+Magic_Name_13015	(Passive) Gretel Sugar Low_Boss Mob
+Magic_Name_13016	(Passive) Gretel Tea Time_Boss Mob
+Magic_Name_13017	(Passive) Gretel Sugar High_Boss Mob
+Magic_Name_13018	(Passive) Aramode Protein Cream_Boss Mob
+Magic_Name_13019	(Passive) Aramode Protect Cream_Boss Mob
+Magic_Name_13020	(Passive) Aramode Caffeine Cream_Boss Mob
+Magic_Name_13021	(Passive) Hansel Iron Will_Boss Mob
+Magic_Name_13022	(Passive) Hansel's Training Achievement_Boss Mob
+Magic_Name_13023	(Passive) Hansel First Aid_Boss Mob
+Magic_Name_13024	(Passive) Don't hurt Flare Mimi!_Boss Mob
+Magic_Name_13025	(Passive) Flare Physical Ability Enhancement_Boss Mob
+Magic_Name_13026	(Passive) Flare Flame Girl Flare_Boss Mob
+Magic_Name_13027	(Passive) Don't wake Briar Rose!_Boss Mob
+Magic_Name_13028	(Passive) Briar Rose is harmful!_Boss mob
+Magic_Name_13029	(Passive) Briar Rose PillowCare_Boss Mob
+Magic_Name_13030	(Passive) Melphi Dark and Gloomy Boss Mob
+Magic_Name_13031	(Passive) Melphie Anxiety Fairy Tale_Boss Mob
+Magic_Name_13032	(Passive) Melphi Nightmare Fairy_Boss Mob
+Magic_Name_13033	(Passive) Daily Passive 1_Boss Mob
+Magic_Name_13034	(Passive) Daily Passive 2_Boss Mob
+Magic_Name_13035	(Passive) Daily Passive 3_Boss Mob
+Magic_Name_13036	(Passive) Dieter Great King_Boss Mob
+Magic_Name_13037	(Passive) Dieter's body is healthy!_Boss mob
+Magic_Name_13038	(Passive) Dieter is so insolent!!_Boss mob
+Magic_Name_13039	(Passive) Drosselmeyer Warlord_Boss Mob
+Magic_Name_13040	(Passive) Drosselmeyer Explosive Bullet_Boss Mob
+Magic_Name_13041	(Passive) Pierces Drosselmeyer_Boss Mob
+Magic_Name_13042	(Passive) Kismet Passive 1_For all allies_Boss mobs
+Magic_Name_13043	(Passive) Kismet Passive 1_Water attribute friendly_Boss mob
+Magic_Name_13044	(Passive) Kismet Passive 2_Boss Mob
+Magic_Name_13045	(Passive) Kismet Passive 3_Boss Mob
+Magic_Name_13046	(Passive) Air Passive 1_Boss Mob
+Magic_Name_13047	(Passive) Air Passive 2_Boss Mob
+Magic_Name_13048	(Passive) Air Passive 3_Boss Mob
+Magic_Name_13049	(Passive) Air Passive 3_Add Fire Attribute_Boss Mob
+Magic_Name_13050	(Passive) Florence Floral Care_Boss Mob
+Magic_Name_13051	(Passive) Florence Nature Beautiful_Boss Mob
+Magic_Name_13052	(Passive) Florence Magic Watering Can_Boss Mob
+Magic_Name_13053	(Passive) Florence Magic Watering Can_Boss Mob
+Magic_Name_13054	(Passive) Nascha Passive 1_Boss Mob
+Magic_Name_13055	(Passive) Nascha Passive 2_Boss Mob
+Magic_Name_13056	(Passive) Nascha Passive 2_Die Effect Use
+Magic_Name_13057	(Passive) Cecilia Seeping Night_Boss Mob
+Magic_Name_13058	(Passive) Cecilia's Never-ending Night_Boss Mob
+Magic_Name_13059	(Passive) Cecilia Effect Removal_Boss Mob
+Magic_Name_13060	(Passive) Witch Cecilia Passive 1_Boss Mob
+Magic_Name_13061	(Passive) Witch Cecilia Passive 2_Boss Mob
+Magic_Name_13062	(Passive) Witch Cecilia Passive 3_Boss Mob
+Magic_Name_13063	Spring Spirit Pollen Allergy
+Magic_Name_13064	Lua Sernege Gatekeeper's Will
+Magic_Name_13065	Lua Sernege Sudden Frost
+Magic_Name_13066	Asla Cold Protection 1
+Magic_Name_13067	Asla Cold Protection 2
+Magic_Name_13068	Asla Cold Slime
+Magic_Name_13069	Hard Asla Cold Slime
+Magic_Name_13070	Snowstorm in Asla Snowfield
+Magic_Name_13071	Snowstorm in Asla Snowfield 2
+Magic_Name_13072	Hard Asla Snowfield Blizzard
+Magic_Name_13073	Hard Asla Snowfield Blizzard 2
+Magic_Name_13074	Asla Slime Decomposition
+Magic_Name_13075	Hard Asla Slime Decomposition
+Magic_Name_13076	Asla Slime of Wrath
+Magic_Name_13077	Hard Asla Slime of Wrath
+Magic_Name_13078	Additional Summon of Normal Asla
+Magic_Name_13079	Additional summons of Hard Asla
+Magic_Name_13080	Mini Asla Ice
+Magic_Name_13081	Mini Asla Freezing (Hard)
+Magic_Name_13082	Voltaire Ignition End Additional Damage
+Magic_Name_13083	Raid Boss Basic Effect - Stun Immunity
+Magic_Name_13084	Windia Passive 1
+Magic_Name_13085	Windia Passive 1 (Check if you have illusion)
+Magic_Name_13086	Windia Passive 1 (Windia Continuous Damage)
+Magic_Name_13087	Windia Passive 1 (Windia Continuous Damage)
+Magic_Name_13088	Windia Passive 2
+Magic_Name_13089	Windia Passive 2 (Hard)
+Magic_Name_13090	Windia Passive 3 (Normal state re-activation cooldown)
+Magic_Name_13091	Windia Passive 3 (Debuff Status Conversion)
+Magic_Name_13092	Windia Passive 3 (Normal Status Effect)
+Magic_Name_13093	Windia Passive 3 (Debuff Status Effect 1)
+Magic_Name_13094	Windia Passive 3 (Debuff Status Effect 2 = Passive 2)
+Magic_Name_13095	Windia Passive 3 (Passive 2 Offset Re-activation Cool Tie)
+Magic_Name_13096	Windia Nature Protection 2
+Magic_Name_13097	Windia Nature's Trap (Invincible Effect)
+Magic_Name_13098	Windia Passive 4 (Invincibility Release Condition Stack)
+Magic_Name_13099	Windia Passive 4 (Invincibility Release 1)
+Magic_Name_13100	Windia Passive 4 (Invincibility Release 2)
+Magic_Name_13101	Windia Passive 4 (Invincibility Removed 3)
+Magic_Name_13102	Windia Phase Passive
+Magic_Name_13103	Windia Phase Passive
+Magic_Name_13104	Windia Phase Passive (Hard)
+Magic_Name_13105	Windia Phase Passive (Common)
+Magic_Name_13106	Windia Passive 4 (Hard)
+Magic_Name_13107	Windia Passive 4 (Hard) (Invincible Effect)
+Magic_Name_13108	Windia Passive 4 (Invincibility Release Condition Stack)
+Magic_Name_13109	Windia Passive 4 (Invincibility Release 1)
+Magic_Name_13110	Windia Passive 4 (Invincibility Release 2)
+Magic_Name_13111	Windia Passive 4 (Invincibility Removed 3)
+Magic_Name_13112	Change Windia Motion
+Magic_Name_13113	Manta Dangdang Passive Skill
+Magic_Name_13114	Bear King Passive Annoyance Full Charge
+Magic_Name_13115	Bear King Passive 2 Down
+Magic_Name_13116	Bear King Passive 3 Disruption
+Magic_Name_19000	Leader Skill 1
+Magic_Name_19001	Leader Skill 2
+Magic_Name_19002	Leader Skill 3
+Magic_Name_19003	Leader Skill 4
+Magic_Name_19004	Leader Skill 5
+Magic_Name_19005	Leader Skill 6
+Magic_Name_19006	Leader Skill 7
+Magic_Name_19007	Leader Skill 8
+Magic_Name_20000	Increase defensive defense (small)
+Magic_Name_20001	Increase defensive defense (medium)
+Magic_Name_20002	Increase defensive defense (large)
+Magic_Name_20003	Increase defensive maximum HP (small)
+Magic_Name_20004	Increase defensive maximum HP (medium)
+Magic_Name_20005	Increase defensive maximum HP (large)
+Magic_Name_20006	Increase defensive attack power (small)
+Magic_Name_20007	Increase defensive attack power (medium)
+Magic_Name_20008	Increase defensive attack power (large)
+Magic_Name_20009	Increase defensive damage (small)
+Magic_Name_20010	Increase defensive damage (medium)
+Magic_Name_20011	Increase defensive damage (large)
+Magic_Name_20012	Increased attack power (small)
+Magic_Name_20013	Increase attack power (medium)
+Magic_Name_20014	Increased attack power (large)
+Magic_Name_20015	Increased attack damage (small)
+Magic_Name_20016	Increased attack damage (medium)
+Magic_Name_20017	Increased attack damage (large)
+Magic_Name_20018	Increased attack critical chance (small)
+Magic_Name_20019	Increased attack critical chance (medium)
+Magic_Name_20020	Increased attack critical chance (large)
+Magic_Name_20021	Increased attack critical damage (small)
+Magic_Name_20022	Increased attack critical damage (medium)
+Magic_Name_20023	Increased attack critical damage (large)
+Magic_Name_20024	Increased attack hit rate (small)
+Magic_Name_20025	Increased attack hit rate (medium)
+Magic_Name_20026	Increased attack hit rate (large)
+Magic_Name_20027	Increased attack defense (small)
+Magic_Name_20028	Increased offensive defense (medium)
+Magic_Name_20029	Increased offensive defense (large)
+Magic_Name_20030	Support attack power increase (small)
+Magic_Name_20031	Support attack power increase (medium)
+Magic_Name_20032	Support attack power increase (large)
+Magic_Name_20033	Support defense increase (small)
+Magic_Name_20034	Support defense increase (medium)
+Magic_Name_20035	Support Defense Increase (Great)
+Magic_Name_20036	Supported Max HP Increase (Small)
+Magic_Name_20037	Supported Max HP Increase (Medium)
+Magic_Name_20038	Supported Max HP Increase (Large)
+Magic_Name_20039	Support damage increase (small)
+Magic_Name_20040	Increased support damage (medium)
+Magic_Name_20041	Increased support damage (large)
+Magic_Name_20042	Increased recovery attack power (small)
+Magic_Name_20043	Increased recovery attack power (medium)
+Magic_Name_20044	Increased recovery attack power (large)
+Magic_Name_20045	Increased recovery defense (small)
+Magic_Name_20046	Increased recovery defense (medium)
+Magic_Name_20047	Increased recovery defense (large)
+Magic_Name_20048	Increased maximum HP by recovery type (small)
+Magic_Name_20049	Increased maximum HP by recovery type (medium)
+Magic_Name_20050	Increased maximum HP by recovery type (large)
+Magic_Name_20051	Increased recovery damage (small)
+Magic_Name_20052	Increased recovery damage (medium)
+Magic_Name_20053	Increased recovery damage (large)

@@ -1,0 +1,8 @@
+ItemValue_Name_50000000	Lesser Experience Potion
+ItemValue_Name_50000001	Intermediate Experience Potion
+ItemValue_Name_50000002	Superior Experience Potion
+ItemValue_Name_50000003	Supreme Experience Potion
+ItemValue_Name_50010000	Low-grade reinforcement stone
+ItemValue_Name_50010001	Intermediate Reinforcement Stone
+ItemValue_Name_50010002	Superior Reinforcement Stone
+ItemValue_Name_50010003	Top Grade Reinforcement Stone

@@ -1,0 +1,2 @@
+Border_Name_	Border1
+Border_Description_	~~ You can obtain it when you achieve the achievement.

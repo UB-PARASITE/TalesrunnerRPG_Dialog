@@ -1,0 +1,18 @@
+MainStoryMiniGame_Name_0001	미니게임 1
+MainStoryMiniGame_Name_0002	미니게임 2
+MainStoryMiniGame_Name_0003	미니게임 3
+MainStoryMiniGame_Name_0004	미니게임 4
+MainStoryMiniGame_Name_0005	미니게임 5
+MainStoryMiniGame_Name_0006	미니게임 6
+MainStoryMiniGame_Name_0007	미니게임 7
+MainStoryMiniGame_Name_0008	미니게임 8
+MainStoryMiniGame_Name_0009	미니게임 9
+MainStoryMiniGame_Desc_0001	미니게임 1 간략한 소개 및 설명
+MainStoryMiniGame_Desc_0002	미니게임 2 간략한 소개 및 설명
+MainStoryMiniGame_Desc_0003	미니게임 3 간략한 소개 및 설명
+MainStoryMiniGame_Desc_0004	미니게임 4 간략한 소개 및 설명
+MainStoryMiniGame_Desc_0005	미니게임 5 간략한 소개 및 설명
+MainStoryMiniGame_Desc_0006	미니게임 6 간략한 소개 및 설명
+MainStoryMiniGame_Desc_0007	미니게임 7 간략한 소개 및 설명
+MainStoryMiniGame_Desc_0008	미니게임 8 간략한 소개 및 설명
+MainStoryMiniGame_Desc_0009	미니게임 9 간략한 소개 및 설명

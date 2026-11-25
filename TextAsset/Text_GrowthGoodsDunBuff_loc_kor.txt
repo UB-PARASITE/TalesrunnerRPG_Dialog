@@ -1,0 +1,54 @@
+GrowthGoodsDunBuff_TooltipDesc_0001	방어형 방어력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0002	방어형 방어력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0003	방어형 방어력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0004	방어형 최대HP {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0005	방어형 최대HP {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0006	방어형 최대HP {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0007	방어형 공격력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0008	방어형 공격력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0009	방어형 공격력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0010	방어형 대미지 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0011	방어형 대미지 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0012	방어형 대미지 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0013	공격형 공격력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0014	공격형 공격력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0015	공격형 공격력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0016	공격형 대미지 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0017	공격형 대미지 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0018	공격형 대미지 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0019	공격형 크리티컬 확률 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0020	공격형 크리티컬 확률 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0021	공격형 크리티컬 확률 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0022	공격형 크리티컬 대미지 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0023	공격형 크리티컬 대미지 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0024	공격형 크리티컬 대미지 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0025	공격형 명중률 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0026	공격형 명중률 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0027	공격형 명중률 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0028	공격형 방어력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0029	공격형 방어력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0030	공격형 방어력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0031	지원형 공격력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0032	지원형 공격력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0033	지원형 공격력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0034	지원형 방어력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0035	지원형 방어력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0036	지원형 방어력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0037	지원형 최대HP {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0038	지원형 최대HP {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0039	지원형 최대HP {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0040	지원형 대미지 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0041	지원형 대미지 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0042	지원형 대미지 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0043	회복형 공격력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0044	회복형 공격력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0045	회복형 공격력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0046	회복형 방어력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0047	회복형 방어력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0048	회복형 방어력 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0049	회복형 최대HP {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0050	회복형 최대HP {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0051	회복형 최대HP {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0052	회복형 대미지 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0053	회복형 대미지 {v0.0}% 증가
+GrowthGoodsDunBuff_TooltipDesc_0054	회복형 대미지 {v0.0}% 증가

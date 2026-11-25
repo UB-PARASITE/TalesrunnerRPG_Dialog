@@ -1,0 +1,438 @@
+ActiveSkill_Name_0000	Crazy Blow
+ActiveSkill_Name_0001	Power Charge
+ActiveSkill_Name_0002	Shield Attack
+ActiveSkill_Name_0003	Hellbird Strike
+ActiveSkill_Name_0004	Curve Shot
+ActiveSkill_Name_0005	Moon Cutter
+ActiveSkill_Name_0006	Potion Delivery
+ActiveSkill_Name_0007	Potion Rain
+ActiveSkill_Name_0008	Hit that guy hard
+ActiveSkill_Name_0009	How rude
+ActiveSkill_Name_0010	Whirlwind Slash
+ActiveSkill_Name_0011	Fire Dragon Wave
+ActiveSkill_Name_0012	Warrior★Power
+ActiveSkill_Name_0013	Definition? Wins
+ActiveSkill_Name_0014	Lazy
+ActiveSkill_Name_0015	Scorched Earth
+ActiveSkill_Name_0016	Delight Shower
+ActiveSkill_Name_0017	Light Delight
+ActiveSkill_Name_0018	Draw: Card of Joy
+ActiveSkill_Name_0019	Draw: Card of Rage
+ActiveSkill_Name_0020	How the Hunter Hunts
+ActiveSkill_Name_0021	Track and hunt
+ActiveSkill_Name_0022	Hammergun Full Power
+ActiveSkill_Name_0023	Hammer Strike
+ActiveSkill_Name_0024	Swan Lake
+ActiveSkill_Name_0025	Finale
+ActiveSkill_Name_0026	Tomahawk Boomerang
+ActiveSkill_Name_0027	Over Soul
+ActiveSkill_Name_0028	Cake Drop
+ActiveSkill_Name_0029	Chocolate Swamp
+ActiveSkill_Name_0030	It's covered in strawberry cream~
+ActiveSkill_Name_0031	Choco Vanilla Spiral
+ActiveSkill_Name_0032	Crispy Waffle
+ActiveSkill_Name_0033	Fortress Cake
+ActiveSkill_Name_0034	Even if you can't see it, it's still there?
+ActiveSkill_Name_0035	Are cat claws sharp?
+ActiveSkill_Name_0036	Go away, Mimi! I chose you!
+ActiveSkill_Name_0037	Pipi-chan★FIRE
+ActiveSkill_Name_0038	Sleep is the best medicine
+ActiveSkill_Name_0039	PillowStrike!!!
+ActiveSkill_Name_0040	Good Night, Nightmare
+ActiveSkill_Name_0041	Sheep Raid
+ActiveSkill_Name_0042	Link Manipulation
+ActiveSkill_Name_0043	Doll Summoning
+ActiveSkill_Name_0044	Music Therapy
+ActiveSkill_Name_0045	Climax
+ActiveSkill_Name_0046	Please take a look just once!
+ActiveSkill_Name_0047	Delicious Party
+ActiveSkill_Name_0048	Volley Shot
+ActiveSkill_Name_0049	Nutcracker BOMB
+ActiveSkill_Name_0050	Night in the Light
+ActiveSkill_Name_0051	The Girl Who Calls the Night
+ActiveSkill_Name_0052	Serious about the figure
+ActiveSkill_Name_0053	Star Fairy Marie
+ActiveSkill_Name_0054	Follow the load!
+ActiveSkill_Name_0055	Clicker Rush
+ActiveSkill_Name_0056	Aqua Melody
+ActiveSkill_Name_0057	Bubble Trouble
+ActiveSkill_Name_0058	Flowering
+ActiveSkill_Name_0059	Blooming Shine
+ActiveSkill_Name_0060	Vera's True Punch ♥
+ActiveSkill_Name_0061	Bat's Cross
+ActiveSkill_Name_0062	Your future is…
+ActiveSkill_Name_0063	Thalassophobia
+ActiveSkill_Name_0064	Darkness that Splits the Night
+ActiveSkill_Name_0065	A Night of Sorrow
+ActiveSkill_Name_0066	Pierce through the darkness
+ActiveSkill_Name_0067	Bloody Blade
+ActiveSkill_Name_0068	In the dark space
+ActiveSkill_Name_0069	Comfortable
+ActiveSkill_Name_0070	Mark of Pain
+ActiveSkill_Name_0071	Become stronger through pain
+ActiveSkill_Name_0072	Are you ready to die?
+ActiveSkill_Name_0073	Monster Cleaning
+ActiveSkill_Name_0074	Quick Kill
+ActiveSkill_Name_0075	Blood Ray
+ActiveSkill_Name_0076	Knight's Pride
+ActiveSkill_Name_0077	Turbulent Land
+ActiveSkill_Name_0078	Weakening Potion
+ActiveSkill_Name_0079	Chemistry Potion
+ActiveSkill_Name_0080	Talankera
+ActiveSkill_Name_0081	Ventiska
+ActiveSkill_Name_0082	Veteran play!?
+ActiveSkill_Name_0083	★☆SUPER BOMB☆★
+ActiveSkill_Name_0084	Flood Claw
+ActiveSkill_Name_0085	I'm a wolf too!!
+ActiveSkill_Name_0086	Precision Shot!
+ActiveSkill_Name_0087	Overcharge★
+ActiveSkill_Name_0088	Sword: Flower and Bird Sword
+ActiveSkill_Name_0089	Tameshigiri
+ActiveSkill_Name_0090	Diving
+ActiveSkill_Name_0091	Guardian of the Sea
+ActiveSkill_Name_0092	Anyone would fall in love with this!
+ActiveSkill_Name_0093	The True Face of the Succubus
+ActiveSkill_Name_0094	Protection for the Warrior
+ActiveSkill_Name_0095	Justice triumphs!
+ActiveSkill_Name_0096	Color Splash
+ActiveSkill_Name_0097	Artistic Dimension - World of Painting
+ActiveSkill_Name_0098	Gyeoksan Tau
+ActiveSkill_Name_0099	One Leaf Flower
+ActiveSkill_Name_0100	Branding
+ActiveSkill_Name_0101	Nine Heavens Dream
+ActiveSkill_Name_0102	Surprise♣
+ActiveSkill_Name_0103	Show time!
+ActiveSkill_Name_0104	Bike Strike
+ActiveSkill_Name_0105	Lion Flip
+ActiveSkill_Name_0106	Baptism of Light and Darkness
+ActiveSkill_Name_0107	Angel of Reversal
+ActiveSkill_Name_0108	Embracing Sun
+ActiveSkill_Name_0109	New Sun
+ActiveSkill_Name_0110	Swimming Wish
+ActiveSkill_Name_0111	Overflowing Hope
+ActiveSkill_Name_0112	Heavy Rain Warning
+ActiveSkill_Name_0113	Stormy Night
+ActiveSkill_Name_0114	Guardian of the Year
+ActiveSkill_Name_0115	Five Yeonil Sword (晤緣一劍)
+ActiveSkill_Name_0116	Licht Bringer
+ActiveSkill_Name_0117	Todes Engel
+ActiveSkill_Name_0118	The power to protect
+ActiveSkill_Name_0119	Awakening of the Millennium Fox
+ActiveSkill_Name_0120	Year: Dual Swordsmanship
+ActiveSkill_Name_0121	Heaven and Earth Splitting Dance
+ActiveSkill_Name_0122	Mutanabi's Wind
+ActiveSkill_Name_0123	Light of Tour
+ActiveSkill_Name_3000	Fatal Blow
+ActiveSkill_Name_3001	Defensive Stance
+ActiveSkill_Name_3002	Suppressive Shot
+ActiveSkill_Name_3003	Hit that guy hard
+ActiveSkill_Name_3004	How rude
+ActiveSkill_Name_3005	Hit that guy hard
+ActiveSkill_Name_3006	Fairy Wave
+ActiveSkill_Name_3007	Fairy Laser
+ActiveSkill_Name_3008	Fairy Hill
+ActiveSkill_Name_3009	Ogre Warrior Skill
+ActiveSkill_Name_3010	Ogre's Fury
+ActiveSkill_Name_3011	Ogre Thrower Skill
+ActiveSkill_Name_3012	Me!! Me~!
+ActiveSkill_Name_3013	Blood!!! Blood!!!!
+ActiveSkill_Name_3014	Double Slash
+ActiveSkill_Name_3015	Multi-step
+ActiveSkill_Name_3016	Cat Claw
+ActiveSkill_Name_3017	Boom Stomp
+ActiveSkill_Name_3018	Grenade Juggling
+ActiveSkill_Name_3019	Healing
+ActiveSkill_Name_3020	Extreme Defense
+ActiveSkill_Name_3021	Sharp Shot
+ActiveSkill_Name_3022	Deadly Attack
+ActiveSkill_Name_3023	Shield Bash
+ActiveSkill_Name_3024	Cut and Pierce
+ActiveSkill_Name_3025	Blade Spinning
+ActiveSkill_Name_3026	Infinite Slash
+ActiveSkill_Name_3027	Stone Body
+ActiveSkill_Name_3028	Weakness Shot
+ActiveSkill_Name_3029	Double Lariat
+ActiveSkill_Name_3030	Cake Drop
+ActiveSkill_Name_3031	Chocolate Swamp
+ActiveSkill_Name_3032	Bubble Cross
+ActiveSkill_Name_3033	Fortress
+ActiveSkill_Name_3034	Blind Cream
+ActiveSkill_Name_3035	Choco Vanilla Spiral
+ActiveSkill_Name_3036	Go away, Mimi! I chose you!
+ActiveSkill_Name_3037	Pipi-chan★FIRE
+ActiveSkill_Name_3038	Sleep is the best medicine
+ActiveSkill_Name_3039	PillowStrike!!!
+ActiveSkill_Name_3040	Good Night, Nightmare
+ActiveSkill_Name_3041	Sheep Raid
+ActiveSkill_Name_3042	Throwing Randomly
+ActiveSkill_Name_3043	I'm a wolf too!!
+ActiveSkill_Name_3044	Nutcracker Spearman A
+ActiveSkill_Name_3045	Nutcracker Musketeer A
+ActiveSkill_Name_3046	Nutcracker Musician A
+ActiveSkill_Name_3047	Pierce through the darkness
+ActiveSkill_Name_3048	Bloody Blade
+ActiveSkill_Name_3049	Follow the load!
+ActiveSkill_Name_3050	Clicker Rush
+ActiveSkill_Name_3051	Volley Shot
+ActiveSkill_Name_3052	Nutcracker BOMB
+ActiveSkill_Name_3053	Your future is…
+ActiveSkill_Name_3054	Thalassophobia
+ActiveSkill_Name_3055	Aqua Melody
+ActiveSkill_Name_3056	Bubble Trouble
+ActiveSkill_Name_3057	Flowering
+ActiveSkill_Name_3058	Blooming Shine
+ActiveSkill_Name_3059	Nascha Active Skill
+ActiveSkill_Name_3060	Night in the Light
+ActiveSkill_Name_3061	The Girl Who Calls the Night
+ActiveSkill_Name_3062	Darkness that Splits the Night
+ActiveSkill_Name_3063	A Night of Sorrow
+ActiveSkill_Name_3064	Fairy Wave (Dark Abyss)
+ActiveSkill_Name_3065	Fairy Laser (Dark Abyss)
+ActiveSkill_Name_3066	Fairy Hill (Dark Abyss)
+ActiveSkill_Name_3067	Fairy Wave
+ActiveSkill_Name_3068	Fairy Laser
+ActiveSkill_Name_3069	Fairy Hill
+ActiveSkill_Name_3070	Hydro Cannon
+ActiveSkill_Name_3071	Lazy Flower
+ActiveSkill_Name_3072	Eternal Snow
+ActiveSkill_Name_3073	Recognition
+ActiveSkill_Name_3074	Collapse
+ActiveSkill_Name_3075	Fatal Blow
+ActiveSkill_Name_3076	Defensive Stance
+ActiveSkill_Name_3077	Suppressive Shot
+ActiveSkill_Name_3078	Double Slash
+ActiveSkill_Name_3079	Multi-step
+ActiveSkill_Name_3080	Cat Claw
+ActiveSkill_Name_3081	Boom Stomp
+ActiveSkill_Name_3082	Grenade Juggling
+ActiveSkill_Name_3083	Healing
+ActiveSkill_Name_3084	Extreme Defense
+ActiveSkill_Name_3085	Sharp Shot
+ActiveSkill_Name_3086	Deadly Attack
+ActiveSkill_Name_3087	Shield Bash
+ActiveSkill_Name_3088	Cut and Pierce
+ActiveSkill_Name_3089	Blade Spinning
+ActiveSkill_Name_3090	Infinite Slash
+ActiveSkill_Name_3091	Stone Body
+ActiveSkill_Name_3092	Weakness Shot
+ActiveSkill_Name_3093	Nutcracker Spearman A
+ActiveSkill_Name_3094	Nutcracker Musketeer A
+ActiveSkill_Name_3095	Nutcracker Musician A
+ActiveSkill_Name_3096	Fairy Wave
+ActiveSkill_Name_3097	Fairy Laser
+ActiveSkill_Name_3098	Fairy Hill
+ActiveSkill_Name_3099	Hydro Cannon
+ActiveSkill_Name_3100	Manta Dangdang Attack
+ActiveSkill_Name_3101	Eden Skill A
+ActiveSkill_Name_3102	Eden Skill B
+ActiveSkill_Name_3103	King Slami Skill
+ActiveSkill_Name_3104	Dobby Skill
+ActiveSkill_Name_3105	Kobi Skill
+ActiveSkill_Name_3106	Millennium Tiger Skill A
+ActiveSkill_Name_3107	Millennium Tiger Skill B
+ActiveSkill_Name_5000	Vulcan
+ActiveSkill_Name_5001	Vulcan
+ActiveSkill_Name_5002	Vulcan
+ActiveSkill_Name_5003	Dragon Breath
+ActiveSkill_Name_5004	Dragon Breath
+ActiveSkill_Name_5005	Dragon Breath
+ActiveSkill_Name_5006	Summon Slime
+ActiveSkill_Name_5007	Summon Slime
+ActiveSkill_Name_5008	Summon Slime
+ActiveSkill_Name_5009	Predator of the Snowfields
+ActiveSkill_Name_5010	Predator of the Snowfields
+ActiveSkill_Name_5011	Predator of the Snowfield
+ActiveSkill_Name_5012	Blade of Purification
+ActiveSkill_Name_5013	Blade of Purification
+ActiveSkill_Name_5014	Blade of Purification
+ActiveSkill_Name_5015	Hojeopjimong
+ActiveSkill_Name_5016	Hojeopjimong
+ActiveSkill_Name_5017	Hojeopjimong
+ActiveSkill_Name_5018	Little Bomb Launch
+ActiveSkill_Name_5019	Little Bomb Launch
+ActiveSkill_Name_5020	Little Bomb Launch
+ActiveSkill_Name_5021	Teddy Bear Dive
+ActiveSkill_Name_5022	Teddy Bear Dive
+ActiveSkill_Name_5023	Teddy Bear Dive
+ActiveSkill_Name_5024	Toys prohibited for sale
+ActiveSkill_Name_5025	Toys prohibited for sale
+ActiveSkill_Name_5026	Toys prohibited for sale
+ActiveSkill_Name_7000	Flame Meteor
+ActiveSkill_Name_7001	Healing Wind
+ActiveSkill_Name_7002	Trump Flourish
+ActiveSkill_Name_7003	Fairy Spinning Needle
+ActiveSkill_Name_7004	Armor-Cutting Doll
+ActiveSkill_Name_7005	Bubble Therapy
+ActiveSkill_Name_7006	Blooming Flame Flower
+ActiveSkill_Name_7007	Winter Forest Blizzard
+ActiveSkill_Name_7008	Chapter 9 Writer Skill
+ActiveSkill_Desc_0000	Deals {v0.0}% of the Plains Attack power as damage to a single target enemy.
+ActiveSkill_Desc_0001	Deals {v0.0}% of the grassland attack power as damage to enemies in the specified direction.
+ActiveSkill_Desc_0002	Deals {v0.0}% of Helia's attack power to a single target enemy, and stuns them for {t0} turns. \\r- Stun: Normal attacks and skills cannot be used during the continuous turn.
+ActiveSkill_Desc_0003	Deals {v0.0}% of Helia's attack power as damage to all enemies.
+ActiveSkill_Desc_0004	Deals {v0.0}% of Luna's attack power as damage to a single target enemy.
+ActiveSkill_Desc_0005	Deals {v0.0}% of Luna's attack power as damage to all enemies.
+ActiveSkill_Desc_0006	Increases the attack power of a single selected ally by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0007	Restores {v0.0}% of Elin's maximum health to all allies.
+ActiveSkill_Desc_0008	Deals {v0.0}% of Queen Heart's attack power as damage to a single target enemy, reducing their defense by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0009	Silences all enemies for {t0} turns, reducing their defense by {v0.0}%.\\r- Silence: Skills cannot be used during the turn.
+ActiveSkill_Desc_0010	Deals {v0.0}% of Ming Ming's attack power as damage to a single target enemy, and inflicts Burn status for {t0} turns. \\r- Burn: Deals {v0.0}% of the caster's attack power as damage.
+ActiveSkill_Desc_0011	Deals {v0.0}% of Mingming's attack power as damage to enemies in the specified direction, and inflicts Burn status for {t0} turns. \\r- Burn: Deals {v0.0}% of the caster's attack power as damage.
+ActiveSkill_Desc_0012	Deals {v0.0}% of Alice's attack power as damage to enemies in the specified direction, and stuns them for {t0} turns. \\r- Stun: Normal attacks and skills cannot be used during the continuous turn.
+ActiveSkill_Desc_0013	Deals {v0.0}% of Alice's attack power as damage to all enemies, and increases Alice's critical damage by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0014	Big Bo is taunted for {t0} turns, increasing his attack power by {v0.0}% and his defense power by {v0.0}%.
+ActiveSkill_Desc_0015	Deals {v0.0}% of Big Bo's attack power as damage to all enemies and reduces their defense by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0016	Deals {v0.0}% of Lara's attack power as damage to a single target enemy.
+ActiveSkill_Desc_0017	Deals {v0.0}% of Lara's attack power as damage to all enemies.
+ActiveSkill_Desc_0018	Removes up to {v0} debuffs from a single selected ally, and heals the target ally for {v0.0}% of their HP for {t0} turns.
+ActiveSkill_Desc_0019 Deals	{v0.0}% of Elim's Smile's attack power as damage to a single target enemy and an additional {v0.0}% of the number of debuff effects applied, and reduces action points by {v0}.
+ActiveSkill_Desc_0020	Immediately after using this skill, Jane Doe's normal attack will cast a guaranteed critical attack with increased critical damage {v0.0}%.\\r(No other skills can be used until this attack.)
+ActiveSkill_Desc_0021	Deals {v0.0}% of Jane Doe's attack power as damage to enemies in the specified direction. Also reduces the target's critical resistance by {v0.0}% for {t0} turns and inflicts bleeding. \\r- Bleeding: Deals {v0.0}% of the caster's attack power as continuous damage.
+ActiveSkill_Desc_0022	Deals {v0.0}% of Pinocchio's attack power as damage to a single target enemy and reduces critical resistance by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0023	Deals {v0.0}% of Pinocchio's attack power as damage to enemies within range, and stuns the target for {t0} turns. \\r- Stun: Attacks and skills cannot be used for the next turn.
+ActiveSkill_Desc_0024	Deals {v0.0}% of Lina's attack power as damage to all enemies.
+ActiveSkill_Desc_0025	For {t0} turns, heal all allies for {v0.0}% of Lina's maximum health per turn.
+ActiveSkill_Desc_0026	Deals {v0.0}% of Scarlet's attack power as damage to enemies in the specified direction.
+ActiveSkill_Desc_0027	Deals {v0.0}% of Scarlet's attack power as damage to a single target enemy, and deals damage equivalent to 20% of her attack power (fixed) to enemies within range.
+ActiveSkill_Desc_0028	Deals {v0.0}% of Gretel's attack power as damage to enemies within range.
+ActiveSkill_Desc_0029	Increases the attack power of all allies by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0030	Deals {v0.0}% of Aramode's attack power as damage to a single selected enemy, and reduces their action power {v0}, hit rate {v0.0}%, and evasion rate {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0031	Deals {v0.0}% of Aramode's attack power as damage to all enemies, reducing their hit rate by {v0.0}% and evasion rate by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0032	Deals {v0.0}% of Hansel's attack power to the selected enemy, reduces their defense by {v0.0}% for {t0} turns, and inflicts taunt status. \\r- Taunt: The enemy's attack target changes to yourself.
+ActiveSkill_Desc_0033	Increases own Defense by {v0.0}% for {t0} turns and creates a shield equal to {v0.0}% of maximum HP.
+ActiveSkill_Desc_0034	Deals {v0.0}% of Cheshire's attack power as damage to enemies in front and behind, and reduces their hit rate by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0035	Deals {v0.0}% of Cheshire's attack power as damage to the last enemy.
+ActiveSkill_Desc_0036	Summons Mimi, a summoned creature with increased attack power {v0.0}%, defense power {v0.0}%, and health {v0.0}%. Mimi is positioned at the front and has a taunt effect. \\r- Taunt: The enemy's attack target changes to yourself.
+ActiveSkill_Desc_0037	Deals {v0.0}% of Flare Attack power to all enemies and inflicts Burn status for {t0} turns. \\r-Burn: Deals {v0.0}% of the caster's Attack power as damage for the duration of the turn.
+ActiveSkill_Desc_0038	Puts you to sleep for {t0} turns, recovering {v0.0}% of Briar Rose's maximum health per turn. (Sleep triggered by 'Sleep Tonic' does not increase damage taken.)\\rThe use of the skill is canceled when moving to the next wave.
+ActiveSkill_Desc_0039	Deals {v0.0}% of Briar Rose's attack power as damage to a single target enemy, and puts them to sleep for {t0} turns. \\r- Sleep: Attacks and skills cannot be used, and damage taken increases by {v0.0}%.
+ActiveSkill_Desc_0040	Deals {v0.0}% of Melphi's attack power as damage to a single target enemy, and puts them to sleep for {t0} turns. \\r- Sleep: Attacks and skills cannot be used, and damage taken increases by {v0.0}%.
+ActiveSkill_Desc_0041	Deals {v0.0}% of Melphi's attack power to all enemies, and reduces their attack power by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0042	Grants a buff to the selected ally that increases damage by {v0.0}% and critical chance by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0043	Summons a wooden doll with increased Attack Power (v0.0)%, Defense (v0.0)%, and Health (v0.0)%.
+ActiveSkill_Desc_0044	For {t0} turns, heal all allies for {v0.0}% of their DnD Max Health per turn.
+ActiveSkill_Desc_0045	Deals {v0.0}% of DnD attack power to up to 5 enemies and reduces their defense by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0046	Reduces the attack power of all enemies by {v0.0}% and action power by {v0} for {t0} turns.
+ActiveSkill_Desc_0047	For {t0} turns, continuously restores {v0.0}% of Sasha's maximum health to all allies per turn, and restores {v0} of the Special Gauge.
+ActiveSkill_Desc_0048	Deals {v0.0}% of Drosselmeyer's attack power as damage to all enemies. \\rThe damage ignores enemy shields.
+ActiveSkill_Desc_0049	Deals {v0.0}% of Drosselmeyer's attack power as damage to all enemies, and deals an additional {v0.0}% of Drosselmeyer's attack power to the enemy with the highest maximum health.
+ActiveSkill_Desc_0050	Deals {v0.0}% of Cecilia's attack power as damage to a single selected enemy, and \\rremoves {v0} currently applied buff effects.
+ActiveSkill_Desc_0051	Deals {v0.0}% of Cecilia's attack power as damage to all enemies, and reduces their hit rate by {v0.0}% and defense by {v0.0}% for {t0} turns. (This effect is applied before the skill strikes.)
+ActiveSkill_Desc_0052	Increases the defense of a single target ally by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0053	Increases the maximum health of all allies by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0054	Returns {v0.0}% of the total damage taken by all allies for {t0} turns to the attacking enemy.
+ActiveSkill_Desc_0055	Deals {v0.0}% of Dieter's attack power as damage to enemies in the specified direction.
+ActiveSkill_Desc_0056	Deals {v0.0}% of Air's attack power as damage to enemies within range, and (Passive) grants a musical note mark that lasts for 3 turns.
+ActiveSkill_Desc_0057	Deals damage equal to {v0.0}% of Air's attack power to enemies within range, and (Passive) grants a musical note mark that lasts for 3 turns.
+ActiveSkill_Desc_0058	Restores the health of a single target ally by {v0.0}% of Florence's attack power and reduces the cooldown of all active skills by {v0}.
+ActiveSkill_Desc_0059	Restores {v0.0}% of Florence's attack power to all allies' health, and \\rRemoves {v0} debuff effects applied to the target.
+ActiveSkill_Desc_0060	Deals {v0.0}% of Vera's attack power as damage to a single target enemy, increases Vera's action power by {v0}, and reduces the target's action power by {v0}.
+ActiveSkill_Desc_0061	Deals {v0.0}% of Vera's attack power as damage to enemies in the specified direction, increases Vera's action power by {v0}, and reduces the action power of the target by {v0}.
+ActiveSkill_Desc_0062	Reduces the current health of a single target ally by {v0.0}%. \\rThat ally gains {v0.0}% increased critical damage for {t0} turns and casts a guaranteed critical attack.
+ActiveSkill_Desc_0063	Deals {v0.0}% of Kismet's attack power as damage to all enemies.
+ActiveSkill_Desc_0064	Deals {v0.0}% of Witch Cecilia's attack power as damage to enemies in the specified direction, and grants {v0} additional lights.
+ActiveSkill_Desc_0065	Deals {v0.0}% of Witch Cecilia's attack power as damage to all enemies, and reduces the target's current health by {v0.0}% of the number of accumulated lanterns. All accumulated lanterns disappear.
+ActiveSkill_Desc_0066	Deals {v0.0}% of daily attack power as damage to enemies in the specified direction, and deals additional damage equal to {v0.0}% of the number of debuff effects currently applied to the target.
+ActiveSkill_Desc_0067	Deals {v0.0}% of daily attack power as damage to all enemies, and grants {v0.0}% of daily health as continuous damage for {t0} turns.
+ActiveSkill_Desc_0068	Deals {v0.0}% of Kai's attack power as damage to a single target enemy, and silences them for {t0} turns. \\r- Silence: Skills cannot be used during the continuous turn.
+ActiveSkill_Desc_0069	Grants all allies a shield equal to {v0.0}% of Kai's maximum health for {t0} turns.
+ActiveSkill_Desc_0070	Deals {v0.0}% of Lucian's attack power as damage to a single target enemy, leaving a mark.\\rThe marked target can only attack Lucian for {t0} turns, and takes {v0.0}% of the damage Lucian took as damage.\\r(This effect ignores taunt.)
+ActiveSkill_Desc_0071	For {t0} turns, Lucian's health is reduced by {v0.0}% of his maximum health, but his damage is increased by {v0.0}%.
+ActiveSkill_Desc_0072	Deals {v0.0}% of Leila's attack power as damage to a single target enemy.
+ActiveSkill_Desc_0073	Deals {v0.0}% of Leila's attack power as damage to enemies within range.
+ActiveSkill_Desc_0074	Deals {v0.0}% of Maximilian's attack power as damage to a single target enemy, and inflicts bleeding for {t0} turns. \\r - Bleeding: Inflicts {v0.0}% of the caster's attack power as continuous damage.
+ActiveSkill_Desc_0075	Deals {v0.0}% of Maximilian's attack power as damage to enemies within range, and inflicts bleeding for {t0} turns. \\r - Bleeding: Inflicts {v0.0}% of the caster's attack power as continuous damage.
+ActiveSkill_Desc_0076	For {t0} turns, Olivier cannot attack or use skills, but his defense increases by {v0.0}%.
+ActiveSkill_Desc_0077	Deals {v0.0}% of Olivier's attack power as damage to enemies in the specified direction, and reduces the attack power of the hit enemies by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0078	Deals {v0.0}% of Ophelia's attack power as damage to a single target enemy, and applies poison and attribute weakening effects for {t0} turns. \\r- Poisoning: Deals {v0.0}% of the caster's maximum health as damage \\r- Attribute weakening: Increases damage from matching damage by {v0.0}%
+ActiveSkill_Desc_0079	Deals {v0.0}% of Ophelia's attack power as damage to all enemies, and inflicts poison for {t0} turns. \\r- Poison: Deals {v0.0}% of the caster's maximum health as damage.
+ActiveSkill_Desc_0080	Creates an ice wall that blocks {v0} attacks against Anastasia for {t0} turns.
+ActiveSkill_Desc_0081	Deals {v0.0}% of Anastasia's attack power as damage to all enemies, and applies the Freeze effect for {t0} turns. \\r- Freeze: Cannot attack or use skills, Defense reduced by {v0.0}%
+ActiveSkill_Desc_0082	Deals {v0.0}% of Peach Crush's attack power as damage to a single selected enemy, reducing its hit rate by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0083	Deals {v0.0}% of Peach Crush attack power as damage to all enemies, and reduces the critical chance of the target by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0084	Deals {v0.0}% of Zargal's attack power to a single target enemy, reducing their attack power by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0085	Deals {v0.0}% of Jargal's attack power as damage to enemies in the specified direction, and reduces damage taken by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0086	Deals {v0.0}% of Nyx's attack power as damage to a single selected enemy, reduces the target's evasion rate by {v0.0}% for {t0} turns, and becomes 'cloaked' for {t0} turns. \\r- Cloaked: Cannot be targeted by enemies and does not take damage from striking attacks.
+ActiveSkill_Desc_0087	Nyx's normal attack deals 2.8x more damage for 3 turns, and the normal attack ignores {v0.0}% of the target's defense.
+ActiveSkill_Desc_0088	Deals {v0.0}% of Sayaka's Attack power as damage to a single target enemy with the highest Attack power.
+ActiveSkill_Desc_0089	Deals {v0.0}% of Saya's attack power as damage to all enemies, and deals an additional {v0.0}% of Saya's attack power when attacking the enemy with the highest attack power.
+ActiveSkill_Desc_0090	Deals {v0.0}% of Sea Attack power as damage to a single target, and increases Sea's evasion rate by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0091	Deals {v0.0}% of Sea Attack power as damage to all enemies and evades all enemy attacks for {t0} turns.
+ActiveSkill_Desc_0092	Deals {v0.0}% of Release's attack power as damage to a random single target enemy.
+ActiveSkill_Desc_0093	Deals damage equal to {v0.0}% of Release Attack Power to enemies in the specified direction.
+ActiveSkill_Desc_0094	Deals {v0.0}% of Arc Attack power as damage to a single target enemy, and increases own evasion rate by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0095	Deals {v0.0}% of Arc attack power as damage to all enemies.
+ActiveSkill_Desc_0096	Deals {v0.0}% of Monica's attack power as damage to a single selected enemy, and reduces hit rate by {v0.0}% and critical resistance by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0097	Increases the attack power of all allies by {v0.0}%, and increases the damage taken by all enemies by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0098	Deals {v0.0}% of Meimei's attack power as damage to enemies in the specified direction, increases the target's damage taken by {v0.0}% for {t0} turns, and inflicts Burn. \\r- Burn: Deals {v0.0}% of the caster's attack power as damage .
+ActiveSkill_Desc_0099	Deals {v0.0}% of Meimei's attack power as damage to all enemies and burns them for {t0} turns. \\r- Burn: Deals {v0.0}% of the caster's attack power as damage.
+ActiveSkill_Desc_0100	Deals {v0.0}% of Harang's attack power as damage to a single selected enemy, and marks the target. \\r- Mark: Becomes the enemy's target for {t0} turns, and cannot recover health.
+ActiveSkill_Desc_0101	Deals {v0.0}% of Harang's attack power as damage to all enemies, and deals an additional hit equal to {v0.0}% of Harang's attack power X the number of List Stacks.
+ActiveSkill_Desc_0102	Deals {v0.0}% of Clod's attack power as damage to a single target enemy and inflicts confusion for {t0} turns. \\r- Confusion: When hit, inflicts additional damage equal to {v0.0}% of the attacker's attack power.
+ActiveSkill_Desc_0103	Deals {v0.0}% of Clod's attack power as damage to a single target enemy, and inflicts mutation and confusion for {t0} turns. \\r- Mutation: Target transforms into a dove, cannot attack or use skills \\r- Confusion: When hit, inflicts additional damage equal to {v0.0}% of the attacker's attack power
+ActiveSkill_Desc_0104	Deals {v0.0}% of Rough Attack power as damage to enemies in the specified direction.
+ActiveSkill_Desc_0105	Deals {v0.0}% of Rough Attack power damage to all enemies and reduces their action points by {v0}.
+ActiveSkill_Desc_0106	Deals {v0.0}% of Cain's attack power as damage to enemies in the specified direction, and instantly restores {v0.0}% of Cain's maximum health to all allies. Additionally, instantly restores {v0.0}% of Cain's maximum health to the current health of the ally with the most debuffs. If no ally has debuffs, the ally located furthest in front receives additional healing.
+ActiveSkill_Desc_0107	Instantly restores the HP of all allies by {v0.0}% of Cain's maximum HP. Each ally recovers an additional HP equal to the number of debuffs they have X {v0.0}% of Cain's maximum HP.
+ActiveSkill_Desc_0108	Increases the action power of a single selected ally by {v0} and increases their normal attack damage by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0109	Increases the normal attack damage of all allies including yourself by {v0.0}% for {t0} turns, and inflicts {v0.0}% of Miho's attack power as damage to all enemies for {t0} turns.
+ActiveSkill_Desc_0110	Reduces the cooldown of all active skills of the ally with the highest attack power by {v0}, and restores the health of the ally with the lowest current health by {v0.0}% of Larissa's maximum health for {t0} turns.
+ActiveSkill_Desc_0111	Recovers the HP of all allies by {v0.0}% of Larissa's maximum HP and grants a shield equal to the amount recovered for {t0} turns. Additionally grants a continuous recovery effect equal to {v0.0}% of Larissa's maximum HP.
+ActiveSkill_Desc_0112	Deals damage equal to {v0.0}% of Amelie's attack power to all enemies.
+ActiveSkill_Desc_0113	Deals {v0.0}% of Amelie's attack power as damage to all enemies, and increases the damage taken by the target by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0114	Deals {v0.0}% of the attack power as damage to the single target enemy with the lowest health.
+ActiveSkill_Desc_0115	Deals {v0.0}% of Yeon-o's attack power as damage to a single target, and sends a sword to the hit target for {t0} turns, dealing {v0.0}% of Yeon-o's attack power as continuous damage. Additionally, deals damage equivalent to 20% (fixed) of attack power to enemies within range.
+ActiveSkill_Desc_0116	Deals {v0.0}% of Mikhail's attack power as damage to all enemies, and increases Mikhail's action power by {v0}.
+ActiveSkill_Desc_0117	Deals {v0.0}% of Mikhail's attack power as damage to all enemies, and increases Mikhail's normal attack critical rate by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0118	For {t0} turns, Shiho becomes taunted. During this time, all allies except defensive allies and himself take {v0.0}% less damage, their critical resistance increases by {v0.0}%, and they gain an HP absorption effect equal to {v0.0}% of the damage inflicted when making a normal attack.
+ActiveSkill_Desc_0119	Siho releases his power for {t0} turns. While releasing his power, Siho's normal attacks are converted to full attacks, he becomes immune to all incapacitating debuffs on himself, and takes {v0.0}% less damage from enemies. (Siho's release effect cannot be removed by buff removal effects.) Additionally, he increases allies' damage by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_0120	Saladin Active A Skill Description
+ActiveSkill_Desc_0121	Saladin Active B Skill Description
+ActiveSkill_Desc_0122	Scheherazade Active A Skill Description
+ActiveSkill_Desc_0123	Scheherazade Active B Skill Description
+ActiveSkill_Desc_3010	Increases your own defense for the next turn.
+ActiveSkill_Desc_3011	Throws a large rock that deals powerful damage to a single target.
+ActiveSkill_Desc_3047	Deals {v0.0}% of attack power as damage to a single target enemy of your choice and reduces the target's debuff resistance by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_3048	Provides a shield equal to {v0.0}% of maximum health to all allies, including yourself, for {t0} turns.
+ActiveSkill_Desc_3049	Reflects {v0.0}% of the damage taken by all allies for {t0} turns to the attack target.
+ActiveSkill_Desc_3050	Deals {v0.0}% of attack power as damage to enemies in the specified direction.
+ActiveSkill_Desc_3051	Deals {v0.0}% of attack power as damage to all enemies. This attack ignores enemy shields.
+ActiveSkill_Desc_3052	Deals {v0.0}% of Attack power as damage to all enemies and deals an additional {v0.0}% of Attack power to one enemy with the highest current maximum health.
+ActiveSkill_Desc_3053	Deals {v0.0}% of attack power as damage to enemies in the specified direction, and deals additional damage equal to {v0.0}% of the number of debuffs on the target.
+ActiveSkill_Desc_3054	Deals {v0.0}% of Attack Power as damage to all enemies, and inflicts continuous damage that reduces {v0.0}% of the target's maximum health for {t0} turns with a {v0.0}% chance.
+ActiveSkill_Desc_3055	Deals {v0.0}% of attack power as damage to enemies within range and marks them with a {v0.0}% chance.
+ActiveSkill_Desc_3056	Deals {v0.0}% of attack power as damage to enemies within range and marks them with a {v0.0}% chance.
+ActiveSkill_Desc_3057	Instantly restores the current health of a single ally of your choice by {v0.0}% of Florence's attack power, and reduces the cooldown of all active skills of the target by {v0}.
+ActiveSkill_Desc_3058	Instantly restores the current health of all allies, including yourself, by {v0.0}% of Florence's attack power, and removes {v0} currently applied debuffs.
+ActiveSkill_Desc_3059	Provides freezing effect
+ActiveSkill_Desc_3060	Deals {v0.0}% of attack power as damage to a single target enemy of your choice, and immediately removes {v0} currently applied buff effects.
+ActiveSkill_Desc_3061	Deals {v0.0}% of attack power as damage to all enemies and prevents buff effects from being applied for {t0} turns.
+ActiveSkill_Desc_3062	Deals {v0.0}% of attack power as damage to a single target enemy and reduces the target's action point by {v0}. The amount of action point reduced is added to your own action point.
+ActiveSkill_Desc_3063	Deals {v0.0}% of attack power as damage to enemies in the specified direction. Reduces the target's normal attack defense by {v0.0}% for {t0} turns, and immediately reduces their action power by {v0}. \\rThe amount of action power reduced is added to your own action power.
+ActiveSkill_Desc_5000	Deals {v0.0}% of attack power as damage to all enemies. \\rThe attack ignores {v0.0}% of the target's defense.
+ActiveSkill_Desc_5001	Deals {v0.0}% of attack power as damage to all enemies. \\rThe attack ignores {v0.0}% of the target's defense.
+ActiveSkill_Desc_5002	Deals {v0.0}% of attack power as damage to all enemies. \\rThe attack ignores {v0.0}% of the target's defense.
+ActiveSkill_Desc_5003	Deals {v0.0}% of attack power as damage to all enemies and reduces defense by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_5004	Deals {v0.0}% of attack power as damage to all enemies and reduces their defense by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_5005	Deals {v0.0}% of attack power as damage to all enemies, reduces defense by {v0.0}% for {t0} turns, and applies the Ignition debuff. \\r- Ignition: Deals a certain amount of damage for continuous turns, and deals high damage when the continuous turn ends. Can be removed when receiving a health recovery effect.
+ActiveSkill_Desc_5006	Summons a Mini Asla with increased Attack Power (v0.0)%, Defense (v0.0)%, and Health (v0.0)%.
+ActiveSkill_Desc_5007	Summons a Mini Asla with increased Attack Power (v0.0)%, Defense (v0.0)%, and Health (v0.0)%.
+ActiveSkill_Desc_5008	Summons a mini Asla with increased Attack Power (v0.0)%, Defense (v0.0)%, and Health (v0.0)%.
+ActiveSkill_Desc_5009	Deals {v0.0}% of Attack Power to all enemies, and increases own Attack Power by {v0.0}% for {t0} turns. Additionally, reduces the Action Power of the target with the highest Attack Power by {v0} for {t0} turns, and increases damage taken from Water attributes by {v0.0}%.
+ActiveSkill_Desc_5010	Deals {v0.0}% of Attack Power to all enemies, and increases own Attack Power by {v0.0}% for {t0} turns. Additionally, reduces the Action Power of the target with the highest Attack Power by {v0} for {t0} turns, and increases damage taken from Water attributes by {v0.0}%.
+ActiveSkill_Desc_5011	Deals {v0.0}% of Attack Power to all enemies, and increases own Attack Power by {v0.0}% for {t0} turns. Additionally, inflicts 'Freeze' status on the target with the highest Attack Power for {t0} turns, and increases damage received from water attributes by {v0.0}%. \\r- Freeze: Cannot attack or use skills, Defense reduced by {v0.0}%
+ActiveSkill_Desc_5012	Deals {v0.0}% of attack power as damage to enemies in the specified direction, and reduces the target's critical resistance by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_5013	Deals {v0.0}% of attack power as damage to enemies in the specified direction, and reduces the target's critical resistance by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_5014	Deals {v0.0}% of attack power as damage to enemies in the specified direction, and reduces the target's critical resistance by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_5015	Deals {v0.0}% of Attack Power as damage to all enemies and reduces the target's Defense by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_5016	Deals {v0.0}% of Attack Power as damage to all enemies and reduces the target's Defense by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_5017	Deals {v0.0}% of Attack Power as damage to all enemies and reduces the target's Defense by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_7000	Deals {v0.0}% of the writer's attack power as damage to all enemies.
+ActiveSkill_Desc_7001	Restores the current health of all allies by {v0.0}% of the writer's maximum health.
+ActiveSkill_Desc_7002	Deals {v0.0}% of the writer's attack power as damage to a single target enemy.
+ActiveSkill_Desc_7003	Reduces the attack power of all enemies by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_7004	Reduces the defense of all enemies by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_7005	Removes all debuffs currently on all allies and increases debuff resistance by {v0.0}% for {t0} turns.
+ActiveSkill_Desc_7006	Burns all enemies for {t0} turns. \\r- Burn: Deals {v0.0}% of the caster's attack power as damage.
+ActiveSkill_Desc_7007	Freezes all enemies for {t0} turns. \\r- Freeze: Cannot attack or use skills, Defense reduced by {v0.0}%
+ActiveSkill_Desc_7008	Deals {v0.0}% of the writer's attack power as damage to all enemies.

@@ -1,0 +1,54 @@
+GrowthGoodsDunBuff_TooltipDesc_0001	Increases defensive defense by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0002	Increases defensive defense by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0003	Increases defensive defense by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0004	Increases defensive maximum HP by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0005	Increases defensive maximum HP by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0006	Defensive Max HP {v0.0}% increase
+GrowthGoodsDunBuff_TooltipDesc_0007	Increase defensive attack power by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0008	Increase defensive attack power by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0009	Increase defensive attack power by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0010	Increase defensive damage by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0011	Increase defensive damage by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0012	Increase defensive damage by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0013	Increases attack power by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0014	Increases attack power by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0015	Increases attack power by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0016	Increases offensive damage by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0017	Increases attack damage by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0018	Increases attack damage by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0019	Increases attack critical chance by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0020	Increases attack critical chance by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0021	Increases attack critical chance by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0022	Increases offensive critical damage by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0023	Increases offensive critical damage by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0024	Increases offensive critical damage by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0025	Increases offensive hit rate by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0026	Increases offensive hit rate by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0027	Increases offensive hit rate by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0028	Increases offensive defense by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0029	Increases offensive defense by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0030	Increases offensive defense by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0031	Support attack power increased by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0032	Support attack power increased by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0033	Support attack power increased by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0034	Support Armor increased by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0035	Increases support defense by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0036	Increases support defense by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0037	Support type Max HP increased by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0038	Supported Max HP {v0.0}% increase
+GrowthGoodsDunBuff_TooltipDesc_0039	Support type Max HP increased by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0040	Increases support damage by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0041	Increases support damage by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0042	Increases support damage by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0043	Increases healing attack power by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0044	Increases healing attack power by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0045	Increases healing attack power by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0046	Increases healing defense by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0047	Increases healing defense by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0048	Increases healing defense by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0049	Increases maximum HP recovery by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0050	Increases maximum HP recovery by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0051	Increases maximum HP recovery by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0052	Increases healing damage by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0053	Increases healing damage by {v0.0}%
+GrowthGoodsDunBuff_TooltipDesc_0054	Increases healing damage by {v0.0}%

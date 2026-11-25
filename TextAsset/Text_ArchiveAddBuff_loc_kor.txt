@@ -1,0 +1,10 @@
+ArchiveAddBuff_Desc_0001	전체 캐릭터 공격력 {v0.0}%, 최대 체력 {v0.0}% 증가
+ArchiveAddBuff_Desc_0002	전체 캐릭터 공격력 {v0.0}%, 크리티컬 확률 {v0.0}% 증가
+ArchiveAddBuff_Desc_0003	전체 캐릭터 공격력 {v0.0}%, 명중률 {v0.0}% 증가
+ArchiveAddBuff_Desc_0004	전체 캐릭터 공격력 {v0.0}%, 방어력 {v0.0}% 증가
+ArchiveAddBuff_Desc_0005	전체 캐릭터 받는 대미지 {v0.0}% 감소
+ArchiveAddBuff_Desc_0006	전체 캐릭터 대미지 {v0.0}% 증가
+ArchiveAddBuff_Desc_0007	전체 캐릭터 방어력 {v0.0}%, 최대 체력 {v0.0}% 증가
+ArchiveAddBuff_Desc_0008	전체 캐릭터 평타 공격력 {v0.0}%, 스킬 공격력 {v0.0}% 증가
+ArchiveAddBuff_Desc_0009	전체 캐릭터 회피율 {v0.0}% 증가
+ArchiveAddBuff_Desc_0010	전체 캐릭터 최대 체력 {v0.0}% 증가

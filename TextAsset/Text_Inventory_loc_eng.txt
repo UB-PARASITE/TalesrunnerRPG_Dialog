@@ -1,0 +1,6 @@
+Inventory_Name_0001	All
+Inventory_Name_0002	Consumables
+Inventory_Name_0003	Growth
+Inventory_Name_0004	Equipment
+Inventory_Name_0005	Gift
+Inventory_Name_0006	Other

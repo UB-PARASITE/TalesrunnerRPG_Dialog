@@ -1,0 +1,150 @@
+Archive_ArchiveName_0101	No attribute
+Archive_ArchiveName_0102	No attribute
+Archive_ArchiveName_0103	No attribute
+Archive_ArchiveName_0104	No attribute
+Archive_ArchiveName_0105	No attribute
+Archive_ArchiveName_0201	Fire Attribute
+Archive_ArchiveName_0202	Fire Attribute
+Archive_ArchiveName_0203	Fire Attribute
+Archive_ArchiveName_0204	Fire Attribute
+Archive_ArchiveName_0205	Fire Attribute
+Archive_ArchiveName_0301	Water Attributes
+Archive_ArchiveName_0302	Water Attributes
+Archive_ArchiveName_0303	Water Attributes
+Archive_ArchiveName_0304	Water Attributes
+Archive_ArchiveName_0305	Water Attributes
+Archive_ArchiveName_0401	Natural Attributes
+Archive_ArchiveName_0402	Natural Attributes
+Archive_ArchiveName_0403	Natural Attributes
+Archive_ArchiveName_0404	Natural Attributes
+Archive_ArchiveName_0405	Natural Attributes
+Archive_ArchiveName_0501	Light Attribute
+Archive_ArchiveName_0502	Light Attribute
+Archive_ArchiveName_0503	Light Attribute
+Archive_ArchiveName_0504	Light Attribute
+Archive_ArchiveName_0505	Light Attribute
+Archive_ArchiveName_0601	Darkness Attribute
+Archive_ArchiveName_0602	Darkness Attribute
+Archive_ArchiveName_0603	Darkness Attribute
+Archive_ArchiveName_0604	Darkness Attribute
+Archive_ArchiveName_0605	Darkness Attribute
+Archive_ArchiveName_0701	Defensive
+Archive_ArchiveName_0702	Defensive
+Archive_ArchiveName_0703	Defensive
+Archive_ArchiveName_0704	Defensive
+Archive_ArchiveName_0705	Defensive
+Archive_ArchiveName_0801	Offensive
+Archive_ArchiveName_0802	Offensive
+Archive_ArchiveName_0803	Offensive
+Archive_ArchiveName_0804	Offensive
+Archive_ArchiveName_0805	Offensive
+Archive_ArchiveName_0901	Support type
+Archive_ArchiveName_0902	Support type
+Archive_ArchiveName_0903	Support type
+Archive_ArchiveName_0904	Support type
+Archive_ArchiveName_0905	Support type
+Archive_ArchiveName_1001	Recovery Type
+Archive_ArchiveName_1002	Recovery type
+Archive_ArchiveName_1003	Recovery type
+Archive_ArchiveName_1004	Recovery type
+Archive_ArchiveName_1005	Recovery type
+Archive_TabName_0101	Attack Power
+Archive_TabName_0102	Defense
+Archive_TabName_0103	Max Health
+Archive_TabName_0104	Critical Chance
+Archive_TabName_0105	Critical Damage
+Archive_TabName_0201	Attack Power
+Archive_TabName_0202	Defense
+Archive_TabName_0203	Max Health
+Archive_TabName_0204	Critical Chance
+Archive_TabName_0205	Critical Damage
+Archive_TabName_0301	Attack Power
+Archive_TabName_0302	Defense
+Archive_TabName_0303	Max Health
+Archive_TabName_0304	Critical Chance
+Archive_TabName_0305	Critical Damage
+Archive_TabName_0401	Attack Power
+Archive_TabName_0402	Defense
+Archive_TabName_0403	Max Health
+Archive_TabName_0404	Critical Chance
+Archive_TabName_0405	Critical Damage
+Archive_TabName_0501	Attack Power
+Archive_TabName_0502	Defense
+Archive_TabName_0503	Max Health
+Archive_TabName_0504	Critical Chance
+Archive_TabName_0505	Critical Damage
+Archive_TabName_0601	Attack Power
+Archive_TabName_0602	Defense
+Archive_TabName_0603	Max Health
+Archive_TabName_0604	Critical Chance
+Archive_TabName_0605	Critical Damage
+Archive_TabName_0701	Attack Power
+Archive_TabName_0702	Defense
+Archive_TabName_0703	Max Health
+Archive_TabName_0704	Critical Chance
+Archive_TabName_0705	Critical Damage
+Archive_TabName_0801	Attack Power
+Archive_TabName_0802	Defense
+Archive_TabName_0803	Max Health
+Archive_TabName_0804	Critical Chance
+Archive_TabName_0805	Critical Damage
+Archive_TabName_0901	Attack Power
+Archive_TabName_0902	Defense
+Archive_TabName_0903	Max Health
+Archive_TabName_0904	Critical Chance
+Archive_TabName_0905	Critical Damage
+Archive_TabName_1001	Attack Power
+Archive_TabName_1002	Defense
+Archive_TabName_1003	Max Health
+Archive_TabName_1004	Critical Chance
+Archive_TabName_1005	Critical Damage
+Archive_Desc_0101	Increase attack power of non-attribute characters by {v0.0}%
+Archive_Desc_0102	Increase defense of non-attribute characters by {v0.0}%
+Archive_Desc_0103	Increases maximum HP of non-attribute characters by {v0.0}%
+Archive_Desc_0104	Increased critical chance of non-attribute characters by {v0.0}%
+Archive_Desc_0105	Increases critical damage of non-attribute characters by {v0.0}%
+Archive_Desc_0201	Increases attack power of fire attribute characters by {v0.0}%
+Archive_Desc_0202	Fire attribute character defense increased by {v0.0}%
+Archive_Desc_0203	Fire attribute character's maximum health increased by {v0.0}%
+Archive_Desc_0204	Increases critical chance of fire attribute characters by {v0.0}%
+Archive_Desc_0205	Increases critical damage of fire attribute characters by {v0.0}%
+Archive_Desc_0301	Water attribute character attack power increased by {v0.0}%
+Archive_Desc_0302	Water attribute character defense increased by {v0.0}%
+Archive_Desc_0303	Water attribute character's maximum health increased by {v0.0}%
+Archive_Desc_0304	Water attribute character critical chance increased by {v0.0}%
+Archive_Desc_0305	Water attribute character critical damage increased by {v0.0}%
+Archive_Desc_0401	Increases natural attribute attack power by {v0.0}%
+Archive_Desc_0402	Increases natural attribute defense by {v0.0}%
+Archive_Desc_0403	Increases maximum health by {v0.0}% for natural attributes
+Archive_Desc_0404	Increases natural attribute critical chance by {v0.0}%
+Archive_Desc_0405	Increases natural attribute critical damage by {v0.0}%
+Archive_Desc_0501	Light attribute attack power increased by {v0.0}%
+Archive_Desc_0502	Light attribute defense increased by {v0.0}%
+Archive_Desc_0503	Increases maximum health by {v0.0}% for light attribute
+Archive_Desc_0504	Increases Light attribute critical chance by {v0.0}%
+Archive_Desc_0505	Increases light attribute critical damage by {v0.0}%
+Archive_Desc_0601	Dark attribute attack power increased by {v0.0}%
+Archive_Desc_0602	Dark attribute defense increased by {v0.0}%
+Archive_Desc_0603	Dark attribute maximum health increased by {v0.0}%
+Archive_Desc_0604	Dark attribute critical chance increased by {v0.0}%
+Archive_Desc_0605	Dark attribute critical damage increased by {v0.0}%
+Archive_Desc_0701	Defensive attack power increased by {v0.0}%
+Archive_Desc_0702	Defensive defense increased by {v0.0}%
+Archive_Desc_0703	Defensive maximum health increased by {v0.0}%
+Archive_Desc_0704	Defensive Critical Chance increased by {v0.0}%
+Archive_Desc_0705	Defensive Critical Damage Increased by {v0.0}%
+Archive_Desc_0801	Attack power increased by {v0.0}%
+Archive_Desc_0802	Attack defense increased by {v0.0}%
+Archive_Desc_0803	Attacker's maximum health increased by {v0.0}%
+Archive_Desc_0804	Increased attack critical chance by {v0.0}%
+Archive_Desc_0805	Increased attack critical damage by {v0.0}%
+Archive_Desc_0901	Support attack power increased by {v0.0}%
+Archive_Desc_0902	Support defense increased by {v0.0}%
+Archive_Desc_0903	Support type maximum health increased by {v0.0}%
+Archive_Desc_0904	Support Critical Chance Increased by {v0.0}%
+Archive_Desc_0905	Support Critical Damage Increased by {v0.0}%
+Archive_Desc_1001	Increased recovery attack power by {v0.0}%
+Archive_Desc_1002	Increased healing defense by {v0.0}%
+Archive_Desc_1003	Increased maximum health by {v0.0}%
+Archive_Desc_1004	Increased recovery critical hit chance by {v0.0}%
+Archive_Desc_1005	Increased recovery critical damage by {v0.0}%

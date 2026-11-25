@@ -1,0 +1,408 @@
+Equipment_Name_90000000	Bronze Dagger
+Equipment_Name_91000000	Bronze Dagger
+Equipment_Name_92000000	Bronze Dagger
+Equipment_Name_93000000	Bronze Dagger
+Equipment_Name_90000001	Iron Dagger
+Equipment_Name_91000001	Iron Dagger
+Equipment_Name_92000001	Iron Dagger
+Equipment_Name_93000001	Iron Dagger
+Equipment_Name_90000002	Silver Dagger
+Equipment_Name_91000002	Silver Dagger
+Equipment_Name_92000002	Silver Dagger
+Equipment_Name_93000002	Silver Dagger
+Equipment_Name_90000003	Gold Dagger
+Equipment_Name_91000003	Gold Dagger
+Equipment_Name_92000003	Gold Dagger
+Equipment_Name_93000003	Gold Dagger
+Equipment_Name_90000027	Steel Dagger
+Equipment_Name_91000027	Steel Dagger
+Equipment_Name_92000027	Steel Dagger
+Equipment_Name_93000027	Steel Dagger
+Equipment_Name_90000004	Bronze Longsword
+Equipment_Name_91000004	Bronze Longsword
+Equipment_Name_92000004	Bronze Longsword
+Equipment_Name_93000004	Bronze Longsword
+Equipment_Name_90000005	Iron Longsword
+Equipment_Name_91000005	Iron Longsword
+Equipment_Name_92000005	Iron Longsword
+Equipment_Name_93000005	Iron Longsword
+Equipment_Name_90000006	Silver Longsword
+Equipment_Name_91000006	Silver Longsword
+Equipment_Name_92000006	Silver Longsword
+Equipment_Name_93000006	Silver Longsword
+Equipment_Name_90000007	Gold Longsword
+Equipment_Name_91000007	Gold Longsword
+Equipment_Name_92000007	Gold Longsword
+Equipment_Name_93000007	Gold Longsword
+Equipment_Name_90000028	Steel Longsword
+Equipment_Name_91000028	Steel Longsword
+Equipment_Name_92000028	Steel Longsword
+Equipment_Name_93000028	Steel Longsword
+Equipment_Name_90000008	Bronze Two-Handed Sword
+Equipment_Name_91000008	Bronze Two-Handed Sword
+Equipment_Name_92000008	Bronze Two-Handed Sword
+Equipment_Name_93000008	Bronze Two-Handed Sword
+Equipment_Name_90000009	Iron Two-Handed Sword
+Equipment_Name_91000009	Iron Two-Handed Sword
+Equipment_Name_92000009	Iron Two-Handed Sword
+Equipment_Name_93000009	Iron Two-Handed Sword
+Equipment_Name_90000010	Silver Two-Handed Sword
+Equipment_Name_91000010	Silver Two-Handed Sword
+Equipment_Name_92000010	Silver Two-Handed Sword
+Equipment_Name_93000010	Silver Two-Handed Sword
+Equipment_Name_90000011	Gold Two-Handed Sword
+Equipment_Name_91000011	Gold Two-Handed Sword
+Equipment_Name_92000011	Gold Two-Handed Sword
+Equipment_Name_93000011	Gold Two-Handed Sword
+Equipment_Name_90000029	Steel Two-Handed Sword
+Equipment_Name_91000029	Steel Two-Handed Sword
+Equipment_Name_92000029	Steel Two-Handed Sword
+Equipment_Name_93000029	Steel Two-Handed Sword
+Equipment_Name_90000012	Bronze Spear
+Equipment_Name_91000012	Bronze Spear
+Equipment_Name_92000012	Bronze Spear
+Equipment_Name_93000012	Bronze Spear
+Equipment_Name_90000013	Iron Spear
+Equipment_Name_91000013	Iron Spear
+Equipment_Name_92000013	Iron Spear
+Equipment_Name_93000013	Iron Spear
+Equipment_Name_90000014	Silver Spear
+Equipment_Name_91000014	Silver Spear
+Equipment_Name_92000014	Silver Spear
+Equipment_Name_93000014	Silver Spear
+Equipment_Name_90000015	Gold Spear
+Equipment_Name_91000015	Gold Spear
+Equipment_Name_92000015	Gold Spear
+Equipment_Name_93000015	Gold Spear
+Equipment_Name_90000030	Steel Spear
+Equipment_Name_91000030	Steel Spear
+Equipment_Name_92000030	Steel Spear
+Equipment_Name_93000030	Steel Spear
+Equipment_Name_90000016	Bronze Bow
+Equipment_Name_91000016	Bronze Bow
+Equipment_Name_92000016	Bronze Bow
+Equipment_Name_93000016	Bronze Bow
+Equipment_Name_90000017	Iron Bow
+Equipment_Name_91000017	Iron Bow
+Equipment_Name_92000017	Iron Bow
+Equipment_Name_93000017	Iron Bow
+Equipment_Name_90000018	Silver Bow
+Equipment_Name_91000018	Silver Bow
+Equipment_Name_92000018	Silver Bow
+Equipment_Name_93000018	Silver Bow
+Equipment_Name_90000019	Gold Bow
+Equipment_Name_91000019	Gold Bow
+Equipment_Name_92000019	Gold Bow
+Equipment_Name_93000019	Gold Bow
+Equipment_Name_90000031	Steel Bow
+Equipment_Name_91000031	Steel Bow
+Equipment_Name_92000031	Steel Bow
+Equipment_Name_93000031	Steel Bow
+Equipment_Name_90000020	Bronze Staff
+Equipment_Name_91000020	Bronze Staff
+Equipment_Name_92000020	Bronze Staff
+Equipment_Name_93000020	Bronze Staff
+Equipment_Name_90000021	Iron Staff
+Equipment_Name_91000021	Iron Staff
+Equipment_Name_92000021	Iron Staff
+Equipment_Name_93000021	Iron Staff
+Equipment_Name_90000022	Silver Staff
+Equipment_Name_91000022	Silver Staff
+Equipment_Name_92000022	Silver Staff
+Equipment_Name_93000022	Silver Staff
+Equipment_Name_90000023	Gold Staff
+Equipment_Name_91000023	Gold Staff
+Equipment_Name_92000023	Gold Staff
+Equipment_Name_93000023	Gold Staff
+Equipment_Name_90000032	Steel Staff
+Equipment_Name_91000032	Steel Staff
+Equipment_Name_92000032	Steel Staff
+Equipment_Name_93000032	Steel Staff
+Equipment_Name_90000024	Voltaire Battle Axe
+Equipment_Name_91000024	Voltaire Battle Axe
+Equipment_Name_92000024	Voltaire Battle Axe
+Equipment_Name_93000024	Voltaire Battle Axe
+Equipment_Name_90000025	Asla Staff
+Equipment_Name_91000025	Asla Staff
+Equipment_Name_92000025	Asla Staff
+Equipment_Name_93000025	Asla Staff
+Equipment_Name_90000026	Windia Bow
+Equipment_Name_91000026	Windia Bow
+Equipment_Name_92000026	Windia Bow
+Equipment_Name_93000026	Windia Bow
+Equipment_Name_90000033	Bear King Auxiliary Equipment (Temporary)
+Equipment_Name_91000033	Bear King Auxiliary Equipment (Temporary)
+Equipment_Name_92000033	Bear King Auxiliary Equipment (Temporary)
+Equipment_Name_93000033	Bear King Auxiliary Equipment (Temporary)
+Equipment_Name_90010000	Bronze Robe
+Equipment_Name_91010000	Bronze Robe
+Equipment_Name_92010000	Bronze Robe
+Equipment_Name_93010000	Bronze Robe
+Equipment_Name_90010001	Iron Robe
+Equipment_Name_91010001	Iron Robe
+Equipment_Name_92010001	Iron Robe
+Equipment_Name_93010001	Iron Robe
+Equipment_Name_90010002	Silver Robe
+Equipment_Name_91010002	Silver Robe
+Equipment_Name_92010002	Silver Robe
+Equipment_Name_93010002	Silver Robe
+Equipment_Name_90010003	Gold Robe
+Equipment_Name_91010003	Gold Robe
+Equipment_Name_92010003	Gold Robe
+Equipment_Name_93010003	Gold Robe
+Equipment_Name_90010027	Steel Robe
+Equipment_Name_91010027	Steel Robe
+Equipment_Name_92010027	Steel Robe
+Equipment_Name_93010027	Steel Robe
+Equipment_Name_90010004	Bronze Light Armor
+Equipment_Name_91010004	Bronze Light Armor
+Equipment_Name_92010004	Bronze Light Armor
+Equipment_Name_93010004	Bronze Light Armor
+Equipment_Name_90010005	Iron Light Armor
+Equipment_Name_91010005	Iron Light Armor
+Equipment_Name_92010005	Iron Light Armor
+Equipment_Name_93010005	Iron Light Armor
+Equipment_Name_90010006	Silver Light Armor
+Equipment_Name_91010006	Silver Light Armor
+Equipment_Name_92010006	Silver Light Armor
+Equipment_Name_93010006	Silver Light Armor
+Equipment_Name_90010007	Gold Light Armor
+Equipment_Name_91010007	Gold Light Armor
+Equipment_Name_92010007	Gold Light Armor
+Equipment_Name_93010007	Gold Light Armor
+Equipment_Name_90010028	Steel Light Armor
+Equipment_Name_91010028	Steel Light Armor
+Equipment_Name_92010028	Steel Light Armor
+Equipment_Name_93010028	Steel Light Armor
+Equipment_Name_90010008	Bronze Heavy Armor
+Equipment_Name_91010008	Bronze Heavy Armor
+Equipment_Name_92010008	Bronze Heavy Armor
+Equipment_Name_93010008	Bronze Heavy Armor
+Equipment_Name_90010009	Iron Heavy Armor
+Equipment_Name_91010009	Iron Heavy Armor
+Equipment_Name_92010009	Iron Heavy Armor
+Equipment_Name_93010009	Iron Heavy Armor
+Equipment_Name_90010010	Silver Heavy Armor
+Equipment_Name_91010010	Silver Heavy Armor
+Equipment_Name_92010010	Silver Heavy Armor
+Equipment_Name_93010010	Silver Heavy Armor
+Equipment_Name_90010011	Gold Heavy Armor
+Equipment_Name_91010011	Gold Heavy Armor
+Equipment_Name_92010011	Gold Heavy Armor
+Equipment_Name_93010011	Gold Heavy Armor
+Equipment_Name_90010029	Steel Heavy Armor
+Equipment_Name_91010029	Steel Heavy Armor
+Equipment_Name_92010029	Steel Heavy Armor
+Equipment_Name_93010029	Steel Heavy Armor
+Equipment_Name_90010012	Bronze Kite Shield
+Equipment_Name_91010012	Bronze Kite Shield
+Equipment_Name_92010012	Bronze Kite Shield
+Equipment_Name_93010012	Bronze Kite Shield
+Equipment_Name_90010013	Iron Kite Shield
+Equipment_Name_91010013	Iron Kite Shield
+Equipment_Name_92010013	Iron Kite Shield
+Equipment_Name_93010013	Iron Kite Shield
+Equipment_Name_90010014	Silver Kite Shield
+Equipment_Name_91010014	Silver Kite Shield
+Equipment_Name_92010014	Silver Kite Shield
+Equipment_Name_93010014	Silver Kite Shield
+Equipment_Name_90010015	Gold Kite Shield
+Equipment_Name_91010015	Gold Kite Shield
+Equipment_Name_92010015	Gold Kite Shield
+Equipment_Name_93010015	Gold Kite Shield
+Equipment_Name_90010030	Steel Kite Shield
+Equipment_Name_91010030	Steel Kite Shield
+Equipment_Name_92010030	Steel Kite Shield
+Equipment_Name_93010030	Steel Kite Shield
+Equipment_Name_90010016	Bronze Shoes
+Equipment_Name_91010016	Bronze Shoes
+Equipment_Name_92010016	Bronze Shoes
+Equipment_Name_93010016	Bronze Shoes
+Equipment_Name_90010017	Iron Shoes
+Equipment_Name_91010017	Iron Shoes
+Equipment_Name_92010017	Iron Shoes
+Equipment_Name_93010017	Iron Shoes
+Equipment_Name_90010018	Silver Shoes
+Equipment_Name_91010018	Silver Shoes
+Equipment_Name_92010018	Silver Shoes
+Equipment_Name_93010018	Silver Shoes
+Equipment_Name_90010019	Gold Shoes
+Equipment_Name_91010019	Gold Shoes
+Equipment_Name_92010019	Gold Shoes
+Equipment_Name_93010019	Gold Shoes
+Equipment_Name_90010031	Steel Shoes
+Equipment_Name_91010031	Steel Shoes
+Equipment_Name_92010031	Steel Shoes
+Equipment_Name_93010031	Steel Shoes
+Equipment_Name_90010020	Bronze Gloves
+Equipment_Name_91010020	Bronze Gloves
+Equipment_Name_92010020	Bronze Gloves
+Equipment_Name_93010020	Bronze Gloves
+Equipment_Name_90010021	Iron Glove
+Equipment_Name_91010021	Iron Glove
+Equipment_Name_92010021	Iron Glove
+Equipment_Name_93010021	Iron Glove
+Equipment_Name_90010022	Silver Gloves
+Equipment_Name_91010022	Silver Gloves
+Equipment_Name_92010022	Silver Gloves
+Equipment_Name_93010022	Silver Gloves
+Equipment_Name_90010023	Gold Glove
+Equipment_Name_91010023	Gold Glove
+Equipment_Name_92010023	Gold Glove
+Equipment_Name_93010023	Gold Glove
+Equipment_Name_90010032	Steel Gloves
+Equipment_Name_91010032	Steel Gloves
+Equipment_Name_92010032	Steel Glove
+Equipment_Name_93010032	Steel Gloves
+Equipment_Name_90010024	Voltaire Armor
+Equipment_Name_91010024	Voltaire Armor
+Equipment_Name_92010024	Voltaire Armor
+Equipment_Name_93010024	Voltaire Armor
+Equipment_Name_90010025	Asla Coating Robe
+Equipment_Name_91010025	Asla Coating Robe
+Equipment_Name_92010025	Asla Coating Robe
+Equipment_Name_93010025	Asla Coating Robe
+Equipment_Name_90010026	Windia Pavis
+Equipment_Name_91010026	Windia Pavis
+Equipment_Name_92010026	Windia Pavis
+Equipment_Name_93010026	Windia Pavis
+Equipment_Name_90010033	Bear King Armor (Temporary)
+Equipment_Name_91010033	Bear King Armor (Temporary)
+Equipment_Name_92010033	Bear King Armor (Temporary)
+Equipment_Name_93010033	Bear King Armor (Temporary)
+Equipment_Name_90020000	Ruby Ring
+Equipment_Name_91020000	Ruby Ring
+Equipment_Name_92020000	Ruby Ring
+Equipment_Name_93020000	Ruby Ring
+Equipment_Name_90020001	Sapphire Ring
+Equipment_Name_91020001	Sapphire Ring
+Equipment_Name_92020001	Sapphire Ring
+Equipment_Name_93020001	Sapphire Ring
+Equipment_Name_90020002	Topaz Ring
+Equipment_Name_91020002	Topaz Ring
+Equipment_Name_92020002	Topaz Ring
+Equipment_Name_93020002	Topaz Ring
+Equipment_Name_90020003	Peridot Ring
+Equipment_Name_91020003	Peridot Ring
+Equipment_Name_92020003	Peridot Ring
+Equipment_Name_93020003	Peridot Ring
+Equipment_Name_90020027	Opal Ring
+Equipment_Name_91020027	Opal Ring
+Equipment_Name_92020027	Opal Ring
+Equipment_Name_93020027	Opal Ring
+Equipment_Name_90020004	Ruby Necklace
+Equipment_Name_91020004	Ruby Necklace
+Equipment_Name_92020004	Ruby Necklace
+Equipment_Name_93020004	Ruby Necklace
+Equipment_Name_90020005	Sapphire Necklace
+Equipment_Name_91020005	Sapphire Necklace
+Equipment_Name_92020005	Sapphire Necklace
+Equipment_Name_93020005	Sapphire Necklace
+Equipment_Name_90020006	Topaz Necklace
+Equipment_Name_91020006	Topaz Necklace
+Equipment_Name_92020006	Topaz Necklace
+Equipment_Name_93020006	Topaz Necklace
+Equipment_Name_90020007	Peridot Necklace
+Equipment_Name_91020007	Peridot Necklace
+Equipment_Name_92020007	Peridot Necklace
+Equipment_Name_93020007	Peridot Necklace
+Equipment_Name_90020028	Opal Necklace
+Equipment_Name_91020028	Opal Necklace
+Equipment_Name_92020028	Opal Necklace
+Equipment_Name_93020028	Opal Necklace
+Equipment_Name_90020008	Ruby Earrings
+Equipment_Name_91020008	Ruby Earrings
+Equipment_Name_92020008	Ruby Earrings
+Equipment_Name_93020008	Ruby Earrings
+Equipment_Name_90020009	Sapphire Earrings
+Equipment_Name_91020009	Sapphire Earrings
+Equipment_Name_92020009	Sapphire Earrings
+Equipment_Name_93020009	Sapphire Earrings
+Equipment_Name_90020010	Topaz Earrings
+Equipment_Name_91020010	Topaz Earrings
+Equipment_Name_92020010	Topaz Earrings
+Equipment_Name_93020010	Topaz Earrings
+Equipment_Name_90020011	Peridot Earrings
+Equipment_Name_91020011	Peridot Earrings
+Equipment_Name_92020011	Peridot Earrings
+Equipment_Name_93020011	Peridot Earrings
+Equipment_Name_90020029	Opal Earrings
+Equipment_Name_91020029	Opal Earrings
+Equipment_Name_92020029	Opal Earrings
+Equipment_Name_93020029	Opal Earrings
+Equipment_Name_90020012	Ruby Bracelet
+Equipment_Name_91020012	Ruby Bracelet
+Equipment_Name_92020012	Ruby Bracelet
+Equipment_Name_93020012	Ruby Bracelet
+Equipment_Name_90020013	Sapphire Bracelet
+Equipment_Name_91020013	Sapphire Bracelet
+Equipment_Name_92020013	Sapphire Bracelet
+Equipment_Name_93020013	Sapphire Bracelet
+Equipment_Name_90020014	Topaz Bracelet
+Equipment_Name_91020014	Topaz Bracelet
+Equipment_Name_92020014	Topaz Bracelet
+Equipment_Name_93020014	Topaz Bracelet
+Equipment_Name_90020015	Peridot Bracelet
+Equipment_Name_91020015	Peridot Bracelet
+Equipment_Name_92020015	Peridot Bracelet
+Equipment_Name_93020015	Peridot Bracelet
+Equipment_Name_90020030	Opal Bracelet
+Equipment_Name_91020030	Opal Bracelet
+Equipment_Name_92020030	Opal Bracelet
+Equipment_Name_93020030	Opal Bracelet
+Equipment_Name_90020016	Ruby Belt
+Equipment_Name_91020016	Ruby Belt
+Equipment_Name_92020016	Ruby Belt
+Equipment_Name_93020016	Ruby Belt
+Equipment_Name_90020017	Sapphire Belt
+Equipment_Name_91020017	Sapphire Belt
+Equipment_Name_92020017	Sapphire Belt
+Equipment_Name_93020017	Sapphire Belt
+Equipment_Name_90020018	Topaz Belt
+Equipment_Name_91020018	Topaz Belt
+Equipment_Name_92020018	Topaz Belt
+Equipment_Name_93020018	Topaz Belt
+Equipment_Name_90020019	Peridot Belt
+Equipment_Name_91020019	Peridot Belt
+Equipment_Name_92020019	Peridot Belt
+Equipment_Name_93020019	Peridot Belt
+Equipment_Name_90020031	Opal Belt
+Equipment_Name_91020031	Opal Belt
+Equipment_Name_92020031	Opal Belt
+Equipment_Name_93020031	Opal Belt
+Equipment_Name_90020020	Ruby Magic Book
+Equipment_Name_91020020	Ruby Magic Book
+Equipment_Name_92020020	Ruby Magic Book
+Equipment_Name_93020020	Ruby Magic Book
+Equipment_Name_90020021	Sapphire Magic Book
+Equipment_Name_91020021	Sapphire Magic Book
+Equipment_Name_92020021	Sapphire Magic Book
+Equipment_Name_93020021	Sapphire Magic Book
+Equipment_Name_90020022	Topaz Magic Book
+Equipment_Name_91020022	Topaz Magic Book
+Equipment_Name_92020022	Topaz Magic Book
+Equipment_Name_93020022	Topaz Magic Book
+Equipment_Name_90020023	Peridot Magic Book
+Equipment_Name_91020023	Peridot Magic Book
+Equipment_Name_92020023	Peridot Magic Book
+Equipment_Name_93020023	Peridot Magic Book
+Equipment_Name_90020032	Opal Magic Book
+Equipment_Name_91020032	Opal Magic Book
+Equipment_Name_92020032	Opal Magic Book
+Equipment_Name_93020032	Opal Magic Book
+Equipment_Name_90020024	Voltaire Necklace
+Equipment_Name_91020024	Voltaire Necklace
+Equipment_Name_92020024	Voltaire Necklace
+Equipment_Name_93020024	Voltaire Necklace
+Equipment_Name_90020025	Asla Ring
+Equipment_Name_91020025	Asla Ring
+Equipment_Name_92020025	Asla Ring
+Equipment_Name_93020025	Asla Ring
+Equipment_Name_90020026	Windia Brooch
+Equipment_Name_91020026	Windia Brooch
+Equipment_Name_92020026	Windia Brooch
+Equipment_Name_93020026	Windia Brooch
+Equipment_Name_90020033	Bear Doll King Accessory (Temporary)
+Equipment_Name_91020033	Bear Doll King Accessory (Temporary)
+Equipment_Name_92020033	Bear Doll King Accessory (Temporary)
+Equipment_Name_93020033	Bear Doll King Accessory (Temporary)

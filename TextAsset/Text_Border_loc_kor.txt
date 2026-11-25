@@ -1,0 +1,2 @@
+Border_Name_	테두리1
+Border_Description_	~~ 업적 달성 시 획득할 수 있습니다.

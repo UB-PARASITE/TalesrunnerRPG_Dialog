@@ -1,0 +1,20 @@
+Chapter_Name_0000	None
+Chapter_Name_0001	Hansel and Gretel
+Chapter_Name_0002	Alice in Wonderland
+Chapter_Name_0003	Pinocchio
+Chapter_Name_0004	Sleeping Beauty
+Chapter_Name_0005	Red Hood
+Chapter_Name_0006	The Nutcracker
+Chapter_Name_0007	The Little Mermaid
+Chapter_Name_0008	Flowers bloom in the winter forest (Part 1)
+Chapter_Name_0009	Flowers bloom in the winter forest (Part 2)
+Chapter_Description_0000	None
+Chapter_Description_0001	1. Hansel and Gretel
+Chapter_Description_0002	2. Alice in Wonderland
+Chapter_Description_0003	3. Pinocchio
+Chapter_Description_0004	4. The Sleeping Beauty
+Chapter_Description_0005	5. Red Hood
+Chapter_Description_0006	6. The Nutcracker
+Chapter_Description_0007	7. The Little Mermaid
+Chapter_Description_0008	8. Flowers bloom in the winter forest (Part 1)
+Chapter_Description_0009	9. Flowers bloom in the winter forest (Part 2)

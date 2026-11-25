@@ -1,0 +1,24 @@
+InfinityWaveUpgrade_Name_0001	공격력 상승
+InfinityWaveUpgrade_Name_0002	방어력 상승
+InfinityWaveUpgrade_Name_0003	최대체력 상승
+InfinityWaveUpgrade_Name_0004	명중률 상승
+InfinityWaveUpgrade_Name_0005	크리티컬 확률 상승
+InfinityWaveUpgrade_Name_0006	크리티컬 대미지 상승
+InfinityWaveUpgrade_Name_0007	가하는 대미지 상승
+InfinityWaveUpgrade_Name_0008	회피율 상승
+InfinityWaveUpgrade_Name_0009	치명타 저항 상승
+InfinityWaveUpgrade_Name_0010	디버프 저항 상승
+InfinityWaveUpgrade_Name_0011	행동력 상승
+InfinityWaveUpgrade_Name_0012	받는 대미지 감소
+InfinityWaveUpgrade_Tooltip_0001	공격력 {v0.0}% 증가
+InfinityWaveUpgrade_Tooltip_0002	방어력 {v0.0}% 증가
+InfinityWaveUpgrade_Tooltip_0003	최대체력 {v0.0}% 증가
+InfinityWaveUpgrade_Tooltip_0004	명중률 {v0.0}% 증가
+InfinityWaveUpgrade_Tooltip_0005	크리티컬 확률 {v0.0}% 증가
+InfinityWaveUpgrade_Tooltip_0006	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveUpgrade_Tooltip_0007	대미지 {v0.0}% 증가
+InfinityWaveUpgrade_Tooltip_0008	회피율 {v0.0}% 증가
+InfinityWaveUpgrade_Tooltip_0009	치명타 저항 {v0.0}% 증가
+InfinityWaveUpgrade_Tooltip_0010	디버프 저항 {v0.0}% 증가
+InfinityWaveUpgrade_Tooltip_0011	행동력 {v0} 증가
+InfinityWaveUpgrade_Tooltip_0012	받는 대미지 감소 {v0.0}%

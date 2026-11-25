@@ -1,0 +1,248 @@
+Hero_Name_0000	Meadow
+Hero_Name_0001	Helia
+Hero_Name_0002	Luna
+Hero_Name_0003	Elin
+Hero_Name_0004	Queen of Hearts
+Hero_Name_0005	Mingming
+Hero_Name_0006	Alice
+Hero_Name_0007	Big Bo
+Hero_Name_0008	Lara
+Hero_Name_0009	Elim's Smile
+Hero_Name_0010	Jane Doe
+Hero_Name_0011	Pinocchio
+Hero_Name_0012	Lina
+Hero_Name_0013	Scarlett
+Hero_Name_0014	Gretel
+Hero_Name_0015	Aramode
+Hero_Name_0016	Hansel
+Hero_Name_0017	Cheshire
+Hero_Name_0018	Flare
+Hero_Name_0019	Briar Rose
+Hero_Name_0020	Melphi
+Hero_Name_0021	Zepeto
+Hero_Name_0022	DnD
+Hero_Name_0023	Sasha
+Hero_Name_0024	Drosselmeyer
+Hero_Name_0025	Cecilia
+Hero_Name_0026	Marie
+Hero_Name_0027	Dieter
+Hero_Name_0028	Air
+Hero_Name_0029	Florence
+Hero_Name_0030	Vera
+Hero_Name_0031	Kismet
+Hero_Name_0032	Witch Cecilia
+Hero_Name_0033	one day
+Hero_Name_0034	Kai
+Hero_Name_0035	Lucian
+Hero_Name_0036	Leila
+Hero_Name_0037	Maximilian
+Hero_Name_0038	Olivier
+Hero_Name_0039	Ophelia
+Hero_Name_0040	Anastasia
+Hero_Name_0041	Peach Crush
+Hero_Name_0042	Jargal
+Hero_Name_0043	Nix
+Hero_Name_0044	Saya
+Hero_Name_0045	Sea
+Hero_Name_0046	Release
+Hero_Name_0047	Arc Polyph
+Hero_Name_0048	Monica
+Hero_Name_0049	Meimei
+Hero_Name_0050	Harang
+Hero_Name_0051	Claude
+Hero_Name_0052	Rough
+Hero_Name_0053	Cain
+Hero_Name_0054	Miho
+Hero_Name_0055	Larissa
+Hero_Name_0056	Amelie
+Hero_Name_0057	Yeon-o
+Hero_Name_0058	Mikhail
+Hero_Name_0059	Siho
+Hero_Name_0060	Saladin
+Hero_Name_0061	Scheherazade
+Hero_FullName_0000	Kang Cho-won
+Hero_FullName_0001	Helia Baldwin
+Hero_FullName_0002	Luna Placidia
+Hero_FullName_0003	Elin Heart
+Hero_FullName_0004	Queen of Hearts
+Hero_FullName_0005	Liu Mingming
+Hero_FullName_0006	Alice Pleasance
+Hero_FullName_0007	Bigbo Silva
+Hero_FullName_0008	Lara Brier de Henri
+Hero_FullName_0009	Elim's Smile
+Hero_FullName_0010	Jane Doe
+Hero_FullName_0011	Pinocchio Polendina
+Hero_FullName_0012	Lina Michelle
+Hero_FullName_0013	Scarlett
+Hero_FullName_0014	Gretel Metzler
+Hero_FullName_0015	Aramode Chocolate
+Hero_FullName_0016	Hansel Metzler
+Hero_FullName_0017	Cheshire Cat
+Hero_FullName_0018	Flare Greedier
+Hero_FullName_0019	Briar Rose
+Hero_FullName_0020	Melphie Decrescent
+Hero_FullName_0021	Zepetto Polendina
+Hero_FullName_0022	DnD
+Hero_FullName_0023	Sasha Shukrem
+Hero_FullName_0024	Ash Drosselmeyer
+Hero_FullName_0025	Cecilia
+Hero_FullName_0026	Marie Stahlbaum
+Hero_FullName_0027	King Dieter
+Hero_FullName_0028	Air Triton
+Hero_FullName_0029	Florence Bloom
+Hero_FullName_0030	Vera Baphir
+Hero_FullName_0031	Kismet
+Hero_FullName_0032	Witch Cecilia
+Hero_FullName_0033	One day
+Hero_FullName_0034	Kai Lobel
+Hero_FullName_0035	Lucian White
+Hero_FullName_0036	Leila Shadow
+Hero_FullName_0037	Maximilian Leon
+Hero_FullName_0038	Olivier Briand
+Hero_FullName_0039	Ophelia Roxburgh
+Hero_FullName_0040	Anastasia Anya
+Hero_FullName_0041	Peach Crush
+Hero_FullName_0042	Jargal
+Hero_FullName_0043	Nix
+Hero_FullName_0044	Ogata Saya
+Hero_FullName_0045	Sea
+Hero_FullName_0046	Release
+Hero_FullName_0047	Arc Polyph
+Hero_FullName_0048	Monica Clemens
+Hero_FullName_0049	Meimei
+Hero_FullName_0050	Harang
+Hero_FullName_0051	Claude
+Hero_FullName_0052	Rough
+Hero_FullName_0053	Cain Rainwolf
+Hero_FullName_0054	Miho
+Hero_FullName_0055	Larissa
+Hero_FullName_0056	Amelie Amor
+Hero_FullName_0057	Yeon-o
+Hero_FullName_0058	Mikhail Virtue
+Hero_FullName_0059	Siho
+Hero_FullName_0060	Saladin
+Hero_FullName_0061	Scheherazade
+Hero_Cv_0000	Youngmi Ahn
+Hero_Cv_0001	Bang Siwoo
+Hero_Cv_0002	Kim Bona
+Hero_Cv_0003	Lee So-eun
+Hero_Cv_0004	Lee Joo-hee
+Hero_Cv_0005	Kim Pil-jin
+Hero_Cv_0006	Bang Siwoo
+Hero_Cv_0007	Kim Kwang-guk
+Hero_Cv_0008	Jang Ye-na
+Hero_Cv_0009	Hwang Chang-young
+Hero_Cv_0010	Jeong Yu-jeong
+Hero_Cv_0011	Jang Ye-na
+Hero_Cv_0012	Lee Joo-hee
+Hero_Cv_0013	Kim Bona
+Hero_Cv_0014	Jeong Yu-jeong
+Hero_Cv_0015	Rose
+Hero_Cv_0016	Youngmi Ahn
+Hero_Cv_0017	Jung Joo-won
+Hero_Cv_0018	Kim Ga-ryeong
+Hero_Cv_0019	Kim Hyun-ji
+Hero_Cv_0020	Kim Ga-ryeong
+Hero_Cv_0021	Bang Siwoo
+Hero_Cv_0022	Move
+Hero_Cv_0023	Isaeah
+Hero_Cv_0024	Hong Beom-gi
+Hero_Cv_0025	Lee So-eun
+Hero_Cv_0026	Kim Haru
+Hero_Cv_0027	Yang Jeong-hwa
+Hero_Cv_0028	Kim Haru
+Hero_Cv_0029	Lee Bo-hee
+Hero_Cv_0030	Lee Gye-yoon
+Hero_Cv_0031	Lee Eun-jo
+Hero_Cv_0032	Lee So-eun
+Hero_Cv_0033	Hong Beom-gi
+Hero_Cv_0034	Shin Yong-woo
+Hero_Cv_0035	Lee Kyung-tae
+Hero_Cv_0036	Kim Haru
+Hero_Cv_0037	Shin Yong-woo
+Hero_Cv_0038	Kim Bona
+Hero_Cv_0039	Youngmi Ahn
+Hero_Cv_0040	Rose
+Hero_Cv_0041	Kim Hyun-ji
+Hero_Cv_0042	Lee Sae-ah
+Hero_Cv_0043	Kim Seong-hee
+Hero_Cv_0044	Park Shin-hee
+Hero_Cv_0045	Yang Jeong-hwa
+Hero_Cv_0046	Bang Yeon-ji
+Hero_Cv_0047	Jeong Jae-heon
+Hero_Cv_0048	Isrena
+Hero_Cv_0049	Park Go-woon
+Hero_Cv_0050	Jeong Jae-heon
+Hero_Cv_0051	Kim Shin-woo
+Hero_Cv_0052	Kim Hye-seong
+Hero_Cv_0053	Kim Seon-hye
+Hero_Cv_0054	Friendship God
+Hero_Cv_0055	Aurora
+Hero_Cv_0056	Samunyoung
+Hero_Cv_0057	Kang Si-Hyeon
+Hero_Cv_0058	Ryu Seung-gon
+Hero_Cv_0059	Kim Ji-yool
+Hero_Cv_0060	Voice actor name
+Hero_Cv_0061	Voice actor name
+Hero_Class_0000	Track and Field Athlete
+Hero_Class_0001	Tales Knights Captain
+Hero_Class_0002	Tales Knights Vice-Captain
+Hero_Class_0003	Chief Alchemist
+Hero_Class_0004	Queen of Hearts
+Hero_Class_0005	Action Actor
+Hero_Class_0006	Justice Warrior
+Hero_Class_0007	Veterinarian
+Hero_Class_0008	Queen of Fairyland
+Hero_Class_0009	Artifact
+Hero_Class_0010	Wolf Hunter
+Hero_Class_0011	Zepetto's Masterpiece
+Hero_Class_0012	Ballerina
+Hero_Class_0013	Next Chieftain
+Hero_Class_0014	Pastry Chef (future dream)
+Hero_Class_0015	Dessert Witch
+Hero_Class_0016	Pastry Chef (future dream)
+Hero_Class_0017	Unidentified Cat
+Hero_Class_0018	Circus Leader
+Hero_Class_0019	Sleeping Princess
+Hero_Class_0020	Nightmare Fairy
+Hero_Class_0021	Owner of the Doll Workshop
+Hero_Class_0022	Everyone's Idol
+Hero_Class_0023	Red Hood
+Hero_Class_0024	Nutcracker Soldier
+Hero_Class_0025	The Girl Who Lost Her Memory
+Hero_Class_0026	Dreaming Girl
+Hero_Class_0027	Mouse King
+Hero_Class_0028	Mermaid Princess
+Hero_Class_0029	Gardener
+Hero_Class_0030	Archaeologist
+Hero_Class_0031	Prophet
+Hero_Class_0032	Witch of the Winter Forest
+Hero_Class_0033	Dark Lord
+Hero_Class_0034	Distortioner
+Hero_Class_0035	Eternal Pain
+Hero_Class_0036	Royal Maid
+Hero_Class_0037	Count
+Hero_Class_0038	Leonine Knights Captain
+Hero_Class_0039	Second Class Alchemist
+Hero_Class_0040	Snow Mountain Investigator
+Hero_Class_0041	Pro Gamer
+Hero_Class_0042	The Last Clan of the Wolf
+Hero_Class_0043	Tales Nova Mercenary
+Hero_Class_0044	Swordsman
+Hero_Class_0045	Surfer
+Hero_Class_0046	Succubus
+Hero_Class_0047	Warrior
+Hero_Class_0048	Genius Painter
+Hero_Class_0049	Drunk Zombie
+Hero_Class_0050	Grim Reaper
+Hero_Class_0051	Phantom Thief Magician
+Hero_Class_0052	Bike Racer
+Hero_Class_0053	Fairy Tale Land Assistant
+Hero_Class_0054	Sun Sorcerer
+Hero_Class_0055	Sea's Wish
+Hero_Class_0056	Meteorologist
+Hero_Class_0057	Seongjushin
+Hero_Class_0058	Archbishop of Angel City
+Hero_Class_0059	Next Guardian King
+Hero_Class_0060	Shivan Schmitter Captain
+Hero_Class_0061	Saint of Mutanabi

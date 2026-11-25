@@ -1,0 +1,21 @@
+Gacha_Name_1001	Summon Cecilia
+Gacha_Name_1002	Summon Kai
+Gacha_Name_1003	Summon Vera
+Gacha_Name_1004	Release Summon
+Gacha_Name_1005	Summon Larissa
+Gacha_Name_1006	Summon Saya
+Gacha_Name_1007	Summon Amelie
+Gacha_Name_1008	Summon for one day
+Gacha_Name_1009	Summon Yeon-o
+Gacha_Name_1010	Summon Monica
+Gacha_Name_1011	Summon Meimei
+Gacha_Name_1012	Summon Mikhail
+Gacha_Name_1013	Summon Nyx
+Gacha_Name_1014	Summon Shiho
+Gacha_Name_1015	Summon Peach Crush
+Gacha_Name_2001	Normal Summon
+Gacha_Name_3001	Friendship Summon
+Gacha_Name_4001	Special Summon
+Gacha_Name_4002	Summon Tales Runner
+Gacha_Name_4003	Summon Fairytale Land and Wishing Stone
+Gacha_Name_5001	Selective Summon

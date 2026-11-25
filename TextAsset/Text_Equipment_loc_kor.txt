@@ -1,0 +1,408 @@
+Equipment_Name_90000000	브론즈 대거
+Equipment_Name_91000000	브론즈 대거
+Equipment_Name_92000000	브론즈 대거
+Equipment_Name_93000000	브론즈 대거
+Equipment_Name_90000001	아이언 대거
+Equipment_Name_91000001	아이언 대거
+Equipment_Name_92000001	아이언 대거
+Equipment_Name_93000001	아이언 대거
+Equipment_Name_90000002	실버 대거
+Equipment_Name_91000002	실버 대거
+Equipment_Name_92000002	실버 대거
+Equipment_Name_93000002	실버 대거
+Equipment_Name_90000003	골드 대거
+Equipment_Name_91000003	골드 대거
+Equipment_Name_92000003	골드 대거
+Equipment_Name_93000003	골드 대거
+Equipment_Name_90000027	강철 대거
+Equipment_Name_91000027	강철 대거
+Equipment_Name_92000027	강철 대거
+Equipment_Name_93000027	강철 대거
+Equipment_Name_90000004	브론즈 롱소드
+Equipment_Name_91000004	브론즈 롱소드
+Equipment_Name_92000004	브론즈 롱소드
+Equipment_Name_93000004	브론즈 롱소드
+Equipment_Name_90000005	아이언 롱소드
+Equipment_Name_91000005	아이언 롱소드
+Equipment_Name_92000005	아이언 롱소드
+Equipment_Name_93000005	아이언 롱소드
+Equipment_Name_90000006	실버 롱소드
+Equipment_Name_91000006	실버 롱소드
+Equipment_Name_92000006	실버 롱소드
+Equipment_Name_93000006	실버 롱소드
+Equipment_Name_90000007	골드 롱소드
+Equipment_Name_91000007	골드 롱소드
+Equipment_Name_92000007	골드 롱소드
+Equipment_Name_93000007	골드 롱소드
+Equipment_Name_90000028	강철 롱소드
+Equipment_Name_91000028	강철 롱소드
+Equipment_Name_92000028	강철 롱소드
+Equipment_Name_93000028	강철 롱소드
+Equipment_Name_90000008	브론즈 투핸디드 소드
+Equipment_Name_91000008	브론즈 투핸디드 소드
+Equipment_Name_92000008	브론즈 투핸디드 소드
+Equipment_Name_93000008	브론즈 투핸디드 소드
+Equipment_Name_90000009	아이언 투핸디드 소드
+Equipment_Name_91000009	아이언 투핸디드 소드
+Equipment_Name_92000009	아이언 투핸디드 소드
+Equipment_Name_93000009	아이언 투핸디드 소드
+Equipment_Name_90000010	실버 투핸디드 소드
+Equipment_Name_91000010	실버 투핸디드 소드
+Equipment_Name_92000010	실버 투핸디드 소드
+Equipment_Name_93000010	실버 투핸디드 소드
+Equipment_Name_90000011	골드 투핸디드 소드
+Equipment_Name_91000011	골드 투핸디드 소드
+Equipment_Name_92000011	골드 투핸디드 소드
+Equipment_Name_93000011	골드 투핸디드 소드
+Equipment_Name_90000029	강철 투핸디드 소드
+Equipment_Name_91000029	강철 투핸디드 소드
+Equipment_Name_92000029	강철 투핸디드 소드
+Equipment_Name_93000029	강철 투핸디드 소드
+Equipment_Name_90000012	브론즈 스피어
+Equipment_Name_91000012	브론즈 스피어
+Equipment_Name_92000012	브론즈 스피어
+Equipment_Name_93000012	브론즈 스피어
+Equipment_Name_90000013	아이언 스피어
+Equipment_Name_91000013	아이언 스피어
+Equipment_Name_92000013	아이언 스피어
+Equipment_Name_93000013	아이언 스피어
+Equipment_Name_90000014	실버 스피어
+Equipment_Name_91000014	실버 스피어
+Equipment_Name_92000014	실버 스피어
+Equipment_Name_93000014	실버 스피어
+Equipment_Name_90000015	골드 스피어
+Equipment_Name_91000015	골드 스피어
+Equipment_Name_92000015	골드 스피어
+Equipment_Name_93000015	골드 스피어
+Equipment_Name_90000030	강철 스피어
+Equipment_Name_91000030	강철 스피어
+Equipment_Name_92000030	강철 스피어
+Equipment_Name_93000030	강철 스피어
+Equipment_Name_90000016	브론즈 보우
+Equipment_Name_91000016	브론즈 보우
+Equipment_Name_92000016	브론즈 보우
+Equipment_Name_93000016	브론즈 보우
+Equipment_Name_90000017	아이언 보우
+Equipment_Name_91000017	아이언 보우
+Equipment_Name_92000017	아이언 보우
+Equipment_Name_93000017	아이언 보우
+Equipment_Name_90000018	실버 보우
+Equipment_Name_91000018	실버 보우
+Equipment_Name_92000018	실버 보우
+Equipment_Name_93000018	실버 보우
+Equipment_Name_90000019	골드 보우
+Equipment_Name_91000019	골드 보우
+Equipment_Name_92000019	골드 보우
+Equipment_Name_93000019	골드 보우
+Equipment_Name_90000031	강철 보우
+Equipment_Name_91000031	강철 보우
+Equipment_Name_92000031	강철 보우
+Equipment_Name_93000031	강철 보우
+Equipment_Name_90000020	브론즈 스태프
+Equipment_Name_91000020	브론즈 스태프
+Equipment_Name_92000020	브론즈 스태프
+Equipment_Name_93000020	브론즈 스태프
+Equipment_Name_90000021	아이언 스태프
+Equipment_Name_91000021	아이언 스태프
+Equipment_Name_92000021	아이언 스태프
+Equipment_Name_93000021	아이언 스태프
+Equipment_Name_90000022	실버 스태프
+Equipment_Name_91000022	실버 스태프
+Equipment_Name_92000022	실버 스태프
+Equipment_Name_93000022	실버 스태프
+Equipment_Name_90000023	골드 스태프
+Equipment_Name_91000023	골드 스태프
+Equipment_Name_92000023	골드 스태프
+Equipment_Name_93000023	골드 스태프
+Equipment_Name_90000032	강철 스태프
+Equipment_Name_91000032	강철 스태프
+Equipment_Name_92000032	강철 스태프
+Equipment_Name_93000032	강철 스태프
+Equipment_Name_90000024	볼테르 전투 도끼
+Equipment_Name_91000024	볼테르 전투 도끼
+Equipment_Name_92000024	볼테르 전투 도끼
+Equipment_Name_93000024	볼테르 전투 도끼
+Equipment_Name_90000025	아슬라 스태프
+Equipment_Name_91000025	아슬라 스태프
+Equipment_Name_92000025	아슬라 스태프
+Equipment_Name_93000025	아슬라 스태프
+Equipment_Name_90000026	윈디아 보우
+Equipment_Name_91000026	윈디아 보우
+Equipment_Name_92000026	윈디아 보우
+Equipment_Name_93000026	윈디아 보우
+Equipment_Name_90000033	곰돌킹 보조 장비 (임시)
+Equipment_Name_91000033	곰돌킹 보조 장비 (임시)
+Equipment_Name_92000033	곰돌킹 보조 장비 (임시)
+Equipment_Name_93000033	곰돌킹 보조 장비 (임시)
+Equipment_Name_90010000	브론즈 로브
+Equipment_Name_91010000	브론즈 로브
+Equipment_Name_92010000	브론즈 로브
+Equipment_Name_93010000	브론즈 로브
+Equipment_Name_90010001	아이언 로브
+Equipment_Name_91010001	아이언 로브
+Equipment_Name_92010001	아이언 로브
+Equipment_Name_93010001	아이언 로브
+Equipment_Name_90010002	실버 로브
+Equipment_Name_91010002	실버 로브
+Equipment_Name_92010002	실버 로브
+Equipment_Name_93010002	실버 로브
+Equipment_Name_90010003	골드 로브
+Equipment_Name_91010003	골드 로브
+Equipment_Name_92010003	골드 로브
+Equipment_Name_93010003	골드 로브
+Equipment_Name_90010027	강철 로브
+Equipment_Name_91010027	강철 로브
+Equipment_Name_92010027	강철 로브
+Equipment_Name_93010027	강철 로브
+Equipment_Name_90010004	브론즈 라이트 아머
+Equipment_Name_91010004	브론즈 라이트 아머
+Equipment_Name_92010004	브론즈 라이트 아머
+Equipment_Name_93010004	브론즈 라이트 아머
+Equipment_Name_90010005	아이언 라이트 아머
+Equipment_Name_91010005	아이언 라이트 아머
+Equipment_Name_92010005	아이언 라이트 아머
+Equipment_Name_93010005	아이언 라이트 아머
+Equipment_Name_90010006	실버 라이트 아머
+Equipment_Name_91010006	실버 라이트 아머
+Equipment_Name_92010006	실버 라이트 아머
+Equipment_Name_93010006	실버 라이트 아머
+Equipment_Name_90010007	골드 라이트 아머
+Equipment_Name_91010007	골드 라이트 아머
+Equipment_Name_92010007	골드 라이트 아머
+Equipment_Name_93010007	골드 라이트 아머
+Equipment_Name_90010028	강철 라이트 아머
+Equipment_Name_91010028	강철 라이트 아머
+Equipment_Name_92010028	강철 라이트 아머
+Equipment_Name_93010028	강철 라이트 아머
+Equipment_Name_90010008	브론즈 헤비 아머
+Equipment_Name_91010008	브론즈 헤비 아머
+Equipment_Name_92010008	브론즈 헤비 아머
+Equipment_Name_93010008	브론즈 헤비 아머
+Equipment_Name_90010009	아이언 헤비 아머
+Equipment_Name_91010009	아이언 헤비 아머
+Equipment_Name_92010009	아이언 헤비 아머
+Equipment_Name_93010009	아이언 헤비 아머
+Equipment_Name_90010010	실버 헤비 아머
+Equipment_Name_91010010	실버 헤비 아머
+Equipment_Name_92010010	실버 헤비 아머
+Equipment_Name_93010010	실버 헤비 아머
+Equipment_Name_90010011	골드 헤비 아머
+Equipment_Name_91010011	골드 헤비 아머
+Equipment_Name_92010011	골드 헤비 아머
+Equipment_Name_93010011	골드 헤비 아머
+Equipment_Name_90010029	강철 헤비 아머
+Equipment_Name_91010029	강철 헤비 아머
+Equipment_Name_92010029	강철 헤비 아머
+Equipment_Name_93010029	강철 헤비 아머
+Equipment_Name_90010012	브론즈 카이트 실드
+Equipment_Name_91010012	브론즈 카이트 실드
+Equipment_Name_92010012	브론즈 카이트 실드
+Equipment_Name_93010012	브론즈 카이트 실드
+Equipment_Name_90010013	아이언 카이트 실드
+Equipment_Name_91010013	아이언 카이트 실드
+Equipment_Name_92010013	아이언 카이트 실드
+Equipment_Name_93010013	아이언 카이트 실드
+Equipment_Name_90010014	실버 카이트 실드
+Equipment_Name_91010014	실버 카이트 실드
+Equipment_Name_92010014	실버 카이트 실드
+Equipment_Name_93010014	실버 카이트 실드
+Equipment_Name_90010015	골드 카이트 실드
+Equipment_Name_91010015	골드 카이트 실드
+Equipment_Name_92010015	골드 카이트 실드
+Equipment_Name_93010015	골드 카이트 실드
+Equipment_Name_90010030	강철 카이트 실드
+Equipment_Name_91010030	강철 카이트 실드
+Equipment_Name_92010030	강철 카이트 실드
+Equipment_Name_93010030	강철 카이트 실드
+Equipment_Name_90010016	브론즈 슈즈
+Equipment_Name_91010016	브론즈 슈즈
+Equipment_Name_92010016	브론즈 슈즈
+Equipment_Name_93010016	브론즈 슈즈
+Equipment_Name_90010017	아이언 슈즈
+Equipment_Name_91010017	아이언 슈즈
+Equipment_Name_92010017	아이언 슈즈
+Equipment_Name_93010017	아이언 슈즈
+Equipment_Name_90010018	실버 슈즈
+Equipment_Name_91010018	실버 슈즈
+Equipment_Name_92010018	실버 슈즈
+Equipment_Name_93010018	실버 슈즈
+Equipment_Name_90010019	골드 슈즈
+Equipment_Name_91010019	골드 슈즈
+Equipment_Name_92010019	골드 슈즈
+Equipment_Name_93010019	골드 슈즈
+Equipment_Name_90010031	강철 슈즈
+Equipment_Name_91010031	강철 슈즈
+Equipment_Name_92010031	강철 슈즈
+Equipment_Name_93010031	강철 슈즈
+Equipment_Name_90010020	브론즈 글러브
+Equipment_Name_91010020	브론즈 글러브
+Equipment_Name_92010020	브론즈 글러브
+Equipment_Name_93010020	브론즈 글러브
+Equipment_Name_90010021	아이언 글러브
+Equipment_Name_91010021	아이언 글러브
+Equipment_Name_92010021	아이언 글러브
+Equipment_Name_93010021	아이언 글러브
+Equipment_Name_90010022	실버 글러브
+Equipment_Name_91010022	실버 글러브
+Equipment_Name_92010022	실버 글러브
+Equipment_Name_93010022	실버 글러브
+Equipment_Name_90010023	골드 글러브
+Equipment_Name_91010023	골드 글러브
+Equipment_Name_92010023	골드 글러브
+Equipment_Name_93010023	골드 글러브
+Equipment_Name_90010032	강철 글러브
+Equipment_Name_91010032	강철 글러브
+Equipment_Name_92010032	강철 글러브
+Equipment_Name_93010032	강철 글러브
+Equipment_Name_90010024	볼테르 갑옷
+Equipment_Name_91010024	볼테르 갑옷
+Equipment_Name_92010024	볼테르 갑옷
+Equipment_Name_93010024	볼테르 갑옷
+Equipment_Name_90010025	아슬라 코팅 로브
+Equipment_Name_91010025	아슬라 코팅 로브
+Equipment_Name_92010025	아슬라 코팅 로브
+Equipment_Name_93010025	아슬라 코팅 로브
+Equipment_Name_90010026	윈디아 파비스
+Equipment_Name_91010026	윈디아 파비스
+Equipment_Name_92010026	윈디아 파비스
+Equipment_Name_93010026	윈디아 파비스
+Equipment_Name_90010033	곰돌킹 방어구 (임시)
+Equipment_Name_91010033	곰돌킹 방어구 (임시)
+Equipment_Name_92010033	곰돌킹 방어구 (임시)
+Equipment_Name_93010033	곰돌킹 방어구 (임시)
+Equipment_Name_90020000	루비 링
+Equipment_Name_91020000	루비 링
+Equipment_Name_92020000	루비 링
+Equipment_Name_93020000	루비 링
+Equipment_Name_90020001	사파이어 링
+Equipment_Name_91020001	사파이어 링
+Equipment_Name_92020001	사파이어 링
+Equipment_Name_93020001	사파이어 링
+Equipment_Name_90020002	토파즈 링
+Equipment_Name_91020002	토파즈 링
+Equipment_Name_92020002	토파즈 링
+Equipment_Name_93020002	토파즈 링
+Equipment_Name_90020003	페리도트 링
+Equipment_Name_91020003	페리도트 링
+Equipment_Name_92020003	페리도트 링
+Equipment_Name_93020003	페리도트 링
+Equipment_Name_90020027	오팔 링
+Equipment_Name_91020027	오팔 링
+Equipment_Name_92020027	오팔 링
+Equipment_Name_93020027	오팔 링
+Equipment_Name_90020004	루비 네클리스
+Equipment_Name_91020004	루비 네클리스
+Equipment_Name_92020004	루비 네클리스
+Equipment_Name_93020004	루비 네클리스
+Equipment_Name_90020005	사파이어 네클리스
+Equipment_Name_91020005	사파이어 네클리스
+Equipment_Name_92020005	사파이어 네클리스
+Equipment_Name_93020005	사파이어 네클리스
+Equipment_Name_90020006	토파즈 네클리스
+Equipment_Name_91020006	토파즈 네클리스
+Equipment_Name_92020006	토파즈 네클리스
+Equipment_Name_93020006	토파즈 네클리스
+Equipment_Name_90020007	페리도트 네클리스
+Equipment_Name_91020007	페리도트 네클리스
+Equipment_Name_92020007	페리도트 네클리스
+Equipment_Name_93020007	페리도트 네클리스
+Equipment_Name_90020028	오팔 네클리스
+Equipment_Name_91020028	오팔 네클리스
+Equipment_Name_92020028	오팔 네클리스
+Equipment_Name_93020028	오팔 네클리스
+Equipment_Name_90020008	루비 이어링
+Equipment_Name_91020008	루비 이어링
+Equipment_Name_92020008	루비 이어링
+Equipment_Name_93020008	루비 이어링
+Equipment_Name_90020009	사파이어 이어링
+Equipment_Name_91020009	사파이어 이어링
+Equipment_Name_92020009	사파이어 이어링
+Equipment_Name_93020009	사파이어 이어링
+Equipment_Name_90020010	토파즈 이어링
+Equipment_Name_91020010	토파즈 이어링
+Equipment_Name_92020010	토파즈 이어링
+Equipment_Name_93020010	토파즈 이어링
+Equipment_Name_90020011	페리도트 이어링
+Equipment_Name_91020011	페리도트 이어링
+Equipment_Name_92020011	페리도트 이어링
+Equipment_Name_93020011	페리도트 이어링
+Equipment_Name_90020029	오팔 이어링
+Equipment_Name_91020029	오팔 이어링
+Equipment_Name_92020029	오팔 이어링
+Equipment_Name_93020029	오팔 이어링
+Equipment_Name_90020012	루비 브레이슬릿
+Equipment_Name_91020012	루비 브레이슬릿
+Equipment_Name_92020012	루비 브레이슬릿
+Equipment_Name_93020012	루비 브레이슬릿
+Equipment_Name_90020013	사파이어 브레이슬릿
+Equipment_Name_91020013	사파이어 브레이슬릿
+Equipment_Name_92020013	사파이어 브레이슬릿
+Equipment_Name_93020013	사파이어 브레이슬릿
+Equipment_Name_90020014	토파즈 브레이슬릿
+Equipment_Name_91020014	토파즈 브레이슬릿
+Equipment_Name_92020014	토파즈 브레이슬릿
+Equipment_Name_93020014	토파즈 브레이슬릿
+Equipment_Name_90020015	페리도트 브레이슬릿
+Equipment_Name_91020015	페리도트 브레이슬릿
+Equipment_Name_92020015	페리도트 브레이슬릿
+Equipment_Name_93020015	페리도트 브레이슬릿
+Equipment_Name_90020030	오팔 브레이슬릿
+Equipment_Name_91020030	오팔 브레이슬릿
+Equipment_Name_92020030	오팔 브레이슬릿
+Equipment_Name_93020030	오팔 브레이슬릿
+Equipment_Name_90020016	루비 벨트
+Equipment_Name_91020016	루비 벨트
+Equipment_Name_92020016	루비 벨트
+Equipment_Name_93020016	루비 벨트
+Equipment_Name_90020017	사파이어 벨트
+Equipment_Name_91020017	사파이어 벨트
+Equipment_Name_92020017	사파이어 벨트
+Equipment_Name_93020017	사파이어 벨트
+Equipment_Name_90020018	토파즈 벨트
+Equipment_Name_91020018	토파즈 벨트
+Equipment_Name_92020018	토파즈 벨트
+Equipment_Name_93020018	토파즈 벨트
+Equipment_Name_90020019	페리도트 벨트
+Equipment_Name_91020019	페리도트 벨트
+Equipment_Name_92020019	페리도트 벨트
+Equipment_Name_93020019	페리도트 벨트
+Equipment_Name_90020031	오팔 벨트
+Equipment_Name_91020031	오팔 벨트
+Equipment_Name_92020031	오팔 벨트
+Equipment_Name_93020031	오팔 벨트
+Equipment_Name_90020020	루비 매직북
+Equipment_Name_91020020	루비 매직북
+Equipment_Name_92020020	루비 매직북
+Equipment_Name_93020020	루비 매직북
+Equipment_Name_90020021	사파이어 매직북
+Equipment_Name_91020021	사파이어 매직북
+Equipment_Name_92020021	사파이어 매직북
+Equipment_Name_93020021	사파이어 매직북
+Equipment_Name_90020022	토파즈 매직북
+Equipment_Name_91020022	토파즈 매직북
+Equipment_Name_92020022	토파즈 매직북
+Equipment_Name_93020022	토파즈 매직북
+Equipment_Name_90020023	페리도트 매직북
+Equipment_Name_91020023	페리도트 매직북
+Equipment_Name_92020023	페리도트 매직북
+Equipment_Name_93020023	페리도트 매직북
+Equipment_Name_90020032	오팔 매직북
+Equipment_Name_91020032	오팔 매직북
+Equipment_Name_92020032	오팔 매직북
+Equipment_Name_93020032	오팔 매직북
+Equipment_Name_90020024	볼테르 목걸이
+Equipment_Name_91020024	볼테르 목걸이
+Equipment_Name_92020024	볼테르 목걸이
+Equipment_Name_93020024	볼테르 목걸이
+Equipment_Name_90020025	아슬라 반지
+Equipment_Name_91020025	아슬라 반지
+Equipment_Name_92020025	아슬라 반지
+Equipment_Name_93020025	아슬라 반지
+Equipment_Name_90020026	윈디아 브로치
+Equipment_Name_91020026	윈디아 브로치
+Equipment_Name_92020026	윈디아 브로치
+Equipment_Name_93020026	윈디아 브로치
+Equipment_Name_90020033	곰돌킹 엑세서리 (임시)
+Equipment_Name_91020033	곰돌킹 엑세서리 (임시)
+Equipment_Name_92020033	곰돌킹 엑세서리 (임시)
+Equipment_Name_93020033	곰돌킹 엑세서리 (임시)

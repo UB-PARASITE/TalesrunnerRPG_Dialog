@@ -1,0 +1,3 @@
+OccupationWar_PingMagicDesc_0001	모든 캐릭터 공격력 {v0.0}% 증가
+OccupationWar_PingMagicDesc_0002	모든 캐릭터 방어력 {v0.0}% 증가
+OccupationWar_PingMagicDesc_0003	모든 캐릭터 최대 체력 {v0.0}% 증가

@@ -1,0 +1,216 @@
+InfinityWaveAbility_Tooltip_0000	공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0001	방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0002	최대Hp {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0003	명중률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0004	회피율 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0005	크리티컬 확률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0006	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0007	크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0008	받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0009	행동력 {v0} 증가
+InfinityWaveAbility_Tooltip_0010	대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0011	디버프 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0012	공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0013	방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0014	최대Hp {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0015	명중률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0016	회피율 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0017	크리티컬 확률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0018	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0019	크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0020	받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0021	행동력 {v0} 증가
+InfinityWaveAbility_Tooltip_0022	대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0023	디버프 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0024	공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0025	방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0026	최대Hp {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0027	명중률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0028	회피율 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0029	크리티컬 확률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0030	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0031	크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0032	받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0033	행동력 {v0} 증가
+InfinityWaveAbility_Tooltip_0034	대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0035	디버프 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0036	공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0037	방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0038	최대Hp {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0039	명중률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0040	회피율 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0041	크리티컬 확률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0042	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0043	크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0044	받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0045	행동력 {v0} 증가
+InfinityWaveAbility_Tooltip_0046	대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0047	디버프 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0048	공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0049	방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0050	최대Hp {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0051	명중률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0052	회피율 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0053	크리티컬 확률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0054	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0055	크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0056	받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0057	행동력 {v0} 증가
+InfinityWaveAbility_Tooltip_0058	대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0059	디버프 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0060	공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0061	방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0062	최대Hp {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0063	명중률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0064	회피율 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0065	크리티컬 확률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0066	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0067	크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0068	받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0069	행동력 {v0} 증가
+InfinityWaveAbility_Tooltip_0070	대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0071	디버프 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0072	공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0073	방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0074	최대Hp {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0075	명중률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0076	회피율 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0077	크리티컬 확률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0078	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0079	크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0080	받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0081	행동력 {v0} 증가
+InfinityWaveAbility_Tooltip_0082	대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0083	디버프 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0084	공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0085	방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0086	최대Hp {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0087	명중률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0088	회피율 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0089	크리티컬 확률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0090	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0091	크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0092	받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0093	행동력 {v0} 증가
+InfinityWaveAbility_Tooltip_0094	대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0095	디버프 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0096	공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0097	방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0098	최대Hp {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0099	명중률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0100	회피율 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0101	크리티컬 확률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0102	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0103	크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0104	받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0105	행동력 {v0} 증가
+InfinityWaveAbility_Tooltip_0106	대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0107	디버프 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0108	공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0109	방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0110	최대Hp {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0111	명중률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0112	회피율 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0113	크리티컬 확률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0114	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0115	크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0116	받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0117	행동력 {v0} 증가
+InfinityWaveAbility_Tooltip_0118	대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0119	디버프 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0120	공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0121	방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0122	최대Hp {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0123	명중률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0124	회피율 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0125	크리티컬 확률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0126	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0127	크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0128	받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0129	행동력 {v0} 증가
+InfinityWaveAbility_Tooltip_0130	대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0131	디버프 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0132	공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0133	방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0134	최대Hp {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0135	명중률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0136	회피율 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0137	크리티컬 확률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0138	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0139	크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0140	받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0141	행동력 {v0} 증가
+InfinityWaveAbility_Tooltip_0142	대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0143	디버프 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0144	공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0145	방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0146	최대Hp {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0147	명중률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0148	회피율 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0149	크리티컬 확률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0150	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0151	크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0152	받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0153	행동력 {v0} 증가
+InfinityWaveAbility_Tooltip_0154	대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0155	디버프 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0156	공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0157	방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0158	최대Hp {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0159	명중률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0160	회피율 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0161	크리티컬 확률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0162	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0163	크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0164	받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0165	행동력 {v0} 증가
+InfinityWaveAbility_Tooltip_0166	대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0167	디버프 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0168	공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0169	방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0170	최대Hp {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0171	명중률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0172	회피율 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0173	크리티컬 확률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0174	크리티컬 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0175	크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0176	받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0177	행동력 {v0} 증가
+InfinityWaveAbility_Tooltip_0178	대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0179	디버프 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0180	방어력 {v0.0}% 증가 및 회피율 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0181	방어력 {v0.0}% 증가 및 최대Hp {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0182	방어력 {v0.0}% 증가 및 받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0183	공격력 {v0.0}% 증가 및 크리티컬 확률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0184	공격력 {v0.0}% 증가 및 크리티컬 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0185	공격력 {v0.0}% 증가 및 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0186	최대Hp {v0.0}% 증가 및 공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0187	최대Hp {v0.0}% 증가 및 방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0188	최대Hp {v0.0}% 증가 및 디버프 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0189	최대Hp {v0.0}% 증가 및 공격력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0190	최대Hp {v0.0}% 증가 및 방어력 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0191	최대Hp {v0.0}% 증가 및 받는 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0192	공격력 {v0.0}% 증가 및 행동력 {v0} 증가
+InfinityWaveAbility_Tooltip_0193	대미지 {v0.0}% 증가 및 받는 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0194	크리티컬 확률 {v0.0}% 증가 및 명중률 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0195	공격력 {v0.0}% 증가 및 최대Hp {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0196	공격력 {v0.0}% 증가 및 받는 대미지 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0197	크리티컬 대미지 {v0.0}% 증가 및 행동력 {v0} 감소
+InfinityWaveAbility_Tooltip_0198	방어력 {v0.0}% 증가 및 크리티컬 저항 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0199	방어력 {v0.0}% 증가 및 공격력 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0200	받는 대미지 {v0.0}% 감소 및 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0201	방어력 {v0.0}% 증가 및 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0202	최대Hp {v0.0}% 증가 및 대미지 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0203	최대Hp {v0.0}% 증가 및 공격력 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0204	최대Hp {v0.0}% 증가 및 크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0205	디버프 저항률 {v0.0}% 증가 및 크리티컬 확률 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0206	명중률 {v0.0}% 증가 및 회피율 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0207	디버프 저항률 {v0.0}% 증가 및 회피율 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0208	명중률 {v0.0}% 증가 및 크리티컬 저항률 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0209	명중률 {v0.0}% 증가 및 디버프 저항률 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0210	최대Hp {v0.0}% 증가 및 크리티컬 저항률 {v0.0}% 증가
+InfinityWaveAbility_Tooltip_0211	최대HP {v0.0}% 증가 및 크리티컬 저항률 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0212	최대HP {v0.0}% 증가 및 명중률 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0213	최대HP {v0.0}% 증가 및 행동력 {v0} 감소
+InfinityWaveAbility_Tooltip_0214	최대HP {v0.0}% 증가 및 디버프 저항률 {v0.0}% 감소
+InfinityWaveAbility_Tooltip_0215	최대HP {v0.0}% 증가 및 회피율 {v0.0}% 감소

@@ -1,0 +1,58 @@
+HotDeal_HotDealName_0101	Writer Level 20 Achievement Pack
+HotDeal_HotDealName_0102	Writer Level 30 Achievement Pack
+HotDeal_HotDealName_0103	Writer Level 40 Achievement Pack
+HotDeal_HotDealName_0104	Writer Level 50 Achievement Pack
+HotDeal_HotDealName_0105	Writer Level 60 Achievement Pack
+HotDeal_HotDealName_0106	Writer Level 70 Achievement Pack
+HotDeal_HotDealName_0107	Writer Level 80 Achievement Pack
+HotDeal_HotDealName_0201	Pinocchio Writing Achievement Pack
+HotDeal_HotDealName_0202	Sleeping Beauty Writing Achievement Pack
+HotDeal_HotDealName_0203	Red Riding Hood Writing Achievement Packs
+HotDeal_HotDealName_0204	Nutcracker Writing Achievement Pack
+HotDeal_HotDealName_0205	The Little Mermaid Writing Achievement Pack
+HotDeal_HotDealName_0206	Winter Forest Writing Achievement Pack
+HotDeal_HotDealName_0301	Dark Abyss Basement 2 Clear Pack
+HotDeal_HotDealName_0302	Dark Abyss Basement 4 Clear Pack
+HotDeal_HotDealName_0303	Dark Abyss Basement 6 Clear Pack
+HotDeal_HotDealName_0304	Dark Abyss Basement 8 Clear Pack
+HotDeal_HotDealName_0305	Dark Abyss Basement 10 Clear Pack
+HotDeal_HotDealName_0306	Dark Abyss Basement 12 Clear Pack
+HotDeal_HotDealName_0307	Dark Abyss Basement 13th Floor Clear Pack
+HotDeal_HotDealName_0401	Character 3-Star Achievement Pack
+HotDeal_HotDealName_0402	Character 4-Star Achievement Pack
+HotDeal_HotDealName_0403	Character 5-Star Achievement Pack
+HotDeal_HotDealName_0501	Intimacy Level 30 Achievement Pack
+HotDeal_HotDealName_0502	Intimacy Level 40 Achievement Pack
+HotDeal_HotDealName_0503	Intimacy Level 50 Achievement Pack
+HotDeal_HotDealName_0504	Intimacy Level 60 Achievement Pack
+HotDeal_HotDealName_0505	Intimacy Level 70 Achievement Pack
+HotDeal_HotDealName_0506	Intimacy Level 80 Achievement Pack
+HotDeal_Description_0101	That's pretty good, author.\\rI'll look forward to your performance.
+HotDeal_Description_0102	Already level 30?\\rYou've grown a lot!
+HotDeal_Description_0103	At this level... I think it's okay to join the Knights.
+HotDeal_Description_0104	Author, you're amazing!!\\rI'll praise you! Hehe!
+HotDeal_Description_0105	Hehe, you. Won't you be my subject?
+HotDeal_Description_0106	Oh my~ I should at least give you a congratulatory performance.
+HotDeal_Description_0107	Reached level 80! Author, you play games too~?
+HotDeal_Description_0201	Zepetto and his happy appearance. Keep watching!
+HotDeal_Description_0202	Sleeping Beauty... \\rTo celebrate the completion!
+HotDeal_Description_0203	Hehehe, next time, let's eat bread together!
+HotDeal_Description_0204	Universe and Moon... \\rCongratulate the author★
+HotDeal_Description_0205	This isn't the end. \\rPlease continue to take care of me!
+HotDeal_Description_0206	Next time... Winter Tree \\rSee you in the forest, author.
+HotDeal_Description_0301	Have you stepped into the darkness? \\rGood try.
+HotDeal_Description_0302	What if 4 runs away? \\rWine. Hahaha!
+HotDeal_Description_0303	Darkness is always by your side. 
+HotDeal_Description_0304	Are you walking into the abyss on your own? Hehe...
+HotDeal_Description_0305	You're not afraid of the dark, are you?
+HotDeal_Description_0306	Darkness... \\rAre you one of my kind?
+HotDeal_Description_0307	I'll wait for you. \\rIn a deeper abyss...
+HotDeal_Description_0401	It's beautiful to see you grow stronger with your companions!
+HotDeal_Description_0402	Are you continuing to grow stronger? \\rLet's run together someday!
+HotDeal_Description_0403	Isn't it totally cool? \\rLike the great actor Mingming!
+HotDeal_Description_0501	Huh? You're getting closer? Haha!! \\rYour party members have increased!! 
+HotDeal_Description_0502	Are we all friends~?\\rAramode is happy too!
+HotDeal_Description_0503	Isn't it okay for friends to ride bikes together?
+HotDeal_Description_0504	Is it really okay to be this close...?
+HotDeal_Description_0505	Even in a fleeting life... \\rYou definitely need friends.
+HotDeal_Description_0506	We've become super close, haven't we?!\\rI'll cheer for you, Vera!!!

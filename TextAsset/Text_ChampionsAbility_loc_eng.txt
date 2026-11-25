@@ -1,0 +1,60 @@
+ChampionsAbility_Tooltip_0000	Attack power increased by {v0.0}%
+ChampionsAbility_Tooltip_0001	Increases Armor by {v0.0}%
+ChampionsAbility_Tooltip_0002	Increases Max HP by {v0.0}%
+ChampionsAbility_Tooltip_0003	Increases hit rate by {v0.0}%
+ChampionsAbility_Tooltip_0004	Increases evasion rate by {v0.0}%
+ChampionsAbility_Tooltip_0005	Increases Critical Chance by {v0.0}%
+ChampionsAbility_Tooltip_0006	Increases Critical Damage by {v0.0}%
+ChampionsAbility_Tooltip_0007	Increases Critical Resistance by {v0.0}%
+ChampionsAbility_Tooltip_0008	Reduces damage taken by {v0.0}%
+ChampionsAbility_Tooltip_0009	Increased Action Points {v0}
+ChampionsAbility_Tooltip_0010	Damage increased by {v0.0}%
+ChampionsAbility_Tooltip_0011	Debuff resistance increased by {v0.0}%
+ChampionsAbility_Tooltip_0012	Attack power increased by {v0.0}%
+ChampionsAbility_Tooltip_0013	Increases Armor by {v0.0}%
+ChampionsAbility_Tooltip_0014	Increases Max HP by {v0.0}%
+ChampionsAbility_Tooltip_0015	Increases hit rate by {v0.0}%
+ChampionsAbility_Tooltip_0016	Increases evasion rate by {v0.0}%
+ChampionsAbility_Tooltip_0017	Increases Critical Chance by {v0.0}%
+ChampionsAbility_Tooltip_0018	Increases critical damage by {v0.0}%
+ChampionsAbility_Tooltip_0019	Increases Critical Resistance by {v0.0}%
+ChampionsAbility_Tooltip_0020	Reduces damage taken by {v0.0}%
+ChampionsAbility_Tooltip_0021	Increases Action Points {v0}
+ChampionsAbility_Tooltip_0022	Damage increased by {v0.0}%
+ChampionsAbility_Tooltip_0023	Increases Debuff Resistance by {v0.0}%
+ChampionsAbility_Tooltip_0024	Attack power increased by {v0.0}%
+ChampionsAbility_Tooltip_0025	Increases Armor by {v0.0}%
+ChampionsAbility_Tooltip_0026	Increases Max HP by {v0.0}%
+ChampionsAbility_Tooltip_0027	Increases hit rate by {v0.0}%
+ChampionsAbility_Tooltip_0028	Increases evasion rate by {v0.0}%
+ChampionsAbility_Tooltip_0029	Increases Critical Chance by {v0.0}%
+ChampionsAbility_Tooltip_0030	Increases critical damage by {v0.0}%
+ChampionsAbility_Tooltip_0031	Increases Critical Resistance by {v0.0}%
+ChampionsAbility_Tooltip_0032	Reduces damage taken by {v0.0}%
+ChampionsAbility_Tooltip_0033	Increased Action Points {v0}
+ChampionsAbility_Tooltip_0034	Damage increased by {v0.0}%
+ChampionsAbility_Tooltip_0035	Increases Debuff Resistance by {v0.0}%
+ChampionsAbility_Tooltip_0036	Increases Armor by {v0.0}% and Evasion by {v0.0}%
+ChampionsAbility_Tooltip_0037	Increases Armor by {v0.0}% and Max HP by {v0.0}%
+ChampionsAbility_Tooltip_0038	Increases armor by {v0.0}% and reduces damage taken by {v0.0}%
+ChampionsAbility_Tooltip_0039	Increases attack power by {v0.0}% and critical hit chance by {v0.0}%
+ChampionsAbility_Tooltip_0040	Increases attack power by {v0.0}% and critical damage by {v0.0}%
+ChampionsAbility_Tooltip_0041	Attack power increased by {v0.0}% and damage increased by {v0.0}%
+ChampionsAbility_Tooltip_0042	Increases max HP by {v0.0}% and increases attack power by {v0.0}%
+ChampionsAbility_Tooltip_0043	Increases max HP by {v0.0}% and increases defense by {v0.0}%
+ChampionsAbility_Tooltip_0044	Increases max HP by {v0.0}% and debuff resistance by {v0.0}%
+ChampionsAbility_Tooltip_0045	Increases max HP by {v0.0}% and increases attack power by {v0.0}%
+ChampionsAbility_Tooltip_0046	Increases Max HP by {v0.0}% and Defense by {v0.0}%
+ChampionsAbility_Tooltip_0047	Increases max HP by {v0.0}% and damage taken by {v0.0}%
+ChampionsAbility_Tooltip_0048	Increases damage dealt by {v0.0}% and damage taken by {v0.0}%
+ChampionsAbility_Tooltip_0049	Increases critical chance by {v0.0}% and reduces hit rate by {v0.0}%
+ChampionsAbility_Tooltip_0050	Attack power increased by {v0.0}% and maximum HP decreased by {v0.0}%
+ChampionsAbility_Tooltip_0051	Increases attack power by {v0.0}% and damage taken by {v0.0}%
+ChampionsAbility_Tooltip_0052	Increases critical damage by {v0.0}% and reduces action points by {v0}
+ChampionsAbility_Tooltip_0053	Increases defense by {v0.0}% and reduces attack damage by {v0.0}%
+ChampionsAbility_Tooltip_0054	Reduces damage taken by {v0.0}% and reduces damage taken by {v0.0}%
+ChampionsAbility_Tooltip_0055	Increases Armor by {v0.0}% and reduces Damage by {v0.0}%
+ChampionsAbility_Tooltip_0056	Increases max HP by {v0.0}% and reduces damage by {v0.0}%
+ChampionsAbility_Tooltip_0057	Increases max HP by {v0.0}% and reduces attack power by {v0.0}%
+ChampionsAbility_Tooltip_0058	Increases Debuff Resistance by {v0.0}% and reduces Critical Resistance by {v0.0}%
+ChampionsAbility_Tooltip_0059	Increases hit rate by {v0.0}% and decreases evasion rate by {v0.0}%

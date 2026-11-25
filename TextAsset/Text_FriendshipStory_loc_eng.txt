@@ -1,0 +1,305 @@
+FriendshipStory_StoryName_0001	Running Special Training!!!
+FriendshipStory_StoryName_0002	(Self-proclaimed) Best Sportsman
+FriendshipStory_StoryName_0003	Things that don't change
+FriendshipStory_StoryName_0004	Blue is the best
+FriendshipStory_StoryName_0005	Why Running is Good
+FriendshipStory_StoryName_1001	Knight Commander Helia
+FriendshipStory_StoryName_1002	The Way of the Knight, the Spirit of Chivalry
+FriendshipStory_StoryName_1003	Gravity of the Sun and Moon
+FriendshipStory_StoryName_1004	Qualifications of a Knight Commander
+FriendshipStory_StoryName_1005	To become everyone's sun
+FriendshipStory_StoryName_2001	Knight under the protection of the moon
+FriendshipStory_StoryName_2002	Sagittarius's Mindset
+FriendshipStory_StoryName_2003	Ice & Fire
+FriendshipStory_StoryName_2004	Far side of Moon
+FriendshipStory_StoryName_2005	A wish to the moon
+FriendshipStory_StoryName_3001	Ouroboros
+FriendshipStory_StoryName_3002	Ars Magna
+FriendshipStory_StoryName_3003	Cat in the Box
+FriendshipStory_StoryName_3004	99% is effort
+FriendshipStory_StoryName_3005	1% is…
+FriendshipStory_StoryName_4001	Queen of Hearts, Not the Queen
+FriendshipStory_StoryName_4002	The former queen's tea time
+FriendshipStory_StoryName_4003	I poisoned your car
+FriendshipStory_StoryName_4004	Rose Garden of Queen
+FriendshipStory_StoryName_4005	Strange Declaration of Runaway
+FriendshipStory_StoryName_5001	I need a good line!
+FriendshipStory_StoryName_5002	Dream Team Recruitment
+FriendshipStory_StoryName_5003	Mingming Musang
+FriendshipStory_StoryName_5004	Hwa-ryong-jeom-jeong
+FriendshipStory_StoryName_5005	Aftermath
+FriendshipStory_StoryName_6001	To the unknown dungeon
+FriendshipStory_StoryName_6002	Dungeon 1: Cooking Class
+FriendshipStory_StoryName_6003	2nd Dungeon: Sowing Class
+FriendshipStory_StoryName_6004	3rd Dungeon: Tea Class
+FriendshipStory_StoryName_6005	Last Boss
+FriendshipStory_StoryName_7001	Don't judge by appearances
+FriendshipStory_StoryName_7002	His Hobbies
+FriendshipStory_StoryName_7003	Just one bite!
+FriendshipStory_StoryName_7004	Something I received from Fairy Tale Land.
+FriendshipStory_StoryName_7005	The best treasure
+FriendshipStory_StoryName_8001	The Queen's Escape
+FriendshipStory_StoryName_8002	Queen's Forbidden
+FriendshipStory_StoryName_8003	Lara and Radungi
+FriendshipStory_StoryName_8004	Memories with Abamama
+FriendshipStory_StoryName_8005	After today...
+FriendshipStory_StoryName_9001	The Freak of Rumors
+FriendshipStory_StoryName_9002	There's only one difference between a madman and a genius
+FriendshipStory_StoryName_9003	Dear friend
+FriendshipStory_StoryName_9004	Old Friends
+FriendshipStory_StoryName_9005	Calculation is thorough
+FriendshipStory_StoryName_10001	The Lost Wolf Hunter
+FriendshipStory_StoryName_10002	Again, looking for the wolf
+FriendshipStory_StoryName_10003	Wrong revenge
+FriendshipStory_StoryName_10004	To correct the mistake
+FriendshipStory_StoryName_10005	Lonely Apology, The Way Forward
+FriendshipStory_StoryName_11001	Surprise gift operation!
+FriendshipStory_StoryName_11002	Errand boy in fairyland
+FriendshipStory_StoryName_11003	Pinocchio, getting a job?!
+FriendshipStory_StoryName_11004	A wooden doll that cuts trees?
+FriendshipStory_StoryName_11005	Because I'm enough with you
+FriendshipStory_StoryName_12001	Ballerina's Morning
+FriendshipStory_StoryName_12002	Dessert Fairy?
+FriendshipStory_StoryName_12003	The Preciousness of Ordinary Daily Life
+FriendshipStory_StoryName_12004	After Swan Song
+FriendshipStory_StoryName_12005	A performance just for one person
+FriendshipStory_StoryName_13001	Warrior of the Volcano Tribe
+FriendshipStory_StoryName_13002	The vitality of plants
+FriendshipStory_StoryName_13003	Red Flame Night
+FriendshipStory_StoryName_13004	The Faith of the Earth, the Pride of the Flame
+FriendshipStory_StoryName_13005	Behind your respect
+FriendshipStory_StoryName_14001	Don't run on the street...
+FriendshipStory_StoryName_14002	I know even if you don't say it~
+FriendshipStory_StoryName_14003	Help me, Ellinnnnnn!!
+FriendshipStory_StoryName_14004	Good Brothers and Sisters
+FriendshipStory_StoryName_14005	Classic Comics Cliches
+FriendshipStory_StoryName_15001	Aramode in the well
+FriendshipStory_StoryName_15002	Dessert tasting event held
+FriendshipStory_StoryName_15003	Tasting Part 1
+FriendshipStory_StoryName_15004	Tasting Part 2
+FriendshipStory_StoryName_15005	Tasting Review
+FriendshipStory_StoryName_16001	Happiness is relative
+FriendshipStory_StoryName_16002	Ordinary Brothers and Sisters
+FriendshipStory_StoryName_16003	Ask and double
+FriendshipStory_StoryName_16004	Runaway Boy
+FriendshipStory_StoryName_16005	We are doing well.
+FriendshipStory_StoryName_17001	Was it a cat I saw?
+FriendshipStory_StoryName_17002	The Strange Cat in Wonderland
+FriendshipStory_StoryName_17003	Because dogs are natural enemies
+FriendshipStory_StoryName_17004	Cat's tongue is weak
+FriendshipStory_StoryName_17005	Strange Attraction
+FriendshipStory_StoryName_18001	Waiting fans
+FriendshipStory_StoryName_18002	Preparing for the performance
+FriendshipStory_StoryName_18003	The show begins!
+FriendshipStory_StoryName_18004	The curtain falls on the stage,
+FriendshipStory_StoryName_18005	Come see me forever♥
+FriendshipStory_StoryName_19001	The princess wants to sleep
+FriendshipStory_StoryName_19002	A dark, cool, and quiet place
+FriendshipStory_StoryName_19003	Sleeping Princess and the Alchemist
+FriendshipStory_StoryName_19004	Sleepless Night
+FriendshipStory_StoryName_19005	Because I can have good dreams
+FriendshipStory_StoryName_20001	Writer meets Sheep
+FriendshipStory_StoryName_20002	Hide and Seek
+FriendshipStory_StoryName_20003	Do dolls dream of sheep?
+FriendshipStory_StoryName_20004	A different perspective
+FriendshipStory_StoryName_20005	Dear My Friend
+FriendshipStory_StoryName_21001	Geppetto Atleir
+FriendshipStory_StoryName_21002	SNS is difficult
+FriendshipStory_StoryName_21003	Pinocchio, missing again?
+FriendshipStory_StoryName_21004	Family Heart
+FriendshipStory_StoryName_21005	Perfection is something that is being refined
+FriendshipStory_StoryName_22001	Superstar DnD
+FriendshipStory_StoryName_22002	DnD's Song Classroom
+FriendshipStory_StoryName_22003	Idol, Declaration of Deviation
+FriendshipStory_StoryName_22004	Dream & Desire
+FriendshipStory_StoryName_22005	The Star That Never Sets
+FriendshipStory_StoryName_23001	Always watch your back!
+FriendshipStory_StoryName_23002	Nephews and Nephews of the Holidays
+FriendshipStory_StoryName_23003	Boksilboksil
+FriendshipStory_StoryName_23004	Role Play
+FriendshipStory_StoryName_23005	Blood is thicker than water
+FriendshipStory_StoryName_24001	Jipijigi, Baekjeonbultae
+FriendshipStory_StoryName_24002	Walnut Cookie Doll
+FriendshipStory_StoryName_24003	Gathering strange information
+FriendshipStory_StoryName_24004	Naval Battle
+FriendshipStory_StoryName_24005	Carpe diem!
+FriendshipStory_StoryName_25001	White and Strange Dream
+FriendshipStory_StoryName_25002	Dream interpretation
+FriendshipStory_StoryName_25003	Winter Travel
+FriendshipStory_StoryName_25004	Flame of Memory
+FriendshipStory_StoryName_25005	Holding hands
+FriendshipStory_StoryName_26001	Stella, the fairy of the star country
+FriendshipStory_StoryName_26002	Cosplay Basics
+FriendshipStory_StoryName_26003	Stella Persona
+FriendshipStory_StoryName_26004	The value of limited edition
+FriendshipStory_StoryName_26005	With you who I like
+FriendshipStory_StoryName_27001	Mouse King's Great Trouble
+FriendshipStory_StoryName_27002	The ultimate food?!
+FriendshipStory_StoryName_27003	Gourmet King
+FriendshipStory_StoryName_27004	How the boy became king
+FriendshipStory_StoryName_27005	Hidden under the crown
+FriendshipStory_StoryName_28001	Coffee is bitter.
+FriendshipStory_StoryName_28002	Beginner living alone
+FriendshipStory_StoryName_28003	Mermaid's Song
+FriendshipStory_StoryName_28004	Chu~
+FriendshipStory_StoryName_28005	Author, Mermaid and Wish Ticket
+FriendshipStory_StoryName_29001	Gardener Florence
+FriendshipStory_StoryName_29002	To become a good gardener
+FriendshipStory_StoryName_29003	Small happiness in adversity
+FriendshipStory_StoryName_29004	Digging up Mandragora
+FriendshipStory_StoryName_29005	Sweet and Bitter Forest
+FriendshipStory_StoryName_30001	Visaaaaang!!!
+FriendshipStory_StoryName_30002	This needs to go to the museum!
+FriendshipStory_StoryName_30003	Isn't the feed good?
+FriendshipStory_StoryName_30004	Vera's Precious Person
+FriendshipStory_StoryName_30005	The Last Supper
+FriendshipStory_StoryName_31001	The Witch of the Deep Sea, and After
+FriendshipStory_StoryName_31002	Fairytale-style fortune cookies
+FriendshipStory_StoryName_31003	When an octopus and a mermaid meet
+FriendshipStory_StoryName_31004	Love scattered like foam
+FriendshipStory_StoryName_31005	Letting it flow
+FriendshipStory_StoryName_33001	A Fragment of Darkness
+FriendshipStory_StoryName_33002	Darkness swallows darkness
+FriendshipStory_StoryName_33003	Blooming from pain
+FriendshipStory_StoryName_33004	Facing the light
+FriendshipStory_StoryName_33005	People I can't call family
+FriendshipStory_StoryName_34001	Pension Architect, Kai Lovell
+FriendshipStory_StoryName_34002	A relationship where you are being taken advantage of?
+FriendshipStory_StoryName_34003	A dream raised under Tokyo
+FriendshipStory_StoryName_34004	Father's Apple Pie
+FriendshipStory_StoryName_34005	A family connected by heart
+FriendshipStory_StoryName_35001	The sickly boy
+FriendshipStory_StoryName_35002	Visiting in the hospital
+FriendshipStory_StoryName_35003	The meaning of tomorrow
+FriendshipStory_StoryName_35004	The power to share pain
+FriendshipStory_StoryName_35005	Morning of Peace
+FriendshipStory_StoryName_36001	If it is the master's order
+FriendshipStory_StoryName_36002	Cleaning Basics
+FriendshipStory_StoryName_36003	Reason for Blindness
+FriendshipStory_StoryName_36004	Maid, Unqualified
+FriendshipStory_StoryName_36005	Change cleaning goal
+FriendshipStory_StoryName_37001	Where are books buried when they die?
+FriendshipStory_StoryName_37002	What if grapes introduce themselves?
+FriendshipStory_StoryName_37003	Which shape has the fewest numbers?
+FriendshipStory_StoryName_37004	Rainy Blue
+FriendshipStory_StoryName_37005	Falling Twilight
+FriendshipStory_StoryName_38001	Bodyguard Olivier
+FriendshipStory_StoryName_38002	Extreme training
+FriendshipStory_StoryName_38003	Command, Do Nothing
+FriendshipStory_StoryName_38004	Commander of the Iron-Blooded Knights
+FriendshipStory_StoryName_38005	Two Suns
+FriendshipStory_StoryName_39001	Failure is the mother of success
+FriendshipStory_StoryName_39002	The relationship between alchemy and cooking
+FriendshipStory_StoryName_39003	The Unlucky Genius
+FriendshipStory_StoryName_39004	The Lone Alchemist
+FriendshipStory_StoryName_39005	Rediscovery of Combination
+FriendshipStory_StoryName_40001	The Investigators of Seolsan
+FriendshipStory_StoryName_40002	Anya's right temperature
+FriendshipStory_StoryName_40003	FROZEN GRAPHY
+FriendshipStory_StoryName_40004	The Ice Witch Who Loved Summer
+FriendshipStory_StoryName_40005	Memories engraved on the snowy mountain
+FriendshipStory_StoryName_41001	Here Comes Challenger
+FriendshipStory_StoryName_41002	Gacha is cruel
+FriendshipStory_StoryName_41003	ERROR CODE!!
+FriendshipStory_StoryName_41004	Restart Button
+FriendshipStory_StoryName_41005	PEACH ON AIR!
+FriendshipStory_StoryName_42001	Descendants of the Black Wolf Clan
+FriendshipStory_StoryName_42002	Poisonous Mushrooms
+FriendshipStory_StoryName_42003	I'm still hungry
+FriendshipStory_StoryName_42004	A vague hope
+FriendshipStory_StoryName_42005	Wolf Boy's Repayment
+FriendshipStory_StoryName_44001	Where is the family register?
+FriendshipStory_StoryName_44002	Sword, Murasame
+FriendshipStory_StoryName_44003	The Spirit of Bushido
+FriendshipStory_StoryName_44004	Weapons follow the will of their master.
+FriendshipStory_StoryName_44005	I'm not even mentally ill
+FriendshipStory_StoryName_45001	Sea from the sea
+FriendshipStory_StoryName_45002	A girl from Bear Paw Island
+FriendshipStory_StoryName_45003	Guardian of the Fairytale Environment
+FriendshipStory_StoryName_45004	The other side of the sea
+FriendshipStory_StoryName_45005	A heart sent on the waves
+FriendshipStory_StoryName_46001	Succubus Falls from the Sky
+FriendshipStory_StoryName_46002	Fascination Alert!
+FriendshipStory_StoryName_46003	My Friend Succubus
+FriendshipStory_StoryName_46004	Confession
+FriendshipStory_StoryName_46005	Operation Valentine!
+FriendshipStory_StoryName_47001	Rumors of the Warrior
+FriendshipStory_StoryName_47002	The Test of the Warrior
+FriendshipStory_StoryName_47003	The Luck of the Warrior
+FriendshipStory_StoryName_47004	The Warrior's Holy Sword
+FriendshipStory_StoryName_47005	The Warrior of Justice
+FriendshipStory_StoryName_48001	Genius Painter Clemens
+FriendshipStory_StoryName_48002	Affection in a picture
+FriendshipStory_StoryName_48003	The Missing Monica
+FriendshipStory_StoryName_48004	Monica's fantasy world
+FriendshipStory_StoryName_48005	A heart to draw with a brush
+FriendshipStory_StoryName_49001	Pour alcohol, pour water
+FriendshipStory_StoryName_49002	Yoo Neung-jeong, Yak Neung-seung
+FriendshipStory_StoryName_49003	A riot in the city?
+FriendshipStory_StoryName_49004	Drunken talk
+FriendshipStory_StoryName_49005	Living a day
+FriendshipStory_StoryName_50001	In and Yeon meet.
+FriendshipStory_StoryName_50002	Udo Halgye
+FriendshipStory_StoryName_50003	Fire and Fire
+FriendshipStory_StoryName_50004	Unknown Unjisa
+FriendshipStory_StoryName_50005	The Grim Reaper
+FriendshipStory_StoryName_51001	An unprecedented thief?
+FriendshipStory_StoryName_51002	In search of the white bird
+FriendshipStory_StoryName_51003	I'll show you a magical magic trick
+FriendshipStory_StoryName_51004	Secrets that can't be hidden♣
+FriendshipStory_StoryName_51005	Invitation to the most beautiful place
+FriendshipStory_StoryName_52001	The Man Who Came Back with the Wind
+FriendshipStory_StoryName_52002	Reverse Rider
+FriendshipStory_StoryName_52003	Cats save the world
+FriendshipStory_StoryName_52004	DRIVING AWAY
+FriendshipStory_StoryName_52005	The way to move forward again
+FriendshipStory_StoryName_53001	Memories of Hyacinth
+FriendshipStory_StoryName_53002	Working with Seniors
+FriendshipStory_StoryName_53003	Secret Love Affair
+FriendshipStory_StoryName_53004	Black Wings and White Wings
+FriendshipStory_StoryName_53005	Memories are like fog
+FriendshipStory_StoryName_54001	Today's Fortune
+FriendshipStory_StoryName_54002	Let's go see the stars tonight
+FriendshipStory_StoryName_54003	Shopping in a hurry
+FriendshipStory_StoryName_54004	Dark Adaptation
+FriendshipStory_StoryName_54005	Star Counting Night
+FriendshipStory_StoryName_55001	Flowing and flowing
+FriendshipStory_StoryName_55002	Jellyfish translation?
+FriendshipStory_StoryName_55003	The sadness that the sea of sorrow holds
+FriendshipStory_StoryName_55004	What happens to people when they die?
+FriendshipStory_StoryName_55005	Floating hope, overflowing hope
+FriendshipStory_StoryName_56001	Meteorologist of the Emotional System
+FriendshipStory_StoryName_56002	My pace lady
+FriendshipStory_StoryName_56003	Right hand is just holding
+FriendshipStory_StoryName_56004	Scenery under the umbrella
+FriendshipStory_StoryName_56005	Cloudy and then clear
+FriendshipStory_StoryName_57001	Catch the Chariot
+FriendshipStory_StoryName_57002	Trendsetter
+FriendshipStory_StoryName_57003	Shopping is shopping in Korean
+FriendshipStory_StoryName_57004	Moonlit Night Conversation
+FriendshipStory_StoryName_57005	Yeon-o's story
+FriendshipStory_StoryName_58001	The Archbishop's Identity
+FriendshipStory_StoryName_58002	Let's have a drink
+FriendshipStory_StoryName_58003	Idol of the Vatican
+FriendshipStory_StoryName_58004	Where the light goes
+FriendshipStory_StoryName_58005	A new wind blows
+FriendshipStory_StoryName_59001	Unidentified Mercenary
+FriendshipStory_StoryName_59002	Mission, Find the owner
+FriendshipStory_StoryName_59003	The owner is in the arcade?
+FriendshipStory_StoryName_59004	Titles are important!
+FriendshipStory_StoryName_59005	Whose owner is Peach?
+FriendshipStory_StoryName_60001	Friends from the Fox Star
+FriendshipStory_StoryName_60002	Hesitant Apple
+FriendshipStory_StoryName_60003	Habit of Performance
+FriendshipStory_StoryName_60004	Mixed Hearts
+FriendshipStory_StoryName_60005	Beyond misunderstanding, again
+FriendshipStory_StoryName_61001	Story Title
+FriendshipStory_StoryName_61002	Story Title
+FriendshipStory_StoryName_61003	Story Title
+FriendshipStory_StoryName_61004	Story Title
+FriendshipStory_StoryName_61005	Story Title
+FriendshipStory_StoryName_62001	Story Title
+FriendshipStory_StoryName_62002	Story Title
+FriendshipStory_StoryName_62003	Story Title
+FriendshipStory_StoryName_62004	Story Title
+FriendshipStory_StoryName_62005	Story Title

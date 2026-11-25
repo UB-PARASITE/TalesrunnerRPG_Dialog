@@ -1,0 +1,90 @@
+Farm_Name_0000	흙 묻은 멍뭉이
+Farm_Name_0001	큐트 카피바라
+Farm_Name_0002	아기 오리
+Farm_Name_0003	멜로디
+Farm_Name_0004	퀴욤 오리너굴
+Farm_Name_0005	미니 타코
+Farm_Name_0006	쁘띠 래빗돌
+Farm_Name_0007	몰랑 베어
+Farm_Name_0008	소다냥
+Farm_Name_0009	젤리 유령
+Farm_Name_0010	스윗바닐라 베어
+Farm_Name_0011	하트시커 래빗
+Farm_Name_0012	설향 (영구펫)
+Farm_Name_0013	라부라부
+Farm_Name_0014	동동이
+Farm_Name_0015	뼈다귀 멍뭉이
+Farm_Name_0016	포도댕댕
+Farm_Name_0017	리틀 폭스
+Farm_Name_0018	쁘띠 베티
+Farm_Name_0019	스위밍 뺙이
+Farm_Name_0020	이벤트 펫 A
+Farm_Name_1000	사과 나무
+Farm_Name_1001	감 나무
+Farm_Name_1002	배 나무
+Farm_Name_1003	복숭아 나무
+Farm_Name_1004	포도 나무
+Farm_Name_1005	매실 나무
+Farm_Name_1006	밤 나무
+Farm_Name_1007	체리 나무
+Farm_Name_1008	바나나 나무
+Farm_Name_1009	야자 나무
+Farm_Name_2000	블루베리 나무
+Farm_Name_2001	석류 나무
+Farm_Name_2002	딸기
+Farm_Name_2003	수박
+Farm_Name_2004	참외
+Farm_Name_2005	고구마
+Farm_Name_2006	호박
+Farm_Name_2007	멜론
+Farm_Name_2008	토마토
+Farm_Name_2009	당근
+Farm_Name_2010	가지
+Farm_Name_2011	감자
+Farm_Name_2012	쌀
+Farm_Name_2013	오이
+Farm_Description_0000	흙 묻은 멍뭉이 펫입니다. 12시간 마다 37500 골드를 생산합니다.
+Farm_Description_0001	큐트 카피바라 펫입니다. 12시간 마다 15 스태미나를 생산합니다.
+Farm_Description_0002	아기 오리 펫입니다 12시간 마다 40000 골드를 생산합니다.
+Farm_Description_0003	멜로디 펫입니다. 12시간 마다 20 스태미나를 생산합니다.
+Farm_Description_0004	퀴욤 오리너굴 펫입니다. 12시간 마다 42500 골드를 생산합니다.
+Farm_Description_0005	미니 타코 펫입니다. 12시간 마다 25 스태미나를 생산합니다.
+Farm_Description_0006	쁘띠 래빗돌 펫입니다. 12시간 마다 45000 골드를 생산합니다.
+Farm_Description_0007	몰랑 베어 펫입니다. 12시간 마다 30 스태미나를 생산합니다.
+Farm_Description_0008	소다냥 펫입니다.  12시간 마다 47500 골드를 생산합니다.
+Farm_Description_0009	젤리 유령 펫입니다. 12시간 마다 30 스태미나를 생산합니다.
+Farm_Description_0010	스윗바닐라 베어 펫입니다. 12시간 마다 50000 골드를 생산합니다.
+Farm_Description_0011	하트시커 래빗 펫입니다. 12시간 마다 30 스태미나를 생산합니다.
+Farm_Description_0012	설향 펫입니다. 골드 보상을 획득할 수 있으며, 영구적으로 사용할 수 있습니다. 12시간 마다 52500 골드를 생산합니다.
+Farm_Description_0013	라부라부 펫입니다. 12시간 마다 30 스태미나를 생산합니다.
+Farm_Description_0014	동동이 펫입니다. 12시간 마다 55000 골드를 생산합니다.
+Farm_Description_0015	뼈다귀 멍뭉이 펫입니다. 12시간 마다 30 스태미나를 생산합니다.
+Farm_Description_0016	로로아 맑음 인형 펫입니다. 12시간 마다 57500 골드를 생산합니다.
+Farm_Description_0017	리틀 폭스 펫입니다. 12시간 마다 30 스태미나를 생산합니다.
+Farm_Description_0018	쁘띠 베티 펫입니다. 12시간 마다 60000 골드를 생산합니다.
+Farm_Description_0019	스위밍 빡이 펫입니다. 12시간 마다 30 스태미나를 생산합니다.
+Farm_Description_0020	이벤트 펫 A 입니다.
+Farm_Description_1000	사과나무 입니다.
+Farm_Description_1001	감나무 입니다.
+Farm_Description_1002	배나무 입니다
+Farm_Description_1003	복숭아나무 입니다
+Farm_Description_1004	포도나무 입니다
+Farm_Description_1005	매실나무 입니다
+Farm_Description_1006	밤나무 입니다
+Farm_Description_1007	체리나무 입니다
+Farm_Description_1008	바나나나무 입니다
+Farm_Description_1009	야자나무 입니다
+Farm_Description_2000	블루베리 나무 입니다.
+Farm_Description_2001	석류 나무 입니다.
+Farm_Description_2002	딸기 입니다.
+Farm_Description_2003	수박 입니다.
+Farm_Description_2004	참외 입니다.
+Farm_Description_2005	고구마 입니다.
+Farm_Description_2006	호박 입니다.
+Farm_Description_2007	멜론 입니다.
+Farm_Description_2008	토마토 입니다.
+Farm_Description_2009	당근 입니다.
+Farm_Description_2010	가지 입니다.
+Farm_Description_2011	감자 입니다.
+Farm_Description_2012	쌀 입니다.
+Farm_Description_2013	오이 입니다.

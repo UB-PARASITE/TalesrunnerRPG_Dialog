@@ -1,0 +1,1290 @@
+Mob_Name_1000	Leaf Nugget
+Mob_Name_1001	Leaf Nugget
+Mob_Name_1002	Leaf Nugget
+Mob_Name_1003	You rascal Mr. Nugget
+Mob_Name_1004	You rascal Mr. Nugget
+Mob_Name_1005	You rascal Mr. Nugget
+Mob_Name_1006	Sleepy Gull
+Mob_Name_1007	Sleepy Gull
+Mob_Name_1008	Sleepy Gull
+Mob_Name_1009	Rudolph the Raccoon
+Mob_Name_1010	Rudolph the Owl
+Mob_Name_1011	Rudolph the Owl
+Mob_Name_1012	Mermaid Nook
+Mob_Name_1013	Mermaid Nook
+Mob_Name_1014	Mermaid Nook
+Mob_Name_1015	Snowman Mr. Oyster
+Mob_Name_1016	Snowman Mr. Oyster
+Mob_Name_1017	Snowman Mr. Oyster
+Mob_Name_1018	Hot and Hot Mr. Oyster
+Mob_Name_1019	Hot and Hot Mr. Oyster
+Mob_Name_1020	Hot and Hot Mr. Oyster
+Mob_Name_1021	Blackened Knight Fairy
+Mob_Name_1022	Darkened Knight Fairy
+Mob_Name_1023	Darkened Knight Fairy
+Mob_Name_1024	Blackened Magic Fairy
+Mob_Name_1025	Blackened Magic Fairy
+Mob_Name_1026	Blackened Magic Fairy
+Mob_Name_1027	Blackened Healing Fairy
+Mob_Name_1028	Blackened Healing Fairy
+Mob_Name_1029	Blackened Healing Fairy
+Mob_Name_1030	Catapult
+Mob_Name_1031	Catapult
+Mob_Name_1032	Catapult
+Mob_Name_1033	Ballista
+Mob_Name_1034	Ballista
+Mob_Name_1035	Ballista
+Mob_Name_1036	Ogre Warrior
+Mob_Name_1037	Ogre Warrior
+Mob_Name_1038	Ogre Warrior
+Mob_Name_1039	Ogre Warrior Ace
+Mob_Name_1040	Ogre Warrior Ace
+Mob_Name_1041	Ogre Warrior Ace
+Mob_Name_1042	Ogre Tanker
+Mob_Name_1043	Ogre Tanker
+Mob_Name_1044	Ogre Tanker
+Mob_Name_1045	Ogre Tanker Ace
+Mob_Name_1046	Ogre Tanker Ace
+Mob_Name_1047	Ogre Tanker Ace
+Mob_Name_1048	Ogre Thrower
+Mob_Name_1049	Ogre Thrower
+Mob_Name_1050	Ogre Thrower
+Mob_Name_1051	Ogre Thrower Ace
+Mob_Name_1052	Ogre Thrower Ace
+Mob_Name_1053	Ogre Thrower Ace
+Mob_Name_1054	Check
+Mob_Name_1055	Check
+Mob_Name_1056	Check
+Mob_Name_1057	Soldier
+Mob_Name_1058	Soldier
+Mob_Name_1059	Soldier
+Mob_Name_1060	Archer
+Mob_Name_1061	Archer
+Mob_Name_1062	Archer
+Mob_Name_1063	Brown Bear
+Mob_Name_1064	Brown Bear
+Mob_Name_1065	Brown Bear
+Mob_Name_1066	Half Moon Bear
+Mob_Name_1067	Half Moon Bear
+Mob_Name_1068	Half Moon Bear
+Mob_Name_1069	Palmer Bear
+Mob_Name_1070	Palmer Bear
+Mob_Name_1071	Palmer Bear
+Mob_Name_1072	Logcat Swordsman
+Mob_Name_1073	Logcat Swordsman
+Mob_Name_1074	Logcat Swordsman
+Mob_Name_1075	Logcat Scout
+Mob_Name_1076	Logcat Scout
+Mob_Name_1077	Logcat Scout
+Mob_Name_1078	Logcat Fighter
+Mob_Name_1079	Logcat Fighter
+Mob_Name_1080	Logcat Fighter
+Mob_Name_1081	Strawberry Donut
+Mob_Name_1082	Strawberry Donut
+Mob_Name_1083	Strawberry Donut
+Mob_Name_1084	Choco Donut
+Mob_Name_1085	Choco Donut
+Mob_Name_1086	Choco Donut
+Mob_Name_1087	Matcha Donut
+Mob_Name_1088	Matcha Donut
+Mob_Name_1089	Matcha Donut
+Mob_Name_1090	Gretel
+Mob_Name_1091	Gretel
+Mob_Name_1092	Gretel
+Mob_Name_1093	Hansel
+Mob_Name_1094	Hansel
+Mob_Name_1095	Hansel
+Mob_Name_1096	Aramode
+Mob_Name_1097	Aramode
+Mob_Name_1098	Aramode
+Mob_Name_1099	Woodcutter Rabbit
+Mob_Name_1100	Woodcutter Rabbit
+Mob_Name_1101	Woodcutter Rabbit
+Mob_Name_1102	Vegetable Merchant Rabbit
+Mob_Name_1103	Vegetable Merchant Rabbit
+Mob_Name_1104	Vegetable Merchant Rabbit
+Mob_Name_1105	Farmer Rabbit
+Mob_Name_1106	Farmer Rabbit
+Mob_Name_1107	Farmer Rabbit
+Mob_Name_1108	Trump Soldier
+Mob_Name_1109	Trump Soldier
+Mob_Name_1110	Trump Soldier
+Mob_Name_1111	Trump Inspector
+Mob_Name_1112	Trump Inspector
+Mob_Name_1113	Trump Inspector
+Mob_Name_1114	Trump Archer
+Mob_Name_1115	Trump Archer
+Mob_Name_1116	Trump Archer
+Mob_Name_1117	Trump Soldier Ace
+Mob_Name_1118	Trump Soldier Ace
+Mob_Name_1119	Trump Soldier Ace
+Mob_Name_1120	Trump Inspector Ace
+Mob_Name_1121	Trump Inspector Ace
+Mob_Name_1122	Trump Inspector Ace
+Mob_Name_1123	Trump Archer Ace
+Mob_Name_1124	Trump Archer Ace
+Mob_Name_1125	Trump Archer Ace
+Mob_Name_1126	Queen of Spades of Wrath
+Mob_Name_1127	Queen of Spades of Wrath
+Mob_Name_1128	Queen of Spades of Wrath
+Mob_Name_1129	Queen of Wrath Heart
+Mob_Name_1130	Queen of Wrath Heart
+Mob_Name_1131	Queen of Hearts of Wrath
+Mob_Name_1132	Mad Magician Sais
+Mob_Name_1133	Mad Magician Sais
+Mob_Name_1134	Mad Magician Sais
+Mob_Name_1135	Mad Magician Thrower
+Mob_Name_1136	Mad Magician Thrower
+Mob_Name_1137	Mad Magician Thrower
+Mob_Name_1138	Mad Magician Demolisher
+Mob_Name_1139	Mad Magician Demolisher
+Mob_Name_1140	Mad Magician Demolisher
+Mob_Name_1141	Mad Pierrot Destroyer
+Mob_Name_1142	Mad Pierrot Destroyer
+Mob_Name_1143	Mad Pierrot Destroyer
+Mob_Name_1144	Mad Pierrot Thrower
+Mob_Name_1145	Mad Pierrot Thrower
+Mob_Name_1146	Mad Pierrot Thrower
+Mob_Name_1147	Mad Pierrot Supporter
+Mob_Name_1148	Mad Pierrot Supporter
+Mob_Name_1149	Mad Pierrot Supporter
+Mob_Name_1150	Mimi
+Mob_Name_1151	Mimi
+Mob_Name_1152	Mimi
+Mob_Name_1153	Phi Phi
+Mob_Name_1154	pipi
+Mob_Name_1155	pipi
+Mob_Name_1156	Flare
+Mob_Name_1157	Flare
+Mob_Name_1158	Flare
+Mob_Name_1159	Thorn Bush
+Mob_Name_1160	Thorn Bush
+Mob_Name_1161	Thorn Bush
+Mob_Name_1162	Knight of the Guard
+Mob_Name_1163	Knight of the Guard
+Mob_Name_1164	Knight of the Guard
+Mob_Name_1165	Royal Guard Knight Ace
+Mob_Name_1166	Royal Guard Knight Ace
+Mob_Name_1167	Royal Guard Knight Ace
+Mob_Name_1168	Royal Guard Archer
+Mob_Name_1169	Royal Guard Archer
+Mob_Name_1170	Royal Guard Archer
+Mob_Name_1171	Royal Guard Archer Ace
+Mob_Name_1172	Royal Guard Archer Ace
+Mob_Name_1173	Royal Guard Archer Ace
+Mob_Name_1174	Guard Spearman
+Mob_Name_1175	Guard Spearman
+Mob_Name_1176	Guard Spearman
+Mob_Name_1177	Royal Guard Spearman Ace
+Mob_Name_1178	Royal Guard Spearman Ace
+Mob_Name_1179	Royal Guard Spearman Ace
+Mob_Name_1180	Black Sheep
+Mob_Name_1181	Black Sheep
+Mob_Name_1182	Black Sheep
+Mob_Name_1183	Hollow Armor Guard
+Mob_Name_1184	Hollow Armor Guard
+Mob_Name_1185	Hollow Armor Guard
+Mob_Name_1186	Hollow Armor Center
+Mob_Name_1187	Hollow Armor Center
+Mob_Name_1188	Hollow Armor Center
+Mob_Name_1189	Hollow Armor Forward
+Mob_Name_1190	Hollow Armor Forward
+Mob_Name_1191	Hollow Armor Forward
+Mob_Name_1192	Briar Rose
+Mob_Name_1193	Briar Rose
+Mob_Name_1194	Briar Rose
+Mob_Name_1195	Melphi
+Mob_Name_1196	Melphi
+Mob_Name_1197	Melphi
+Mob_Name_1198	Canyon Laceta
+Mob_Name_1199	Canyon Laceta
+Mob_Name_1200	Canyon Laceta
+Mob_Name_1201	Canyon Lizardman Lancer
+Mob_Name_1202	Canyon Lizardman Lancer
+Mob_Name_1203	Canyon Lizardman Lancer
+Mob_Name_1204	Canyon Lizardman Fighter
+Mob_Name_1205	Canyon Lizardman Fighter
+Mob_Name_1206	Canyon Lizardman Fighter
+Mob_Name_1207	Canyon Lizardman Archer
+Mob_Name_1208	Canyon Lizardman Archer
+Mob_Name_1209	Canyon Lizardman Archer
+Mob_Name_1210	Procyon Warrior
+Mob_Name_1211	Procyon Warrior
+Mob_Name_1212	Procyon Warrior
+Mob_Name_1213	Procyon Guard
+Mob_Name_1214	Procyon Guard
+Mob_Name_1215	Procyon Guard
+Mob_Name_1216	Procyon Ranger
+Mob_Name_1217	Procyon Ranger
+Mob_Name_1218	Procyon Ranger
+Mob_Name_1219	Stone Golem
+Mob_Name_1220	Stone Golem
+Mob_Name_1221	Stone Golem
+Mob_Name_1222	Jargal
+Mob_Name_1223	Jargal
+Mob_Name_1224	Jargal
+Mob_Name_1225	Toy Piya
+Mob_Name_1226	Toy Piya
+Mob_Name_1227	Toy Piya
+Mob_Name_1228	Toy Rudol
+Mob_Name_1229	Toy Rudol
+Mob_Name_1230	Toy Rudol
+Mob_Name_1231	Toy Ponya
+Mob_Name_1232	Toy Ponya
+Mob_Name_1233	Toy Ponya
+Mob_Name_1234	Mouse Inspection
+Mob_Name_1235	Mouse Inspection
+Mob_Name_1236	Mouse Inspection
+Mob_Name_1237	Mouse Musketeer
+Mob_Name_1238	Mouse Musketeer
+Mob_Name_1239	Mouse Musketeer
+Mob_Name_1240	Mouse Trumpeter
+Mob_Name_1241	Mouse Trumpeter
+Mob_Name_1242	Mouse Trumpeter
+Mob_Name_1243	Nutcracker Spearman
+Mob_Name_1244	Nutcracker Spearman
+Mob_Name_1245	Nutcracker Spearman
+Mob_Name_1246	Nutcracker Musketeer
+Mob_Name_1247	Nutcracker Musketeer
+Mob_Name_1248	Nutcracker Musketeer
+Mob_Name_1249	Nutcracker Musician
+Mob_Name_1250	Nutcracker Musician
+Mob_Name_1251	Nutcracker Musician
+Mob_Name_1252	one day
+Mob_Name_1253	one day
+Mob_Name_1254	one day
+Mob_Name_1255	Dieter
+Mob_Name_1256	Dieter
+Mob_Name_1257	Dieter
+Mob_Name_1258	Drosselmeyer
+Mob_Name_1259	Drosselmeyer
+Mob_Name_1260	Drosselmeyer
+Mob_Name_1261	Fishman
+Mob_Name_1262	Fishman
+Mob_Name_1263	Fishman
+Mob_Name_1264	Fish Warrior
+Mob_Name_1265	Fish Warrior
+Mob_Name_1266	Fish Warrior
+Mob_Name_1267	Fish Sage
+Mob_Name_1268	Fish Sage
+Mob_Name_1269	Fish Sage
+Mob_Name_1270	Seedre
+Mob_Name_1271	Seedre
+Mob_Name_1272	Seedre
+Mob_Name_1273	Kismet
+Mob_Name_1274	Kismet
+Mob_Name_1275	Kismet
+Mob_Name_1276	Air
+Mob_Name_1277	Air
+Mob_Name_1278	Air
+Mob_Name_1279	Lycanthrope
+Mob_Name_1280	Lycanthrope
+Mob_Name_1281	Lycanthrope
+Mob_Name_1282	Lycan Snow
+Mob_Name_1283	Lycan Snow
+Mob_Name_1284	Lycan Snow
+Mob_Name_1285	Flying Bug
+Mob_Name_1286	Flying Bug
+Mob_Name_1287	Flying Bug
+Mob_Name_1288	Snow Bear
+Mob_Name_1289	Snow Bear
+Mob_Name_1290	Snow Bear
+Mob_Name_1291	Snow Fairy Knights
+Mob_Name_1292	Snow Fairy Knights
+Mob_Name_1293	Snow Fairy Knights
+Mob_Name_1294	Snow Fairy Wizard
+Mob_Name_1295	Snow Fairy Wizard
+Mob_Name_1296	Snow Fairy Wizard
+Mob_Name_1297	Snow Fairy Magician
+Mob_Name_1298	Snow Fairy Magician
+Mob_Name_1299	Snow Fairy Magician
+Mob_Name_1300	gaze
+Mob_Name_1301	gaze
+Mob_Name_1302	gaze
+Mob_Name_1303	Serenege
+Mob_Name_1304	Serenege
+Mob_Name_1305	Serenege
+Mob_Name_1306	Spring Spirit
+Mob_Name_1307	Spring Spirit
+Mob_Name_1308	Spring Spirit
+Mob_Name_1309	Lua Sernege
+Mob_Name_1310	Lua Sernege
+Mob_Name_1311	Lua Sernege
+Mob_Name_1312	Florence
+Mob_Name_1313	Florence
+Mob_Name_1314	Florence
+Mob_Name_1315	Owl Nascha
+Mob_Name_1316	Owl Nascha
+Mob_Name_1317	Owl Nascha
+Mob_Name_1318	Cecilia
+Mob_Name_1319	Cecilia
+Mob_Name_1320	Cecilia
+Mob_Name_1321	Witch Cecilia
+Mob_Name_1322	Witch Cecilia
+Mob_Name_1323	Witch Cecilia
+Mob_Name_1324	Darkness Form
+Mob_Name_1325	Darkness Shape
+Mob_Name_1326	Darkness Shape
+Mob_Name_1327	or something
+Mob_Name_1328	or something
+Mob_Name_1329	or something
+Mob_Name_1330	Trump Soldier (Prologue)
+Mob_Name_1331	Trump Test (Prologue)
+Mob_Name_1332	Trump Archer (Prologue)
+Mob_Name_1333	Training Ground Dummy
+Mob_Name_1334	Training Ground Scarecrow
+Mob_Name_1335	Training Ground Scarecrow
+Mob_Name_5000	Flame Dragon Volter (Easy)
+Mob_Name_5001	Flame Dragon Volter (Normal)
+Mob_Name_5002	Flame Dragon Volter (Hard)
+Mob_Name_5003	Snowfield Predator Asla (Easy)
+Mob_Name_5004	Snowfield Predator Asla (Normal)
+Mob_Name_5005	Snowfield Predator Asla (Hard)
+Mob_Name_5006	Wind of Blades Windia (Easy)
+Mob_Name_5007	Wind of Blades Windia (Normal)
+Mob_Name_5008	Wind of Blades Windia (Hard)
+Mob_Name_5009	The Disaster of the Century Bear King (Easy)
+Mob_Name_5010	The Disaster of the Century Bear King (Normal)
+Mob_Name_5011	The Disaster of the Century Bear King (Hard)
+Mob_Name_6000	Gray Crystal (Gem)
+Mob_Name_6001	Gray Crystal (Gem)
+Mob_Name_6002	Gray Crystal (Gem)
+Mob_Name_6003	Blue Crystal (Gem)
+Mob_Name_6004	Blue Crystal (Gem)
+Mob_Name_6005	Blue Crystal (Gem)
+Mob_Name_6006	Green Crystal (Gem)
+Mob_Name_6007	Green Crystal (Gem)
+Mob_Name_6008	Green Crystal (Gem)
+Mob_Name_6009	Red Crystal (Gem)
+Mob_Name_6010	Red Crystal (Gem)
+Mob_Name_6011	Red Crystal (Gem)
+Mob_Name_6012	Yellow Crystal (Gem)
+Mob_Name_6013	Yellow Crystal (Gem)
+Mob_Name_6014	Yellow Crystal (Gem)
+Mob_Name_6015	Darkened Knight Fairy (Growth)
+Mob_Name_6016	Darkened Knight Fairy (Growth)
+Mob_Name_6017	Darkened Knight Fairy (Growth)
+Mob_Name_6018	Blackened Magic Fairy (Growth)
+Mob_Name_6019	Darkened Magic Fairy (Growth)
+Mob_Name_6020	Blackened Magic Fairy (Growth)
+Mob_Name_6021	Blackened Healing Fairy (Growth)
+Mob_Name_6022	Blackened Healing Fairy (Growth)
+Mob_Name_6023	Blackened Healing Fairy (Growth)
+Mob_Name_6024	Inspection (Growth)
+Mob_Name_6025	Inspection (Growth)
+Mob_Name_6026	Inspection (Growth)
+Mob_Name_6027	Soldier (Growth)
+Mob_Name_6028	Soldier (Growth)
+Mob_Name_6029	Soldier (Growth)
+Mob_Name_6030	Archer (Growth)
+Mob_Name_6031	Archer (Growth)
+Mob_Name_6032	Archer (Growth)
+Mob_Name_6033	Catapult (Growth)
+Mob_Name_6034	Catapult (Growth)
+Mob_Name_6035	Catapult (Growth)
+Mob_Name_6036	Ballista (Growth)
+Mob_Name_6037	Ballista (Growth)
+Mob_Name_6038	Ballista (Growth)
+Mob_Name_6039	Ogre Warrior (Growth)
+Mob_Name_6040	Ogre Warrior (Growth)
+Mob_Name_6041	Ogre Warrior (Growth)
+Mob_Name_6042	Ogre Warrior Ace (Growth)
+Mob_Name_6043	Ogre Warrior Ace (Growth)
+Mob_Name_6044	Ogre Warrior Ace (Growth)
+Mob_Name_6045	Ogre Tanker (Growth)
+Mob_Name_6046	Ogre Tanker (Growth)
+Mob_Name_6047	Ogre Tanker (Growth)
+Mob_Name_6048	Ogre Tanker Ace (Growth)
+Mob_Name_6049	Ogre Tanker Ace (Growth)
+Mob_Name_6050	Ogre Tanker Ace (Growth)
+Mob_Name_6051	Ogre Thrower (Growth)
+Mob_Name_6052	Ogre Thrower (Growth)
+Mob_Name_6053	Ogre Thrower (Growth)
+Mob_Name_6054	Ogre Thrower Ace (Growth)
+Mob_Name_6055	Ogre Thrower Ace (Growth)
+Mob_Name_6056	Ogre Thrower Ace (Growth)
+Mob_Name_6057	Leaf Nugget (Growth)
+Mob_Name_6058	Leaf Nugget (Growth)
+Mob_Name_6059	Leaf Nugget (Growth)
+Mob_Name_6060	Bad Guy Mr. Nook (Growth)
+Mob_Name_6061	Bad Guy Mr. Nook (Growth)
+Mob_Name_6062	Bad Guy Mr. Nook (Growth)
+Mob_Name_6063	Sleepy Gull (Growth)
+Mob_Name_6064	Sleepy Gull (Growth)
+Mob_Name_6065	Sleepy Gull (Growth)
+Mob_Name_6066	Rudolph the Raccoon (Growth)
+Mob_Name_6067	Rudolph the Raccoon (Growth)
+Mob_Name_6068	Rudolph the Raccoon (Growth)
+Mob_Name_6069	Mermaid Nook (Growth)
+Mob_Name_6070	Mermaid Nook (Growth)
+Mob_Name_6071	Mermaid Nook (Growth)
+Mob_Name_6072	Snowman Mr. Gul (Growth)
+Mob_Name_6073	Snowman Nook (Growth)
+Mob_Name_6074	Snowman Mr. Nook (Growth)
+Mob_Name_6075	Hot Nugget (Growth)
+Mob_Name_6076	Hot Nugget (Growth)
+Mob_Name_6077	Hot and Spicy Nugget (Growth)
+Mob_Name_6078	Non-attribute Crystal (Gem)
+Mob_Name_6079	Non-attribute Crystal (Gem)
+Mob_Name_6080	Non-attribute Crystal (Gem)
+Mob_Name_6081	Gray Crystal (Jewel Difficulty)
+Mob_Name_6082	Gray Crystal (Jewel Difficulty)
+Mob_Name_6083	Gray Crystal (Jewel Difficulty)
+Mob_Name_6084	Blue Crystal (Jewel Difficulty)
+Mob_Name_6085	Blue Crystal (Jewel Difficulty)
+Mob_Name_6086	Blue Crystal (Gem Difficult)
+Mob_Name_6087	Green Crystal (Jewel Difficulty)
+Mob_Name_6088	Green Crystal (Jewel Difficulty)
+Mob_Name_6089	Green Crystal (Jewel Difficulty)
+Mob_Name_6090	Red Crystal (Jewel Difficulty)
+Mob_Name_6091	Red Crystal (Jewel Difficult)
+Mob_Name_6092	Red Crystal (Jewel Difficulty)
+Mob_Name_6093	Yellow Crystal (Jewel Difficulty)
+Mob_Name_6094	Yellow Crystal (Jewel Difficulty)
+Mob_Name_6095	Yellow Crystal (Jewel Difficulty)
+Mob_Name_6096	Non-attribute Crystal (Jewel Difficulty)
+Mob_Name_6097	Non-attribute Crystal (Jewel Difficulty)
+Mob_Name_6098	Non-attribute Crystal (Jewel Difficulty)
+Mob_Name_6099	Darkened Knight Fairy (Difficult to grow)
+Mob_Name_6100	Darkened Knight Fairy (Difficult to grow)
+Mob_Name_6101	Darkened Knight Fairy (Difficult to grow)
+Mob_Name_6102	Darkened Magic Fairy (Difficult to grow)
+Mob_Name_6103	Darkened Magic Fairy (Difficult to grow)
+Mob_Name_6104	Darkened Magic Fairy (Difficult to grow)
+Mob_Name_6105	Darkened Healing Fairy (Difficult to grow)
+Mob_Name_6106	Darkened Healing Fairy (Difficult to grow)
+Mob_Name_6107	Darkened Healing Fairy (Difficult to grow)
+Mob_Name_6108	Inspection (Growth Difficulty)
+Mob_Name_6109	Inspection (Growth Difficulty)
+Mob_Name_6110	Inspection (Difficulty in Growth)
+Mob_Name_6111	Soldier (Difficult to grow)
+Mob_Name_6112	Soldier (Difficult to grow)
+Mob_Name_6113	Soldier (Difficult to grow)
+Mob_Name_6114	Archer (Difficult to grow)
+Mob_Name_6115	Archer (Difficult to grow)
+Mob_Name_6116	Archer (Difficult to grow)
+Mob_Name_6117	Catapult (Difficult to grow)
+Mob_Name_6118	Catapult (Difficult to grow)
+Mob_Name_6119	Catapult (Difficult to grow)
+Mob_Name_6120	Ballista (Difficult to grow)
+Mob_Name_6121	Ballista (Difficult to grow)
+Mob_Name_6122	Ballista (Difficult to grow)
+Mob_Name_6123	Ogre Warrior (Difficult to grow)
+Mob_Name_6124	Ogre Warrior (Difficult to grow)
+Mob_Name_6125	Ogre Warrior (Difficult to grow)
+Mob_Name_6126	Ogre Warrior Ace (Difficult to grow)
+Mob_Name_6127	Ogre Warrior Ace (Difficult to grow)
+Mob_Name_6128	Ogre Warrior Ace (Difficult to grow)
+Mob_Name_6129	Ogre Tanker (Difficult to grow)
+Mob_Name_6130	Ogre Tanker (Difficult to grow)
+Mob_Name_6131	Ogre Tanker (Difficult to grow)
+Mob_Name_6132	Ogre Tanker Ace (Difficult to grow)
+Mob_Name_6133	Ogre Tanker Ace (Difficult to grow)
+Mob_Name_6134	Ogre Tanker Ace (Difficult to grow)
+Mob_Name_6135	Ogre Thrower (Difficult to grow)
+Mob_Name_6136	Ogre Thrower (Difficult to grow)
+Mob_Name_6137	Ogre Thrower (Difficult to grow)
+Mob_Name_6138	Ogre Thrower Ace (Difficult to grow)
+Mob_Name_6139	Ogre Thrower Ace (Difficult to grow)
+Mob_Name_6140	Ogre Thrower Ace (Difficult to grow)
+Mob_Name_6141	Leaf Nugget (Difficult to grow)
+Mob_Name_6142	Leaf Nugget (Difficult to grow)
+Mob_Name_6143	Leaf Nugget (Difficult to grow)
+Mob_Name_6144	Bad Guy (Difficult to grow)
+Mob_Name_6145	Bad Guy (Difficult to grow)
+Mob_Name_6146	Bad Guy (Difficult to grow)
+Mob_Name_6147	Sleepy Gulp (Difficult to grow)
+Mob_Name_6148	Sleepy Gulp (Difficult to grow)
+Mob_Name_6149	Sleepy Gulp (Difficult to grow)
+Mob_Name_6150	Rudolph the Raccoon (Difficult to grow)
+Mob_Name_6151	Rudolph the Raccoon (Difficult to grow)
+Mob_Name_6152	Rudolph the Raccoon (Difficult to grow)
+Mob_Name_6153	Mermaid Nook (Difficult to grow)
+Mob_Name_6154	Mermaid Nook (Difficult to grow)
+Mob_Name_6155	Mermaid Nook (Difficult to grow)
+Mob_Name_6156	Snowman Nook (Difficult to grow)
+Mob_Name_6157	Snowman Nook (Difficult to grow)
+Mob_Name_6158	Snowman Nook (Difficult to grow)
+Mob_Name_6159	Hot Nugget (Difficult to grow)
+Mob_Name_6160	Hot Nugget (Difficult to grow)
+Mob_Name_6161	Hot Nugget (Difficult to grow)
+Mob_Name_7000	Blackened Knight Fairy (Abyss of Darkness)
+Mob_Name_7001	Blackened Knight Fairy (Dark Abyss)
+Mob_Name_7002	Blackened Knight Fairy (Dark Abyss)
+Mob_Name_7003	Blackened Magic Fairy (Abyss of Darkness)
+Mob_Name_7004	Blackened Magic Fairy (Abyss of Darkness)
+Mob_Name_7005	Blackened Magic Fairy (Abyss of Darkness)
+Mob_Name_7006	Blackened Healing Fairy (Dark Abyss)
+Mob_Name_7007	Blackened Healing Fairy (Dark Abyss)
+Mob_Name_7008	Blackened Healing Fairy (Dark Abyss)
+Mob_Name_7009	Logcat Swordsman (Abyss of Darkness)
+Mob_Name_7010	Logcat Swordsman (Abyss of Darkness)
+Mob_Name_7011	Logcat Swordsman (Abyss of Darkness)
+Mob_Name_7012	Logcat Scout (Dark Abyss)
+Mob_Name_7013	Logcat Scout (Dark Abyss)
+Mob_Name_7014	Logcat Scout (Dark Abyss)
+Mob_Name_7015	Logcat Fighter (Dark Abyss)
+Mob_Name_7016	Logcat Fighter (Abyss of Darkness)
+Mob_Name_7017	Logcat Fighter (Abyss of Darkness)
+Mob_Name_7018	Mad Pierrot Destroyer (Abyss of Darkness)
+Mob_Name_7019	Mad Pierrot Destroyer (Abyss of Darkness)
+Mob_Name_7020	Mad Pierrot Destroyer (Abyss of Darkness)
+Mob_Name_7021	Mad Pierrot Thrower (Abyss of Darkness)
+Mob_Name_7022	Mad Pierrot Thrower (Abyss of Darkness)
+Mob_Name_7023	Mad Pierrot Thrower (Abyss of Darkness)
+Mob_Name_7024	Mad Pierrot Supporter (Abyss of Darkness)
+Mob_Name_7025	Mad Pierrot Supporter (Abyss of Darkness)
+Mob_Name_7026	Mad Clown Supporter (Abyss of Darkness)
+Mob_Name_7027	Knight of the Royal Guard (Abyss of Darkness)
+Mob_Name_7028	Knight of the Royal Guard (Abyss of Darkness)
+Mob_Name_7029	Knight of the Royal Guard (Abyss of Darkness)
+Mob_Name_7030	Royal Guard Knight Ace (Dark Abyss)
+Mob_Name_7031	Royal Guard Knight Ace (Dark Abyss)
+Mob_Name_7032	Royal Guard Knight Ace (Dark Abyss)
+Mob_Name_7033	Royal Guard Archer (Dark Abyss)
+Mob_Name_7034	Royal Guard Archer (Dark Abyss)
+Mob_Name_7035	Royal Guard Archer (Dark Abyss)
+Mob_Name_7036	Royal Guard Archer Ace (Dark Abyss)
+Mob_Name_7037	Royal Guard Archer Ace (Dark Abyss)
+Mob_Name_7038	Royal Guard Archer Ace (Dark Abyss)
+Mob_Name_7039	Royal Guard Spearman (Dark Abyss)
+Mob_Name_7040	Guard Spearman (Dark Abyss)
+Mob_Name_7041	Guard Spearman (Dark Abyss)
+Mob_Name_7042	Royal Guard Spearman Ace (Dark Abyss)
+Mob_Name_7043	Royal Guard Spearman Ace (Dark Abyss)
+Mob_Name_7044	Royal Guard Spearman Ace (Dark Abyss)
+Mob_Name_7045	Hollow Armor Guard (Dark Abyss)
+Mob_Name_7046	Hollow Armor Guard (Dark Abyss)
+Mob_Name_7047	Hollow Armor Guard (Dark Abyss)
+Mob_Name_7048	Hollow Armor Center (Dark Abyss)
+Mob_Name_7049	Hollow Armor Center (Dark Abyss)
+Mob_Name_7050	Hollow Armor Center (Dark Abyss)
+Mob_Name_7051	Hollow Armor Forward (Dark Abyss)
+Mob_Name_7052	Hollow Armor Forward (Dark Abyss)
+Mob_Name_7053	Hollow Armor Forward (Dark Abyss)
+Mob_Name_8000	Blackened Knight Fairy (Anubis Occupation War)
+Mob_Name_8001	Blackened Knight Fairy (Anubis Occupation War)
+Mob_Name_8002	Blackened Knight Fairy (Anubis Occupation War)
+Mob_Name_8003	Blackened Magic Fairy (Anubis Occupation War)
+Mob_Name_8004	Blackened Magic Fairy (Anubis Occupation War)
+Mob_Name_8005	Blackened Magic Fairy (Anubis Occupation War)
+Mob_Name_8006	Blackened Healing Fairy (Anubis Occupation War)
+Mob_Name_8007	Blackened Healing Fairy (Anubis Occupation War)
+Mob_Name_8008	Blackened Healing Fairy (Anubis Occupation War)
+Mob_Name_8009	Catapult (Anubis Conquest)
+Mob_Name_8010	Catapult (Anubis Conquest)
+Mob_Name_8011	Catapult (Anubis Conquest)
+Mob_Name_8012	Ballista (Anubis Occupation War)
+Mob_Name_8013	Ballista (Anubis Occupation War)
+Mob_Name_8014	Ballista (Anubis Occupation War)
+Mob_Name_8015	Ogre Warrior (Anubis Occupation War)
+Mob_Name_8016	Ogre Warrior (Anubis Conquest)
+Mob_Name_8017	Ogre Warrior (Anubis Occupation War)
+Mob_Name_8018	Ogre Warrior Ace (Anubis Occupation Battle)
+Mob_Name_8019	Ogre Warrior Ace (Anubis Occupation Battle)
+Mob_Name_8020	Ogre Warrior Ace (Anubis Conquest)
+Mob_Name_8021	Ogre Tanker (Anubis Occupation)
+Mob_Name_8022	Ogre Tanker (Anubis Occupation War)
+Mob_Name_8023	Ogre Tanker (Anubis Occupation)
+Mob_Name_8024	Ogre Tanker Ace (Anubis Occupation)
+Mob_Name_8025	Ogre Tanker Ace (Anubis Occupation)
+Mob_Name_8026	Ogre Tanker Ace (Anubis Occupation)
+Mob_Name_8027	Ogre Thrower (Anubis Occupation War)
+Mob_Name_8028	Ogre Thrower (Anubis Occupation War)
+Mob_Name_8029	Ogre Thrower (Anubis Occupation War)
+Mob_Name_8030	Ogre Thrower Ace (Anubis Occupation War)
+Mob_Name_8031	Ogre Thrower Ace (Anubis Occupation War)
+Mob_Name_8032	Ogre Thrower Ace (Anubis Occupation War)
+Mob_Name_8033	Logcat Swordsman (Anubis Occupation)
+Mob_Name_8034	Logcat Swordsman (Anubis Occupation)
+Mob_Name_8035	Logcat Swordsman (Anubis Occupation)
+Mob_Name_8036	Logcat Scout (Anubis Occupation)
+Mob_Name_8037	Logcat Scout (Anubis Occupation)
+Mob_Name_8038	Logcat Scout (Anubis Occupation)
+Mob_Name_8039	Logcat Fighter (Anubis Occupation Battle)
+Mob_Name_8040	Logcat Fighter (Anubis Occupation)
+Mob_Name_8041	Logcat Fighter (Anubis Occupation)
+Mob_Name_8042	Strawberry Donut (Anubis Occupation War)
+Mob_Name_8043	Strawberry Donut (Anubis Occupation War)
+Mob_Name_8044	Strawberry Donut (Anubis Occupation War)
+Mob_Name_8045	Choco Donut (Anubis Occupation War)
+Mob_Name_8046	Choco Donut (Anubis Occupation War)
+Mob_Name_8047	Choco Donut (Anubis Occupation War)
+Mob_Name_8048	Matcha Donut (Anubis Occupation War)
+Mob_Name_8049	Matcha Donut (Anubis Occupation War)
+Mob_Name_8050	Matcha Donut (Anubis Occupation War)
+Mob_Name_8051	Trump Soldier (Anubis Occupation)
+Mob_Name_8052	Trump Soldier (Anubis Occupation)
+Mob_Name_8053	Trump Soldier (Anubis Occupation)
+Mob_Name_8054	Trump Test (Anubis Occupation)
+Mob_Name_8055	Trump Test (Anubis Occupation War)
+Mob_Name_8056	Trump Test (Anubis Occupation War)
+Mob_Name_8057	Trump Archer (Anubis Occupation)
+Mob_Name_8058	Trump Archer (Anubis Occupation)
+Mob_Name_8059	Trump Archer (Anubis Occupation)
+Mob_Name_8060	Trump Soldier Ace (Anubis Occupation)
+Mob_Name_8061	Trump Soldier Ace (Anubis Occupation)
+Mob_Name_8062	Trump Soldier Ace (Anubis Occupation)
+Mob_Name_8063	Trump Inspector Ace (Anubis Occupation)
+Mob_Name_8064	Trump Inspector Ace (Anubis Occupation War)
+Mob_Name_8065	Trump Inspector Ace (Anubis Occupation War)
+Mob_Name_8066	Trump Archer Ace (Anubis Conquest)
+Mob_Name_8067	Trump Archer Ace (Anubis Conquest)
+Mob_Name_8068	Trump Archer Ace (Anubis Occupation)
+Mob_Name_8069	Royal Guard Knight (Anubis Conquest)
+Mob_Name_8070	Royal Guard Knight (Anubis Occupation Battle)
+Mob_Name_8071	Royal Guard Knight (Anubis Occupation Battle)
+Mob_Name_8072	Royal Guard Knight Ace (Anubis Occupation Battle)
+Mob_Name_8073	Royal Guard Knight Ace (Anubis Occupation Battle)
+Mob_Name_8074	Royal Guard Knight Ace (Anubis Occupation Battle)
+Mob_Name_8075	Royal Guard Archer (Anubis Conquest)
+Mob_Name_8076	Royal Guard Archer (Anubis Conquest)
+Mob_Name_8077	Royal Guard Archer (Anubis Conquest)
+Mob_Name_8078	Royal Guard Archer Ace (Anubis Conquest)
+Mob_Name_8079	Royal Guard Archer Ace (Anubis Conquest)
+Mob_Name_8080	Royal Guard Archer Ace (Anubis Conquest)
+Mob_Name_8081	Royal Guard Spearman (Anubis Occupation Battle)
+Mob_Name_8082	Royal Guard Spearman (Anubis Occupation Battle)
+Mob_Name_8083	Royal Guard Spearman (Anubis Occupation Battle)
+Mob_Name_8084	Royal Guard Spearman Ace (Anubis Occupation Battle)
+Mob_Name_8085	Royal Guard Spearman Ace (Anubis Occupation Battle)
+Mob_Name_8086	Royal Guard Spearman Ace (Anubis Conquest)
+Mob_Name_8087	Black Sheep (Anubis Occupation War)
+Mob_Name_8088	Black Sheep (Anubis Occupation War)
+Mob_Name_8089	Black Sheep (Anubis Occupation War)
+Mob_Name_8090	Hollow Armor Guard (Anubis Occupation War)
+Mob_Name_8091	Hollow Armor Guard (Anubis Occupation War)
+Mob_Name_8092	Hollow Armor Guard (Anubis Occupation War)
+Mob_Name_8093	Hollow Armor Center (Anubis Occupation War)
+Mob_Name_8094	Hollow Armor Center (Anubis Occupation War)
+Mob_Name_8095	Hollow Armor Center (Anubis Occupation War)
+Mob_Name_8096	Hollow Armor Forward (Anubis Occupation)
+Mob_Name_8097	Hollow Armor Forward (Anubis Occupation)
+Mob_Name_8098	Hollow Armor Forward (Anubis Occupation)
+Mob_Name_8099	Canyon Laceta (Anubis Occupation War)
+Mob_Name_8100	Canyon Laceta (Anubis Occupation War)
+Mob_Name_8101	Canyon Laceta (Anubis Occupation War)
+Mob_Name_8102	Canyon Lizardman Lancer (Anubis Occupation)
+Mob_Name_8103	Canyon Lizardman Lancer (Anubis Occupation)
+Mob_Name_8104	Canyon Lizardman Lancer (Anubis Occupation)
+Mob_Name_8105	Canyon Lizardman Fighter (Anubis Occupation)
+Mob_Name_8106	Canyon Lizardman Fighter (Anubis Occupation Battle)
+Mob_Name_8107	Canyon Lizardman Fighter (Anubis Occupation Battle)
+Mob_Name_8108	Canyon Lizardman Archer (Anubis Occupation)
+Mob_Name_8109	Canyon Lizardman Archer (Anubis Occupation)
+Mob_Name_8110	Canyon Lizardman Archer (Anubis Occupation)
+Mob_Name_8111	Procyon Warrior (Anubis Occupation Battle)
+Mob_Name_8112	Procyon Warrior (Anubis Occupation Battle)
+Mob_Name_8113	Procyon Warrior (Anubis Occupation Battle)
+Mob_Name_8114	Procyon Guard (Anubis Occupation Battle)
+Mob_Name_8115	Procyon Guard (Anubis Occupation Battle)
+Mob_Name_8116	Procyon Guard (Anubis Occupation Battle)
+Mob_Name_8117	Procyon Ranger (Anubis Occupation Battle)
+Mob_Name_8118	Procyon Ranger (Anubis Occupation Battle)
+Mob_Name_8119	Procyon Ranger (Anubis Occupation Battle)
+Mob_Name_8120	Stone Golem (Anubis Occupation War)
+Mob_Name_8121	Stone Golem (Anubis Occupation War)
+Mob_Name_8122	Stone Golem (Anubis Occupation War)
+Mob_Name_8123	Lycanthrope (Anubis Occupation War)
+Mob_Name_8124	Lycanthrope (Anubis Occupation)
+Mob_Name_8125	Lycanthrope (Anubis Occupation War)
+Mob_Name_8126	Flying Bug (Anubis Occupation)
+Mob_Name_8127	Flying Bug (Anubis Occupation)
+Mob_Name_8128	Flying Bug (Anubis Occupation)
+Mob_Name_10000	Brown Bear (Hard)
+Mob_Name_10001	Brown Bear (Hard)
+Mob_Name_10002	Brown Bear (Hard)
+Mob_Name_10003	Half Moon Bear (Hard)
+Mob_Name_10004	Half Moon Bear (Hard)
+Mob_Name_10005	Half Moon Bear (Hard)
+Mob_Name_10006	Farmer Bear (Hard)
+Mob_Name_10007	Farmer Bear (Hard)
+Mob_Name_10008	Farmer Bear (Hard)
+Mob_Name_10009	Logcat Swordsman (Hard)
+Mob_Name_10010	Logcat Swordsman (Hard)
+Mob_Name_10011	Logcat Swordsman (Hard)
+Mob_Name_10012	Logcat Scout (Hard)
+Mob_Name_10013	Logcat Scout (Hard)
+Mob_Name_10014	Logcat Scout (Hard)
+Mob_Name_10015	Logcat Fighter (Hard)
+Mob_Name_10016	Logcat Fighter (Hard)
+Mob_Name_10017	Logcat Fighter (Hard)
+Mob_Name_10018	Strawberry Donut (Hard)
+Mob_Name_10019	Strawberry Donut (Hard)
+Mob_Name_10020	Strawberry Donut (Hard)
+Mob_Name_10021	Choco Donut (Hard)
+Mob_Name_10022	Choco Donut (Hard)
+Mob_Name_10023	Choco Donut (Hard)
+Mob_Name_10024	Matcha Donut (Hard)
+Mob_Name_10025	Matcha Donut (Hard)
+Mob_Name_10026	Matcha Donut (Hard)
+Mob_Name_10027	Woodcutter Rabbit (Hard)
+Mob_Name_10028	Woodcutter Rabbit (Hard)
+Mob_Name_10029	Woodcutter Rabbit (Hard)
+Mob_Name_10030	Vegetable Merchant Rabbit (Hard)
+Mob_Name_10031	Vegetable Merchant Rabbit (Hard)
+Mob_Name_10032	Vegetable Merchant Rabbit (Hard)
+Mob_Name_10033	Farmer Rabbit (Hard)
+Mob_Name_10034	Farmer Rabbit (Hard)
+Mob_Name_10035	Farmer Rabbit (Hard)
+Mob_Name_10036	Trump Soldier (Hard)
+Mob_Name_10037	Trump Soldier (Hard)
+Mob_Name_10038	Trump Soldier (Hard)
+Mob_Name_10039	Trump Test (Hard)
+Mob_Name_10040	Trump Test (Hard)
+Mob_Name_10041	Trump Test (Hard)
+Mob_Name_10042	Trump Archer (Hard)
+Mob_Name_10043	Trump Archer (Hard)
+Mob_Name_10044	Trump Archer (Hard)
+Mob_Name_10045	Trump Soldier Ace (Hard)
+Mob_Name_10046	Trump Soldier Ace (Hard)
+Mob_Name_10047	Trump Soldier Ace (Hard)
+Mob_Name_10048	Trump Test Ace (Hard)
+Mob_Name_10049	Trump Test Ace (Hard)
+Mob_Name_10050	Trump Test Ace (Hard)
+Mob_Name_10051	Trump Archer Ace (Hard)
+Mob_Name_10052	Trump Archer Ace (Hard)
+Mob_Name_10053	Trump Archer Ace (Hard)
+Mob_Name_10054	Mad Magician Sais (Hard)
+Mob_Name_10055	Mad Magician Sais (Hard)
+Mob_Name_10056	Mad Magician Sais (Hard)
+Mob_Name_10057	Mad Magician Thrower (Hard)
+Mob_Name_10058	Mad Magician Thrower (Hard)
+Mob_Name_10059	Mad Magician Thrower (Hard)
+Mob_Name_10060	Mad Magician Demolisher (Hard)
+Mob_Name_10061	Mad Magician Demolisher (Hard)
+Mob_Name_10062	Mad Magician Demolisher (Hard)
+Mob_Name_10063	Mad Pierrot Destroyer (Hard)
+Mob_Name_10064	Mad Pierrot Destroyer (Hard)
+Mob_Name_10065	Mad Pierrot Destroyer (Hard)
+Mob_Name_10066	Mad Pierrot Thrower (Hard)
+Mob_Name_10067	Mad Pierrot Thrower (Hard)
+Mob_Name_10068	Mad Pierrot Thrower (Hard)
+Mob_Name_10069	Mad Pierrot Supporter (Hard)
+Mob_Name_10070	Mad Pierrot Supporter (Hard)
+Mob_Name_10071	Mad Pierrot Supporter (Hard)
+Mob_Name_10072	Knight of the Guard (Hard)
+Mob_Name_10073	Knight of the Guard (Hard)
+Mob_Name_10074	Knight of the Guard (Hard)
+Mob_Name_10075	Royal Guard Knight Ace (Hard)
+Mob_Name_10076	Royal Guard Knight Ace (Hard)
+Mob_Name_10077	Royal Guard Knight Ace (Hard)
+Mob_Name_10078	Royal Guard Archer (Hard)
+Mob_Name_10079	Royal Guard Archer (Hard)
+Mob_Name_10080	Royal Guard Archer (Hard)
+Mob_Name_10081	Royal Guard Archer Ace (Hard)
+Mob_Name_10082	Royal Guard Archer Ace (Hard)
+Mob_Name_10083	Royal Guard Archer Ace (Hard)
+Mob_Name_10084	Guard Spearman (Hard)
+Mob_Name_10085	Guard Spearman (Hard)
+Mob_Name_10086	Guard Spearman (Hard)
+Mob_Name_10087	Royal Guard Spearman Ace (Hard)
+Mob_Name_10088	Royal Guard Spearman Ace (Hard)
+Mob_Name_10089	Royal Guard Spearman Ace (Hard)
+Mob_Name_10090	Black Sheep (Hard)
+Mob_Name_10091	Black Sheep (Hard)
+Mob_Name_10092	Black Sheep (Hard)
+Mob_Name_10093	Hollow Armor Guard (Hard)
+Mob_Name_10094	Hollow Armor Guard (Hard)
+Mob_Name_10095	Hollow Armor Guard (Hard)
+Mob_Name_10096	Hollow Armor Center (Hard)
+Mob_Name_10097	Hollow Armor Center (Hard)
+Mob_Name_10098	Hollow Armor Center (Hard)
+Mob_Name_10099	Hollow Armor Forward (Hard)
+Mob_Name_10100	Hollow Armor Forward (Hard)
+Mob_Name_10101	Hollow Armor Forward (Hard)
+Mob_Name_10102	Canyon Laceta (Hard)
+Mob_Name_10103	Canyon Laceta (Hard)
+Mob_Name_10104	Canyon Laceta (Hard)
+Mob_Name_10105	Canyon Lizardman Lancer (Hard)
+Mob_Name_10106	Canyon Lizardman Lancer (Hard)
+Mob_Name_10107	Canyon Lizardman Lancer (Hard)
+Mob_Name_10108	Canyon Lizardman Fighter (Hard)
+Mob_Name_10109	Canyon Lizardman Fighter (Hard)
+Mob_Name_10110	Canyon Lizardman Fighter (Hard)
+Mob_Name_10111	Canyon Lizardman Archer (Hard)
+Mob_Name_10112	Canyon Lizardman Archer (Hard)
+Mob_Name_10113	Canyon Lizardman Archer (Hard)
+Mob_Name_10114	Procyon Warrior (Hard)
+Mob_Name_10115	Procyon Warrior (Hard)
+Mob_Name_10116	Procyon Warrior (Hard)
+Mob_Name_10117	Procyon Guard (Hard)
+Mob_Name_10118	Procyon Guard (Hard)
+Mob_Name_10119	Procyon Guard (Hard)
+Mob_Name_10120	Procyon Ranger (Hard)
+Mob_Name_10121	Procyon Ranger (Hard)
+Mob_Name_10122	Procyon Ranger (Hard)
+Mob_Name_10123	Toy Piya (Hard)
+Mob_Name_10124	Toy Piya (Hard)
+Mob_Name_10125	Toy Piya (Hard)
+Mob_Name_10126	Toy Rudolph (Hard)
+Mob_Name_10127	Toy Rudolph (Hard)
+Mob_Name_10128	Toy Rudolph (Hard)
+Mob_Name_10129	Toy Ponya (Hard)
+Mob_Name_10130	Toy Ponya (Hard)
+Mob_Name_10131	Toy Ponya (Hard)
+Mob_Name_10132	Mouse Test (Hard)
+Mob_Name_10133	Mouse Test (Hard)
+Mob_Name_10134	Mouse Test (Hard)
+Mob_Name_10135	Mouse Musketeer (Hard)
+Mob_Name_10136	Mouse Musketeer (Hard)
+Mob_Name_10137	Mouse Musketeer (Hard)
+Mob_Name_10138	Mouse Trumpeter (Hard)
+Mob_Name_10139	Mouse Trumpeter (Hard)
+Mob_Name_10140	Mouse Trumpeter (Hard)
+Mob_Name_10141	Nutcracker Spearman (Hard)
+Mob_Name_10142	Nutcracker Spearman (Hard)
+Mob_Name_10143	Nutcracker Spearman (Hard)
+Mob_Name_10144	Nutcracker Musketeer (Hard)
+Mob_Name_10145	Nutcracker Musketeer (Hard)
+Mob_Name_10146	Nutcracker Musketeer (Hard)
+Mob_Name_10147	Nutcracker Musician (Hard)
+Mob_Name_10148	Nutcracker Musician (Hard)
+Mob_Name_10149	Nutcracker Musician (Hard)
+Mob_Name_10150	Fishman (Hard)
+Mob_Name_10151	Fishman (Hard)
+Mob_Name_10152	Fishman (Hard)
+Mob_Name_10153	Fish Warrior (Hard)
+Mob_Name_10154	Fish Warrior (Hard)
+Mob_Name_10155	Fish Warrior (Hard)
+Mob_Name_10156	Fish Sage (Hard)
+Mob_Name_10157	Fish Sage (Hard)
+Mob_Name_10158	Fish Sage (Hard)
+Mob_Name_10159	Seed (Hard)
+Mob_Name_10160	Seed (Hard)
+Mob_Name_10161	Seed (Hard)
+Mob_Name_10162	Lycanthrope (Hard)
+Mob_Name_10163	Lycanthrope (Hard)
+Mob_Name_10164	Lycanthrope (Hard)
+Mob_Name_10165	Lycan Snow (Hard)
+Mob_Name_10166	Lycan Snow (Hard)
+Mob_Name_10167	Lycan Snow (Hard)
+Mob_Name_10168	Flying Bug (Hard)
+Mob_Name_10169	Flying Bug (Hard)
+Mob_Name_10170	Flying Bug (Hard)
+Mob_Name_10171	Snow Bear (Hard)
+Mob_Name_10172	Snow Bear (Hard)
+Mob_Name_10173	Snow Bear (Hard)
+Mob_Name_10174	Snow Fairy Knights (Hard)
+Mob_Name_10175	Snow Fairy Knights (Hard)
+Mob_Name_10176	Snow Fairy Knights (Hard)
+Mob_Name_10177	Snow Fairy Wizard (Hard)
+Mob_Name_10178	Snow Fairy Wizard (Hard)
+Mob_Name_10179	Snow Fairy Wizard (Hard)
+Mob_Name_10180	Snow Fairy Magician (Hard)
+Mob_Name_10181	Snow Fairy Magician (Hard)
+Mob_Name_10182	Snow Fairy Magician (Hard)
+Mob_Name_10183	Gaze (Hard)
+Mob_Name_10184	Gaze (Hard)
+Mob_Name_10185	Sight (Hard)
+Mob_Name_10186	Serenege (Hard)
+Mob_Name_10187	Serenege (Hard)
+Mob_Name_10188	Serenege (Hard)
+Mob_Name_13000	Blue Among
+Mob_Name_13001	Blue Among
+Mob_Name_13002	Blue Among
+Mob_Name_13003	Green Among
+Mob_Name_13004	Green Among
+Mob_Name_13005	Green Among
+Mob_Name_13006	Red Amby
+Mob_Name_13007	Red Amby
+Mob_Name_13008	Red Amby
+Mob_Name_13009	Manta Dangdang
+Mob_Name_13010	Manta Dangdang
+Mob_Name_13011	Manta Dangdang
+Mob_Name_13012	Winged Goblin
+Mob_Name_13013	Winged Goblin
+Mob_Name_13014	Winged Goblin
+Mob_Name_13015	Goblin Wizard
+Mob_Name_13016	Goblin Wizard
+Mob_Name_13017	Goblin Wizard
+Mob_Name_13018	Skeleton Child
+Mob_Name_13019	Skeleton Eye
+Mob_Name_13020	Skeleton Eye
+Mob_Name_13021	Slami
+Mob_Name_13022	Slami
+Mob_Name_13023	Slami
+Mob_Name_13024	King Slami
+Mob_Name_13025	King Slammy
+Mob_Name_13026	King Slammy
+Mob_Name_13027	Snowman Hot Air Balloon
+Mob_Name_13028	Snowman Hot Air Balloon
+Mob_Name_13029	Snowman Hot Air Balloon
+Mob_Name_13030	Maximilian
+Mob_Name_13031	Maximilian
+Mob_Name_13032	Maximilian
+Mob_Name_13033	A villager possessed by a goblin
+Mob_Name_13034	A villager possessed by a goblin
+Mob_Name_13035	A villager possessed by a goblin
+Mob_Name_13036	New Year's Day Mr. Oyster
+Mob_Name_13037	New Year's Day Mr. Oyster
+Mob_Name_13038	New Year's Day Mr. Oyster
+Mob_Name_13039	Glowing Goblin
+Mob_Name_13040	Glowing Goblin
+Mob_Name_13041	Glowing Goblin
+Mob_Name_13042	Glowing Goblin
+Mob_Name_13043	Glowing Goblin
+Mob_Name_13044	Glowing Goblin
+Mob_Name_13045	Villager possessed by a goblin (difficult)
+Mob_Name_13046	Villager possessed by a goblin (difficult)
+Mob_Name_13047	Villager possessed by a goblin (difficult)
+Mob_Name_13048	New Year's Day (Hard)
+Mob_Name_13049	New Year's Day (Hard)
+Mob_Name_13050	New Year's Day (Hard)
+Mob_Name_13051	Glowing Goblin (Hard)
+Mob_Name_13052	Glowing Goblin (Hard)
+Mob_Name_13053	Glowing Goblin (Hard)
+Mob_Name_13054	Glowing Goblin (Hard)
+Mob_Name_13055	Glowing Goblin (Hard)
+Mob_Name_13056	Glowing Goblin (Hard)
+Mob_Name_13057	Mouse King Dieter
+Mob_Name_13058	Mouse King Dieter
+Mob_Name_13059	Mouse King Dieter
+Mob_Name_13060	Mouse King Dieter (Hard)
+Mob_Name_13061	Mouse King Dieter (Hard)
+Mob_Name_13062	Mouse King Dieter (Hard)
+Mob_Name_13063	Brown Bear
+Mob_Name_13064	Brown Bear
+Mob_Name_13065	Brown Bear
+Mob_Name_13066	Dark Fairy
+Mob_Name_13067	Dark Fairy
+Mob_Name_13068	Dark Fairy
+Mob_Name_13069	Undine
+Mob_Name_13070	Undine
+Mob_Name_13071	Undine
+Mob_Name_13072	Pandora Nook
+Mob_Name_13073	Pandora's Nook
+Mob_Name_13074	Pandora's Nook
+Mob_Name_13075	Thief Claude
+Mob_Name_13076	Claude the Thief
+Mob_Name_13077	Claude the Thief
+Mob_Name_13078	Millennium Tiger
+Mob_Name_13079	Millennium Tiger
+Mob_Name_13080	Millennium Tiger
+Mob_Name_13081	Brown Bear (Hard)
+Mob_Name_13082	Brown Bear (Hard)
+Mob_Name_13083	Brown Bear (Hard)
+Mob_Name_13084	Dark Fairy (Hard)
+Mob_Name_13085	Dark Fairy (Hard)
+Mob_Name_13086	Dark Fairy (Hard)
+Mob_Name_13087	Undine (Hard)
+Mob_Name_13088	Undine (Hard)
+Mob_Name_13089	Undine (Hard)
+Mob_Name_13090	Pandora's Cave (Hard)
+Mob_Name_13091	Pandora Nook (Hard)
+Mob_Name_13092	Pandora Nook (Hard)
+Mob_Name_13093	Thief Claude (Hard)
+Mob_Name_13094	Thief Claude (Hard)
+Mob_Name_13095	Thief Claude (Hard)
+Mob_Name_13096	Millennium Tiger (Difficult)
+Mob_Name_13097	Millennium Tiger (Difficult)
+Mob_Name_13098	Millennium Tiger (Difficult)
+Mob_Name_15100	Hot and Spicy Mr. Nugget (Tower of Infinity)
+Mob_Name_15101	Hot Nugget (Infinite Tower)
+Mob_Name_15102	Hot and Spicy Mr. Nugget (Tower of Infinity)
+Mob_Name_15103	Trump Soldier (Tower of Infinity)
+Mob_Name_15104	Trump Soldier (Tower of Infinity)
+Mob_Name_15105	Trump Soldier (Tower of Infinity)
+Mob_Name_15106	Trump Test (Tower of Infinity)
+Mob_Name_15107	Trump Test (Tower of Infinity)
+Mob_Name_15108	Trump Test (Tower of Infinity)
+Mob_Name_15109	Trump Archer (Tower of Infinity)
+Mob_Name_15110	Trump Archer (Tower of Infinity)
+Mob_Name_15111	Trump Archer (Tower of Infinity)
+Mob_Name_15112	Trump Soldier Ace (Tower of Infinity)
+Mob_Name_15113	Trump Soldier Ace (Tower of Infinity)
+Mob_Name_15114	Trump Soldier Ace (Tower of Infinity)
+Mob_Name_15115	Trump Inspector Ace (Tower of Infinity)
+Mob_Name_15116	Trump Inspector Ace (Tower of Infinity)
+Mob_Name_15117	Trump Inspector Ace (Tower of Infinity)
+Mob_Name_15118	Trump Archer Ace (Tower of Infinity)
+Mob_Name_15119	Trump Archer Ace (Tower of Infinity)
+Mob_Name_15120	Trump Archer Ace (Tower of Infinity)
+Mob_Name_15121	Queen of Spades (Infinity Tower)
+Mob_Name_15122	Queen of Spades (Infinite Tower)
+Mob_Name_15123	Queen of Spades (Infinity Tower)
+Mob_Name_15124	Queen of Wrath Heart (Infinity Tower)
+Mob_Name_15125	Queen of Fury Heart (Infinity Tower)
+Mob_Name_15126	Queen of Wrath Heart (Infinity Tower)
+Mob_Name_15127	Mad Pierrot Destroyer (Tower of Infinity)
+Mob_Name_15128	Mad Pierrot Destroyer (Tower of Infinity)
+Mob_Name_15129	Mad Pierrot Destroyer (Tower of Infinity)
+Mob_Name_15130	Mad Pierrot Thrower (Tower of Infinity)
+Mob_Name_15131	Mad Pierrot Thrower (Tower of Infinity)
+Mob_Name_15132	Mad Pierrot Thrower (Tower of Infinity)
+Mob_Name_15133	Mad Pierrot Supporter (Infinite Tower)
+Mob_Name_15134	Mad Pierrot Supporter (Infinite Tower)
+Mob_Name_15135	Mad Pierrot Supporter (Infinite Tower)
+Mob_Name_15136	Gretel (Tower of Infinity)
+Mob_Name_15137	Gretel (Tower of Infinity)
+Mob_Name_15138	Gretel (Tower of Infinity)
+Mob_Name_15139	Pipi (Tower of Infinity)
+Mob_Name_15140	Pipi (Tower of Infinity)
+Mob_Name_15141	Pipi (Tower of Infinity)
+Mob_Name_15142	Flare (Tower of Infinity)
+Mob_Name_15143	Flare (Tower of Infinity)
+Mob_Name_15144	Flare (Infinite Tower)
+Mob_Name_15145	Melphi (Tower of Infinity)
+Mob_Name_15146	Melphi (Tower of Infinity)
+Mob_Name_15147	Melphi (Tower of Infinity)
+Mob_Name_15148	Toy Piya (Infinite Tower)
+Mob_Name_15149	Toy Piya (Infinite Tower)
+Mob_Name_15150	Toy Piya (Infinite Tower)
+Mob_Name_15151	Toy Rudol (Infinite Tower)
+Mob_Name_15152	Toy Rudol (Infinite Tower)
+Mob_Name_15153	Toy Rudol (Infinite Tower)
+Mob_Name_15154	Toy Ponya (Tower of Infinity)
+Mob_Name_15155	Toy Ponya (Tower of Infinity)
+Mob_Name_15156	Toy Ponya (Tower of Infinity)
+Mob_Name_15157	Nutcracker Spearman (Tower of Infinity)
+Mob_Name_15158	Nutcracker Spearman (Tower of Infinity)
+Mob_Name_15159	Nutcracker Spearman (Tower of Infinity)
+Mob_Name_15160	Nutcracker Musketeer (Tower of Infinity)
+Mob_Name_15161	Nutcracker Musketeer (Tower of Infinity)
+Mob_Name_15162	Nutcracker Musketeer (Tower of Infinity)
+Mob_Name_15163	Nutcracker Band (Tower of Infinity)
+Mob_Name_15164	Nutcracker Band (Tower of Infinity)
+Mob_Name_15165	Nutcracker Band (Tower of Infinity)
+Mob_Name_15166	Drosselmeyer (Tower of Infinity)
+Mob_Name_15167	Drosselmeyer (Tower of Infinity)
+Mob_Name_15168	Drosselmeyer (Tower of Infinity)
+Mob_Name_15200	Mermaid Nook (Tower of Infinity)
+Mob_Name_15201	Mermaid Nook (Tower of Infinity)
+Mob_Name_15202	Mermaid Nook (Tower of Infinity)
+Mob_Name_15203	Knight of the Guard (Tower of Infinity)
+Mob_Name_15204	Knight of the Guard (Tower of Infinity)
+Mob_Name_15205	Knight of the Royal Guard (Tower of Infinity)
+Mob_Name_15206	Royal Guard Knight Ace (Tower of Infinity)
+Mob_Name_15207	Royal Guard Knight Ace (Tower of Infinity)
+Mob_Name_15208	Royal Guard Knight Ace (Tower of Infinity)
+Mob_Name_15209	Royal Guard Archer (Tower of Infinity)
+Mob_Name_15210	Royal Guard Archer (Tower of Infinity)
+Mob_Name_15211	Royal Guard Archer (Tower of Infinity)
+Mob_Name_15212	Royal Guard Archer Ace (Tower of Infinity)
+Mob_Name_15213	Royal Guard Archer Ace (Tower of Infinity)
+Mob_Name_15214	Royal Guard Archer Ace (Tower of Infinity)
+Mob_Name_15215	Guard Spearman (Tower of Infinity)
+Mob_Name_15216	Guard Spearman (Tower of Infinity)
+Mob_Name_15217	Guard Spearman (Tower of Infinity)
+Mob_Name_15218	Royal Guard Spearman Ace (Tower of Infinity)
+Mob_Name_15219	Royal Guard Spearman Ace (Tower of Infinity)
+Mob_Name_15220	Royal Guard Spearman Ace (Tower of Infinity)
+Mob_Name_15221	Fishman (Tower of Infinity)
+Mob_Name_15222	Fishman (Tower of Infinity)
+Mob_Name_15223	Fishman (Tower of Infinity)
+Mob_Name_15224	Fish Warrior (Tower of Infinity)
+Mob_Name_15225	Fish Warrior (Tower of Infinity)
+Mob_Name_15226	Fish Warrior (Tower of Infinity)
+Mob_Name_15227	Fish Sage (Tower of Infinity)
+Mob_Name_15228	Fish Sage (Tower of Infinity)
+Mob_Name_15229	Fish Sage (Tower of Infinity)
+Mob_Name_15230	Seedre (Tower of Infinity)
+Mob_Name_15231	Seedre (Tower of Infinity)
+Mob_Name_15232	Seedre (Tower of Infinity)
+Mob_Name_15233	Kismet (Tower of Infinity)
+Mob_Name_15234	Kismet (Tower of Infinity)
+Mob_Name_15235	Kismet (Tower of Infinity)
+Mob_Name_15236	Air (Tower of Infinity)
+Mob_Name_15237	Air (Tower of Infinity)
+Mob_Name_15238	Air (Tower of Infinity)
+Mob_Name_15239	Snow Bear (Tower of Infinity)
+Mob_Name_15240	Snow Bear (Tower of Infinity)
+Mob_Name_15241	Snow Bear (Tower of Infinity)
+Mob_Name_15242	Snow Fairy Knights (Tower of Infinity)
+Mob_Name_15243	Snow Fairy Knights (Tower of Infinity)
+Mob_Name_15244	Snow Fairy Knights (Tower of Infinity)
+Mob_Name_15245	Snow Fairy Wizard (Tower of Infinity)
+Mob_Name_15246	Snow Fairy Wizard (Tower of Infinity)
+Mob_Name_15247	Snow Fairy Wizard (Tower of Infinity)
+Mob_Name_15248	Snow Fairy Magician (Tower of Infinity)
+Mob_Name_15249	Snow Fairy Magician (Tower of Infinity)
+Mob_Name_15250	Snow Fairy Magician (Tower of Infinity)
+Mob_Name_15251	Serenege (Tower of Infinity)
+Mob_Name_15252	Serenege (Tower of Infinity)
+Mob_Name_15253	Serenege (Tower of Infinity)
+Mob_Name_15254	Lua Sernege (Tower of Infinity)
+Mob_Name_15255	Lua Sernege (Tower of Infinity)
+Mob_Name_15256	Lua Sernege (Tower of Infinity)
+Mob_Name_15257	Owl Nascha (Tower of Infinity)
+Mob_Name_15258	Owl Nascha (Tower of Infinity)
+Mob_Name_15259	Owl Nascha (Tower of Infinity)
+Mob_Name_15300	Leaf Nugget (Infinity Tower)
+Mob_Name_15301	Leaf Nugget (Infinity Tower)
+Mob_Name_15302	Leaf Nugget (Infinity Tower)
+Mob_Name_15303	Woodcutter Rabbit (Tower of Infinity)
+Mob_Name_15304	Woodcutter Rabbit (Tower of Infinity)
+Mob_Name_15305	Woodcutter Rabbit (Tower of Infinity)
+Mob_Name_15306	Vegetable Merchant Rabbit (Infinite Tower)
+Mob_Name_15307	Vegetable Merchant Rabbit (Infinite Tower)
+Mob_Name_15308	Vegetable Merchant Rabbit (Infinite Tower)
+Mob_Name_15309	Farmer Rabbit (Tower of Infinity)
+Mob_Name_15310	Farmer Rabbit (Tower of Infinity)
+Mob_Name_15311	Farmer Rabbit (Tower of Infinity)
+Mob_Name_15312	Aramode (Tower of Infinity)
+Mob_Name_15313	Aramode (Tower of Infinity)
+Mob_Name_15314	Aramode (Tower of Infinity)
+Mob_Name_15315	Mad Magician Sais (Tower of Infinity)
+Mob_Name_15316	Mad Magician Sais (Tower of Infinity)
+Mob_Name_15317	Mad Magician Sais (Tower of Infinity)
+Mob_Name_15318	Mad Magician Thrower (Tower of Infinity)
+Mob_Name_15319	Mad Magician Thrower (Tower of Infinity)
+Mob_Name_15320	Mad Magician Thrower (Tower of Infinity)
+Mob_Name_15321	Mad Magician Demolisher (Tower of Infinity)
+Mob_Name_15322	Mad Magician Demolisher (Tower of Infinity)
+Mob_Name_15323	Mad Magician Demolisher (Tower of Infinity)
+Mob_Name_15324	Mimi (Tower of Infinity)
+Mob_Name_15325	Mimi (Tower of Infinity)
+Mob_Name_15326	Mimi (Tower of Infinity)
+Mob_Name_15327	Canyon Laceta (Tower of Infinity)
+Mob_Name_15328	Canyon Laceta (Tower of Infinity)
+Mob_Name_15329	Canyon Laceta (Tower of Infinity)
+Mob_Name_15330	Canyon Lizardman Lancer (Tower of Infinity)
+Mob_Name_15331	Canyon Lizardman Lancer (Tower of Infinity)
+Mob_Name_15332	Canyon Lizardman Lancer (Tower of Infinity)
+Mob_Name_15333	Canyon Lizardman Fighter (Tower of Infinity)
+Mob_Name_15334	Canyon Lizardman Fighter (Tower of Infinity)
+Mob_Name_15335	Canyon Lizardman Fighter (Tower of Infinity)
+Mob_Name_15336	Canyon Lizardman Archer (Tower of Infinity)
+Mob_Name_15337	Canyon Lizardman Archer (Tower of Infinity)
+Mob_Name_15338	Canyon Lizardman Archer (Tower of Infinity)
+Mob_Name_15339	Procyon Warrior (Tower of Infinity)
+Mob_Name_15340	Procyon Warrior (Tower of Infinity)
+Mob_Name_15341	Procyon Warrior (Tower of Infinity)
+Mob_Name_15342	Procyon Guard (Tower of Infinity)
+Mob_Name_15343	Procyon Guard (Tower of Infinity)
+Mob_Name_15344	Procyon Guard (Tower of Infinity)
+Mob_Name_15345	Procyon Ranger (Tower of Infinity)
+Mob_Name_15346	Procyon Ranger (Tower of Infinity)
+Mob_Name_15347	Procyon Ranger (Tower of Infinity)
+Mob_Name_15348	Stone Golem (Tower of Infinity)
+Mob_Name_15349	Stone Golem (Tower of Infinity)
+Mob_Name_15350	Stone Golem (Tower of Infinity)
+Mob_Name_15351	Jargal (Tower of Infinity)
+Mob_Name_15352	Jargal (Tower of Infinity)
+Mob_Name_15353	Jargal (Tower of Infinity)
+Mob_Name_15354	Flying Bug (Infinity Tower)
+Mob_Name_15355	Flying Bug (Infinity Tower)
+Mob_Name_15356	Flying Bug (Infinity Tower)
+Mob_Name_15357	Spring Spirit (Tower of Infinity)
+Mob_Name_15358	Spring Spirit (Tower of Infinity)
+Mob_Name_15359	Spring Spirit (Tower of Infinity)
+Mob_Name_15360	Florence (Tower of Infinity)
+Mob_Name_15361	Florence (Tower of Infinity)
+Mob_Name_15362	Florence (Tower of Infinity)
+Mob_Name_15400	Rudolph the Raccoon (Tower of Infinity)
+Mob_Name_15401	Rudolph Nook (Infinite Tower)
+Mob_Name_15402	Rudolph Nook (Infinite Tower)
+Mob_Name_15403	Catapult (Tower of Infinity)
+Mob_Name_15404	Catapult (Tower of Infinity)
+Mob_Name_15405	Catapult (Tower of Infinity)
+Mob_Name_15406	Ballista (Tower of Infinity)
+Mob_Name_15407	Ballista (Tower of Infinity)
+Mob_Name_15408	Ballista (Tower of Infinity)
+Mob_Name_15409	Briar Rose (Tower of Infinity)
+Mob_Name_15410	Briar Rose (Tower of Infinity)
+Mob_Name_15411	Briar Rose (Tower of Infinity)
+Mob_Name_15412	Mouse Inspection (Tower of Infinity)
+Mob_Name_15413	Mouse Inspection (Tower of Infinity)
+Mob_Name_15414	Mouse Inspection (Tower of Infinity)
+Mob_Name_15415	Mouse Musketeer (Tower of Infinity)
+Mob_Name_15416	Mouse Musketeer (Tower of Infinity)
+Mob_Name_15417	Mouse Musketeer (Tower of Infinity)
+Mob_Name_15418	Mouse Trumpeter (Tower of Infinity)
+Mob_Name_15419	Mouse Trumpeter (Tower of Infinity)
+Mob_Name_15420	Mouse Trumpeter (Tower of Infinity)
+Mob_Name_15421	Dieter (Tower of Infinity)
+Mob_Name_15422	Dieter (Tower of Infinity)
+Mob_Name_15423	Dieter (Tower of Infinity)
+Mob_Name_15424	Inspector (Tower of Infinity)
+Mob_Name_15425	Inspector (Tower of Infinity)
+Mob_Name_15426	Inspector (Tower of Infinity)
+Mob_Name_15427	Soldier (Tower of Infinity)
+Mob_Name_15428	Soldier (Tower of Infinity)
+Mob_Name_15429	Soldier (Tower of Infinity)
+Mob_Name_15430	Archer (Tower of Infinity)
+Mob_Name_15431	Archer (Tower of Infinity)
+Mob_Name_15432	Archer (Tower of Infinity)
+Mob_Name_15433	Brown Bear (Tower of Infinity)
+Mob_Name_15434	Brown Bear (Tower of Infinity)
+Mob_Name_15435	Brown Bear (Tower of Infinity)
+Mob_Name_15436	Half Moon Bear (Tower of Infinity)
+Mob_Name_15437	Half Moon Bear (Tower of Infinity)
+Mob_Name_15438	Half Moon Bear (Tower of Infinity)
+Mob_Name_15439	Palmer Bear (Tower of Infinity)
+Mob_Name_15440	Palmer Bear (Tower of Infinity)
+Mob_Name_15441	Palmer Bear (Tower of Infinity)
+Mob_Name_15442	Logcat Swordsman (Tower of Infinity)
+Mob_Name_15443	Logcat Swordsman (Tower of Infinity)
+Mob_Name_15444	Logcat Swordsman (Tower of Infinity)
+Mob_Name_15445	Logcat Scout (Infinite Tower)
+Mob_Name_15446	Logcat Scout (Infinite Tower)
+Mob_Name_15447	Logcat Scout (Infinite Tower)
+Mob_Name_15448	Logcat Fighter (Infinite Tower)
+Mob_Name_15449	Logcat Fighter (Infinite Tower)
+Mob_Name_15450	Logcat Fighter (Infinite Tower)
+Mob_Name_15500	Sleepy Gull (Tower of Infinity)
+Mob_Name_15501	Sleepy Gull (Tower of Infinity)
+Mob_Name_15502	Sleepy Gull (Tower of Infinity)
+Mob_Name_15503	Black Sheep (Tower of Infinity)
+Mob_Name_15504	Black Sheep (Tower of Infinity)
+Mob_Name_15505	Black Sheep (Tower of Infinity)
+Mob_Name_15506	Hollow Armor Guard (Infinite Tower)
+Mob_Name_15507	Hollow Armor Guard (Tower of Infinity)
+Mob_Name_15508	Hollow Armor Guard (Tower of Infinity)
+Mob_Name_15509	Hollow Armor Center (Infinity Tower)
+Mob_Name_15510	Hollow Armor Center (Tower of Infinity)
+Mob_Name_15511	Hollow Armor Center (Tower of Infinity)
+Mob_Name_15512	Hollow Armor Forward (Infinity Tower)
+Mob_Name_15513	Hollow Armor Forward (Infinity Tower)
+Mob_Name_15514	Hollow Armor Forward (Infinity Tower)
+Mob_Name_15515	One day (Tower of Infinity)
+Mob_Name_15516	One day (Tower of Infinity)
+Mob_Name_15517	One day (Tower of Infinity)
+Mob_Name_15518	Lycanthrope (Tower of Infinity)
+Mob_Name_15519	Lycanthrope (Tower of Infinity)
+Mob_Name_15520	Lycanthrope (Tower of Infinity)
+Mob_Name_15521	Lycan Snow (Tower of Infinity)
+Mob_Name_15522	Lycan Snow (Tower of Infinity)
+Mob_Name_15523	Lycan Snow (Tower of Infinity)
+Mob_Name_15524	Darkened Knight Fairy (Tower of Infinity)
+Mob_Name_15525	Darkened Knight Fairy (Tower of Infinity)
+Mob_Name_15526	Darkened Knight Fairy (Tower of Infinity)
+Mob_Name_15527	Blackened Magic Fairy (Tower of Infinity)
+Mob_Name_15528	Blackened Magic Fairy (Tower of Infinity)
+Mob_Name_15529	Blackened Magic Fairy (Tower of Infinity)
+Mob_Name_15530	Blackened Healing Fairy (Tower of Infinity)
+Mob_Name_15531	Blackened Healing Fairy (Tower of Infinity)
+Mob_Name_15532	Blackened Healing Fairy (Tower of Infinity)
+Mob_Name_15533	Ogre Warrior (Tower of Infinity)
+Mob_Name_15534	Ogre Warrior (Tower of Infinity)
+Mob_Name_15535	Ogre Warrior (Tower of Infinity)
+Mob_Name_15536	Ogre Warrior Ace (Tower of Infinity)
+Mob_Name_15537	Ogre Warrior Ace (Tower of Infinity)
+Mob_Name_15538	Ogre Warrior Ace (Tower of Infinity)
+Mob_Name_15539	Ogre Tanker (Tower of Infinity)
+Mob_Name_15540	Ogre Tanker (Tower of Infinity)
+Mob_Name_15541	Ogre Tanker (Tower of Infinity)
+Mob_Name_15542	Ogre Tanker Ace (Tower of Infinity)
+Mob_Name_15543	Ogre Tanker Ace (Tower of Infinity)
+Mob_Name_15544	Ogre Tanker Ace (Tower of Infinity)
+Mob_Name_15545	Ogre Thrower (Infinite Tower)
+Mob_Name_15546	Ogre Thrower (Infinite Tower)
+Mob_Name_15547	Ogre Thrower (Infinite Tower)
+Mob_Name_15548	Ogre Thrower Ace (Infinite Tower)
+Mob_Name_15549	Ogre Thrower Ace (Infinite Tower)
+Mob_Name_15550	Ogre Thrower Ace (Infinite Tower)
+Mob_Name_15551	Strawberry Donut (Infinite Tower)
+Mob_Name_15552	Strawberry Donut (Infinite Tower)
+Mob_Name_15553	Strawberry Donut (Infinite Tower)
+Mob_Name_15554	Choco Donut (Infinite Tower)
+Mob_Name_15555	Choco Donut (Infinite Tower)
+Mob_Name_15556	Choco Donut (Infinite Tower)
+Mob_Name_15557	Matcha Donut (Infinite Tower)
+Mob_Name_15558	Matcha Donut (Infinite Tower)
+Mob_Name_15559	Matcha Donut (Infinite Tower)
+Mob_Name_20000	Summoned Mimi
+Mob_Name_20001	Summoned Wooden Doll
+Mob_Name_20002	Mini Asla
+Mob_Name_20003	Mini Asla (Hard)
+Mob_Name_20004	Little Bomb
+Mob_Name_20005	Little Bomb (Hard)

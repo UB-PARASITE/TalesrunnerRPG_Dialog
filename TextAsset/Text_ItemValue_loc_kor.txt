@@ -1,0 +1,8 @@
+ItemValue_Name_50000000	하급 경험치 포션
+ItemValue_Name_50000001	중급 경험치 포션
+ItemValue_Name_50000002	상급 경험치 포션
+ItemValue_Name_50000003	최상급 경험치 포션
+ItemValue_Name_50010000	하급 강화석
+ItemValue_Name_50010001	중급 강화석
+ItemValue_Name_50010002	상급 강화석
+ItemValue_Name_50010003	최상급 강화석

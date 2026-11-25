@@ -1,0 +1,30 @@
+DeckAttrBuff_Name_0001	동일한 속성 3명
+DeckAttrBuff_Name_0002	동일한 속성 3명 + 동일한 속성 2명
+DeckAttrBuff_Name_0003	동일한 속성 4명
+DeckAttrBuff_Name_0004	동일한 속성 4명 + 무 속성 1명
+DeckAttrBuff_Name_0005	동일한 속성 5명
+DeckAttrBuff_Name_0006	어둠 속성 1명
+DeckAttrBuff_Name_0007	어둠 속성 2명
+DeckAttrBuff_Name_0008	어둠 속성 3명
+DeckAttrBuff_Name_0009	어둠 속성 4명
+DeckAttrBuff_Name_0010	어둠 속성 5명
+DeckAttrBuff_Name_0011	빛 속성 1명
+DeckAttrBuff_Name_0012	빛 속성 2명
+DeckAttrBuff_Name_0013	빛 속성 3명
+DeckAttrBuff_Name_0014	빛 속성 4명
+DeckAttrBuff_Name_0015	빛 속성 5명
+DeckAttrBuff_Desc_0001	공격력 {v0.0}% / 최대 체력 {v0.0}% 증가
+DeckAttrBuff_Desc_0002	공격력 {v0.0}% / 최대 체력 {v0.0}% 증가
+DeckAttrBuff_Desc_0003	공격력 {v0.0}% / 최대 체력 {v0.0}% 증가
+DeckAttrBuff_Desc_0004	공격력 {v0.0}% / 최대 체력 {v0.0}% 증가\\r전투 시작 시, 동일한 속성으로 무 속성의 속성 변경
+DeckAttrBuff_Desc_0005	공격력 {v0.0}% / 최대 체력 {v0.0}% 증가
+DeckAttrBuff_Desc_0006	공격력 {v0.0}% 증가
+DeckAttrBuff_Desc_0007	공격력 {v0.0}% / 최대 체력 {v0.0}% 증가
+DeckAttrBuff_Desc_0008	공격력 {v0.0}% / 최대 체력 {v0.0}% / 크리티컬 확률 {v0.0}% 증가
+DeckAttrBuff_Desc_0009	공격력 {v0.0}% / 최대 체력 {v0.0}% / 크리티컬 확률 {v0.0}% 증가
+DeckAttrBuff_Desc_0010	공격력 {v0.0}% / 최대 체력 {v0.0}% / 크리티컬 확률 {v0.0}% 증가
+DeckAttrBuff_Desc_0011	공격력 {v0.0}% 증가
+DeckAttrBuff_Desc_0012	공격력 {v0.0}% / 최대 체력 {v0.0}% 증가
+DeckAttrBuff_Desc_0013	공격력 {v0.0}% / 최대 체력 {v0.0}% / 스킬 사용 시 대미지 {v0.0}% 증가
+DeckAttrBuff_Desc_0014	공격력 {v0.0}% / 최대 체력 {v0.0}% / 스킬 사용 시 대미지 {v0.0}% 증가
+DeckAttrBuff_Desc_0015	공격력 {v0.0}% / 최대 체력 {v0.0}% / 스킬 사용 시 대미지 {v0.0}% 증가
