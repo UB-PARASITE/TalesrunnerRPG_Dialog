@@ -4,6 +4,8 @@ const PAGE=200,selectedBranches={},textCache={},textMap={},portraitCache={},port
 let currentLanguage='kor';
 const localizedFiles={kor:'TextAsset/Text_Dialog_loc_kor.txt',eng:'TextAsset/Text_Dialog_loc_eng.txt'};
 function resolveText(key){return textMap[key]||'';}
+function resolvePortrait(id){return portraitMap['Portrait_Name_'+String(id)]||'';}
+function parseLocalization(raw){const map={};raw.replace(/^\\uFEFF/,'').split(/\\r?\\n/).forEach(line=>{const tab=line.indexOf('\\t');if(tab>0)map[line.slice(0,tab)]=line.slice(tab+1)});return map;}
 function formatText(value){return esc(String(value??'').replace(/\\\\r/g,'\n').replace(/\\\\n/g,'\n'));}
 async function loadTextLanguage(lang='kor'){
  currentLanguage=lang;
