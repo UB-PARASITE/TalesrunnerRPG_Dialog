@@ -37,7 +37,7 @@ async function load(){
 }
 function search(){
  const id=$('dialogId').value.trim(),key=$('textKey').value.trim().toLowerCase(),title=$('storyTitle').value.trim().toLowerCase(),t1=$('type1').value;
- filtered=dialogs.filter(x=>(!id||x.id===Number(id))&&(!key||String(x.textKey).toLowerCase().includes(key)||resolveText(x.textKey).toLowerCase().includes(key)||String(x.strValue).toLowerCase().includes(key))&&(!t1||x.type1===Number(t1)));
+ filtered=dialogs.filter(x=>(!id||x.id===Number(id))&&(!key||String(x.textKey).toLowerCase().includes(key)||resolveText(x.textKey).toLowerCase().includes(key)||String(x.strValue).toLowerCase().includes(key))&&(!title||(()=>{const t=titleByDialog.get(x.id);return !!t&&[t.title_ko,t.title_en,t.parent_title_ko,t.parent_title_en].some(v=>String(v||'').toLowerCase().includes(title))})())&&(!t1||x.type1===Number(t1)));
  page=0;const chosen=id?Number(id):null;$('activeId').textContent=chosen===null?'篩選結果':`Dialog ${chosen}`;renderRecords();renderChoices(chosen);renderFlow(chosen);
 }
 function renderRecords(){
