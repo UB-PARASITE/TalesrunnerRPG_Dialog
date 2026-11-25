@@ -41,7 +41,7 @@ WeaponGrade_Name_0039	오필리아
 WeaponGrade_Name_0040	아나스타샤
 WeaponGrade_Name_0041	피치 크러시
 WeaponGrade_Name_0042	자르갈
-WeaponGrade_Name_0043	닉스
+WeaponGrade_Name_0043	제인도우 헌터
 WeaponGrade_Name_0044	사야
 WeaponGrade_Name_0045	바다
 WeaponGrade_Name_0046	릴리스
@@ -55,14 +55,3 @@ WeaponGrade_Name_0053	카인
 WeaponGrade_Name_0054	미호
 WeaponGrade_Name_0055	라리사
 WeaponGrade_Name_0056	아멜리
-WeaponGrade_Name_0057	연오
-WeaponGrade_Name_0058	미하일
-WeaponGrade_Name_0059	시호
-WeaponGrade_Name_0060	살라딘
-WeaponGrade_Name_0061	셰라자드
-WeaponGrade_Name_0062	크리스티앙
-WeaponGrade_Name_0063	죠안
-WeaponGrade_Name_0064	악마 카인
-WeaponGrade_Name_0065	소피
-WeaponGrade_Name_0066	타브리스
-WeaponGrade_Name_0067	티나

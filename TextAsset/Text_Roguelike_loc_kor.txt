@@ -11,6 +11,3 @@ Roguelike_FloorName_0009	어둠의 심연 지하 10층
 Roguelike_FloorName_0010	어둠의 심연 지하 11층
 Roguelike_FloorName_0011	어둠의 심연 지하 12층
 Roguelike_FloorName_0012	어둠의 심연 지하 13층
-Roguelike_FloorName_0013	어둠의 심연 지하 14층
-Roguelike_FloorName_0014	어둠의 심연 지하 15층
-Roguelike_FloorName_0015	어둠의 심연 지하 16층

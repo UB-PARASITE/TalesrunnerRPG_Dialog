@@ -1,6 +1,4 @@
 ShopTab_Name_0100	골드
-ShopTab_Name_0101	특별 골드
-ShopTab_Name_0102	반주년 기념 특별 상점
 ShopTab_Name_0200	일반 판매
 ShopTab_Name_0300	전용 재화
 ShopTab_Name_0301	아레나
@@ -9,32 +7,12 @@ ShopTab_Name_0303	카오스 레이드
 ShopTab_Name_0304	아누비스 점령전
 ShopTab_Name_0305	출석
 ShopTab_Name_0306	챔피언스 아레나
-ShopTab_Name_0307	모험 일지
-ShopTab_Name_0308	무한 웨이브
-ShopTab_Name_0309	무한 웨이브 코인
 ShopTab_Name_0400	페이지 교환
 ShopTab_Name_0500	추천 상품
-ShopTab_Name_0705	신입 지원 II
 ShopTab_Name_0501	기간 한정
+ShopTab_Name_0502	연말연시
 ShopTab_Name_0503	픽업 소환
-ShopTab_Name_0504	2025 동화나라
-ShopTab_Name_0505	50일 기념
-ShopTab_Name_0506	설맞이
-ShopTab_Name_0507	특별 성장
-ShopTab_Name_0508	발렌타인데이
-ShopTab_Name_0509	특별 지원
-ShopTab_Name_0510	화이트데이
-ShopTab_Name_0511	100일 기념
-ShopTab_Name_0512	콜라보 소환
-ShopTab_Name_0513	봄맞이
-ShopTab_Name_0514	봄 운동회
-ShopTab_Name_0515	어린이날 맞이
-ShopTab_Name_0516	어떤 신부님
 ShopTab_Name_0600	다이아
-ShopTab_Name_0610	유료 다이아 패키지
-ShopTab_Name_0611	일일
-ShopTab_Name_0612	주간
-ShopTab_Name_0613	월간
 ShopTab_Name_0700	정기 패키지
 ShopTab_Name_0701	신입 지원
 ShopTab_Name_0702	일일
@@ -44,13 +22,6 @@ ShopTab_Name_0800	월정액
 ShopTab_Name_0801	데일리 작가 지원팩
 ShopTab_Name_0802	데일리 작가 지원팩 플러스
 ShopTab_Name_0803	데일리 스태미나 보급팩
-ShopTab_Name_0805	데일리 선물 상자 보급 팩
-ShopTab_Name_0806	신규 작가 전용 데일리 작가 지원팩
-ShopTab_Name_0810	7일 보급
-ShopTab_Name_0811	7일간 픽업 소환권 보급 팩
-ShopTab_Name_0812	7일간 선물 보급 팩
-ShopTab_Name_0813	7일간 일반 소환권 보급 팩
-ShopTab_Name_0814	신입 작가 전용 7일 다이아 지원 팩
 ShopTab_Name_0900	핫딜
 ShopTab_Name_1000	낚시 용품
 ShopTab_Name_1001	낚싯대
@@ -64,42 +35,9 @@ ShopTab_Name_1501	작가 레벨 달성 팩
 ShopTab_Name_1502	스토리 달성 팩 1
 ShopTab_Name_1503	스토리 달성 팩 2
 ShopTab_Name_1504	세실리아 승급 달성 팩
-ShopTab_Name_1505	누적 별 달성 팩
+ShopTab_Name_1505	누적 별 달성 미션 패키지
 ShopTab_Name_1506	베라 승급 달성 팩
 ShopTab_Name_1507	릴리스 승급 달성 팩
 ShopTab_Name_1508	라리사 승급 달성 팩
-ShopTab_Name_1509	아멜리 승급 달성 팩
-ShopTab_Name_1510	어둠의 심연 돌파 팩
-ShopTab_Name_1511	연오 승급 달성 팩
-ShopTab_Name_1512	모니카 승급 달성 팩
-ShopTab_Name_1513	메이메이 승급 달성 팩
-ShopTab_Name_1514	미하일 승급 달성 팩
-ShopTab_Name_1515	닉스 승급 달성 팩
-ShopTab_Name_1516	시호 승급 달성 팩
-ShopTab_Name_1517	피치 크러시 승급 달성 팩
-ShopTab_Name_1518	마녀 세실리아 승급 달성 팩
-ShopTab_Name_1519	살라딘 승급 달성 팩
-ShopTab_Name_1520	셰라자드 승급 달성 팩
-ShopTab_Name_1521	크리스티앙 승급 달성 팩
-ShopTab_Name_1522	죠안 승급 달성 팩
-ShopTab_Name_1523	챕터 9 돌파 팩 1
-ShopTab_Name_1524	챕터 9 돌파 팩 2
-ShopTab_Name_1525	작가 레벨 달성 팩 2
-ShopTab_Name_1526	악마 카인 승급 달성 팩
-ShopTab_Name_1527	소피 승급 달성 팩
-ShopTab_Name_1528	타브리스 승급 달성 팩
 ShopTab_Name_1600	시즌패스
 ShopTab_Name_1601	시즌패스상점1
-ShopTab_Name_1700	스텝업 패키지
-ShopTab_Name_1701	스텝업 패키지 1
-ShopTab_Name_1702	스텝업 패키지 2
-ShopTab_Name_1703	시호 성장 스텝업
-ShopTab_Name_1704	악마 카인 성장 스텝업
-ShopTab_Name_1705	소피 성장 스텝업
-ShopTab_Name_1800	출석 패키지
-ShopTab_Name_1801	다이아 출석 패키지
-ShopTab_Name_1802	스태미나 출석 패키지
-ShopTab_Name_1803	100일 기념 스태미나 출석
-ShopTab_Name_1804	100일 기념 선물 출석
-ShopTab_Name_1805	타브리스 출시 다이아 출석
-ShopTab_Name_1806	타브리스 출시 스태미나 출석

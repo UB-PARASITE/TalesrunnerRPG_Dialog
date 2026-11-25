@@ -4,27 +4,9 @@ Gacha_Name_1003	베라 소환
 Gacha_Name_1004	릴리스 소환
 Gacha_Name_1005	라리사 소환
 Gacha_Name_1006	사야 소환
-Gacha_Name_1007	아멜리 소환
-Gacha_Name_1008	하루 소환
-Gacha_Name_1009	연오 소환
-Gacha_Name_1010	모니카 소환
-Gacha_Name_1011	메이메이 소환
-Gacha_Name_1012	미하일 소환
-Gacha_Name_1013	닉스 소환
-Gacha_Name_1014	시호 소환
-Gacha_Name_1015	피치 크러시 소환
-Gacha_Name_1016	마녀 세실리아 소환
-Gacha_Name_1017	셰라자드 소환
-Gacha_Name_1018	크리스티앙 소환
-Gacha_Name_1019	죠안 소환
-Gacha_Name_1020	악마 카인 소환
-Gacha_Name_1021	소피 소환
-Gacha_Name_1022	타브리스 소환
-Gacha_Name_1023	티나 소환
 Gacha_Name_2001	일반 소환
 Gacha_Name_3001	우정 소환
 Gacha_Name_4001	특별 소환
 Gacha_Name_4002	테일즈런너 소환
 Gacha_Name_4003	동화나라와 소원의 돌 소환
 Gacha_Name_5001	선별 소환
-Gacha_Name_6001	반주년 기념 무료 소환

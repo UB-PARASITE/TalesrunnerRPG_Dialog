@@ -112,10 +112,10 @@ PassiveSkill_Name_10112	맞으면 느려질걸? ♥_행동력 증가용
 PassiveSkill_Name_10113	심해의 기운
 PassiveSkill_Name_10114	너무 뻔한걸?
 PassiveSkill_Name_10115	승리의 예언
-PassiveSkill_Name_10116	밤의 기운
+PassiveSkill_Name_10116	어둠의 등불
 PassiveSkill_Name_10117	어둠은 나의 근원
 PassiveSkill_Name_10118	밤의 장막
-PassiveSkill_Name_10119	밤의 장막 (받는 대미지 제한용)
+PassiveSkill_Name_10119	밤의 장막_효과 삭제용
 PassiveSkill_Name_10120	혼돈의 재림
 PassiveSkill_Name_10121	어둠과 함께한다.
 PassiveSkill_Name_10122	고통에 몸부림쳐라
@@ -151,9 +151,9 @@ PassiveSkill_Name_10151	게임은 힐링이야!
 PassiveSkill_Name_10152	물어버릴테다!
 PassiveSkill_Name_10153	라스트 울프
 PassiveSkill_Name_10154	드러나는 발톱
-PassiveSkill_Name_10155	강화탄
+PassiveSkill_Name_10155	상처 후비기
 PassiveSkill_Name_10156	급소 파악
-PassiveSkill_Name_10157	불스 아이
+PassiveSkill_Name_10157	장갑 분석
 PassiveSkill_Name_10158	강자의 증명
 PassiveSkill_Name_10159	일도양단
 PassiveSkill_Name_10160	사무라이 하트
@@ -170,7 +170,7 @@ PassiveSkill_Name_10170	서큐버스의 진면목 B 전용 패시브 2
 PassiveSkill_Name_10171	유혹할 준비 완료!
 PassiveSkill_Name_10172	넘치는 체력
 PassiveSkill_Name_10173	정기 강탈
-PassiveSkill_Name_10174	액티브 스킬 B 전용 패시브
+PassiveSkill_Name_10174	정의는 승리한다 ! B 전용 패시브
 PassiveSkill_Name_10175	위기 속에서 발견한 약점
 PassiveSkill_Name_10176	마음 속 네 잎 클로버
 PassiveSkill_Name_10177	마음 속 네 잎 클로버 2
@@ -187,8 +187,8 @@ PassiveSkill_Name_10187	이화접목 2
 PassiveSkill_Name_10188	생사부
 PassiveSkill_Name_10189	명경지수
 PassiveSkill_Name_10190	낙월옥량
-PassiveSkill_Name_10191	미소를 훔쳐줄게
-PassiveSkill_Name_10192	미소를 훔쳐줄게 2
+PassiveSkill_Name_10191	미소를 훔쳐줄께
+PassiveSkill_Name_10192	미소를 훔쳐줄께 2
 PassiveSkill_Name_10193	괴도의 예고장
 PassiveSkill_Name_10194	와일드 카드
 PassiveSkill_Name_10195	바이크 스트라이크 A 전용 패시브
@@ -211,190 +211,12 @@ PassiveSkill_Name_10211	아픔을 삼킨 바다 (액티브 B 효과 체크)
 PassiveSkill_Name_10212	기상역학
 PassiveSkill_Name_10213	적란운
 PassiveSkill_Name_10214	악천후
-PassiveSkill_Name_10215	악천후2
-PassiveSkill_Name_10216	악천후3
-PassiveSkill_Name_10217	악천후4
-PassiveSkill_Name_10218	아멜리 액티브 A 효과
-PassiveSkill_Name_10219	아멜리 액티브 B 효과1
-PassiveSkill_Name_10220	아멜리 액티브 B 효과1-2
-PassiveSkill_Name_10221	청신무(請神舞)
-PassiveSkill_Name_10222	청신무(請神舞) (에너지 비례 공증)
-PassiveSkill_Name_10223	청신무(請神舞) (에너지 100 효과 제한용)
-PassiveSkill_Name_10225	청신무(請神舞) (에너지 100 효과)
-PassiveSkill_Name_10224	청신무(請神舞) (에너지 소모)
-PassiveSkill_Name_10226	세령무(洗靈舞)
-PassiveSkill_Name_10227	오신무(娛神舞)
-PassiveSkill_Name_10228	연오 액티브 A 효과
-PassiveSkill_Name_10229	아르콘
-PassiveSkill_Name_10230	아르콘 2
-PassiveSkill_Name_10231	에피스코포스
-PassiveSkill_Name_10232	플뤼겔
-PassiveSkill_Name_10233	플뤼겔(적군 랜덤 지정)
-PassiveSkill_Name_10234	플뤼겔(적군 추가 피해)
-PassiveSkill_Name_10235	액티브 스킬 B 평타 이펙트 변경
-PassiveSkill_Name_10236	액티브 스킬 B 평타 이펙트 변경
-PassiveSkill_Name_10237	수호성인의 가호
-PassiveSkill_Name_10238	수호성인의 가호1-2
-PassiveSkill_Name_10239	수호성인의 가호1-3
-PassiveSkill_Name_10240	수호성인의 가호1-4
-PassiveSkill_Name_10241	수련의 성과
-PassiveSkill_Name_10242	친구를 지킨다는 것
-PassiveSkill_Name_10243	친구를 지킨다는 것1-3
-PassiveSkill_Name_10244	친구를 지킨다는 것1-3
-PassiveSkill_Name_10245	액티브 A
-PassiveSkill_Name_10246	크리스탈 필로르1-2
-PassiveSkill_Name_10247	불스 아이(액티브 B 체크용)
-PassiveSkill_Name_10248	강화탄(일반공격 n회 마다 뎀증)
-PassiveSkill_Name_10249	오버 드라이브
-PassiveSkill_Name_10250	오버 드라이브(공증)
-PassiveSkill_Name_10251	오버 드라이브1-3 (50% 이하)
-PassiveSkill_Name_10252	살
-PassiveSkill_Name_10253	시반 슈미터의 긍지
-PassiveSkill_Name_10254	시반 슈미터의 긍지 (30% 미만)
-PassiveSkill_Name_10255	시반 슈미터의 긍지 (30% 미만)
-PassiveSkill_Name_10256	시반 슈미터의 긍지 (30% 이상)
-PassiveSkill_Name_10257	시반 슈미터의 긍지 (액티브 B 사용 시)
-PassiveSkill_Name_10258	살라딘 액티브 A 효과
-PassiveSkill_Name_10259	살라딘 액티브 B 효과
-PassiveSkill_Name_10260	백의성녀
-PassiveSkill_Name_10261	가베라의 꽃
-PassiveSkill_Name_10262	재회의 약속
-PassiveSkill_Name_10263	재회의 약속1-2
-PassiveSkill_Name_10264	셰라자드 액티브 A 효과 2
-PassiveSkill_Name_10265	셰라자드 액티브 A 효과 3
-PassiveSkill_Name_10266	오버 드라이브(피감 효과 제거)
-PassiveSkill_Name_10267	오버 드라이브1-4 (50% 미만 효과 제거)
-PassiveSkill_Name_10268	시반 슈미터의 긍지 (액티브 B 사용 시)
-PassiveSkill_Name_10269	시반 슈미터의 긍지 (30% 미만)
-PassiveSkill_Name_10270	진두지휘
-PassiveSkill_Name_10271	연금술 심화
-PassiveSkill_Name_10272	여왕 폐하를 위하여!!
-PassiveSkill_Name_10273	감정 치유
-PassiveSkill_Name_10274	산뜻한 바람
-PassiveSkill_Name_10275	준비 자세
-PassiveSkill_Name_10276	티 타임
-PassiveSkill_Name_10277	슈가 하이
-PassiveSkill_Name_10278	프로텍트 크림
-PassiveSkill_Name_10279	카페인 크림
-PassiveSkill_Name_10280	악몽의 꽃
-PassiveSkill_Name_10281	악몽의 요정
-PassiveSkill_Name_10282	링크 실드
-PassiveSkill_Name_10283	아군 강화
-PassiveSkill_Name_10284	무서워요!
-PassiveSkill_Name_10285	나만의 왕자님
-PassiveSkill_Name_10286	스텔라의 가호
-PassiveSkill_Name_10287	코스튬 스타!
-PassiveSkill_Name_10288	위대한 왕
-PassiveSkill_Name_10289	자연을 아름답게
-PassiveSkill_Name_10290	너무 뻔한걸?
-PassiveSkill_Name_10291	승리의 예언
-PassiveSkill_Name_10292	내성 강화
-PassiveSkill_Name_10293	아세라도
-PassiveSkill_Name_10294	유혹할 준비 완료!
-PassiveSkill_Name_10295	미술적 영감
-PassiveSkill_Name_10296	삼매진화
-PassiveSkill_Name_10297	반전 상쇄
-PassiveSkill_Name_10298	저항하는 빛
-PassiveSkill_Name_10299	이열치열!
-PassiveSkill_Name_10300	짠짜짠! 짠짜짠!
-PassiveSkill_Name_10301	판도라의 태양
-PassiveSkill_Name_10302	심해의 눈물
-PassiveSkill_Name_10303	적란운
-PassiveSkill_Name_10304	밤의 기운
-PassiveSkill_Name_10305	밤의 기운 (밤의 영역 실제 효과)
-PassiveSkill_Name_10306	밤의 기운 (밤의 영역 종료: 에너지 삭제)
-PassiveSkill_Name_10307	밤의 기운 (밤의 영역 종료: P1효과 삭제)
-PassiveSkill_Name_10308	밤의 장막 (받는 대미지 제한용)
-PassiveSkill_Name_10309	밤의 장막 (쿨타임 증가)
-PassiveSkill_Name_10310	밤의 장막 (밤의 영역 종료: P3 효과 삭제)
-PassiveSkill_Name_10311	마녀 세실리아 액티브 A (자힐)
-PassiveSkill_Name_10312	마녀 세실리아 액티브 A (공포)
-PassiveSkill_Name_10313	마녀 세실리아 액티브 B(회복 밴)
-PassiveSkill_Name_10314	오버 드라이브
-PassiveSkill_Name_10315	아스트럴 블레이드
-PassiveSkill_Name_10316	아스트럴 블레이드 (크리티컬 누적 제거용)
-PassiveSkill_Name_10317	아스트럴 블레이드 (방어형 확정 크리티컬)
-PassiveSkill_Name_10318	캐노피
-PassiveSkill_Name_10319	L.T.K (License To Kill)
-PassiveSkill_Name_10320	L.T.K (License To Kill)
-PassiveSkill_Name_10321	L.T.K (License To Kill)
-PassiveSkill_Name_10322	L.T.K (License To Kill)
-PassiveSkill_Name_10323	L.T.K (License To Kill)
-PassiveSkill_Name_10324	크리스티앙 액티브 스킬 B
-PassiveSkill_Name_10325	크리스티앙 액티브 스킬 B(효과 제거용)
-PassiveSkill_Name_10326	임페리얼 아머
-PassiveSkill_Name_10327	임페리얼 아머
-PassiveSkill_Name_10328	임페리얼 아머
-PassiveSkill_Name_10329	임페리얼 아머
-PassiveSkill_Name_10330	발키리의 혼
-PassiveSkill_Name_10331	발키리의 혼(상시 적용용)
-PassiveSkill_Name_10332	제국을 지키는 검
-PassiveSkill_Name_10334	제국을 지키는 검 (적군 디버프)
-PassiveSkill_Name_10335	제국을 지키는 검 (적군 디버프)
-PassiveSkill_Name_10336	제국을 지키는 검 (적군 디버프)
-PassiveSkill_Name_10337	제국을 지키는 검 (적군 버프 무시)
-PassiveSkill_Name_10338	제국을 지키는 검 (상시 적용)
-PassiveSkill_Name_10339	저항하는 어둠
-PassiveSkill_Name_10340	절망
-PassiveSkill_Name_10341	절망(상시 적용용)
-PassiveSkill_Name_10342	빛의 이면
-PassiveSkill_Name_10343	빛의 이면
-PassiveSkill_Name_10344	빛의 이면
-PassiveSkill_Name_10345	링크 실드
-PassiveSkill_Name_10346	아군 강화
-PassiveSkill_Name_10347	승리의 예언
-PassiveSkill_Name_10348	오프닝!
-PassiveSkill_Name_10349	오프닝! (자연 3명 미만)
-PassiveSkill_Name_10350	오프닝! (고동치는 환희 삭제)
-PassiveSkill_Name_10351	오프닝! (엄습하는 위협 삭제)
-PassiveSkill_Name_10352	하모니!
-PassiveSkill_Name_10353	하모니! (상시 적용용)
-PassiveSkill_Name_10354	조율
-PassiveSkill_Name_10355	조율 (액티브 A 엄습하는 위협)
-PassiveSkill_Name_10356	조율 (액티브 B 고동치는 환희)
-PassiveSkill_Name_10357	조율 (액티브 B 엄습하는 위협)
-PassiveSkill_Name_10358	소피 액티브 A
-PassiveSkill_Name_10359	소피 액티브 B
-PassiveSkill_Name_10360	소피 액티브 B
-PassiveSkill_Name_10361	소피 액티브 B
-PassiveSkill_Name_10362	소피 액티브 B
-PassiveSkill_Name_10363	소피 액티브 B
-PassiveSkill_Name_10364	소피 액티브 B
-PassiveSkill_Name_10365	소피 액티브 B
-PassiveSkill_Name_10366	소피 액티브 B
-PassiveSkill_Name_10367	조율 (명중 증가)
-PassiveSkill_Name_10368	조율 (명중 증가)
-PassiveSkill_Name_10369	단죄
-PassiveSkill_Name_10370	단죄
-PassiveSkill_Name_10371	단죄
-PassiveSkill_Name_10372	성스러운 감시
-PassiveSkill_Name_10373	성스러운 감시
-PassiveSkill_Name_10374	천사가 내리는 형벌
-PassiveSkill_Name_10375	천사가 내리는 형벌
-PassiveSkill_Name_10376	천사가 내리는 형벌
-PassiveSkill_Name_10377	천사가 내리는 형벌
-PassiveSkill_Name_10378	천사가 내리는 형벌
-PassiveSkill_Name_10379	의연하게 피어나는 꽃
-PassiveSkill_Name_10380	의연하게 피어나는 꽃
-PassiveSkill_Name_10381	꺾이지 않는 꽃
-PassiveSkill_Name_10382	꺾이지 않는 꽃
-PassiveSkill_Name_10383	꺾이지 않는 꽃
-PassiveSkill_Name_10384	꺾이지 않는 꽃
-PassiveSkill_Name_10385	꺾이지 않는 꽃
-PassiveSkill_Name_10386	노블레스 오블리주
-PassiveSkill_Name_10387	노블레스 오블리주
-PassiveSkill_Name_10388	노블레스 오블리주
-PassiveSkill_Name_10389	노블레스 오블리주
-PassiveSkill_Name_10390	티나 액티브 스킬 A
-PassiveSkill_Name_10391	티나 액티브 스킬 A
-PassiveSkill_Name_10392	티나 액티브 스킬 A
-PassiveSkill_Name_10393	노블레스 오블리주
 PassiveSkill_Name_13000	불굴의 저항
 PassiveSkill_Name_13001	플레임 심볼
 PassiveSkill_Name_13002	플레임 심볼
 PassiveSkill_Name_13003	플레임 오브 페인
 PassiveSkill_Name_13004	플레임 오브 페인
-PassiveSkill_Name_13005	플레임 오브 페인 2
+PassiveSkill_Name_13005	플레임 오브 페인
 PassiveSkill_Name_13006	드래곤 퓨리
 PassiveSkill_Name_13007	드래곤 퓨리
 PassiveSkill_Name_13008	페이즈 모션 변경
@@ -460,7 +282,7 @@ PassiveSkill_Name_13067	꽃가루 알러지
 PassiveSkill_Name_13068	문지기의 의지
 PassiveSkill_Name_13069	서든 프로스트
 PassiveSkill_Name_13070	냉기의 보호
-PassiveSkill_Name_13071	차가운 슬라임
+PassiveSkill_Name_13071	차가운 슬랴임
 PassiveSkill_Name_13072	차가운 슬라임
 PassiveSkill_Name_13073	설원의 눈보라
 PassiveSkill_Name_13074	설원의 눈보라
@@ -470,81 +292,29 @@ PassiveSkill_Name_13077	슬라임 분해
 PassiveSkill_Name_13078	슬라임 분해
 PassiveSkill_Name_13079	분노의 슬라임
 PassiveSkill_Name_13080	분노의 슬라임
-PassiveSkill_Name_13081	미니 아슬라 강화 (노멀)
-PassiveSkill_Name_13082	미니 아슬라 강화 (하드)
+PassiveSkill_Name_13081	아슬라 추가 소환 (노멀)
+PassiveSkill_Name_13082	아슬라 추가 소환 (하드)
 PassiveSkill_Name_13083	미니 아슬라_일정 확률 빙결
 PassiveSkill_Name_13084	미니 아슬라_일정 확률 빙결
 PassiveSkill_Name_13085	볼테르_점화 효과
 PassiveSkill_Name_13086	볼테르_점화 삭제 효과
 PassiveSkill_Name_13087	자연의 보호
-PassiveSkill_Name_13088	자연의 보호 (환각 없을 시 효과)
-PassiveSkill_Name_13089	자연의 보호 (상대 빈마법 제거용)
-PassiveSkill_Name_13090	윈디아 레이드 보스 스턴 면역
-PassiveSkill_Name_13091	자연의 함정
-PassiveSkill_Name_13092	자연의 함정 (하드)
-PassiveSkill_Name_13093	자연의 함정 (50% 이상일 때 자힐)
-PassiveSkill_Name_13094	대자연의 실드
-PassiveSkill_Name_13095	대자연의 실드(정상 상태, 위는 있을 때)
-PassiveSkill_Name_13096	대자연의 실드2(빈마법 제거)
-PassiveSkill_Name_13097	대자연의 실드3 (디버프 2개 효과)
-PassiveSkill_Name_13098	대자연의 실드(2개 효과 재발동 방지용)
-PassiveSkill_Name_13099	등가교환
-PassiveSkill_Name_13100	등가교환(위는 체크하는 디버프 부여)
-PassiveSkill_Name_13101	등가교환2 (액티브 피적용 조건 미만)
-PassiveSkill_Name_13102	등가교환2 (액티브 적용 조건 달성 효과)
-PassiveSkill_Name_13103	등가교환
-PassiveSkill_Name_13104	등가교환
-PassiveSkill_Name_13105	등가교환(위는 체크하는 디버프 부여)
-PassiveSkill_Name_13106	등가교환2 (액티브 피적용 조건 미만)
-PassiveSkill_Name_13107	등가교환2 (액티브 적용 조건 달성 효과)
-PassiveSkill_Name_13108	등가교환
-PassiveSkill_Name_13109	페이즈 변경
-PassiveSkill_Name_13110	페이즈 변경(쿨타임A감소)
-PassiveSkill_Name_13111	페이즈 변경(쿨타임B감소)
-PassiveSkill_Name_13112	페이즈 모션 변경
-PassiveSkill_Name_13113	페이즈 변경
-PassiveSkill_Name_13114	(하드)페이즈 변경2
-PassiveSkill_Name_13115	(하드)페이즈 변경(쿨타임 A감소)
-PassiveSkill_Name_13116	(하드)페이즈 변경(쿨타임 B감소)
-PassiveSkill_Name_13117	페이즈 모션 변경
-PassiveSkill_Name_13118	만타댕댕 패시브
-PassiveSkill_Name_13119	분노 조향 장치
-PassiveSkill_Name_13120	리젝트 실드
-PassiveSkill_Name_13121	정확한 뽑기
-PassiveSkill_Name_13122	최강의 곰봇
-PassiveSkill_Name_13123	꼬마 폭탄 패시브
-PassiveSkill_Name_13124	불굴의 저항
-PassiveSkill_Name_13125	플레임 심볼
-PassiveSkill_Name_13126	플레임 심볼 2
-PassiveSkill_Name_13127	플레임 오브 페인
-PassiveSkill_Name_13128	플레임 오브 페인 2
-PassiveSkill_Name_13129	플레임 오브 페인 3
-PassiveSkill_Name_13130	플레임 오브 페인 4
-PassiveSkill_Name_13131	플레임 오브 페인 5
-PassiveSkill_Name_13132	플레임 오브 페인 6 (삭제용)
-PassiveSkill_Name_13133	드래곤 퓨리
-PassiveSkill_Name_13134	드래곤 퓨리 2
-PassiveSkill_Name_13135	드래곤 퓨리 3
-PassiveSkill_Name_13136	드래곤 퓨리 4
-PassiveSkill_Name_13137	플레임 오브 페인 2
-PassiveSkill_Name_13138	플레임 오브 페인 3
-PassiveSkill_Name_13139	플레임 오브 페인 4
-PassiveSkill_Name_13140	플레임 오브 페인 5
-PassiveSkill_Name_13141	플레임 오브 페인 6 (삭제용)
-PassiveSkill_Name_13142	플레임 오브 페인 3
-PassiveSkill_Name_13143	플레임 오브 페인 4
-PassiveSkill_Name_13144	플레임 오브 페인 5
-PassiveSkill_Name_13145	플레임 오브 페인 6 (삭제용)
-PassiveSkill_Name_13146	차가운 슬라임
-PassiveSkill_Name_13147	차가운 슬라임
-PassiveSkill_Name_13148	설원의 눈보라
-PassiveSkill_Name_13149	설원의 눈보라
-PassiveSkill_Name_13150	설원의 눈보라
-PassiveSkill_Name_13151	설원의 눈보라
-PassiveSkill_Name_13152	슬라임 분해
-PassiveSkill_Name_13153	분노의 슬라임
-PassiveSkill_Name_13154	분노의 슬라임
-PassiveSkill_Name_13155	분노의 슬라임
+PassiveSkill_Name_13088	자연의 보호 2
+PassiveSkill_Name_13089	자연의 함정
+PassiveSkill_Name_13090	자연의 함정
+PassiveSkill_Name_13091	대자연의 실드
+PassiveSkill_Name_13092	대자연의 실드
+PassiveSkill_Name_13093	등가교환
+PassiveSkill_Name_13094	등가교환
+PassiveSkill_Name_13095	페이즈 변경
+PassiveSkill_Name_13096	페이즈 변경
+PassiveSkill_Name_13097	만타댕댕 패시브
+PassiveSkill_Name_13098	제페토 나무인형 스탯 강화
+PassiveSkill_Name_13099	분노 조향 장치
+PassiveSkill_Name_13100	리젝트 실드
+PassiveSkill_Name_13101	정확한 뽑기
+PassiveSkill_Name_13102	최강의 곰봇
+PassiveSkill_Name_13103	꼬마 폭탄 패시브
 PassiveSkill_Name_19000	최선의 방어
 PassiveSkill_Name_19001	역전의 방어막
 PassiveSkill_Name_19002	역전의 방어막_추가 효과
@@ -567,7 +337,7 @@ PassiveSkill_Desc_10002	초원이 액티브 스킬 사용 시, {t0}턴 동안 �
 PassiveSkill_Desc_10003	헬리아 생존 시, 아군 전체의 공격력이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10004	헬리아의 회피율이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10005	헬리아의 방어력이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10006	타격 대상의 현재 체력이 {v0.0}% 이하일 때 공격 시, 루나가 가하는 타격마다 루나 공격력의 {v0.0}%의 추가 타격을 줍니다.
+PassiveSkill_Desc_10006	타격 대상의 현재 체력이 {v0.0}% 이하일 때, 루나 공격력의 {v0.0}%의 추가 타격을 줍니다.
 PassiveSkill_Desc_10007	루나의 크리티컬 확률이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10008	현재 웨이브에 보스 몬스터가 존재할 때, 루나의 공격력이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10009	엘린 일반 공격 시, {v0.0}% 확률로 맹독 포션을 투척합니다.
@@ -576,14 +346,14 @@ PassiveSkill_Desc_10011	엘린 생존 시, 자연 속성 아군의 체력이 {v0
 PassiveSkill_Desc_10012	웨이브 종료 시, 모든 아군이 엘린 체력의 {v0.0}% 회복합니다.
 PassiveSkill_Desc_10013	퀸하트 일반 공격 시, {v0.0}%의 확률로 {t0}턴 동안 적에게 침묵 효과를 부여하며, {v0.0}%의 확률로 {t0}턴 동안 적의 방어력을 {v0.0} % 감소시킵니다. \\r두 가지 효과는 동시에 적용될 수 있습니다.\\r - 침묵 : 지속 턴 동안 스킬 사용 불가
 PassiveSkill_Desc_10015	퀸하트 생존 시, 자신을 제외한 아군의 공격력이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10016	웨이브 시작 시, {t0}턴 동안 적군 전체에게 ‘받는 대미지 {v0.0}% 증가’, 혹은 ‘방어력 {v0.0}% 감소’ 효과 1개가 적용됩니다.
+PassiveSkill_Desc_10016	웨이브 시작 시, {t0}턴 동안 적군 전체에게 '받는 대미지 {v0.0}% 증가', 혹은 '방어력 {v0.0}% 감소' 효과 1개가 적용됩니다.
 PassiveSkill_Desc_10017	일반 공격 명중 시, {v0.0}% 확률로 대상은 {t0}턴 동안 화상 상태가 됩니다.\\r- 화상 : 시전자 공격력의 {v0.0}% 만큼 대미지 부여 
 PassiveSkill_Desc_10018	밍밍의 공격력이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10019	화상 상태의 적 공격 시, 밍밍이 가하는 타격마다 밍밍의 공격력 {v0.0}%만큼 추가 타격을 줍니다.
-PassiveSkill_Desc_10020	일반 공격 명중 시, {v0.0}% 확률로 대상은 {t0}턴 동안 스턴 상태가 되며, 피격 대상의 방어력이 {v0.0}% 감소합니다\\r- 스턴 : 지속 턴 동안 일반 공격 및 스킬 사용 불가
-PassiveSkill_Desc_10021	앨리스의 스킬 공격력이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10022	스턴 상태의 적 공격 시, 앨리스가 가하는 타격마다 앨리스의 공격력 {v0.0}%만큼 추가 타격을 줍니다.
-PassiveSkill_Desc_10025	레이지 스킬 종료 시, 빅보는 {t0}턴 동안 스턴 상태가 되고 방어력이 {v0.0}% 감소합니다. (해당 스턴 상태는 디버프 해제 효과로 해제되지 않습니다.)\\r- 도발 : 적의 공격 타깃이 스킬 시전자로 변경됩니다.
+PassiveSkill_Desc_10019	화상 상태의 적 공격 시, 밍밍의 공격력 {v0.0}%만큼 추가 타격을 줍니다.
+PassiveSkill_Desc_10020	일반 공격 명중 시, {v0.0}% 확률로 대상은 {t0}턴 동안 스턴 상태가 되며, 일반 공격의 방어력이 {v0.0}% 감소합니다\\r- 스턴 : 지속 턴 동안 일반 공격 및 스킬 사용 불가
+PassiveSkill_Desc_10021	앨리스의 일반 공격 공격력이 {v0.0}% 증가합니다.
+PassiveSkill_Desc_10022	앨리스가 스턴 상태의 적 공격 시, 공격력의 {v0.0}%의 추가 타격을 줍니다.
+PassiveSkill_Desc_10025	레이지 스킬 종료 시, 빅보는 {t0}턴 동안 스턴 상태가 되고 방어력이 {v0.0}% 감소합니다.\\r- 도발 : 적의 공격 타깃이 스킬 시전자로 변경됩니다.
 PassiveSkill_Desc_10026	빅보가 스턴 상태일 때마다 {t0}턴 동안 받는 대미지가 {v0.0}% 감소합니다.\\r자기 자신의 의해 받은 스턴은 제외됩니다.
 PassiveSkill_Desc_10027	빅보의 방어력이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10028	도발 상태일 때, 빅보가 받는 대미지가 {v0.0}% 감소합니다.
@@ -592,7 +362,7 @@ PassiveSkill_Desc_10030	라라의 공격력이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10031	라라의 대미지가 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10032	아군 전체가 대미지를 받으면 스택 포인트가 {v0} 증가, 디버프 효과를 받으면 스택 포인트가 {v0} 증가, 엘림스가 액티브 스킬 사용 할 때마다 {v0} 증가합니다.\\r스택 포인트가 {v0} 이상이 되면 {t0}턴 동안 모든 아군의 받는 대미지가 {v0.0}% 감소하고, 디버프 효과 저항률 {v0.0}%가 증가합니다.\\r효과 발동 후 누적된 스택 포인트는 초기화됩니다.
 PassiveSkill_Desc_10037	엘림스 스마일 생존 시, 아군 전체의 받는 대미지가 {v0.0}% 감소합니다.
-PassiveSkill_Desc_10038	엘림스 스마일이 필드에 있을 때, 아군 사망자가 발생할 경우 사망자가 최초 1회에 한해 즉시 부활하며, 대상 아군은 디버프 효과 저항률이 {v0.0}% 증가합니다.\\r- 부활 :  사망한 아군을 체력이 70%인 상태로 되살립니다.
+PassiveSkill_Desc_10038	엘림스 스마일이 필드에 있을 때, 아군 사망자가 발생할 경우 사망자가 최초 1회에 한해 즉시 부활하며, 대상 아군은 디버프 효과 저항률이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10039	제인 도우에 의한 출혈 상태인 적 공격 시, {t0}턴 간 제인 도우의 크리티컬 대미지가 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10040	제인 도우의 크리티컬 확률이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10041	제인 도우의 크리티컬 대미지가 {v0.0}% 증가합니다.
@@ -642,18 +412,18 @@ PassiveSkill_Desc_10087	드로셀마이어의 크리티컬 대미지가 {v0.0}% 
 PassiveSkill_Desc_10088	드로셀마이어의 모든 공격이 {v0.0}% 확률로 적의 방어막을 무시하고 드로셀마이어의 크리티컬 확률이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10090	{t0}턴 마다 임의의 적 1명의 명중률이 {t0}턴 동안 {v0.0}% 감소합니다.
 PassiveSkill_Desc_10091	세실리아의 공격력이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10092	세실리아가 자신이 부여한 디버프를 보유한 적을 일반 공격 시, 세실리아 공격력의 {v0.0}% 추가 타격을 줍니다.
+PassiveSkill_Desc_10092	밤을 부르는 소녀의 디버프 효과를 받고 있는 적 공격 시, 세실리아 공격력의 {v0.0}% 추가 타격을 줍니다.
 PassiveSkill_Desc_10094	마리 생존 시, 드로셀마이어의 크리티컬 확률 {v0.0}%와 행동력이 {v0} 증가합니다.
 PassiveSkill_Desc_10095	마리 생존 시, 모든 아군의 체력이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10096	마리 생존 시, 마리가 장착한 장비 수 X {v0.0}%만큼 모든 아군의 방어력이 증가합니다.
 PassiveSkill_Desc_10097	생존한 아군의 수 X {v0.0}%만큼 디에터의 방어력이 증가합니다.
 PassiveSkill_Desc_10098	디에터의 체력이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10099	디에터의 체력이 {v0.0}% 이하가 되면 디버프 부여 불가 상태가 되고, 받는 대미지의 {v0.0}%를 반사합니다.
+PassiveSkill_Desc_10099	디에터의 체력이 {v0.0}% 이하가 되면 디버프 효과 무효 상태가 되고 받는 대미지의 {v0.0}%를 반사합니다.
 PassiveSkill_Desc_10100	일반 공격 명중 시 {v0.0}% 확률로, 액티브 스킬 명중 시 확정적으로 대상에게 3턴 동안 음표 표식을 부여합니다.\\r - 음표 표식 : 공격력 {v0.0}% 감소
 PassiveSkill_Desc_10102	아이르의 공격력이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10103	음표 표식이 적용 중인 대상 공격 시, 아이르가 가하는 타격마다 아이르의 공격력 {v0.0}%만큼 추가 타격을 줍니다.
+PassiveSkill_Desc_10103	음표 표식이 적용 중인 대상에게 즉시 아이르 공격력의 {v0.0}% 만큼 추가 타격을 줍니다.
 PassiveSkill_Desc_10104	음표 표식 대상이 불 속성이면, {t0}턴 동안 아이르의 체력 {v0.0}% 지속 대미지를 줍니다.
-PassiveSkill_Desc_10105	아군이 적 처치 시, {v0.0}%의 확률로 현재 체력 비율이 가장 낮은 아군 1명에게 플로렌스 공격력의 {v0.0}%만큼 체력을 회복시켜 줍니다.
+PassiveSkill_Desc_10105	아군이 적 처치 시, {v0.0}%의 확률로 현재 체력 비율이 가장 낮은 아군 1명은 플로렌스 공격력의 {v0.0}% 체력을 회복합니다.
 PassiveSkill_Desc_10106	플로렌스 생존 시, 자연 속성 아군의 공격력이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10107	웨이브 시작 시, 최대 쿨타임을 보유한 아군의 대상 스킬 쿨타임이 {v0} 감소하며, 대상 스킬의 쿨타임 X {v0.0}%만큼 플로렌스의 공격력이 증가합니다.
 PassiveSkill_Desc_10109	베라의 일반 공격 크리티컬 확률이 {v0.0}%, 일반 공격 대미지가 {v0.0}% 증가합니다.
@@ -662,10 +432,10 @@ PassiveSkill_Desc_10111	베라의 일반 공격 명중 시, {v0.0}% 확률로 �
 PassiveSkill_Desc_10113	임의의 아군 중 1명의 공격력이 {t0}턴 마다 {t0}턴 동안 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10114	키스멧 생존 시, 아군의 명중률이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10115	키스멧 생존 시, 공격력이 가장 높은 아군의 크리티컬 확률 {v0.0}%와 크리티컬 대미지 {v0.0}%가 증가합니다.
-PassiveSkill_Desc_10116	아군의 공격 턴 시작과 종료 때마다 ‘밤의 기운’을 {v0}개 누적하며, 밤의 기운 개수 X {v0.0}%만큼 마녀 세실리아의 공격력이 증가합니다. (누적 최대치: 100개) 밤의 기운이 {v0}개가 되면, {t0}턴간 ‘밤의 영역’에 진입합니다. 해당 영역에서 마녀 세실리아는 크리티컬 공격과 속성 대미지를 받지 않으며, 마녀 세실리아의 속성 대미지가 {v0.0}%, 스킬 크리티컬 확률이 {v0.0}%, 디버프 저항률이 {v0.0}% 증가합니다. (‘밤의 영역’ 효과 종료 후, ‘밤의 기운’ 누적은 초기화됩니다.)
-PassiveSkill_Desc_10117	마녀 세실리아의 스킬 공격력이 {v0.0}% 증가하며, ‘플로렌스’ 공격 시 확정 크리티컬 공격이 발생합니다.
-PassiveSkill_Desc_10118	전투 시작 직후, 아군 턴에 밤의 기운 {v0}개를 획득하고 즉시 ‘밤의 영역’에 진입합니다. ‘밤의 영역’ 진입 시, 적군의 모든 공격에 대하여 마녀 세실리아가 받는 대미지가 마녀 세실리아의 최대 체력의 {v0.0}%를 초과하지 않으며, 적군 전체의 대미지를 {v0.0}% 감소시키고, 가장 짧은 쿨타임의 스킬을 보유한 적군 1명의 액티브 스킬 A의 쿨타임을 1 증가시킵니다.
-PassiveSkill_Desc_10120	{t0}턴 마다 랜덤한 적군 중 1명에게 {t0}턴 간 하루의 최대 체력 {v0.0}%의 지속 대미지를 부여합니다.
+PassiveSkill_Desc_10116	아군의 공격 턴이 시작될 때마다 등불이 {v0}개 누적됩니다.\\r등불의 수 X {v0.0}%만큼 마녀 세실리아의 공격력이 증가합니다.\\r등불은 최대 10개까지 누적됩니다.
+PassiveSkill_Desc_10117	마녀 세실리아의 스킬 공격력이 {v0.0}% 증가합니다.
+PassiveSkill_Desc_10118	등불의 수가 {v0}개 이상이 되면, 마녀 세실리아는 속성 별 상성 대미지를 받지 않으며 공격력 {v0.0}%와 회피율 {v0.0}%가 증가합니다.\\r(빛 속성에 의한 상성 대미지는 무시됩니다.)
+PassiveSkill_Desc_10120	{t0}턴 마다 임의의 적 1명은 {t0}턴 동안 하루 최대 체력의 {v0.0}% 체력이 감소합니다.
 PassiveSkill_Desc_10121	하루의 스킬 공격력이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10122	디버프 효과가 적용된 적에게 일반 공격 시, 대상에게 적용된 디버프 효과 수 X {v0.0}%만큼 추가 대미지를 줍니다.
 PassiveSkill_Desc_10123	카이의 방어력이 {v0.0}% 증가합니다.
@@ -680,46 +450,46 @@ PassiveSkill_Desc_10132	현재 웨이브에 생존한 몬스터가 있으면 레
 PassiveSkill_Desc_10135	대상이 몬스터일 경우, 공격력의 {v0.0}%만큼 추가 대미지를 줍니다.
 PassiveSkill_Desc_10136	적에게 출혈 상태 부여 시, 막시밀리안은 최대 체력의 {v0.0}%만큼 회복합니다.
 PassiveSkill_Desc_10137	막시밀리안의 체력이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10138	일반 공격 {v0}회마다, 공격 대상에게 {t0}턴 간 출혈 상태를 부여합니다.\\r또한 일반 공격 시 상대가 출혈 상태일 경우, 막시밀리안 최대 체력의 {v0.0}% 만큼 추가 타격을 줍니다.\\r - 출혈 : 시전자 공격력의 {v0.0}% 지속 대미지 부여
+PassiveSkill_Desc_10138	일반 공격 {v0}회마다, 피격 대상에게 {t0}턴 간 출혈 상태를 부여합니다.\\r또한 일반 공격 시 상대가 출혈 상태일 경우, 막시밀리안 최대 체력의 {v0.0}% 만큼 추가 타격을 줍니다.\\r - 출혈 : 시전자 공격력의 {v0.0}% 지속 대미지 부여
 PassiveSkill_Desc_10140	올리비에의 체력 비율이 {v0.0}% 이하가 되면 방어력이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10141	올리비에의 스킬 방어력이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10142	마지막 웨이브 시작 시, 아군의 받는 대미지가 {v0.0}% 감소합니다.
-PassiveSkill_Desc_10143	일반 공격 시, {v0.0}% 확률로 속성 약화 포션을 투척합니다.\\r- 속성 약화 : 받는 속성 대미지 {v0.0}% 증가
+PassiveSkill_Desc_10143	일반 공격 시, {v0.0}% 확률로 속성 약화 포션을 투척합니다.\\r- 속성 약화 : 속성별 상성 대미지 피해량 {v0.0}% 증가
 PassiveSkill_Desc_10144	오필리아의 스킬 공격력이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10145	{t0}턴마다 피격 대상에게 속성 약화 포션을 투척합니다.\\r- 속성 약화 : 받는 속성 대미지 {v0.0}% 증가
+PassiveSkill_Desc_10145	{t0}턴마다 피격 대상에게 속성 약화 포션을 투척합니다.\\r- 속성 약화 : 상성 대미지 피해량 {v0.0}% 증가
 PassiveSkill_Desc_10146	아나스타샤 생존 시, 모든 아군의 방어력이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10147	아나스타샤의 회피율이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10148	첫 웨이브 시작 시, 아군 전체에게 공격을 {v0}회 막아주는 얼음 방벽이 생성되며, 얼음 방벽은 적의 공격에 의해 파괴되기 전까지 전투가 끝날 때까지 유지됩니다. 또한, 웨이브 시작 마다 아군 전체의 받는 대미지를 {t0}턴간 {v0.0}% 감소시킵니다.
+PassiveSkill_Desc_10148	아나스타샤의 체력 비율이 {v0.0}% 이하일 때, 자신을 포함한 모든 아군에게 {t0}턴 동안 공격을 {v0}회 막아주는 얼음 방벽을 생성합니다.
 PassiveSkill_Desc_10149	웨이브 시작 시, 피치 크러시의 공격력 {v0.0}%와 방어력이 {v0.0}% 증가합니다.\\r이 효과는 최대 3회 중첩됩니다.
 PassiveSkill_Desc_10150	피치 크러시의 명중률이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10151	웨이브 시작 시, 피치 크러시의 현재 체력을 {v0.0}% 회복합니다.
 PassiveSkill_Desc_10152	자르갈 일반 공격 시, {v0.0}% 확률로 {t0}턴 동안 대상의 대미지가 {v0.0}% 감소합니다.
 PassiveSkill_Desc_10153	자르갈의 크리티컬 대미지가 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10154	자르갈의 크리티컬 확률이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10155	현재 웨이브에 존재하는 적의 수 X {v0.0}%만큼 닉스의 공격력이 증가하며, {v0}번째 일반 공격마다, 대미지가 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10156	닉스의 명중률이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10157	액티브 스킬 사용 시, {t0}턴간 적군 중 공격력이 가장 높은 적을 타게팅하며, 닉스의 크리티컬 확률이 {v0.0}% 증가합니다.\\r(닉스의 공격 대상 고정은 어그로, 도발, 표식 지정 대상보다 우선되지 않습니다.)
+PassiveSkill_Desc_10155	{v0}번째 일반 공격마다, 대미지가 {v0.0}% 증가합니다.
+PassiveSkill_Desc_10156	제인 도우의 명중률이 {v0.0}% 증가합니다.
+PassiveSkill_Desc_10157	모든 공격이 적의 방어력 {v0.0}%를 무시한 대미지를 부여합니다.
 PassiveSkill_Desc_10158	공격력이 가장 높은 적을 공격할 때 {t0}턴 간 사야의 크리티컬 확률이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10159	사야의 크리티컬 확률이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10160	사야의 크리티컬 대미지가 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10161	자기 자신에게 회피율 증가 버프 부여 시, {t0}턴 동안 바다의 공격력이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10165	바다의 회피율이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10166	{t0}턴 마다 {t0}턴 동안 모든 공격을 회피하며, {t0}턴 마다 {v0.0}%의 확률로 {t0}턴 동안 모든 아군의 회피율이 {v0.0}% 증가합니다.
+PassiveSkill_Desc_10166	{t0}턴 마다 {t0}턴 동안의 모든 공격을 회피하며, {t0}턴 마다 {v0.0}%의 확률로 {t0}턴 동안 모든 아군의 회피율이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10168	대상에게 {t0}턴 간 매료 디버프를 부여합니다.\\r - 매료 : 공격 타깃을 자신의 아군으로 변경. (보스 몬스터 제외)
-PassiveSkill_Desc_10169	{t0}턴 간 적중한 적의 수 X {v0.0}% 만큼 릴리스의 일반 공격력이 증가합니다.\\r적중한 대상이 매료 상태일 시, 릴리스의 공격력 {v0.0}%만큼 추가 타격을 줍니다.
+PassiveSkill_Desc_10169	{t0}턴 간 적중한 적의 수 X {v0.0}% 만큼 릴리스의 일반 공격력이 증가합니다.\\r적중한 대상이 매료 상태일 시, 릴리스 공격력 {v0.0}%의 추가 타격을 줍니다.
 PassiveSkill_Desc_10171	릴리스 생존 시, 적군 전체의 받는 대미지가 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10172	턴마다 릴리스의 행동력이 {v0}씩 증가합니다.
 PassiveSkill_Desc_10173	매료 디버프에 걸려있는 적에게 대미지를 줄 때마다 피해량의 {v0.0}%만큼 자신의 체력을 회복합니다.
 PassiveSkill_Desc_10174	{v0.0}% 확률로 대상에게 {t0}턴 간 스턴을 부여합니다.
 PassiveSkill_Desc_10175	현재 체력이 최대 체력의 {v0.0}% 이하일 때, 크리티컬 대미지가 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10176	아크 포리프의 크리티컬 확률이 {v0.0}% 증가합니다.\\r전투 진입 시, {t0}턴 마다 기존 증가된 크리티컬 수치에 1~4의 숫자 중 랜덤한 값에 곱해서 변경됩니다.
-PassiveSkill_Desc_10178	자신이 사망할 대미지를 입었을 때, 죽지 않고 즉시 아크 포리프의 최대 체력의 {v0.0}%만큼의 현재 체력을 회복합니다. (해당 효과는 전투 당 1회 발동됩니다) 또한, 매 턴마다 {v0.0}%확률로 모든 적의 공격을 패링합니다.
-PassiveSkill_Desc_10179	일반 공격 시, 붓 터치 스택이 {v0} 증가합니다. 붓 터치 스택이 {v0}이 될 때, 모든 아군의 쿨타임이 가장 높은 스킬의 쿨타임이 즉시 {v0} 감소하고, {t0}턴간 크리티컬 대미지가 {v0.0}% 증가합니다. 해당 효과 종료 후, 붓 터치가 모두 소모됩니다.
-PassiveSkill_Desc_10182	모니카 생존 시, 아군의 스킬 공격력이 {v0.0}% 증가합니다.
+PassiveSkill_Desc_10178	자신이 사망할 대미지를 입었을 때, 죽지 않고 즉시 아크 포리프의 최대 체력의 {v0.0}%만큼의 현재 체력을 회복합니다.\\r(해당 효과는 전투 당 1회 발동됩니다.)
+PassiveSkill_Desc_10179	일반 공격 시, 붓 터치 스택이 {v0} 증가합니다.\\r붓 터치 스택이 {v0}이상이 될 때, 아군 전체의 모든 스킬 쿹라임이 즉시 {v0} 감소하고 {t0}턴 간 공격력이 {v0.0}% 증가합니다.
+PassiveSkill_Desc_10182	모든 공격이 {v0.0}% 확률로 붓 터치 스택이 {v0} 증가합니다.
 PassiveSkill_Desc_10183	붓 터치 스택 수 X {v0.0}%만큼 아군 전체의 공격력이 증가합니다.
-PassiveSkill_Desc_10184	액티브 스킬 사용 시, 메이메이는 {t0}턴 간 ‘술주정’ 상태가 됩니다. ‘술주정’ 상태 중에는 메이메이의 명중률이 {v0.0}% 감소되지만, 공격력이 {v0.0}% 크리티컬 확률이 {v0.0}% 증가합니다. 
-PassiveSkill_Desc_10185	메이메이 생존 시, 적군에게 부여된 모든 지속 피해의 피해량이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10186	일반 공격 시, 피격 대상이 화상 상태를 보유 중일 때, 혹은 액티브 스킬을 사용하여 상대에게 화상을 부여하였을 시, 피격 대상에게 {t0}턴 간 불 속성 공격에 대해 받는 대미지를 {v0.0}% 증가시킵니다.
+PassiveSkill_Desc_10184	현재 체력이 최대 체력의 {v0.0}% 이하일 때, {t0}턴 동안 메이메이 공격력의 {v0.0}%만큼 체력을 회복합니다.\\r(해당 효과는 전투 당 1회 발동됩니다.)
+PassiveSkill_Desc_10185	자신이 부여하는 지속 피해의 피해량이 {v0.0}% 증가합니다.
+PassiveSkill_Desc_10186	액티브 스킬 사용 시, {t0}턴 간 아군 전체의 받는 대미지를 {v0.0}% 감소시키고, 아군이 받는 피해의 {v0.0}%를 자신이 나누어 받습니다.
 PassiveSkill_Desc_10188	적 사망 시, 하랑의 명부가 {v0}만큼 1회 증가하며, 보유한 명부 X {v0.0}% 만큼 하랑의 공격력이 증가합니다.\\r명부는 최대 10회까지 누적됩니다.
 PassiveSkill_Desc_10189	하랑의 공격력이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10190	아군 사망 시, 대상 아군 공격력의 {v0.0}% 만큼 하랑의 공격력이 증가합니다.
@@ -733,70 +503,24 @@ PassiveSkill_Desc_10198	러프의 스킬 공격력이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10199	러프의 행동력이 {v0} 증가하고 적 사망 시, {v0.0}%의 확률로 러프의 모든 스킬 쿨타임이 {v0} 감소합니다.
 PassiveSkill_Desc_10201	카인 생존 시, 아군에 대한 어둠 속성 대미지가 {v0.0}% 감소합니다.
 PassiveSkill_Desc_10202	카인 생존 시, 빛 속성 아군의 방어력이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10203	카인을 포함한 아군이 디버프에 걸릴 시, 카인의 반전 에너지가 {v0} 증가합니다.\\r반전 에너지가 {v0}이상이 될 때, 아군 전체의 디버프를 {v0}개 제거하고 카인 최대 체력의 {v0.0}% 만큼 즉시 회복합니다.
+PassiveSkill_Desc_10203	카인을 포함한 아군 전체가 디버프에 걸릴 시, 반전 에너지가 {v0} 증가합니다.\\r반전 에너지가 {v0}이상이 될 때, 아군 전체의 디버프를 {v0}개 제거하고 카인 최대 체력의 {v0.0}% 만큼 즉시 회복합니다.
 PassiveSkill_Desc_10205	미호 생존 시, 아군에 대한 불 속성 대미지가 {v0.0}% 감소합니다.
 PassiveSkill_Desc_10206	미호 생존 시, 미호을 포함한 아군 전체의 행동력이 {v0} 증가합니다.
 PassiveSkill_Desc_10207	미호 생존 시, 아군 전체의 일반 공격 대미지가 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10208	웨이브 시작 시, 모든 아군의 쿨타임이 가장 높은 스킬의 쿨타임이 {v0} 감소되며, {t0}턴 간 라리사를 포함한 모든 아군의 공격력이 {v0.0}% 증가합니다.
+PassiveSkill_Desc_10208	웨이브 시작 시, 모든 아군의 쿨타임이 가장 높은 스킬의 쿨타임이 {v0} 감소되며, {t0}턴간 라리사를 포함한 모든 아군의 공격력이 {v0.0}% 증가합니다.
 PassiveSkill_Desc_10209	라리사 생존 시, 물 속성 아군의 공격력이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10210	액티브 스킬 사용 시, 모든 아군의 디버프 {v0}개를 제거하며, {t0}턴 간 방어력을 {v0.0}% 증가시킵니다.
-PassiveSkill_Desc_10212	일반 공격 {v0}회마다 {t0}턴 간 공격력이 가장 높은 적군에게 ‘안개’를 드리웁니다.\\r‘안개’에 덮인 대상은 크리티컬 확률이 {v0.0}%, 회피율이 {v0.0}% 감소합니다.
-PassiveSkill_Desc_10213	아멜리 생존 시, 아군 전체의 명중률이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10214	액티브 스킬 사용 시, {t0}턴 간 아군의 크리티컬 확률 {v0.0}%와 크리티컬 대미지가 {v0.0}% 증가하며, 스킬에 적중된 적군이 ‘안개’를 보유 중일 때, 1턴간 스턴을 부여합니다.
-PassiveSkill_Desc_10218	피격 대상에게 {v0.0}% 확률로 {t0}턴 간 ‘안개’를 드리웁니다.\\r‘안개’에 덮인 대상은 크리티컬 확률이 {v0.0}%, 회피율이 {v0.0}% 감소합니다.
-PassiveSkill_Desc_10219	피격 대상이 ‘안개’에 덮인 상태일 시, 대상의 행동력을 {v0} 감소합니다.
-PassiveSkill_Desc_10221	아군의 자연 속성 캐릭터가 스킬 사용 시, 연오는 신기 {v0}을 얻습니다. 신기 개수 x 연오의 공격력 {v0.0}% 비율로 연오의 공격력이 증가하며, 신기가 {v0}이 되었을 때, 액티브 스킬 사용 시 피격 대상에게 연오의 공격력 {v0.0}%만큼 추가 타격을 1회 부여하고, 신기를 {v0} 소모합니다.
-PassiveSkill_Desc_10226	연오의 스킬 공격력이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10227	연오의 공격 대미지가 {v0.0}% 증가하며, 현재 체력이 가장 낮은 적 1명을 연오의 공격 대상으로 고정합니다.\\r(연오의 공격 대상 고정은 어그로, 도발, 표식 지정 대상보다 우선되지 않습니다.)
-PassiveSkill_Desc_10228	해당 스킬에 크리티컬 발생 시, {t0}턴 간 피격 대상의 방어력을 {v0.0}% 감소시킵니다.
-PassiveSkill_Desc_10229	액티브 스킬 A 사용 시, {t0}턴 간 총탄이 적을 관통하는 일반 공격으로 전환됩니다. (관통된 총탄이 가하는 대미지는 주대미지의 20%입니다.)\\r또한, 미하일 일반 공격 시, 미하일의 행동력이 {v0} 증가합니다.
-PassiveSkill_Desc_10231	미하일의 일반 공격력이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10232	액티브 스킬 B 사용 시, {t0}턴 간 총탄이 적을 관통하는 일반 공격으로 전환됩니다. (관통된 총탄이 가하는 대미지는 주대미지의 20%입니다.)\\r또한, {t0}턴마다 랜덤한 적군 1명을 지정하고, 미하일의 일반 공격마다 미하일의 공격력 {v0.0}%만큼 지정한 적군에게 추가 피해를 1회 부여합니다.
-PassiveSkill_Desc_10235	아크의 모든 회피는 패링으로 대체됩니다.
-PassiveSkill_Desc_10237	웨이브 시작 시, 최대 체력이 제일 낮은 캐릭터에게 방어력을 {v0.0}%, 크리티컬 저항을 {v0.0}% 증가시켜줍니다. 또한 적군 중 공격력이 가장 높은 적에게 인장을 부여합니다. 인장을 받은 대상은 크리티컬 확률이 {v0.0}% 감소되며, 시호를 타격할 때마다 시호의 방어력 {v0.0}% 비율로 대미지를 받습니다. (인장은 디버프 해제가 가능합니다.)
-PassiveSkill_Desc_10241	시호의 방어력이 {v0.0}%, 일반 공격력이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10242	천년여우의 각성 효과가 지속되는 {t0}턴 동안, 아군이 받는 피해의 {v0.0}%를 대신 받으며, 천년여우의 각성 효과가 종료될 때, 감소된 체력 {v0.0}%를 즉시 회복합니다. 시호가 사망할 수준의 대미지 받을 시, 즉시 시호의 최대 체력 {v0.0}% 만큼 회복합니다. (해당 효과는 전투 당 1회 발동됩니다.) 
-PassiveSkill_Desc_10245	또한, 공격력이 가장 높은 적에게 인장을 재부여합니다. (인장의 효과는 패시브 1과 동일하며, 효과는 갱신됩니다.)\\r- 도발 : 적의 공격 타깃이 자기 자신으로 변경
-PassiveSkill_Desc_10249	살라딘의 체력이 {v0.0}% 이상일 때, 매 턴마다 자신 최대 체력의 {v0.0}%만큼 체력을 소모하지만, 체력 감소율 X {v0.0}%만큼 살라딘의 공격력이 증가합니다. 살라딘의 체력이 {v0.0}% 미만일 경우, 체력 감소가 중단되며, 살라딘의 받는 대미지가 {v0.0}% 감소합니다.
-PassiveSkill_Desc_10252	살라딘의 크리티컬 확률이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10253	액티브 스킬 사용 시, 자신이 입힌 대미지의 {v0.0}%만큼 체력을 회복하며, {t0}턴간 방어력이 {v0.0}% 증가합니다. 체력이 {v0.0}% 미만이 될 시, 크리티컬 확률이 {v0.0}% 증가하고, 살라딘의 모든 액티브 스킬 쿨타임이 초기화됩니다. (쿨타임의 초기화는 전투 당 1회 발동됩니다.)
-PassiveSkill_Desc_10258	공격 중 크리티컬 발생 시, {t0}턴간 출혈 상태를 부여합니다.\\r - 출혈 : 시전자 공격력의 {v0.0}% 지속 대미지 부여
-PassiveSkill_Desc_10259	또한 피격된 적에게 {v0.0}% 확률로 {t0}턴간 출혈 상태를 부여합니다.\\r - 출혈 : 시전자 공격력의 {v0.0}% 지속 대미지 부여
-PassiveSkill_Desc_10260	{t0}턴마다 모든 적군 방어형 캐릭터에게 셰라자드의 최대 체력 {v0.0}%에 해당하는 피해를 주며, {t0}턴간 회피율을 {v0.0}% 감소시킵니다.
-PassiveSkill_Desc_10261	셰라자드의 최대 체력이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10262	셰라자드 사망 시, 적군 전체에게 대상의 최대 체력 {v0.0}%에 해당하는 피해를 입히며, 모든 아군의 디버프를 제거하고, 셰라자드의 최대 체력 {v0.0}%만큼 아군을 회복시키며, {t0}턴간 디버프 무효 효과를 부여합니다. (대상의 최대 체력에 비례하는 대미지는 40000을 초과하지 않으며, 해당 효과는 전투 당 1회 발동됩니다.)
-PassiveSkill_Desc_10264	또한, {t0}턴간 매 턴마다 랜덤한 적군에게 셰라자드의 최대 체력 {v0.0}%에 해당하는 피해를 1회 줍니다.
-PassiveSkill_Desc_10311	마녀 세실리아의 최대 체력 {v0.0}%만큼 스스로를 회복합니다. ‘밤의 영역’에 진입한 상태에서 해당 스킬 사용 시, {v0.0}% 확률로 대상에게 {t0}턴간 ‘공포’ 효과를 부여합니다.\\r- 공포 : 효과 지속 동안 일반 공격이 불가하며, 스킬 대미지가 {v0.0}% 감소합니다.
-PassiveSkill_Desc_10313	‘밤의 영역’에 진입한 상태에서 해당 스킬 사용 시, 해당 스킬에 피격된 대상은 {t0}턴간 체력 회복이 불가합니다.
-PassiveSkill_Desc_10315	액티브 스킬 사용 시, {t0}턴간 크리스티앙의 크리티컬 확률이 {v0.0}% 증가합니다.\\r상대가 방어형 캐릭터인 경우 확정적으로 크리티컬이 발생합니다.
-PassiveSkill_Desc_10318	크리스티앙의 크리티컬 대미지가 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10319	크리스티앙의 일반 공격에 크리티컬이 발생할 경우, 피격 대상에게 {t0}턴간 ‘좌표’를 지정합니다. ‘좌표’가 지정된 대상은 크리티컬 저항이 {v0.0}% 감소되며, 해당 대상을 크리스티앙이 액티브 스킬로 공격할 시, 방어력을 {v0.0}% 무시하고, {t0}턴간 스턴 상태를 부여합니다. 아군이 적 처치 시, 전투 종료까지 크리스티앙은 적의 방어력을 {v0.0}% 무시하며, 최대 5회 누적 가능합니다. (‘좌표’는 지정 후, {t0}턴 이후에 재지정 가능합니다.)\\r- 스턴 : 지속 턴 동안 일반 공격 및 스킬 사용 불가
-PassiveSkill_Desc_10324	해당 스킬 공격 시, {t0}턴간 크리스티앙의 크리티컬 확률이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10326	적군의 전체 공격 스킬에 대하여 자신이 받는 대미지가 {v0.0}% 감소하며, 적 전체 공격 스킬 피격 후 턴 종료 시, 적군 전체의 버프를 {v0}개 제거합니다.
-PassiveSkill_Desc_10330	죠안 생존 시, 적군 전체의 크리티컬 대미지가 {v0.0}% 감소합니다.
-PassiveSkill_Desc_10332	자신이 살아있는 동안, 적군의 전체 공격 스킬에 대해 아군의 크리티컬 저항이 {v0.0}% 증가합니다. 적군 전체 공격 스킬에 피격 시, {t0}턴간 적 전체의 스킬 대미지가 {v0.0}% 명중률을 {v0.0}% 감소시키며, 공격자는 3턴간 버프를 받지 못합니다.
-PassiveSkill_Desc_10339	적이 액티브 스킬로 누군가에게 버프를 부여할 경우, {t0}턴간 적군 전체의 대미지를 {v0.0}% 감소시킵니다.
-PassiveSkill_Desc_10340	악마 카인 생존 시, 적 전체의 받는 회복량을 {v0.0}%, 디버프 저항을 {v0.0}% 감소시킵니다.
-PassiveSkill_Desc_10342	일반 공격 {v0}회마다 악마 카인은 {t0}턴간 ‘주시’ 상태가 되며, ‘주시’ 상태에서 적이 액티브 스킬로 버프를 추가할 경우, 다음 턴에 버프가 가장 많은 대상에게 {t0}턴간 방어력을 {v0.0}% 감소시키며, {t0}턴간 침묵 상태를 부여합니다.\\r - 침묵 : 지속 턴 동안 스킬 사용 불가
-PassiveSkill_Desc_10348	웨이브 진입 시, 아군 자연 속성 캐릭터가 3명 이상일 경우 ‘고동치는 환희’ 효과가 발동되며, 아군 자연 속성 캐릭터가 3명 이하일 경우 ‘엄습하는 위협’ 효과가 발동됩니다.\\r고동치는 환희 : 아군의 가하는 속성 대미지가 {v0.0}% 증가되며, 크리티컬 확률이 {v0.0}% 증가합니다. \\r엄습하는 위협 : 적군 전체에게 ‘속성 약화’ 효과를 부여하며, 적 전체의 디버프 저항이 {v0.0}% 감소됩니다.\\r- 속성 약화 : 받는 속성 대미지 {v0.0}% 증가
-PassiveSkill_Desc_10352	소피 생존 시, 적 전체의 방어력이 {v0.0}% 감소됩니다.
-PassiveSkill_Desc_10354	액티브 스킬 사용 시, 오프닝!의 효과인 ‘고동치는 환희’ 효과를 사용 중일 경우, {t0}턴간 ‘엄습하는 위협’ 효과를 발동하고, ‘업습하는 위협’ 효과를 사용 중일 경우, {t0}턴간 ‘고동치는 환희’ 효과를 발동합니다. 또한, 액티브 스킬 사용 시, {t0}턴간 아군 자연 속성 캐릭터의 명중률을 {v0.0}% 증가시킵니다.
-PassiveSkill_Desc_10358	자연 속성 아군이 스킬 사용 시, 소피의 ‘토끼의 노래!’ 효과 적용 대상의 스킬 대미지를 {t0}턴간 {v0.0}% 감소시킵니다.
-PassiveSkill_Desc_10359	2. 스킬 발동 후 첫 일반 공격 행동 시, {t0}턴간 적군 전체의 받는 회복력을 {v0.0}% 감소합니다.\\r3. 스킬 발동 후 두번째 일반 공격 행동 시, 적군 전체에게 소피의 방어력 {v0.0}% 비율의 대미지를 주며, {v0.0}% 확률로 {t0}턴간 ‘혼란’을 부여합니다.\\r- 혼란 : 피격 시 공격자 공격력의 {v0.0}%만큼 추가 대미지 부여
-PassiveSkill_Desc_10369	타브리스의 일반 공격 {v0}회마다 랜덤한 적군 1명에게 {t0}턴간 타브리스의 체력 {v0.0}%의 지속 대미지를 부여하며, 액티브 스킬 사용 시, 피격 대상에게 {t0}턴간 타브리스의 최대 체력 {v0.0}%만큼 지속 대미지를 줍니다.
-PassiveSkill_Desc_10372	타브리스 생존 시, 적군 전체의 받는 지속 대미지량이 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10374	타브리스의 최대 체력이 {v0.0}% 증가하며, 타브리스 생존 시, 아군이 타브리스의 지속 대미지를 받고 있는 대상을 일반 공격 시, 공격자는 가한 대미지의 {v0.0}%를 흡수하여 체력을 회복합니다. 빛 속성 아군이 스킬 사용 시, 타브리스의 지속 대미지를 받고 있는 모든 대상에게 {t0}턴간 스턴을 부여합니다. (스턴 효과는 부여 시도 이후 {t0}턴까지 재발동 할 수 없습니다.)\\r- 스턴 : 지속 턴 동안 일반 공격 및 스킬 사용 불가
-PassiveSkill_Desc_10379	자신보다 후위에 있는 아군이 공격을 받을 시, {t0}턴간 공격력이 가장 높은 적의 대미지를 {v0.0}%, 명중률을 {v0.0}% 감소시킵니다. (패시브 발동 쿨타임: {t0}턴)
-PassiveSkill_Desc_10381	티나의 방어력이 {v0.0}% 증가하며, 티나 생존 시 아군에 ‘올리비에’가 존재할 경우, 티나와 올리비에의 속성 대미지가 {v0.0}% 증가합니다.
-PassiveSkill_Desc_10386	모든 아군의 받는 속성 대미지가 {v0.0}% 감소됩니다. 현재 생존한 아군이 티나를 포함하여 3명 이하가 될 때, 방어형을 제외한 모든 아군은 3턴간 적의 타겟이 되지 않습니다. (해당 효과는 전투 중 1회 발동하며, 티나 사망 시 해당 패시브 효과는 해제됩니다.)
-PassiveSkill_Desc_10390	해당 스킬 사용 후 {t0}턴간 개화 상태가 되어, 방어형을 제외한 아군의 받는 대미지를 {v0.0}% 감소시키고, 개화 시 현재 체력이 가장 낮은 아군 한 명에게 {t0}턴간 무적 상태를 부여합니다. (무적 효과는 개화 효과당 1회 발동합니다.)
-PassiveSkill_Desc_13000	군중 제어 효과 (스턴, 수면, 빙결, 변이)에 면역 상태가 되며, 행동력 관련 효과를 받지 않습니다.
-PassiveSkill_Desc_13001	볼테르가 액티브 스킬 공격 시, 피격 대상에게 {v0.0}% 확률로 {t0}턴 간 점화를 부여합니다.\\r- 점화 : 지속 시간 종료 시, 폭발하여 볼테르 공격력의 {v0.0}%의 대미지를 부여하며 {t0}턴 간 볼테르 공격력의 {v0.0}%의 화상을 부여합니다.
-PassiveSkill_Desc_13002	볼테르가 액티브 스킬 공격 시, 피격 대상에게 {v0.0}% 확률로 {t0}턴 간 점화를 부여합니다.\\r- 점화 : 지속 시간 종료 시, 폭발하여 볼테르 공격력의 {v0.0}%의 대미지를 부여하며 {t0}턴 간 볼테르 공격력의 {v0.0}%의 화상을 부여합니다.
-PassiveSkill_Desc_13003	볼테르가 일반 공격 {v0}회 마다 ‘작열’ 상태가 되어 볼테르의 대미지 {v0.0}%, 크리티컬 확률이 {v0.0}% 증가하며, 피격 5회 마다 볼테르의 공격력이 {v0.0}% 증가합니다 (최대 3회 중첩) ‘작열’상태일 때 물 속성 캐릭터의 액티브 스킬 피격마다 대미지가 {v0.0}% 감소하며, 3회 피격 시 ‘작열’이 해제됩니다.
-PassiveSkill_Desc_13004	볼테르가 일반 공격 {v0}회 마다 ‘작열’ 상태가 되어 볼테르의 대미지 {v0.0}%, 크리티컬 확률이 {v0.0}% 증가하며, 피격 5회 마다 볼테르의 공격력이 {v0.0}% 증가합니다. (최대 3회 중첩) ‘작열’상태일 때 물 속성 캐릭터의 액티브 스킬 피격마다 대미지가 {v0.0}% 감소하며, 3회 피격 시 ‘작열’이 해제됩니다.
-PassiveSkill_Desc_13006	볼테르의 체력이 {v0.0}% 이하일 때, 볼테르의 공격력 {v0.0}%, 크리티컬 확률 {v0.0}% , 크리티컬 대미지 {v0.0}%가 증가합니다.
-PassiveSkill_Desc_13007	볼테르의 체력이 {v0.0}% 이하일 때, 볼테르의 공격력 {v0.0}%, 크리티컬 확률 {v0.0}% , 크리티컬 대미지 {v0.0}%가 증가합니다.
+PassiveSkill_Desc_10210	스킬 사용 시, 모든 아군의 디버프 {v0}개를 제거하며, {t0}턴간 방어력을 {v0.0}% 증가시킵니다.
+PassiveSkill_Desc_10212	아멜리 패시브 설명
+PassiveSkill_Desc_10213	아멜리 패시브 설명
+PassiveSkill_Desc_10214	아멜리 패시브 설명
+PassiveSkill_Desc_13000	살아 있는 동안 군중 제어 효과 (스턴, 수면, 빙결, 변이)에 면역 상태가 됩니다.
+PassiveSkill_Desc_13001	{t0} 턴 마다 가장 앞에 있는 적에게 {t0}턴 간 화상 효과를 부여합니다.\\r- 화상 : 시전자 공격력의 {v0.0}% 만큼 대미지 부여
+PassiveSkill_Desc_13002	{t0} 턴 마다 가장 앞에 있는 적에게 {t0}턴 간 화상 효과를 부여하고 방어력을 {v0.0}% 감소합니다.\\r- 화상 : 시전자 공격력의 {v0.0}% 만큼 대미지 부여
+PassiveSkill_Desc_13003	화상 상태의 적군 공격 시 공격력이 {v0.0}% 증가된 공격을 시전합니다.
+PassiveSkill_Desc_13004	화상 상태 및 점화 상태의 적군 공격 시 공격력이 {v0.0}% 증가된 공격을 시전합니다.
+PassiveSkill_Desc_13005	화상 상태 및 점화 상태의 적군 공격 시 공격력이 {v0.0}% 증가된 공격을 시전합니다.
+PassiveSkill_Desc_13006	다음 페이즈가 될 때 자기 자신의 공격력 {v0.0}%, 크리티컬 확률 {v0.0}% , 크리티컬 대미지 {v0.0}%가 증가합니다.
+PassiveSkill_Desc_13007	다음 페이즈가 될 때 자기 자신의 공격력 {v0.0}%, 크리티컬 확률 {v0.0}% , 크리티컬 대미지 {v0.0}%가 증가합니다.
 PassiveSkill_Desc_13012	일반 공격 시, {v0.0}%의 확률로 {t0}턴 간 적을 침묵 상태로 만듭니다.\\r - 침묵 : 지속 턴 간 스킬 사용 불가
 PassiveSkill_Desc_13013	일반 공격 시, {v0.0}%의 확률로 {t0}턴 간 적의 방어력을 {v0.0} % 감소시킵니다. \\r두 가지 효과는 동시에 적용될 수 있습니다.
 PassiveSkill_Desc_13014	자신이 살아 있는 동안 자신을 제외한 아군 전체의 공격력을 {v0.0}% 증가시켜줍니다.
@@ -844,38 +568,24 @@ PassiveSkill_Desc_13061	전투 진입 시, 자기 자신의 크리티컬 저항�
 PassiveSkill_Desc_13062	자기 자신을 포함한 아군 전체가 버프가 적용 중인 대상 공격 시 대미지가 {v0.0}% 증가합니다.
 PassiveSkill_Desc_13064	턴 마다 등불 스택이 쌓입니다. 등불 의 수 X {v0.0}%만큼 자기 자신의 공격력이 증가합니다.
 PassiveSkill_Desc_13065	전투 진입 시, 자기 자신의 스킬 공격력이 {v0.0}% 증가합니다.
+PassiveSkill_Desc_13066	등불의 수가 {v0}이상인 상태가 되면,자기 자신의 공격력 {V0.0}%, 회피율 {v0.0}% 증가합니다.\\r빛 속성에 의한 상성대미지는 무시됩니다.
 PassiveSkill_Desc_13067	전투 진입 시, 모든 적의 스킬 공격력이 {v0.0}% 감소합니다.
 PassiveSkill_Desc_13068	루아의 체력이 {v0.0}% 이하가 되면, 공격력 {v0.0}%와 대미지 {v0.0}%가 증가합니다.
 PassiveSkill_Desc_13069	아군의 공격 턴이 시작될 때마다 {v0.0}%의 확률로 임의의 적 1명의 행동력이 {v0} 감소합니다.
-PassiveSkill_Desc_13070	군중 제어 효과 (스턴, 수면, 빙결, 변이)에 면역 상태가 되며, 받는 속성 대미지가 {v0.0}% 감소합니다.
-PassiveSkill_Desc_13071	아슬라의 일반 공격 명중 시, {v0.0}% 확률로 피격 대상은 {t0}턴 동안 빙결 상태가 됩니다.\\r- 빙결 : 공격 및 스킬 사용 불가, 방어력 {v0.0}% 감소
-PassiveSkill_Desc_13072	아슬라의 일반 공격 명중 시, {v0.0}% 확률로 피격 대상은 {t0}턴 동안 빙결 상태가 됩니다.\\r- 빙결 : 공격 및 스킬 사용 불가, 방어력 {v0.0}% 감소
+PassiveSkill_Desc_13070	자신이 살아 있는 동안 스턴 및 수면 효과에 면역 상태가 되며, 받는 속성 상성 대미지가 {v0.0}% 감소합니다.
+PassiveSkill_Desc_13071	일반 공격 명중 시, {v0.0}% 확률로 대상은 {t0}턴 동안 빙결 상태가 됩니다.\\r- 빙결 : {t0}턴 동안 공격 및 스킬 사용 불가, 방어력 {v0.0}% 감소
+PassiveSkill_Desc_13072	일반 공격 시 {v0.0}% 확률로 피격 대상을 {t0}턴 간 빙결 상태로 만들고 행동력을 {v0} 감소 시킵니다.\\r- 빙결 : {t0}턴 동안 공격 및 스킬 사용 불가, 방어력 {v0.0}% 감소
 PassiveSkill_Desc_13073	전투 진입 시, 모든 적의 공격력이 {v0.0}% 감소하고, {t0}턴 마다 공격력이 {v0.0}%씩 추가로 감소합니다.\\r이 효과는 3회까지 중첩됩니다.
 PassiveSkill_Desc_13075	전투 진입 시, 모든 적의 공격력이 {v0.0}% 감소하고, {t0}턴 마다 공격력이 {v0.0}%씩 추가로 감소합니다.\\r이 효과는 3회까지 중첩됩니다.
-PassiveSkill_Desc_13077	{t0}턴 마다 미니 아슬라 1마리를 소환합니다. 미니 아슬라들은 일반 공격 시, 10% 확률로 대상에게 빙결 상태를 부여합니다.\\r- 빙결 : 공격 및 스킬 사용 불가, 방어력 {v0.0}% 감소
-PassiveSkill_Desc_13078	{t0}턴 마다 미니 아슬라 2마리를 소환합니다. 미니 아슬라들은 일반 공격 시, 15% 확률로 대상에게 빙결 상태를 부여합니다.\\r- 빙결 : 공격 및 스킬 사용 불가, 방어력 {v0.0}% 감소
-PassiveSkill_Desc_13079	아슬라의 체력이 {v0.0}% 이하가 되면 아슬라가 몸을 던져 적군 전체를 내려찍는 전체 공격으로 일반 공격이 전환되며, 공격력 {v0.0}%와 방어력 {v0.0}%가 증가합니다.
-PassiveSkill_Desc_13080	아슬라의 체력이 {v0.0}% 이하가 되면 아슬라가 몸을 던져 적군 전체를 내려찍는 전체 공격으로 일반 공격이 전환되며, 공격력 {v0.0}%와 방어력 {v0.0}%가 증가합니다.
-PassiveSkill_Desc_13087	윈디아는 군중 제어 효과 (스턴, 수면, 빙결, 변이)에 면역 상태가 됩니다.\\r{t0}턴마다 버프가 가장 많은 적군 1명에게 {t0}턴 간 ‘환각’을 부여합니다. 환각을 부여받은 대상이 환각 상태가 지속되어야 할 턴에 환각을 해제하고 일반 공격 시, 윈디아에게 {t0}턴 간 윈디아 공격력의 {v0.0}%만큼 지속 대미지가 부여됩니다.\\r- 환각 : 자신이 가하는 모든 공격에 대해 대미지의 {v0.0}%만큼 되돌려 받습니다.
-PassiveSkill_Desc_13091	윈디아가 지속 피해에 대해 받는 피해가 {v0.0}% 증가하는 대신, 자신이 받는 대미지가 {v0.0}% 감소합니다.
-PassiveSkill_Desc_13092	윈디아가 지속 피해에 대해 받는 피해가 {v0.0}% 증가하는 대신, 자신이 받는 대미지가 {v0.0}% 감소합니다. 또한, 윈디아의 체력이 {v0.0}% 이상일 때 일반 공격 시, {v0.0}% 확률로 윈디아의 최대 체력 {v0.0}%만큼 스스로를 회복합니다.
-PassiveSkill_Desc_13094	윈디아가 {t0}턴 이상 지속 피해 디버프를 부여받지 않을 경우, 윈디아의 공격력이 {v0.0}%, 크리티컬 저항이 {v0.0}% 증가합니다. 윈디아에게 지속 피해 디버프가 {v0}종 이상 부여될 시, 지속 피해를 받는 턴 동안 위 효과는 사라집니다. 이후 윈디아에게 서로 다른 종류의 지속 피해 디버프가 {v0}종 이상 부여될 때 즉시 자신의 체력 {v0.0}% 비율의 피해를 받으며, {t0}턴 간 패시브 2의 받는 대미지 감소 효과가 {v0.0}%감소됩니다. (해당 효과는 발동 후 {t0}턴간 재적용 불가합니다.)
-PassiveSkill_Desc_13099	윈디아의 체력이 {v0.0}% 이하가 되었을 시 자신에게 부여된 모든 디버프를 해제하고, {t0}턴간 무적 상태가 되며 턴마다 윈디아 최대 체력 {v0.0}%만큼 회복합니다. 무적 상태에서 플레이어가 1턴 내에 액티브 스킬 {v0}개 이상 사용 시, 윈디아의 무적 상태가 즉시 해제되고,\\r윈디아의 체력이 {v0.0}%가 되며, 전투가 종료될 때까지 자신이 받는 지속피해의 대미지가 {v0.0}% 증가합니다.
-PassiveSkill_Desc_13104	윈디아의 체력이 {v0.0}% 이하가 되었을 시 자신에게 부여된 모든 디버프를 해제하고, {t0}턴간 무적 상태가 되며 턴마다 윈디아 최대 체력 {v0.0}%만큼 회복합니다. 무적 상태에서 플레이어가 1턴 내에 액티브 스킬 {v0}개 이상 사용 시, 윈디아의 무적 상태가 즉시 해제되고,\\r윈디아의 체력이 {v0.0}%가 되며, 전투가 종료될 때까지 자신이 받는 지속피해의 대미지가 {v0.0}% 증가합니다.
-PassiveSkill_Desc_13109	윈디아의 체력이 {v0.0}% 이하일 때, 윈디아의 뿌리가 적군을 관통하는 직선 공격으로 일반 공격이 전환되며, 적군 전체의 스킬 방어력이 {v0.0}% 감소합니다. 또한, 윈디아 액티브 스킬 사용 때마다, 해당 스킬의 쿨타임이 2턴 감소합니다.
-PassiveSkill_Desc_13113	윈디아의 체력이 {v0.0}% 이하일 때, 윈디아의 뿌리가 적군을 관통하는 직선 공격으로 일반 공격이 전환되며, 적군 전체의 스킬 방어력이 {v0.0}% 감소합니다. 또한, 윈디아의 체력이 {v0.0}% 이하일 때, 윈디아의 속성 대미지가 {v0.0}% 증가하며, 윈디아 액티브 스킬 사용 때마다, 해당 스킬의 쿨타임이 2턴 감소합니다.
-PassiveSkill_Desc_13119	자신의 체력이 {v0.0}% 이상일 때, 일반 공격 피격 시 {v0}씩, 스킬 공격 피격 시 {v0}씩 짜증 에너지가 충전됩니다. 짜증 에너지 충전 상태에 따라 다음 효과가 발동됩니다.\\r- 짜증 풀 충전 모드: 짜증 에너지가 100이 되었을 시 발동하며, {t0}턴간 공격력 {v0.0}%, 방어력 {v0.0}% 상승합니다.\\r- 시스템 다운: {t0}마다 짜증 에너지가 완충되지 않았을 시, {t0}턴간 공격이 불가하며, 받는 데미지가 {v0.0}% 증가합니다.
-PassiveSkill_Desc_13120	곰돌이 다이브' 스킬 발동 후, {t0}턴간 모든 속성 공격에 대해 받는 대미지가 {v0.0}% 감소합니다.
-PassiveSkill_Desc_13121	타격 대상이 '교란' 상태일 시 공격력의 {v0.0}%의 추가 타격을 가합니다.
-PassiveSkill_Desc_13122	모든 군중 제어 효과(빙결, 스턴, 수면)와 매료, 출혈에 면역입니다.
-PassiveSkill_Desc_13124	군중 제어 효과 (스턴, 수면, 빙결, 변이)에 면역 상태가 되며, 행동력 관련 효과를 받지 않습니다.
-PassiveSkill_Desc_13125	볼테르가 액티브 스킬 공격 시, 피격 대상에게 {v0.0}% 확률로 {t0}턴 간 점화를 부여합니다.\\r- 점화 : 지속 시간 종료 시, 폭발하여 볼테르 공격력의 {v0.0}%의 대미지를 부여하며 {t0}턴 간 볼테르 공격력의 {v0.0}%의 화상을 부여합니다.
-PassiveSkill_Desc_13127	볼테르가 일반 공격 {v0}회 마다 ‘작열’ 상태가 되어 볼테르의 대미지 {v0.0}%, 크리티컬 확률이 {v0.0}% 증가하며, 피격 5회 마다 볼테르의 공격력이 {v0.0}% 증가합니다. (최대 5회 중첩) ‘작열’상태일 때 물 속성 캐릭터의 액티브 스킬 피격 마다 대미지가 {v0.0}% 감소하며, 4회 피격 시 ‘작열’이 해제됩니다.
-PassiveSkill_Desc_13133	볼테르의 체력이 {v0.0}% 이하일 때, 볼테르의 공격력 {v0.0}%, 크리티컬 확률 {v0.0}% , 크리티컬 대미지 {v0.0}%가 증가하며, 모든 스킬의 기본 쿨타임이 1 감소합니다.
-PassiveSkill_Desc_13146	아슬라가 공격할 때, 피격 대상 중 빙결을 보유한 적 존재 시, 아슬라가 가한 모든 피해의 {v0.0}%를 흡수하며, 아슬라의 일반 공격 명중 시, {v0.0}% 확률로 피격 대상은 {t0}턴 동안 빙결 상태가 됩니다. \\r- 빙결 : 공격 및 스킬 사용 불가, 방어력 {v0.0}% 감소
-PassiveSkill_Desc_13148	전투 진입 시, 모든 적의 공격력이 {v0.0}% 감소하고, {t0}턴 마다 공격력이 {v0.0}%씩 추가로 감소하며, (최대 3회 중첩) 액티브 스킬 사용 시 3턴간 행동력 변화 면역 상태가 됩니다.
-PassiveSkill_Desc_13152	{t0}턴 마다 미니 아슬라 2마리를 소환합니다. 미니 아슬라들은 일반 공격 시, 15% 확률로 대상에게 {t0}턴간 빙결 상태를 부여합니다.\\r- 빙결 : 공격 및 스킬 사용 불가, 방어력 {v0.0}% 감소
-PassiveSkill_Desc_13153	아슬라의 체력이 {v0.0}% 이하가 되면 아슬라가 몸을 던져 적군 전체를 내려찍는 전체 공격으로 일반 공격이 전환되며, 공격력 {v0.0}%와 방어력 {v0.0}%가 증가합니다. 또한, 액티브 스킬 사용 시, {t0}턴간 크리티컬 대미지를 받지 않습니다.
+PassiveSkill_Desc_13076	{t0}턴 마다 미니 아슬라 1마리를 소환합니다
+PassiveSkill_Desc_13077	{t0}턴 마다 미니 아슬라 2마리를 소환합니다
+PassiveSkill_Desc_13078	아슬라의 체력이 {v0.0}% 이하가 되면, 다음 페이즈로 전환되고 공격력 {v0.0}%와 방어력 {v0.0}%가 증가합니다.
+PassiveSkill_Desc_13079	아슬라의 체력이 {v0.0}% 이하가 되면, 다음 페이즈로 전환되고 공격력 {v0.0}%와 방어력 {v0.0}%가 증가합니다.
+PassiveSkill_Desc_13080	아슬라의 체력이 {v0.0}% 이하가 되면, 다음 페이즈로 전환되고 공격력 {v0.0}%와 방어력 {v0.0}%가 증가합니다.
+PassiveSkill_Desc_13099	자신의 체력이 {v0.0}% 이상일 때, 일반 공격 피격 시 {v0}씩, 스킬 공격 피격 시 {v0}씩 짜증 에너지가 충전됩니다. 짜증 에너지 충전 상태에 따라 다음 효과가 발동됩니다.\\r- 짜증 풀 충전 모드: 짜증 에너지가 100이 되었을 시 발동하며, {t0}턴간 공격력 {v0.0}%, 방어력 {v0.0}% 상승합니다.\\r- 시스템 다운: {t0}마다 짜증 에너지가 완충되지 않았을 시, {t0}턴간 공격이 불가하며, 받는 데미지가 {v0.0}% 증가합니다.
+PassiveSkill_Desc_13100	곰돌이 다이브' 스킬 발동 후, {t0}턴간 모든 속성 공격에 대해 받는 대미지가 {v0.0}% 감소합니다.
+PassiveSkill_Desc_13101	타격 대상이 '교란' 상태일 시 공격력의 {v0.0}%의 추가 타격을 가합니다.
+PassiveSkill_Desc_13102	모든 군중 제어 효과(빙결, 스턴, 수면)와 매료, 출혈에 면역입니다.
 PassiveSkill_Desc_19000	적 처치 시, 모든 아군의 방어력이 {v0.0}% 증가합니다.\\r이 효과는 최대 10회 중첩됩니다.
 PassiveSkill_Desc_19001	자신의 체력이 {v0.0}%일 때, 모든 아군에게 {t0}턴 동안 지속되는 체력 {v0.0}%의 방어막을 부여합니다. 이 효과는 {v0.0}% 이하일 때도 발동합니다.\\r(해당 효과는 전투 당 1회 발동됩니다.)
 PassiveSkill_Desc_19003	자신의 액티브 스킬 A 사용 시,  {t0}턴 동안 모든 아군의 일반 공격력이 {v0.0}% 증가합니다.

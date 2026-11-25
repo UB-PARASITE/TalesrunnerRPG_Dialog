@@ -41,7 +41,7 @@ Grade_Name_0039	오필리아
 Grade_Name_0040	아나스타샤
 Grade_Name_0041	피치 크러시
 Grade_Name_0042	자르갈
-Grade_Name_0043	닉스
+Grade_Name_0043	제인도우 헌터
 Grade_Name_0044	사야
 Grade_Name_0045	바다
 Grade_Name_0046	릴리스
@@ -55,14 +55,3 @@ Grade_Name_0053	카인
 Grade_Name_0054	미호
 Grade_Name_0055	라리사
 Grade_Name_0056	아멜리
-Grade_Name_0057	연오
-Grade_Name_0058	미하일
-Grade_Name_0059	시호
-Grade_Name_0060	살라딘
-Grade_Name_0061	셰라자드
-Grade_Name_0062	크리스티앙
-Grade_Name_0063	죠안
-Grade_Name_0064	악마 카인
-Grade_Name_0065	소피
-Grade_Name_0066	타브리스
-Grade_Name_0067	티나

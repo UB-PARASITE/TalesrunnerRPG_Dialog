@@ -1,7 +1,6 @@
 Inventory_Name_0001	전체
 Inventory_Name_0002	소모품
 Inventory_Name_0003	성장
-Inventory_Name_0004	선물
-Inventory_Name_0005	기타
-Inventory_Name_0006	운명의 돌
-Inventory_Name_0007	장비
+Inventory_Name_0004	장비
+Inventory_Name_0005	선물
+Inventory_Name_0006	기타
