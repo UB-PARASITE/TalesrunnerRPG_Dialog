@@ -1,7 +1,7 @@
 const $=id=>document.getElementById(id);
 let dialogs=[],groups=[],choices=[],branchMap=[],chapters=[],enums=[],storyTitles=[],titleByDialog=new Map(),filtered=[],page=0;
 const PAGE=200,selectedBranches={},textCache={},textMap={},heroCache={},heroMap={},writerCache={},writerMap={};
-let currentLanguage='kor';
+let currentLanguage='kor',friendshipTitlesLoaded=false;const friendshipTitleMaps={kor:{},eng:{}};
 const localizedFiles={kor:'TextAsset/Text_Dialog_loc_kor.txt',eng:'TextAsset/Text_Dialog_loc_eng.txt'};
 function resolveText(key){return textMap[key]||'';}
 function resolvePortrait(id){const value=String(id??'').trim();if(value==='-1')return '旁白';return heroMap['Hero_Name_'+value.padStart(4,'0')]||writerMap['Writer_Name_'+value.padStart(4,'0')]||'';}
@@ -22,13 +22,14 @@ async function loadTextLanguage(lang='kor'){
  Object.keys(textMap).forEach(k=>delete textMap[k]);Object.assign(textMap,textCache[lang]);
  Object.keys(heroMap).forEach(k=>delete heroMap[k]);Object.assign(heroMap,heroCache[lang]);
  Object.keys(writerMap).forEach(k=>delete writerMap[k]);Object.assign(writerMap,writerCache[lang]);
+ if(!friendshipTitlesLoaded){const [koResponse,enResponse]=await Promise.all([fetch('TextAsset/Text_FriendshipStory_loc_kor.txt'),fetch('TextAsset/Text_FriendshipStory_loc_eng.txt')]);if(!koResponse.ok||!enResponse.ok)throw Error('Text_FriendshipStory_loc');const [koRaw,enRaw]=await Promise.all([koResponse.text(),enResponse.text()]);friendshipTitleMaps.kor=parseLocalization(koRaw);friendshipTitleMaps.eng=parseLocalization(enRaw);friendshipTitlesLoaded=true;}
  $('languageStatus').textContent='已載入 '+lang.toUpperCase()+' · 對話 '+Object.keys(textMap).length.toLocaleString()+' 筆／角色 '+Object.keys(heroMap).filter(k=>k.startsWith('Hero_Name_')).length.toLocaleString()+' 筆／Writer '+Object.keys(writerMap).filter(k=>k.startsWith('Writer_Name_')).length.toLocaleString()+' 筆';
 }
 const nfmt=n=>Number(n||0).toLocaleString();
 async function load(){
- const files=['summary','dict-dialogs','dialog-groups','choice-blocks','branch-execution-map','chapters','dialog-type-enums','story-dialog-title-map'];
+ const files=['summary','dict-dialogs','dialog-groups','choice-blocks','branch-execution-map','chapters','dialog-type-enums','story-dialog-title-map','friendship-story-dialog-map'];
  const vals=await Promise.all(files.map(x=>fetch(`data/${x}.json`).then(r=>{if(!r.ok)throw Error(x);return r.json()})));
- const [sum,d,g,c,b,ch,e,st]=vals;dialogs=d;groups=g;choices=c;branchMap=b;chapters=ch;enums=e;storyTitles=st;titleByDialog=new Map(st.map(x=>[x.dialogId,x]));
+ const [sum,d,g,c,b,ch,e,st,fr]=vals;dialogs=d;groups=g;choices=c;branchMap=b;chapters=ch;enums=e;storyTitles=st.concat(fr.map(([dialogId,storyId])=>({type:'friendship',dialogId,storyId,storyNameKey:'FriendshipStory_StoryName_'+String(storyId).padStart(4,'0')})));titleByDialog=new Map(storyTitles.map(x=>[x.dialogId,x]));
  $('stats').innerHTML=[['dialogRecords','Dialog records'],['dialogIds','Dialog IDs'],['choiceBlocks','Choice blocks'],['branchExecutionRows','Branch rows']].map(([k,l])=>`<div><b>${nfmt(sum[k])}</b><span>${l}</span></div>`).join('');
  chapters.filter(x=>x.id>0).forEach(c=>{const o=document.createElement('option');o.value=c.dialogIds[0]??'';o.textContent=`${c.label||c.nameKey} · Dialog ${c.dialogIds.join(', ')||'—'}`;$('chapter').append(o)});
  const t1=[...new Map(dialogs.map(x=>[x.type1,x.type1Name])).entries()].sort((a,b)=>a[0]-b[0]);
@@ -37,13 +38,13 @@ async function load(){
 }
 function search(){
  const id=$('dialogId').value.trim(),key=$('textKey').value.trim().toLowerCase(),title=$('storyTitle').value.trim().toLowerCase(),t1=$('type1').value;
- filtered=dialogs.filter(x=>(!id||x.id===Number(id))&&(!key||String(x.textKey).toLowerCase().includes(key)||resolveText(x.textKey).toLowerCase().includes(key)||String(x.strValue).toLowerCase().includes(key))&&(!title||(()=>{const t=titleByDialog.get(x.id);return !!t&&[t.title_ko,t.title_en,t.parent_title_ko,t.parent_title_en].some(v=>String(v||'').toLowerCase().includes(title))})())&&(!t1||x.type1===Number(t1)));
+ filtered=dialogs.filter(x=>(!id||x.id===Number(id))&&(!key||String(x.textKey).toLowerCase().includes(key)||resolveText(x.textKey).toLowerCase().includes(key)||String(x.strValue).toLowerCase().includes(key))&&(!title||(()=>{const t=titleByDialog.get(x.id),names=t?.type==='friendship'?[friendshipTitleMaps.kor[t.storyNameKey],friendshipTitleMaps.eng[t.storyNameKey]]:t?[t.title_ko,t.title_en,t.parent_title_ko,t.parent_title_en]:[];return names.some(v=>String(v||'').toLowerCase().includes(title))})())&&(!t1||x.type1===Number(t1)));
  page=0;const chosen=id?Number(id):null;$('activeId').textContent=chosen===null?'篩選結果':`Dialog ${chosen}`;renderRecords();renderChoices(chosen);renderFlow(chosen);
 }
 function renderRecords(){
  const start=page*PAGE,part=filtered.slice(start,start+PAGE);
  $('recordSummary').textContent=`${nfmt(filtered.length)} 筆符合；每頁最多 ${PAGE} 筆`;
- $('records').innerHTML=part.length?part.map(x=>`<tr><td>${x.order}</td><td>${esc(x.type1Name)} <small>(${x.type1})</small></td><td>${esc(x.type2Name)} <small>(${x.type2})</small></td><td>${esc(x.type3Name)} <small>(${x.type3})</small></td><td><span class="speaker-name">${esc(resolvePortrait(x.portraitId)||'未知角色')}</span><small class="key">ID ${esc(x.portraitId)}</small></td><td>${(()=>{const t=titleByDialog.get(x.id);return t?`<b>${esc(currentLanguage==='eng'?t.title_en:t.title_ko)}</b><small class="key">${t.type==='main'?`主線 · CH${t.chapterId}-${t.order}`:`支線 · ${esc(currentLanguage==='eng'?t.parent_title_en:t.parent_title_ko)} · #${t.order}`}</small>`:'<span class="muted">—</span>'})()}</td><td><div class="localized-text">${formatText(resolveText(x.textKey))||'<span class="muted">（無對應文本）</span>'}</div><small class="key">${esc(x.textKey)}</small></td><td>${x.delay}</td><td>${esc(x.strValue)}</td></tr>`).join(''):`<tr><td colspan="9">沒有符合的記錄。</td></tr>`;
+ $('records').innerHTML=part.length?part.map(x=>`<tr><td>${x.order}</td><td>${esc(x.type1Name)} <small>(${x.type1})</small></td><td>${esc(x.type2Name)} <small>(${x.type2})</small></td><td>${esc(x.type3Name)} <small>(${x.type3})</small></td><td><span class="speaker-name">${esc(resolvePortrait(x.portraitId)||'未知角色')}</span><small class="key">ID ${esc(x.portraitId)}</small></td><td>${(()=>{const t=titleByDialog.get(x.id);return t?`<b>${esc(t.type==='friendship'?(friendshipTitleMaps[currentLanguage][t.storyNameKey]||'未有標題'):(currentLanguage==='eng'?t.title_en:t.title_ko))}</b><small class="key">${t.type==='main'?`主線 · CH${t.chapterId}-${t.order}`:t.type==='friendship'?`友情故事 · #${t.storyId}`:`支線 · ${esc(currentLanguage==='eng'?t.parent_title_en:t.parent_title_ko)} · #${t.order}`}</small>`:'<span class="muted">—</span>'})()}</td><td><div class="localized-text">${formatText(resolveText(x.textKey))||'<span class="muted">（無對應文本）</span>'}</div><small class="key">${esc(x.textKey)}</small></td><td>${x.delay}</td><td>${esc(x.strValue)}</td></tr>`).join(''):`<tr><td colspan="9">沒有符合的記錄。</td></tr>`;
  $('pageInfo').textContent=`${filtered.length?start+1:0}–${Math.min(start+PAGE,filtered.length)} / ${filtered.length}`;$('prev').disabled=page===0;$('next').disabled=start+PAGE>=filtered.length;
 }
 function renderChoices(id){
