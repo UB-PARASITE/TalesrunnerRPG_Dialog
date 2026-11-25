@@ -13,3 +13,4 @@ WorldItem_Name_0011	능력치 업
 WorldItem_Name_0012	비밀 상자
 WorldItem_Name_0013	경험치 포션
 WorldItem_Name_0014	스태미나
+WorldItem_Name_0015	캐릭터 페이지

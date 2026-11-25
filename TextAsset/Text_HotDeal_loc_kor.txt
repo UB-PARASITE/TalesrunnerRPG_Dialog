@@ -5,12 +5,16 @@ HotDeal_HotDealName_0104	작가 레벨 50 달성 팩
 HotDeal_HotDealName_0105	작가 레벨 60 달성 팩
 HotDeal_HotDealName_0106	작가 레벨 70 달성 팩
 HotDeal_HotDealName_0107	작가 레벨 80 달성 팩
+HotDeal_HotDealName_0108	작가 레벨 10 달성 팩
+HotDeal_HotDealName_0109	작가 레벨 90 달성 팩
+HotDeal_HotDealName_0110	작가 레벨 100 달성 팩
 HotDeal_HotDealName_0201	피노키오 집필 달성 팩
 HotDeal_HotDealName_0202	잠자는 숲 속의 공주 집필 달성 팩
 HotDeal_HotDealName_0203	빨간 두건 집필 달성 팩
 HotDeal_HotDealName_0204	호두까기 인형 집필 달성 팩
 HotDeal_HotDealName_0205	인어공주 집필 달성 팩
 HotDeal_HotDealName_0206	겨울 나무 숲 집필 달성 팩
+HotDeal_HotDealName_0207	겨울 나무 숲 (하) 집필 달성 팩
 HotDeal_HotDealName_0301	어둠의 심연 지하 2층 클리어 팩
 HotDeal_HotDealName_0302	어둠의 심연 지하 4층 클리어 팩
 HotDeal_HotDealName_0303	어둠의 심연 지하 6층 클리어 팩
@@ -34,12 +38,16 @@ HotDeal_Description_0104	작가, 대단해!!\\r칭찬해 줄게! 에헷!
 HotDeal_Description_0105	후후, 당신. 제 신하가 \\r되지 않겠어요?
 HotDeal_Description_0106	어머~ 축하 공연이라도\\r해줘야겠는데?
 HotDeal_Description_0107	80레벨 달성! 작가도\\r게임 좀 하는걸~?
+HotDeal_Description_0108	정말 대단해요! 더 멋진 활약을 기대할게요!
+HotDeal_Description_0109	잘하고 있어. 너라면\\r믿고 맡길 수 있겠어.
+HotDeal_Description_0110	영웅이 인정한 영웅!\\r함께 동화나라를 지키자!
 HotDeal_Description_0201	제페토 씨와 행복한\\r모습. 계속 지켜봐 줘!
 HotDeal_Description_0202	잠자는 숲속의 공주…\\r완결 기념이란 것이다!
 HotDeal_Description_0203	에헤헷, 다음엔 자까도\\r같이 빵 먹자!
 HotDeal_Description_0204	우주와 달님이…\\r작가를 축하해 주네요★
 HotDeal_Description_0205	여기서 끝이 아니니까.\\r앞으로도 잘 부탁해!
 HotDeal_Description_0206	다음에는… 겨울나무 \\r숲에서 만나요, 작가님.
+HotDeal_Description_0207	…고마워, 작가.\\r앞으로도 잘 부탁해.
 HotDeal_Description_0301	어둠에 발을 들였나?\\r좋은 시도로군.
 HotDeal_Description_0302	4가 도망가면?\\r포도주로군. 하하하!
 HotDeal_Description_0303	어둠은 언제나 자네의\\r곁에 있다네.

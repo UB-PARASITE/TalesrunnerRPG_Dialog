@@ -41,7 +41,7 @@ Hero_Name_0039	오필리아
 Hero_Name_0040	아나스타샤
 Hero_Name_0041	피치 크러시
 Hero_Name_0042	자르갈
-Hero_Name_0043	제인도우 헌터
+Hero_Name_0043	닉스
 Hero_Name_0044	사야
 Hero_Name_0045	바다
 Hero_Name_0046	릴리스
@@ -55,6 +55,17 @@ Hero_Name_0053	카인
 Hero_Name_0054	미호
 Hero_Name_0055	라리사
 Hero_Name_0056	아멜리
+Hero_Name_0057	연오
+Hero_Name_0058	미하일
+Hero_Name_0059	시호
+Hero_Name_0060	살라딘
+Hero_Name_0061	셰라자드
+Hero_Name_0062	크리스티앙
+Hero_Name_0063	죠안
+Hero_Name_0064	악마 카인
+Hero_Name_0065	소피
+Hero_Name_0066	타브리스
+Hero_Name_0067	티나
 Hero_FullName_0000	강초원
 Hero_FullName_0001	헬리아 볼드윈
 Hero_FullName_0002	루나 플라키디아
@@ -98,7 +109,7 @@ Hero_FullName_0039	오필리아 록스버그
 Hero_FullName_0040	아나스타샤 아냐
 Hero_FullName_0041	피치 크러시
 Hero_FullName_0042	자르갈
-Hero_FullName_0043	제인도우 헌터
+Hero_FullName_0043	닉스
 Hero_FullName_0044	오가타 사야
 Hero_FullName_0045	바다
 Hero_FullName_0046	릴리스
@@ -111,7 +122,18 @@ Hero_FullName_0052	러프
 Hero_FullName_0053	카인 레인울프
 Hero_FullName_0054	미호
 Hero_FullName_0055	라리사
-Hero_FullName_0056	아멜리
+Hero_FullName_0056	아멜리 아모르
+Hero_FullName_0057	연오
+Hero_FullName_0058	미하일 버츄스
+Hero_FullName_0059	시호
+Hero_FullName_0060	살라딘
+Hero_FullName_0061	셰라자드
+Hero_FullName_0062	크리스티앙 데 메디치
+Hero_FullName_0063	죠안 카트라이트
+Hero_FullName_0064	악마 카인
+Hero_FullName_0065	소피
+Hero_FullName_0066	타브리스 신
+Hero_FullName_0067	티나 드 플뢰르
 Hero_Cv_0000	안영미
 Hero_Cv_0001	방시우
 Hero_Cv_0002	김보나
@@ -155,13 +177,13 @@ Hero_Cv_0039	안영미
 Hero_Cv_0040	장미
 Hero_Cv_0041	김현지
 Hero_Cv_0042	이새아
-Hero_Cv_0043	정유정
+Hero_Cv_0043	김성희
 Hero_Cv_0044	박신희
 Hero_Cv_0045	양정화
 Hero_Cv_0046	방연지
 Hero_Cv_0047	정재헌
 Hero_Cv_0048	이세레나
-Hero_Cv_0049	미정
+Hero_Cv_0049	박고운
 Hero_Cv_0050	정재헌
 Hero_Cv_0051	김신우
 Hero_Cv_0052	김혜성
@@ -169,6 +191,17 @@ Hero_Cv_0053	김선혜
 Hero_Cv_0054	우정신
 Hero_Cv_0055	오로아
 Hero_Cv_0056	사문영
+Hero_Cv_0057	강시현
+Hero_Cv_0058	류승곤
+Hero_Cv_0059	김지율
+Hero_Cv_0060	신용우
+Hero_Cv_0061	김보나
+Hero_Cv_0062	강수진
+Hero_Cv_0063	이계윤
+Hero_Cv_0064	김선혜
+Hero_Cv_0065	강은애
+Hero_Cv_0066	표영재
+Hero_Cv_0067	김윤채
 Hero_Class_0000	육상선수
 Hero_Class_0001	테일즈나이츠 단장
 Hero_Class_0002	테일즈나이츠 부단장
@@ -212,7 +245,7 @@ Hero_Class_0039	차석 연금술사
 Hero_Class_0040	설산의 조사대원
 Hero_Class_0041	프로게이머
 Hero_Class_0042	늑대 최후의 일족
-Hero_Class_0043	스나이퍼
+Hero_Class_0043	테일즈노바 용병
 Hero_Class_0044	검객
 Hero_Class_0045	서핑 선수
 Hero_Class_0046	서큐버스
@@ -226,3 +259,14 @@ Hero_Class_0053	동화나라 보좌관
 Hero_Class_0054	태양술사
 Hero_Class_0055	바다의 소원
 Hero_Class_0056	기상술사
+Hero_Class_0057	성주신
+Hero_Class_0058	엔젤시티 대주교
+Hero_Class_0059	차기 수호신장
+Hero_Class_0060	시반 슈미터 단장
+Hero_Class_0061	무타나비의 성녀
+Hero_Class_0062	ISS 비밀요원
+Hero_Class_0063	임페리얼 발키리
+Hero_Class_0064	반전의 악마
+Hero_Class_0065	음유시인
+Hero_Class_0066	속죄의 천사
+Hero_Class_0067	백합의 기사

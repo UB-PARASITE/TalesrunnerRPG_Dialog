@@ -41,7 +41,7 @@ Profile_Name_0039	오필리아
 Profile_Name_0040	아나스타샤
 Profile_Name_0041	피치 크러시
 Profile_Name_0042	자르갈
-Profile_Name_0043	제인도우 헌터
+Profile_Name_0043	닉스
 Profile_Name_0044	사야
 Profile_Name_0045	바다
 Profile_Name_0046	릴리스
@@ -55,4 +55,15 @@ Profile_Name_0053	카인
 Profile_Name_0054	미호
 Profile_Name_0055	라리사
 Profile_Name_0056	아멜리
+Profile_Name_0057	연오
+Profile_Name_0058	미하일
+Profile_Name_0059	시호
+Profile_Name_0060	살라딘
+Profile_Name_0061	셰라자드
+Profile_Name_0062	크리스티앙
+Profile_Name_0063	죠안
+Profile_Name_0064	악마 카인
+Profile_Name_0065	소피
+Profile_Name_0066	타브리스
+Profile_Name_0067	티나
 Profile_Name_10000	시스템

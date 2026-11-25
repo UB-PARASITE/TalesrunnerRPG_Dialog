@@ -10,7 +10,7 @@ Magic_Name_0008	퀸하트의 지속적인 고통
 Magic_Name_0009	회풍참의 화상
 Magic_Name_0010	화룡열파의 화상
 Magic_Name_0011	어스퀘이크의 스턴
-Magic_Name_0012	헤븐스 폴의 스턴
+Magic_Name_0012	헤븐스 폴
 Magic_Name_0013	빅보의 레이지
 Magic_Name_0014	빅보의 기진맥진
 Magic_Name_0015	빅보의 초토화
@@ -65,8 +65,8 @@ Magic_Name_0063	베라 얘들아 부탁해(2)
 Magic_Name_0064	키스멧 당신의 미래는 말이죠..(1)
 Magic_Name_0065	키스멧 당신의 미래는 말이죠..(2)
 Magic_Name_0066	마녀 세실리아 밤을 가르는 어둠(1)
-Magic_Name_0067	마녀 세실리아 슬픔에 잠긴 밤
-Magic_Name_0068	마녀 세실리아 슬픔에 잠긴 밤_효과 삭제용
+Magic_Name_0067	마녀 세실리아 슬픔에 잠긴 밤 1
+Magic_Name_0068	마녀 세실리아 슬픔에 잠긴 밤 2
 Magic_Name_0069	하루 어둠으로 꿰뚫어라
 Magic_Name_0070	하루 블러디 블레이드
 Magic_Name_0071	카이 어둠의 공간에서
@@ -83,9 +83,9 @@ Magic_Name_0081	아나스타샤 벤티스카
 Magic_Name_0082	피치 크러쉬 액티브 A
 Magic_Name_0083	자르갈 마구마구 던지기
 Magic_Name_0084	자르갈 나도 늑대라고!!
-Magic_Name_0085	제인도우의 클로킹
-Magic_Name_0086	제인도우의 강철탄
-Magic_Name_0087	제인도우 헌터 액티브B 적 방어력 감소
+Magic_Name_0085	닉스 액티브 A 클로킹
+Magic_Name_0086	닉스 액티브 B 오버차지
+Magic_Name_0087	닉스 액티브B 적 방어력 감소
 Magic_Name_0088	발도 : 화조일섬
 Magic_Name_0089	타메시기리
 Magic_Name_0090	바다 액티브 스킬 A
@@ -115,8 +115,40 @@ Magic_Name_0113	라리사1-2
 Magic_Name_0114	라리사2
 Magic_Name_0115	라리사2_방어막 제공
 Magic_Name_0116	(추가) 올리비에 액티브 B 효과
-Magic_Name_0117	아멜리 Magic
-Magic_Name_0118	아멜리 Magic
+Magic_Name_0117	아멜리 액티브 B
+Magic_Name_0118	연오 액티브 B
+Magic_Name_0119	미하일 액티브 A
+Magic_Name_0120	미하일 액티브 B
+Magic_Name_0121	닉스 액티브 A 효과 2
+Magic_Name_0122	시호 액티브 스킬 A-1
+Magic_Name_0123	시호 액티브 스킬 A-2(어그로)
+Magic_Name_0124	시호 액티브 스킬 B-1
+Magic_Name_0125	시호 액티브 스킬 B-2
+Magic_Name_0126	피치크러시 액티브 B
+Magic_Name_0127	살라딘 액티브 스킬 A
+Magic_Name_0128	살라딘 액티브 스킬 B-1
+Magic_Name_0129	살라딘 액티브 스킬 B-2
+Magic_Name_0130	(액티브) 셰라자드 액티브 A
+Magic_Name_0131	셰라자드 액티브 스킬 B-1
+Magic_Name_0132	셰라자드 액티브 스킬 B-2
+Magic_Name_0133	크리스티앙 액티브 스킬 A
+Magic_Name_0134	죠안 액티브 A
+Magic_Name_0135	악마 카인 액티브 A
+Magic_Name_0136	악마 카인 액티브 A
+Magic_Name_0137	악마 카인 액티브 B
+Magic_Name_0138	퀸하트의 액티브 B (방깎)
+Magic_Name_0139	제인도우 헌터 스킬 B (출혈)
+Magic_Name_0140	아라모드의 블라인드 크림
+Magic_Name_0141	헨젤의 거품기 크로스
+Magic_Name_0142	제페토의 아군 강화 (크확증)
+Magic_Name_0143	사샤 한 번만 봐주세요
+Magic_Name_0144	세실리아 밤을 부르는 소녀
+Magic_Name_0145	오필리아 약체화 포션
+Magic_Name_0146	소피 액티브 A
+Magic_Name_0147	소피 액티브 B
+Magic_Name_0148	타브리스 액티브 A
+Magic_Name_0149	티나 액티브 A
+Magic_Name_0150	티나 액티브 B
 Magic_Name_1000	작가 액티브 스킬 1 치유의 테일즈 북
 Magic_Name_1001	월드 스킬 1 달콤한 향기
 Magic_Name_1002	월드 스킬 2 서커스 쇼 개최!
@@ -129,6 +161,7 @@ Magic_Name_1008	작가 액티브 스킬 4 버블 워시 2
 Magic_Name_1009	월드 스킬 5 승리의 예언
 Magic_Name_1010	작가 액티브 스킬 5 화염 꽃
 Magic_Name_1011	작가 액티브 스킬 6 겨울 나무 숲의 눈보라
+Magic_Name_1012	작가 액티브 스킬 7 블리자드 메테오
 Magic_Name_2000	트럼프 검사 에이스의 받는 대미지 감소
 Magic_Name_2001	페어리 치유 요정의 힐
 Magic_Name_2002	미미의 도발 효과
@@ -191,6 +224,16 @@ Magic_Name_2058	호두까기 인형 군악병 행동력 증가
 Magic_Name_2059	스노우 페어리 매지션의 힐
 Magic_Name_2060	만타댕댕 방어력 감소
 Magic_Name_2061	킹 슬라미 슬로우
+Magic_Name_2062	야광 도깨비 효과
+Magic_Name_2063	야광 꼬깨비 효과
+Magic_Name_2064	천년호 A 효과
+Magic_Name_2065	천년호 A 효과 2
+Magic_Name_2066	천년호 B 효과
+Magic_Name_2067	얀 지슈카 A 효과
+Magic_Name_2068	얀 지슈카 B 효과
+Magic_Name_2069	철가면 스킬 A 효과
+Magic_Name_2070	철가면 스킬 B 효과
+Magic_Name_2071	철가면 스킬 B 효과 2
 Magic_Name_4000	솟구치는 힘
 Magic_Name_4001	강철 갑옷
 Magic_Name_4002	불타는 화력
@@ -252,10 +295,10 @@ Magic_Name_4057	극한 체력 강화
 Magic_Name_4058	해로움 약화
 Magic_Name_4059	날카로운 공격
 Magic_Name_5000	볼테르 모션 변경
-Magic_Name_5001	하드 볼테르 불카노스 효과
-Magic_Name_5002	볼테르 드래곤 브레스 효과
-Magic_Name_5003	하드 볼테르 드래곤 브레스 효과
-Magic_Name_5004	하드 볼테르 드래곤 브레스 효과 2
+Magic_Name_5001	볼테르 액티브 A
+Magic_Name_5002	볼테르 액티브 B 1-1
+Magic_Name_5003	하드 볼테르 액티브 B 1-1
+Magic_Name_5004	하드 볼테르 액티브 B 1-2
 Magic_Name_5005	아슬라 모션 변경
 Magic_Name_5006	아슬라 슬라임 소환
 Magic_Name_5007	아슬라 미니 슬라임 스탯 증가
@@ -267,11 +310,105 @@ Magic_Name_5012	아슬라 설원의 포식자
 Magic_Name_5013	아슬라 설원의 포식자 2
 Magic_Name_5014	하드 아슬라 설원의 포식자
 Magic_Name_5015	하드 아슬라 설원의 포식자 2
-Magic_Name_5016	윈디아 정화의 칼날
-Magic_Name_5017	하드 윈디아 정화의 칼날
-Magic_Name_5018	윈디아 호접지몽
-Magic_Name_5019	하드 윈디아 호접지몽
-Magic_Name_5020	하드 윈디아 호접지몽 2
+Magic_Name_5016	윈디아 액티브 스킬 A 효과
+Magic_Name_5017	하드 윈디아 액티브 스킬 A 효과
+Magic_Name_5018	윈디아 액티브 B 스킬 효과
+Magic_Name_5019	하드 윈디아 액티브 B 스킬 효과
+Magic_Name_5020	매우 어려움 볼테르 액티브 A
+Magic_Name_5021	매우 어려움 볼테르 액티브 B
+Magic_Name_5022	매우 어려움 볼테르 액티브 B
+Magic_Name_5023	볼테르 액티브 B 1-2
+Magic_Name_5024	매우 어려움 아슬라 슬라임 소환
+Magic_Name_5025	매우 어려움 아슬라 미니 슬라임 스탯 증가
+Magic_Name_5026	매우 어려움 아슬라 설원의 포식자
+Magic_Name_5027	매우 어려움 아슬라 설원의 포식자 2
+Magic_Name_6000	솟구치는 힘
+Magic_Name_6001	강철 갑옷
+Magic_Name_6002	불타는 화력
+Magic_Name_6003	매의 눈
+Magic_Name_6004	가벼운 발놀림
+Magic_Name_6005	행운의 일격
+Magic_Name_6006	치명적인 일격
+Magic_Name_6007	강인한 육체
+Magic_Name_6008	흘러 넘치는 지구력
+Magic_Name_6009	재빠른 행동
+Magic_Name_6010	강력한 힘
+Magic_Name_6011	해로움 방지
+Magic_Name_6012	솟구치는 힘 2
+Magic_Name_6013	강철 갑옷 2
+Magic_Name_6014	불타는 화력 2
+Magic_Name_6015	매의 눈 2
+Magic_Name_6016	가벼운 발놀림 2
+Magic_Name_6017	행운의 일격 2
+Magic_Name_6018	치명적인 일격 2
+Magic_Name_6019	강인한 육체 2
+Magic_Name_6020	흘러 넘치는 지구력 2
+Magic_Name_6021	재빠른 행동 2
+Magic_Name_6022	강력한 힘 2
+Magic_Name_6023	해로움 방지 2
+Magic_Name_6024	솟구치는 힘 3
+Magic_Name_6025	강철 갑옷 3
+Magic_Name_6026	불타는 화력 3
+Magic_Name_6027	매의 눈 3
+Magic_Name_6028	가벼운 발놀림 3
+Magic_Name_6029	행운의 일격 3
+Magic_Name_6030	치명적인 일격 3
+Magic_Name_6031	강인한 육체 3
+Magic_Name_6032	흘러 넘치는 지구력 3
+Magic_Name_6033	재빠른 행동 3
+Magic_Name_6034	강력한 힘 3
+Magic_Name_6035	해로움 방지 3
+Magic_Name_6036	방어의 의지
+Magic_Name_6037	방어의 힘
+Magic_Name_6038	방어의 극한
+Magic_Name_6039	공격의 의지
+Magic_Name_6040	공격의 힘
+Magic_Name_6041	공격의 극한
+Magic_Name_6042	지원의 의지
+Magic_Name_6043	지원의 힘
+Magic_Name_6044	지원의 극한
+Magic_Name_6045	회복의 의지
+Magic_Name_6046	회복의 힘
+Magic_Name_6047	회복의 극한
+Magic_Name_6048	각성 상태
+Magic_Name_6049	등가교환
+Magic_Name_6050	극한의 집중
+Magic_Name_6051	피를 깎는 노력
+Magic_Name_6052	돌격대의 신념
+Magic_Name_6053	약점 주시
+Magic_Name_6054	완성된 방어
+Magic_Name_6055	성벽의 의지
+Magic_Name_6056	견고한 몸
+Magic_Name_6057	맷집
+Magic_Name_6058	생존 의지
+Magic_Name_6059	최후의 인내
+Magic_Name_6060	안전 화보
+Magic_Name_6061	상태 안정
+Magic_Name_6062	지원 강화
+Magic_Name_6063	면역 강화
+Magic_Name_6064	신중한 선택
+Magic_Name_6065	결정적인 판단
+Magic_Name_6066	든든한 조력
+Magic_Name_6067	기능 강화
+Magic_Name_6068	보급 강화
+Magic_Name_6069	상황 판단
+Magic_Name_6070	면역 희생
+Magic_Name_6071	선택과 집중
+Magic_Name_7000	급성장
+Magic_Name_7001	중장갑
+Magic_Name_7002	호전성
+Magic_Name_7003	공격 간파 (방어형)
+Magic_Name_7004	최후의 보루
+Magic_Name_7005	기민한 움직임 (방어형)
+Magic_Name_7006	깊은 상처
+Magic_Name_7007	절호의 기회
+Magic_Name_7008	약점 확보
+Magic_Name_7009	강한 의지
+Magic_Name_7010	공격 간파 (지원형)
+Magic_Name_7011	완벽한 지원
+Magic_Name_7012	안전 우선
+Magic_Name_7013	완고한 인내심
+Magic_Name_7014	기민한 움직임 (지원형)
 Magic_Name_8000	초원 고유 무기 효과 1
 Magic_Name_8001	초원 고유 무기 효과 2
 Magic_Name_8002	초원 고유 무기 효과 3
@@ -444,10 +581,10 @@ Magic_Name_8168	자르갈 고유 무기 효과 1
 Magic_Name_8169	자르갈 고유 무기 효과 2
 Magic_Name_8170	자르갈 고유 무기 효과 3
 Magic_Name_8171	자르갈 고유 무기 효과 4
-Magic_Name_8172	제인도우 헌터 고유 무기 효과 1
-Magic_Name_8173	제인도우 헌터 고유 무기 효과 2
-Magic_Name_8174	제인도우 헌터 고유 무기 효과 3
-Magic_Name_8175	제인도우 헌터 고유 무기 효과 4
+Magic_Name_8172	닉스 고유 무기 효과 1
+Magic_Name_8173	닉스 고유 무기 효과 2
+Magic_Name_8174	닉스 고유 무기 효과 3
+Magic_Name_8175	닉스 고유 무기 효과 4
 Magic_Name_8176	사야 고유 무기 효과 1
 Magic_Name_8177	사야 고유 무기 효과 2
 Magic_Name_8178	사야 고유 무기 효과 3
@@ -496,6 +633,54 @@ Magic_Name_8220	라리사 고유 무기 효과 1
 Magic_Name_8221	라리사 고유 무기 효과 2
 Magic_Name_8222	라리사 고유 무기 효과 3
 Magic_Name_8223	라리사 고유 무기 효과 4
+Magic_Name_8224	아멜리 고유 무기 효과 1
+Magic_Name_8225	아멜리 고유 무기 효과 2
+Magic_Name_8226	아멜리 고유 무기 효과 3
+Magic_Name_8227	아멜리 고유 무기 효과 4
+Magic_Name_8228	연오 고유 무기 효과 1
+Magic_Name_8229	연오 고유 무기 효과 2
+Magic_Name_8230	연오 고유 무기 효과 3
+Magic_Name_8231	연오 고유 무기 효과 4
+Magic_Name_8232	미하일 고유 무기 효과 1
+Magic_Name_8233	미하일 고유 무기 효과 2
+Magic_Name_8234	미하일 고유 무기 효과 3
+Magic_Name_8235	미하일 고유 무기 효과 4
+Magic_Name_8236	시호 고유 무기 효과 1
+Magic_Name_8237	시호 고유 무기 효과 2
+Magic_Name_8238	시호 고유 무기 효과 3
+Magic_Name_8239	시호 고유 무기 효과 4
+Magic_Name_8240	살라딘 고유 무기 효과 1
+Magic_Name_8241	살라딘 고유 무기 효과 2
+Magic_Name_8242	살라딘 고유 무기 효과 3
+Magic_Name_8243	살라딘 고유 무기 효과 4
+Magic_Name_8244	셰라자드 고유 무기 효과 1
+Magic_Name_8245	셰라자드 고유 무기 효과 2
+Magic_Name_8246	셰라자드 고유 무기 효과 3
+Magic_Name_8247	셰라자드 고유 무기 효과 4
+Magic_Name_8248	크리스티앙 고유 무기 효과 1
+Magic_Name_8249	크리스티앙 고유 무기 효과 2
+Magic_Name_8250	크리스티앙 고유 무기 효과 3
+Magic_Name_8251	크리스티앙 고유 무기 효과 4
+Magic_Name_8252	죠안 고유 무기 효과 1
+Magic_Name_8253	죠안 고유 무기 효과 2
+Magic_Name_8254	죠안 고유 무기 효과 3
+Magic_Name_8255	죠안 고유 무기 효과 4
+Magic_Name_8256	악마 카인 고유 무기 효과 1
+Magic_Name_8257	악마 카인 고유 무기 효과 2
+Magic_Name_8258	악마 카인 고유 무기 효과 3
+Magic_Name_8259	악마 카인 고유 무기 효과 4
+Magic_Name_8260	소피 고유 무기 효과 1
+Magic_Name_8261	소피 고유 무기 효과 2
+Magic_Name_8262	소피 고유 무기 효과 3
+Magic_Name_8263	소피 고유 무기 효과 4
+Magic_Name_8264	타브리스 고유 무기 효과 1
+Magic_Name_8265	타브리스 고유 무기 효과 2
+Magic_Name_8266	타브리스 고유 무기 효과 3
+Magic_Name_8267	타브리스 고유 무기 효과 4
+Magic_Name_8268	티나 고유 무기 효과 1
+Magic_Name_8269	티나 고유 무기 효과 2
+Magic_Name_8270	티나 고유 무기 효과 3
+Magic_Name_8271	티나 고유 무기 효과 4
 Magic_Name_10000	(패시브) 초원 스피드 업
 Magic_Name_10001	(패시브) 초원 민첩한 움직임
 Magic_Name_10002	(패시브) 초원 일방적인 공격
@@ -611,8 +796,8 @@ Magic_Name_10111	(패시브) 키스멧 패시브 3
 Magic_Name_10112	(패시브) 마녀 세실리아 패시브 1
 Magic_Name_10113	(패시브) 마녀 세실리아 패시브 1
 Magic_Name_10114	(패시브) 마녀 세실리아 패시브 2
-Magic_Name_10115	(패시브) 마녀 세실리아 패시브 3
-Magic_Name_10116	(패시브) 마녀 세실리아 패시브 3_효과 삭제용
+Magic_Name_10115	(패시브) 마녀 세실리아 패시브 3 (에너지 100 충전)
+Magic_Name_10116	(패시브) 마녀 세실리아 패시브 3 (추가 영역 효과)
 Magic_Name_10117	(패시브) 하루 패시브 1
 Magic_Name_10118	(패시브) 하루 패시브 2
 Magic_Name_10119	(패시브) 하루 패시브 3
@@ -647,9 +832,9 @@ Magic_Name_10147	(패시브) 피치 크러쉬 패시브 3
 Magic_Name_10148	(패시브) 자르갈 패시브 1
 Magic_Name_10149	(패시브) 자르갈 패시브 2
 Magic_Name_10150	(패시브) 자르갈 패시브 3
-Magic_Name_10151	(패시브) 제인도우 헌터 상처 후비기
-Magic_Name_10152	(패시브) 제인도우 헌터 급소 파악
-Magic_Name_10153	(패시브) 제인도우 헌터 장갑 분석
+Magic_Name_10151	(패시브) 닉스 패시브 1
+Magic_Name_10152	(패시브) 닉스 패시브 2
+Magic_Name_10153	(패시브) 닉스 패시브 3
 Magic_Name_10154	(패시브) 사야 패시브 1
 Magic_Name_10155	(패시브) 사야 패시브 2
 Magic_Name_10156	(패시브) 사야 패시브 3
@@ -704,16 +889,147 @@ Magic_Name_10204	(패시브) 라리사 패시브 1-2
 Magic_Name_10205	(패시브) 라리사 패시브 2
 Magic_Name_10206	(패시브) 라리사 패시브 3-1
 Magic_Name_10207	(패시브) 라리사 패시브 3-2
-Magic_Name_10209	(패시브) 아멜리 패시브 1
-Magic_Name_10210	(패시브) 아멜리 패시브 2
-Magic_Name_10211	(패시브) 아멜리 패시브 3
-Magic_Name_13000	(패시브) 볼테르 불굴의 저항
-Magic_Name_13001	(패시브) 볼테르 플레임 심볼
-Magic_Name_13002	(패시브) 볼테르 플레임 심볼 하드
-Magic_Name_13003	(패시브) 볼테르 플레임 오브 페인
-Magic_Name_13004	(패시브) 볼테르 플레임 오브 페인 하드
-Magic_Name_13005	(패시브) 볼테르 드래곤 퓨리
-Magic_Name_13006	(패시브) 볼테르 드래곤 퓨리 하드
+Magic_Name_10208	(액시브) 아멜리 액티브 A 효과
+Magic_Name_10209	(액시브) 아멜리 액티브 B 효과
+Magic_Name_10210	(패시브) 아멜리 패시브 1
+Magic_Name_10211	(패시브) 아멜리 패시브 2
+Magic_Name_10212	(패시브) 아멜리 패시브 3-1
+Magic_Name_10213	(패시브) 아멜리 패시브 3-2
+Magic_Name_10214	(액티브) 연오 액티브 A 효과
+Magic_Name_10215	(패시브) 연오 패시브 1-1 (에너지 획득)
+Magic_Name_10216	(패시브) 연오 패시브 1-2 (에너지 비례 공증)
+Magic_Name_10217	(패시브) 연오 패시브 1-2 (에너지100 효과 제한용)
+Magic_Name_10218	(패시브) 연오 패시브 1-3 (추가 타격)
+Magic_Name_10219	(패시브) 연오 패시브 1-4 (에너지 소모)
+Magic_Name_10220	(패시브) 연오 패시브 2
+Magic_Name_10221	(패시브) 연오 패시브 3-1 (타깃 고정)
+Magic_Name_10222	(패시브) 미하일 패시브 1
+Magic_Name_10223	미하일 액티브 A 평타 변경
+Magic_Name_10224	(패시브) 미하일 패시브 2
+Magic_Name_10225	(패시브) 미하일 패시브 3-1
+Magic_Name_10226	(패시브) 미하일 패시브 3-2
+Magic_Name_10227	미하일 액티브 B 평타 변경
+Magic_Name_10228	아크 패링 모션
+Magic_Name_10229	아크 확률 패링용(=회피)
+Magic_Name_10230	(패시브) 시호 패시브 1
+Magic_Name_10231	(패시브) 시호 패시브 1-2(웨이브 전환)
+Magic_Name_10232	(패시브) 시호 패시브 1-3(적군 디버프)
+Magic_Name_10233	(패시브) 시호 패시브 1-4(피격 시 타격)
+Magic_Name_10234	(패시브) 시호 패시브 2
+Magic_Name_10235	(패시브) 시호 패시브 3-1
+Magic_Name_10236	(패시브) 시호 패시브 3-2
+Magic_Name_10237	(패시브) 시호 패시브 3-3
+Magic_Name_10238	(패시브) 아나스타야 패시브 3 (아군 받댐감소)
+Magic_Name_10239	(패시브) 닉스 패시브 1 추가
+Magic_Name_10240	(패시브) 살라딘 패시브 1 (체력 감소)
+Magic_Name_10241	(패시브) 살라딘 패시브 1 (체력 비례 공증)
+Magic_Name_10242	(패시브) 살라딘 패시브 1 (50% 미만 효과1)
+Magic_Name_10243	(패시브) 살라딘 패시브 1 (50% 이상 효과 제거)
+Magic_Name_10244	(패시브) 살라딘 패시브 1 (50% 미만 효과 제거)
+Magic_Name_10245	(패시브) 살라딘 패시브 1 (체력 감소 조건)
+Magic_Name_10246	(패시브) 살라딘 패시브 2
+Magic_Name_10247	(패시브) 살라딘 패시브 3 (피흡)
+Magic_Name_10248	(패시브) 살라딘 패시브 3 (효과2)
+Magic_Name_10249	(패시브) 살라딘 패시브 3 (30% 미만 효과1)
+Magic_Name_10250	(패시브) 살라딘 패시브 3 (30% 미만 효과1)
+Magic_Name_10251	(패시브) 살라딘 패시브 3 (30% 미만 효과 제거)
+Magic_Name_10252	(액티브) 살라딘 액티브 A/B 효과 (출혈)
+Magic_Name_10253	(패시브) 셰라자드 패시브 1
+Magic_Name_10254	(패시브) 셰라자드 패시브 1
+Magic_Name_10255	(패시브) 셰라자드 패시브 2
+Magic_Name_10256	(패시브) 셰라자드 패시브 3
+Magic_Name_10257	(패시브) 셰라자드 패시브 3
+Magic_Name_10258	(패시브) 셰라자드 패시브 3
+Magic_Name_10259	(액티브) 셰라자드 액티브 A(내게 빈마법)
+Magic_Name_10260	(액티브) 셰라자드 액티브 A
+Magic_Name_10261	(패시브) 살라딘 패시브 3 (피 흡수 제거)
+Magic_Name_10262	(패시브) 마녀 세실리아 패시브 1 (에너지 100)
+Magic_Name_10263	(패시브) 마녀 세실리아 패시브 1 (영역 효과1)
+Magic_Name_10264	(패시브) 마녀 세실리아 패시브 1 (영역 효과2)
+Magic_Name_10265	(패시브) 마녀 세실리아 패시브 1 (종료1)
+Magic_Name_10266	(패시브) 마녀 세실리아 패시브 3 (적군 댐감)
+Magic_Name_10267	(패시브) 마녀 세실리아 패시브 3 (적군 쿨증)
+Magic_Name_10268	(액티브) 마녀 세실리아 액티브 A (체력 회복)
+Magic_Name_10269	(액티브) 마녀 세실리아 액티브 B (회복 밴)
+Magic_Name_10270	(액티브) 마녀 세실리아 액티브 A (공포)
+Magic_Name_10271	(패시브) 마녀 세실리아 패시브 1 (종료2)
+Magic_Name_10272	(패시브) 마녀 세실리아 패시브 1 (종료2)
+Magic_Name_10273	(패시브) 마녀 세실리아 패시브 3 (종료)
+Magic_Name_10274	크리스티앙 패시브 1
+Magic_Name_10275	크리스티앙 패시브 1
+Magic_Name_10276	크리스티앙 패시브 1
+Magic_Name_10277	크리스티앙 패시브 2
+Magic_Name_10278	크리스티앙 패시브 3
+Magic_Name_10279	크리스티앙 패시브 3
+Magic_Name_10280	크리스티앙 패시브 3
+Magic_Name_10281	크리스티앙 패시브 3
+Magic_Name_10282	크리스티앙 패시브 3
+Magic_Name_10283	크리스티앙 액티브 B
+Magic_Name_10284	크리스티앙 액티브 B
+Magic_Name_10285	죠안 패시브 1
+Magic_Name_10286	죠안 패시브 1
+Magic_Name_10287	죠안 패시브 1
+Magic_Name_10288	죠안 패시브 2
+Magic_Name_10289	죠안 패시브 3
+Magic_Name_10290	죠안 패시브 3
+Magic_Name_10291	죠안 패시브 3
+Magic_Name_10292	죠안 패시브 3
+Magic_Name_10293	악마 카인 패시브 1
+Magic_Name_10294	악마 카인 패시브 1
+Magic_Name_10295	악마 카인 패시브 2
+Magic_Name_10296	악마 카인 패시브 3
+Magic_Name_10297	악마 카인 패시브 3
+Magic_Name_10298	악마 카인 패시브 3
+Magic_Name_10299	악마 카인 패시브 3
+Magic_Name_10300	악마 카인 패시브 3
+Magic_Name_10301	제페토 패시브 2 삭제용
+Magic_Name_10302	제페토 패시브 3 삭제용
+Magic_Name_10303	키스멧 패시브 2 삭제용
+Magic_Name_10304	(패시브) 클로드 패시브 3
+Magic_Name_10305	소피 패시브 1 (고동치는 환희)
+Magic_Name_10306	소피 패시브 1 (엄습하는 위협)
+Magic_Name_10307	소피 패시브 1 (고동치는 환희 삭제용)
+Magic_Name_10308	소피 패시브 1 (엄습하는 위협 삭제용)
+Magic_Name_10309	소피 패시브 2
+Magic_Name_10310	소피 패시브 3 (고동치는 환희 추가)
+Magic_Name_10311	소피 패시브 3 (엄습하는 위협 추가)
+Magic_Name_10312	소피 액티브 A
+Magic_Name_10313	소피 액티브 B (환각 확인용)
+Magic_Name_10314	소피 액티브 B (평타 확률 부여)
+Magic_Name_10315	소피 액티브 B (다음 턴 평타를 위한 빈 매직1)
+Magic_Name_10316	소피 액티브 B (평타 2번째)
+Magic_Name_10317	소피 액티브 B (첫번째 평타 빈매직 확인 삭제)
+Magic_Name_10318	소피 액티브 B (평타 3번째)
+Magic_Name_10319	소피 액티브 B (환각 부여)
+Magic_Name_10320	소피 액티브 B (최초의 빈매직 삭제하여 엔딩)
+Magic_Name_10321	소피 액티브 B (평타 3번째 이펙트)
+Magic_Name_10322	소피 패시브 3 
+Magic_Name_10323	타브리스 패시브 1 (일반 공격 시)
+Magic_Name_10324	타브리스 패시브 1 (액티브 스킬 시)
+Magic_Name_10325	타브리스 패시브 2
+Magic_Name_10326	타브리스 패시브 3(최대체력)
+Magic_Name_10327	타브리스 패시브 3 (피흡수)
+Magic_Name_10328	타브리스 패시브 3 (스턴)
+Magic_Name_10329	타브리스 패시브 3
+Magic_Name_10330	티나 패시브 1
+Magic_Name_10331	티나 패시브 1
+Magic_Name_10332	티나 패시브 2
+Magic_Name_10333	티나 패시브 2
+Magic_Name_10334	티나 패시브 3
+Magic_Name_10335	티나 패시브 3
+Magic_Name_10336	티나 패시브 3
+Magic_Name_10337	티나 액티브 B
+Magic_Name_10338	티나 액티브 B
+Magic_Name_10339	티나 액티브 B
+Magic_Name_10340	티나 패시브 2
+Magic_Name_10341	티나 패시브 3
+Magic_Name_13000	볼테르 패시브 1
+Magic_Name_13001	볼테르 패시브 2-1 (점화 On)
+Magic_Name_13002	하드 볼테르 패시브 2 (점화 On)
+Magic_Name_13003	볼테르 패시브 3-1 (작열 On)
+Magic_Name_13004	하드 볼테르 패시브 3-1 (작열 On)
+Magic_Name_13005	볼테르 페이즈 패시브
+Magic_Name_13006	하드 볼테르 페이즈 패시브
 Magic_Name_13007	(패시브) 장비 강화 전용 패시브
 Magic_Name_13008	(패시브) 고유 무기 성장 전용 패시브
 Magic_Name_13009	(패시브) 스킬 강화 전용 패시브
@@ -773,7 +1089,7 @@ Magic_Name_13062	(패시브) 마녀 세실리아 패시브 3_보스몹
 Magic_Name_13063	봄의 정령 꽃가루 알러지
 Magic_Name_13064	루아 세르네쥬 문지기의 의지
 Magic_Name_13065	루아 세르네쥬 서든 프로스트
-Magic_Name_13066	아슬라 냉기의 보호
+Magic_Name_13066	아슬라 냉기의 보호 1
 Magic_Name_13067	아슬라 냉기의 보호 2
 Magic_Name_13068	아슬라 차가운 슬라임
 Magic_Name_13069	하드 아슬라 차가운 슬라임
@@ -788,19 +1104,91 @@ Magic_Name_13077	하드 아슬라 분노의 슬라임
 Magic_Name_13078	노멀 아슬라 추가 소환
 Magic_Name_13079	하드 아슬라 추가 소환
 Magic_Name_13080	미니 아슬라 빙결
-Magic_Name_13081	미니 아슬라 확정 빙결 (하드)
+Magic_Name_13081	미니 아슬라 빙결 (하드)
 Magic_Name_13082	볼테르 점화 종료 추가 대미지
-Magic_Name_13083	윈디아 자연의 보호
-Magic_Name_13084	윈디아 자연의 보호 2
-Magic_Name_13085	윈디아 자연의 함정
-Magic_Name_13086	하드 윈디아 자연의 함정
-Magic_Name_13087	윈디아 대자연의 실드
-Magic_Name_13088	하드 윈디아 대자연의 실드
-Magic_Name_13089	윈디아 등가교환
-Magic_Name_13090	하드 윈디아 등가교환
-Magic_Name_13091	윈디아 페이즈 변경
-Magic_Name_13092	하드 윈디아 페이즈 변경
-Magic_Name_13093	만타댕댕 패시브 스킬
+Magic_Name_13083	레이드 보스 기본 효과- 스턴 면역
+Magic_Name_13084	윈디아 패시브 1
+Magic_Name_13085	윈디아 패시브 1 (환각 보유 여부 체크용)
+Magic_Name_13086	윈디아 패시브 1 (윈디아 지속 피해)
+Magic_Name_13087	윈디아 패시브 1 (윈디아 지속 피해)
+Magic_Name_13088	윈디아 패시브 2
+Magic_Name_13089	윈디아 패시브 2 (하드)
+Magic_Name_13090	윈디아 패시브 3 (정상 상태 재발동 쿨타임)
+Magic_Name_13091	윈디아 패시브 3 (디버프 상태 전환)
+Magic_Name_13092	윈디아 패시브 3 (정상 상태 효과)
+Magic_Name_13093	윈디아 패시브 3 (디버프 상태 효과 1)
+Magic_Name_13094	윈디아 패시브 3 (디버프 상태 효과 2=패시브 2)
+Magic_Name_13095	윈디아 패시브 3 (패시브 2 상쇄 재발동 쿨타이)
+Magic_Name_13096	윈디아 자연의 보호 2
+Magic_Name_13097	윈디아 자연의 함정 (무적 효과)
+Magic_Name_13098	윈디아 패시브 4 (무적 해제 조건 스택)
+Magic_Name_13099	윈디아 패시브 4 (무적 해제1)
+Magic_Name_13100	윈디아 패시브 4 (무적 해제2)
+Magic_Name_13101	윈디아 패시브 4 (무적 해제 3)
+Magic_Name_13102	윈디아 페이즈 패시브
+Magic_Name_13103	윈디아 페이즈 패시브
+Magic_Name_13104	윈디아 페이즈 패시브(하드)
+Magic_Name_13105	윈디아 페이즈 패시브(공통)
+Magic_Name_13106	윈디아 패시브 4 (하드)
+Magic_Name_13107	윈디아 패시브 4 (하드) (무적 효과)
+Magic_Name_13108	윈디아 패시브 4 (무적 해제 조건 스택)
+Magic_Name_13109	윈디아 패시브 4 (무적 해제1)
+Magic_Name_13110	윈디아 패시브 4 (무적 해제2)
+Magic_Name_13111	윈디아 패시브 4 (무적 해제 3)
+Magic_Name_13112	윈디아 모션 변경
+Magic_Name_13113	만타댕댕 패시브 스킬
+Magic_Name_13114	곰돌킹 패시브 짜증 풀충전
+Magic_Name_13115	곰돌킹 패시브 2 다운
+Magic_Name_13116	곰돌킹 패시브 3 교란
+Magic_Name_13117	매우 어려움 볼테르 패시브 1
+Magic_Name_13118	매우 어려움 볼테르 패시브 2-1 (점화On)
+Magic_Name_13119	매우 어려움 볼테르 패시브 2-2
+Magic_Name_13120	매우 어려움 볼테르 패시브 2-3(점화 효과1)
+Magic_Name_13121	매우 어려움 볼테르 패시브 2-4(점화 효과2)
+Magic_Name_13122	매우 어려움 볼테르 패시브 3-1 (작열 On)
+Magic_Name_13123	매우 어려움 볼테르 패시브 3-2
+Magic_Name_13124	매우 어려움 볼테르 패시브 3-3
+Magic_Name_13125	매우 어려움 볼테르 패시브 3-4
+Magic_Name_13126	매우 어려움 볼테르 패시브 3-5
+Magic_Name_13127	매우 어려움 볼테르 패시브 3 (작열 제거용)
+Magic_Name_13128	매우 어려움 볼테르 페이즈 패시브-1
+Magic_Name_13129	매우 어려움 볼테르 페이즈 패시브-2
+Magic_Name_13130	매우 어려움 볼테르 페이즈 패시브-3
+Magic_Name_13131	매우 어려움 볼테르 페이즈 패시브-4
+Magic_Name_13132	볼테르 패시브 2-2 (점화 효과 1)
+Magic_Name_13133	볼테르 패시브 2-3 (점화 효과 2)
+Magic_Name_13134	하드 볼테르 패시브 2-2 (점화 효과 1)
+Magic_Name_13135	하드 볼테르 패시브 2-3 (점화 효과 2)
+Magic_Name_13136	볼테르 패시브 3-2
+Magic_Name_13137	볼테르 패시브 3-3
+Magic_Name_13138	볼테르 패시브 3-4
+Magic_Name_13139	볼테르 패시브 3-5
+Magic_Name_13140	볼테르 패시브 3 (작열 제거용)
+Magic_Name_13141	하드 볼테르 패시브 3-2
+Magic_Name_13142	하드 볼테르 패시브 3-3
+Magic_Name_13143	하드 볼테르 패시브 3-4
+Magic_Name_13144	하드 볼테르 패시브 3-5
+Magic_Name_13145	하드 볼테르 패시브 3 (작열 제거용)
+Magic_Name_13146	베리 하드 아슬라 차가운 슬라임
+Magic_Name_13147	베리 하드 아슬라 차가운 슬라임(흡수)
+Magic_Name_13148	베리 하드 아슬라 설원의 눈보라
+Magic_Name_13149	베리 하드 아슬라 설원의 눈보라 2
+Magic_Name_13150	베리 하드 아슬라 설원의 눈보라 3
+Magic_Name_13151	베리 하드 아슬라 슬라임 분해
+Magic_Name_13152	베리 하드 아슬라 분노의 슬라임
+Magic_Name_13153	베리 하드 아슬라 분노의 슬라임
+Magic_Name_18000	무한 웨이브 공격력 증가
+Magic_Name_18001	무한 웨이브 방어력 증가
+Magic_Name_18002	무한 웨이브 최대 체력 증가
+Magic_Name_18003	무한 웨이브 명중률 증가
+Magic_Name_18004	무한 웨이브 크리티컬 확률 증가
+Magic_Name_18005	무한 웨이브 크리티컬 대미지 증가
+Magic_Name_18006	무한 웨이브 대미지 증가
+Magic_Name_18007	무한 웨이브 회피율 증가
+Magic_Name_18008	무한 웨이브 크리티컬 저항 증가
+Magic_Name_18009	무한 웨이브 디버프 저항 증가
+Magic_Name_18010	무한 웨이브 행동력 증가
+Magic_Name_18011	무한 웨이브 받는 대미지 감소
 Magic_Name_19000	리더 스킬 1
 Magic_Name_19001	리더 스킬 2
 Magic_Name_19002	리더 스킬 3

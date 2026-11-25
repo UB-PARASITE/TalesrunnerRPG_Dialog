@@ -158,6 +158,11 @@ FriendshipStory_StoryName_31002	동화나라식 포춘 쿠키
 FriendshipStory_StoryName_31003	문어와 인어가 만나면
 FriendshipStory_StoryName_31004	포말처럼 흩어진 사랑
 FriendshipStory_StoryName_31005	흘러가도록 내버려두는 것
+FriendshipStory_StoryName_32001	기시감
+FriendshipStory_StoryName_32002	한겨울의 백일몽
+FriendshipStory_StoryName_32003	겨울나무 숲의 마녀
+FriendshipStory_StoryName_32004	밤은 아침을 향하고
+FriendshipStory_StoryName_32005	녹아내린 꿈, 그리고
 FriendshipStory_StoryName_33001	어떤 어둠의 편린
 FriendshipStory_StoryName_33002	어둠은 어둠을 삼키고
 FriendshipStory_StoryName_33003	아픔으로부터 피어나
@@ -228,6 +233,16 @@ FriendshipStory_StoryName_47002	용사의 시험
 FriendshipStory_StoryName_47003	용사의 행운
 FriendshipStory_StoryName_47004	용사의 성검
 FriendshipStory_StoryName_47005	정의의 용사
+FriendshipStory_StoryName_48001	천재 화가 클레멘스
+FriendshipStory_StoryName_48002	그림에 담긴 다정
+FriendshipStory_StoryName_48003	사라진 모니카
+FriendshipStory_StoryName_48004	모니카의 공상 세계
+FriendshipStory_StoryName_48005	붓으로 그려낼 마음
+FriendshipStory_StoryName_49001	술 따라 물 따라
+FriendshipStory_StoryName_49002	유능제강, 약능승강
+FriendshipStory_StoryName_49003	강시 소동?
+FriendshipStory_StoryName_49004	취중진담
+FriendshipStory_StoryName_49005	하루는 살아가는 것
 FriendshipStory_StoryName_50001	인과 연이 만나다.
 FriendshipStory_StoryName_50002	우도할계
 FriendshipStory_StoryName_50003	불이과
@@ -258,3 +273,48 @@ FriendshipStory_StoryName_55002	해파리어 번역?
 FriendshipStory_StoryName_55003	슬픔의 바다가 간직한 슬픔
 FriendshipStory_StoryName_55004	사람은 죽어서 무엇이 되나
 FriendshipStory_StoryName_55005	유영하는 소망, 범람하는 희망
+FriendshipStory_StoryName_56001	감정의 제도의 기상술사
+FriendshipStory_StoryName_56002	마이페이스 레이디
+FriendshipStory_StoryName_56003	오른손은 거들 뿐
+FriendshipStory_StoryName_56004	우산 아래의 풍경을
+FriendshipStory_StoryName_56005	흐림 뒤 맑음
+FriendshipStory_StoryName_57001	차사 잡아라
+FriendshipStory_StoryName_57002	트렌드세터
+FriendshipStory_StoryName_57003	쇼핑은 우리말로 장보기
+FriendshipStory_StoryName_57004	달밤의 대화
+FriendshipStory_StoryName_57005	연오의 이야기
+FriendshipStory_StoryName_58001	대주교의 정체
+FriendshipStory_StoryName_58002	한잔해
+FriendshipStory_StoryName_58003	교황청의 아이돌
+FriendshipStory_StoryName_58004	빛이 향하는 곳
+FriendshipStory_StoryName_58005	불어오는 새로운 바람
+FriendshipStory_StoryName_59001	정체불명의 용병
+FriendshipStory_StoryName_59002	미션, 주인찾기
+FriendshipStory_StoryName_59003	주인은 오락실에?
+FriendshipStory_StoryName_59004	호칭은 중요해!
+FriendshipStory_StoryName_59005	피치는 누구의 주인인가?
+FriendshipStory_StoryName_60001	여우별에서 찾아온 친구
+FriendshipStory_StoryName_60002	머뭇거리는 사과
+FriendshipStory_StoryName_60003	수행의 습관
+FriendshipStory_StoryName_60004	엇갈린 마음
+FriendshipStory_StoryName_60005	오해를 넘어, 다시
+FriendshipStory_StoryName_61001	달을 저버린 늑대
+FriendshipStory_StoryName_61002	낯선 악마와의 만남
+FriendshipStory_StoryName_61003	당신을 위해서라면
+FriendshipStory_StoryName_61004	반전의 악마
+FriendshipStory_StoryName_61005	유일한 구원에게 배운 것
+FriendshipStory_StoryName_62001	음유시인, 소피.
+FriendshipStory_StoryName_62002	이야기를 만드는 곳
+FriendshipStory_StoryName_62003	처음이라는 이름의 용기
+FriendshipStory_StoryName_62004	나나가 전한 이야기
+FriendshipStory_StoryName_62005	행복은 영혼이 노래할 때
+FriendshipStory_StoryName_63001	교외의 예배당
+FriendshipStory_StoryName_63002	무신론자
+FriendshipStory_StoryName_63003	헤어짐을 대하는 자세
+FriendshipStory_StoryName_63004	밤의 사제
+FriendshipStory_StoryName_63005	속죄의 천사
+FriendshipStory_StoryName_64001	정식 기사의 첫 임무
+FriendshipStory_StoryName_64002	귀족의 예법
+FriendshipStory_StoryName_64003	동경하게 된 뒷모습
+FriendshipStory_StoryName_64004	백합의 기사
+FriendshipStory_StoryName_64005	꺾이지 않는 긍지

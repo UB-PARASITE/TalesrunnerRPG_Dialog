@@ -1,3 +1,6 @@
 BossRaidBuff_Tooltip_0001	공격형 캐릭터 공격력 {v0.0}% 증가
 BossRaidBuff_Tooltip_0002	불 속성 방어력 {v0.0}% 증가
 BossRaidBuff_Tooltip_0003	지원형 캐릭터 공격력 {v0.0}% 증가
+BossRaidBuff_Tooltip_0004	자연속성 캐릭터 공격력 {v0.0}% 증가
+BossRaidBuff_Tooltip_0005	캐릭터 크리티컬 저항 {v0.0}% 증가
+BossRaidBuff_Tooltip_0006	캐릭터 크리티컬 대미지 {v0.0}% 증가
