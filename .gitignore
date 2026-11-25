@@ -1,0 +1,10 @@
+# Never commit raw game assets, extracted narrative text, or binaries
+*.so
+*.dll
+*.dat
+*.assets
+*.bundle
+*.apk
+*.obb
+DictDatas.txt
+Text_Dialog_loc_*.txt

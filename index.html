@@ -1,45 +1,7 @@
 <!doctype html>
-<html lang="zh-Hant">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#101827">
-<title>TalesrunnerRPG · Dialog Research</title>
-<style>
-:root{color-scheme:dark;--bg:#0b1220;--panel:#151f31;--line:#29364b;--text:#edf3fb;--muted:#a7b5c8;--accent:#86c5ff;--ok:#86d9ac}
-*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 20% 0%,#20314a 0,transparent 45%),var(--bg);color:var(--text);font:16px/1.65 system-ui,"Noto Sans TC",sans-serif}
-main{max-width:920px;margin:0 auto;padding:56px 22px 80px}.eyebrow{font-size:12px;letter-spacing:.16em;color:var(--accent);font-weight:700}h1{font-size:clamp(32px,6vw,54px);line-height:1.1;margin:12px 0}p{color:var(--muted)}.card{margin-top:28px;padding:24px;border:1px solid var(--line);background:#111b2bda;border-radius:18px}.status{display:inline-block;border:1px solid #47775c;color:var(--ok);padding:3px 10px;border-radius:999px;font-size:13px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;margin:20px 0}.metric{background:var(--panel);border:1px solid var(--line);padding:16px;border-radius:12px}.metric b{display:block;font-size:27px}.metric span{color:var(--muted);font-size:13px}a{color:var(--accent)}code{background:#202d41;padding:2px 6px;border-radius:5px}li{margin:7px 0}.note{border-left:3px solid var(--accent);padding:10px 15px;background:#182438;border-radius:0 8px 8px 0}footer{margin-top:32px;color:#8291a7;font-size:13px}
-</style>
-</head>
-<body><main>
-<div class="eyebrow">UNITY / IL2CPP · REVERSE-ENGINEERING NOTES</div>
-<h1>TalesrunnerRPG<br>Dialog Research</h1>
-<p>DictDialog 結構、PageDialog 分支控制流程與章節索引研究。</p>
-<span class="status">Repository 已建立 · 完整資料同步待執行</span>
-<section class="card">
-<h2>研究資料概況</h2>
-<div class="grid">
-<div class="metric"><b>100,225</b><span>DictDialog records</span></div>
-<div class="metric"><b>835</b><span>Dialog IDs</span></div>
-<div class="metric"><b>490</b><span>ChoiceQuestion blocks</span></div>
-<div class="metric"><b>986</b><span>Branch execution rows</span></div>
-</div>
-<div class="note">完整互動式檢視器與資料集已整理在專案 ZIP。同步完整專案後，首頁會提供 Dialog ID 搜尋、Order 清單、Enum 對照與 Choice 分支檢視。</div>
-</section>
-<section class="card">
-<h2>完成完整資料同步</h2>
-<ol>
-<li>下載本次對話提供的 <code>TR-Dialog-Research-project.zip</code> 並解壓縮。</li>
-<li>進入 <code>TR-Dialog-Research</code> 資料夾。</li>
-<li>Windows 執行 <code>powershell -ExecutionPolicy Bypass -File .\publish.ps1</code>；macOS/Linux 執行 <code>bash ./publish.sh</code>。</li>
-<li>腳本會將包含完整 metadata 的專案推送至目前 repository 的 <code>main</code> 分支。</li>
-</ol>
-<p>詳細說明請看 <a href="PUBLISHING.md">PUBLISHING.md</a>。</p>
-</section>
-<section class="card">
-<h2>GitHub Pages</h2>
-<p>請在 <a href="https://github.com/UB-PARASITE/TalesrunnerRPG_Dialog/settings/pages">Settings → Pages</a> 將 Build and deployment 的 Source 設成 <b>GitHub Actions</b>。完成設定並推送完整資料後，Workflow 會自動部署。</p>
-<p>Repository：<a href="https://github.com/UB-PARASITE/TalesrunnerRPG_Dialog">UB-PARASITE/TalesrunnerRPG_Dialog</a></p>
-</section>
-<footer>非官方技術研究索引。公開版本不包含本地化劇情原文、遊戲二進位檔、圖片或音訊。原始遊戲資產權利歸其權利人所有。</footer>
-</main></body></html>
+<html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#111827"><title>TR Dialog Research</title><link rel="stylesheet" href="assets/style.css"></head>
+<body><header class="top"><div class="wrap"><div class="eyebrow">UNITY / IL2CPP RESEARCH</div><h1>Dialog Flow Explorer</h1><p>DictDialog 資料索引與 PageDialog 分支流程檢視器</p><div class="stats" id="stats"><div><b>—</b><span>Dialog records</span></div><div><b>—</b><span>Dialog IDs</span></div><div><b>—</b><span>Choice blocks</span></div><div><b>—</b><span>Branch rows</span></div></div></div></header>
+<main class="wrap"><section class="panel controls"><div class="field"><label for="chapter">章節索引</label><select id="chapter"><option value="">選擇章節</option></select></div><div class="field"><label for="dialogId">Dialog ID</label><input id="dialogId" type="number" min="0" placeholder="例如 56 或 126"></div><div class="field"><label for="textKey">Text Key / strValue</label><input id="textKey" type="search" placeholder="Dialog_Text_… / BGM_…"></div><div class="field"><label for="type1">Type1</label><select id="type1"><option value="">全部</option></select></div><button id="search">搜尋</button><button class="ghost" id="reset">重設</button></section>
+<section class="layout"><div class="maincol"><section class="panel"><div class="sectionhead"><div><h2>Dialog 記錄</h2><p id="recordSummary">正在載入資料…</p></div><span class="pill" id="activeId">未選擇</span></div><div class="tablewrap"><table><thead><tr><th>Order</th><th>Type1</th><th>Type2</th><th>Type3</th><th>Portrait</th><th>Text Key</th><th>Delay</th><th>strValue</th></tr></thead><tbody id="records"><tr><td colspan="8">載入中…</td></tr></tbody></table></div><div class="pager"><button class="ghost" id="prev">上一頁</button><span id="pageInfo">—</span><button class="ghost" id="next">下一頁</button></div></section>
+<section class="panel"><div class="sectionhead"><div><h2>Choice 分支結構</h2><p>依選項標記及原生分析得到的 Order 邊界呈現。</p></div></div><div id="choices" class="choice-list"><p class="muted">選擇 Dialog ID 以檢視分支。</p></div></section></div>
+<aside class="side"><section class="panel"><h2>執行規則</h2><ol class="rules"><li><b>Set()</b> 建立每組 Choice 的六槽索引。</li><li>槽位 0–4 是 ChoiceBranch1–5 的 Order。</li><li>槽位 5 是 ChoiceEnd 的 Order。</li><li><b>_OnBranch(idx)</b> 取得所選分支的起點。</li><li><b>_OnNext()</b> 播放所選內容，越過下一個分支邊界時跳至 ChoiceEnd + 1。</li></ol><p class="note">這是指定遊戲版本的靜態逆向分析結果；特殊巢狀流程仍待驗證。</p></section><section class="panel"><h2>Type Enum</h2><div id="enums" class="enum-list"></div></section><section class="panel"><h2>資料說明</h2><p class="muted">本公開資料僅含流程 metadata、ID、Order、Enum、資源 Key 和推導索引，不包含韓文／英文劇情原文、遊戲二進位檔或圖片音訊。</p><a href="docs/analysis.md">閱讀完整分析報告 →</a></section></aside></section><footer>Unofficial technical research · Source-derived metadata only · No game binaries or localized story text</footer></main><script src="assets/app.js"></script></body></html>
