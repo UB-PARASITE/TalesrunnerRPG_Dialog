@@ -1,0 +1,9 @@
+WorldItemHero_Desc_0000	공격과 방어의 우수한 밸런스
+WorldItemHero_Desc_0001	지치지 않는 탱킹 능력
+WorldItemHero_Desc_0002	후방 보호에 월등한 능력
+WorldItemHero_Desc_0003	한 발이 위협적인 치명타 전투
+WorldItemHero_Desc_0004	전술을 붕괴시키는 후열 공략
+WorldItemHero_Desc_0005	전투력의 격차를 벌리는 전술
+WorldItemHero_Desc_0006	무력화 전략의 핵심 전력
+WorldItemHero_Desc_0007	우수한 전투력 증폭 능력
+WorldItemHero_Desc_0008	회복과 전투력의 폭넓은 케어 

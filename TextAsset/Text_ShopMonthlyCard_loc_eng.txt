@@ -1,0 +1,5 @@
+ShopMonthlyCard_Name_0001	Daily Writer Support Pack
+ShopMonthlyCard_Name_0002	Daily Writer Support Pack Plus
+ShopMonthlyCard_Name_0003	Daily Stamina Supply Pack
+ShopMonthlyCard_Name_0004	7-Day Pickup Summon Ticket Supply Pack
+ShopMonthlyCard_Name_0005	Daily Gift Box Supply Pack

@@ -1,0 +1,1515 @@
+Talk_Text_0000	Hello!\\rIs today a good day for a run?
+Talk_Text_0001	You're here now? I've been waiting for you!\\rShall we go for a quick run?
+Talk_Text_0002	The weather in Fairy Tale Land seems to be nice every day!\\rIt's the best for running!
+Talk_Text_0003	Are you bored?\\rShall we go for a run together?!
+Talk_Text_0004	Huh? What's on my face? Where?
+Talk_Text_0005	When did I last charge my band's battery...?
+Talk_Text_0006	It won't show up in a doping test...?\\rThen that's fine!
+Talk_Text_0007	I guess I can aim for first place in this game?\\rHaha, thank you! 
+Talk_Text_0008	My heart is racing and I'm so excited!!!\\rI'll go for a run now!
+Talk_Text_0009	Let's run together in the world we meet again!
+Talk_Text_0010	Good~! I think I can run better with this! \\rPlease keep watching my performance in the future!
+Talk_Text_0011	The fastest sportsman in the world!\\rAthlete Kang Cho-won, here we go~!
+Talk_Text_0012	I remember when I first won a gold medal.\\rI feel like I've surpassed my own limits.
+Talk_Text_0013	Did you remember my birthday?\\rWhat is it... It's a little touching?
+Talk_Text_0014	I told you earlier. My friends of ten years threw me a \\rsurprise party.
+Talk_Text_0015	Oh no... I'm crying... \\rThis is how it is, a birthday run!!!
+Talk_Text_0016	Are you giving me this? Why are you giving me all this~
+Talk_Text_0017	Oh, thank you!! I can't refuse a gift!
+Talk_Text_0018	You're giving me this much... I'm touched? \\rI'll gratefully accept it!!
+Talk_Text_0019	We're running mates~, right?
+Talk_Text_0020	Do you want to go exercise together after the battle?!
+Talk_Text_0021	Every day is fun when I'm with you, Author!
+Talk_Text_0022	If anything happens in Fairy Tale Land, please let me know anytime!
+Talk_Text_0023	No problem today either! \\rI'll protect the peace of Fairy Tale Land!
+Talk_Text_0024	A suspicious person was found up front... \\r... Oh, were you the Author?
+Talk_Text_0025	You can leave your seat!\\rI'm always on standby!
+Talk_Text_0026	Yes, Commander Helia!\\rI'm ready! Shall we go?
+Talk_Text_0027	Huh? Did you call me?\\rMaybe it's a monster...?!
+Talk_Text_0028	Wow!! I, Helia, am growing!!
+Talk_Text_0029	Can you see? My flame!\\rIt seems to have gotten a little stronger!
+Talk_Text_0030	Commander Helia, I've arrived after receiving the call!
+Talk_Text_0031	Training today and tomorrow!! \\rThat's my secret to staying healthy! Haha!
+Talk_Text_0032	Training today and tomorrow! That's my secret to staying healthy! Haha! 
+Talk_Text_0033	Oh... I feel like I'm getting a little closer to the unbreakable shield!
+Talk_Text_0034	A knight is the sword of the lord. I will continue to protect you!
+Talk_Text_0035	I was able to come this far because I was with you, author.\\rMay I offer you the oath of a knight?
+Talk_Text_0036	Do you know what day it is today?\\rAhaha, it's my birthday!
+Talk_Text_0037	Luna prepared a gift for me,\\rDo you know what it is, author?
+Talk_Text_0038	Will you come to the birthday party too?\\rAll of our knights will be attending!
+Talk_Text_0039	Oh! Are you giving it to me? Thank you!
+Talk_Text_0040	That's a heartfelt gift? I will treasure it!
+Talk_Text_0041	It's too much for a knight... \\rI can't refuse it! I'll gladly accept it!
+Talk_Text_0042	I feel like I've gotten a little closer to the author!\\r… Am I mistaken?
+Talk_Text_0043	Aren't you thinking about joining the guild?\\rHahaha! Just kidding!
+Talk_Text_0044	From what I've seen,\\rYou seem like a good person!
+Talk_Text_0045	Ah, you're back. I'm glad to see that everything is fine.
+Talk_Text_0046	Luna, Vice-Captain of the Tales Knights. Always on standby.
+Talk_Text_0047	Welcome. There's nothing special to report.
+Talk_Text_0048	… Hmm? Is there something you want to say? 
+Talk_Text_0049	If it's Captain Helia, then... \\r... Yes? Are you talking about me?
+Talk_Text_0050	Oh, aren't you surprised?\\rBecause my body temperature is a bit low.
+Talk_Text_0051	Thank you. Thanks to you, I can do my best.
+Talk_Text_0052	I'll do my best. So that your expectations won't be in vain.
+Talk_Text_0053	I think I can hit the target a little better.
+Talk_Text_0054	If you just have cool judgment and composure... \\rYou can hit any target.
+Talk_Text_0055	You've grown a little. It seems like your efforts are paying off.
+Talk_Text_0056	One arrow for one goal. Just keep going straight.
+Talk_Text_0057	Having a will is not a bow, it's an arrow. I will be your arrow.
+Talk_Text_0058	Nothing will escape my arrows now.\\rBecause this one shot contains your will.
+Talk_Text_0059	Your birthday is the day you were born. I don't have any particular feelings, but...
+Talk_Text_0060	Why is Helia more excited than me...?
+Talk_Text_0061	Sometimes, this kind of atmosphere... I don't think it's bad.
+Talk_Text_0062	Hmm? Is it supplies?
+Talk_Text_0063	Can you give it to me? ... I will use it gratefully.
+Talk_Text_0064	I didn't prepare a thank you gift... Is it really okay?
+Talk_Text_0065	The author seems to be a better person than I thought.
+Talk_Text_0066	Personal friendship is difficult, but... This much is okay. 
+Talk_Text_0067	Are you not interested in archery? ... No, it's nothing.
+Talk_Text_0068	Hello~! Writer, do you want to try this potion?
+Talk_Text_0069	Have a good day today! What kind of potion should I make?
+Talk_Text_0070	Wow, how was your day, Writer? Should I make you happy?
+Talk_Text_0071	Hahaha! Alchemy is fun, right? \\rCome visit my workshop next time~
+Talk_Text_0072	Huh? Do you need a potion?\\rSomething that suits Writer just fine...
+Talk_Text_0073	What you need for alchemy~ is effort, not talent, yeah!
+Talk_Text_0074	The power of potions is amazing~
+Talk_Text_0075	Wow~ This potion,\\rI want to study it more!
+Talk_Text_0076	Ehehe, I wonder if I can grow taller~?
+Talk_Text_0077	Ehehe♪ What kind of potion should I make today~?
+Talk_Text_0078	Author, author! I got an idea to make a new potion!
+Talk_Text_0079	Don't underestimate me just because I'm young!\\rI'm still growing today~
+Talk_Text_0080	Wow, I developed a special potion recipe!\\rI want to share it with the author first~
+Talk_Text_0081	I'll make a potion just for the author!\\rI promise to keep watching~
+Talk_Text_0082	I think I've reached the end of all truth.\\rCall me Lord Alchemist Elin! 
+Talk_Text_0083	I got a bunch of good stuff as gifts!\\rHehehe, birthdays are great~
+Talk_Text_0084	I don't remember when I was born~\\rBut I still like receiving congratulations!
+Talk_Text_0085	This year, since the writer is here,\\rIt might be a more special birthday?
+Talk_Text_0086	Wow~ I'll use it well! Thanks, writer!
+Talk_Text_0087	Can I use it as a material too...? Hehe, just kidding~
+Talk_Text_0088	Huh? Are you giving it to me?\\rWhat should I give you in return...
+Talk_Text_0089	Yeah, the writer seems like a really nice person!
+Talk_Text_0090	I want to get closer to the writer!
+Talk_Text_0091	The writer is also interested in alchemy? Hehehe, great!
+Talk_Text_0092	Hehehe… \\rI’d be happy if the roses bloomed in full bloom.
+Talk_Text_0093	What color roses were blooming in the garden today?
+Talk_Text_0094	Making the queen wait… Are you ready for that?
+Talk_Text_0095	If you want… \\rCan I treat you to some black tea?
+Talk_Text_0096	I poisoned your tea.\\r… Hehe, I was just joking.
+Talk_Text_0097	How ​​rude.\\rI didn’t allow you to touch me.
+Talk_Text_0098	Everyone must submit to absolute power.
+Talk_Text_0099	Hehehe… The tea smells good.\\rYou won’t regret it.
+Talk_Text_0100	It looks like pretty roses will bloom today.
+Talk_Text_0101	A rose stained with the blood of a traitor... \\rIt is the most beautiful flower in the world.
+Talk_Text_0102	Now I feel like worshipping this bodyWas it?\\rI will gladly accept your oath.
+Talk_Text_0103	This is the true power and authority of a queen.\\rCan you feel the difference in status?
+Talk_Text_0104	Now I can show everyone.\\rThe gap between a queen of a country and… mere rascals.
+Talk_Text_0105	I am the truth and law of this country.\\rThose who do not obey me are not worth keeping alive.
+Talk_Text_0106	Everyone wishes for my death, what about you?
+Talk_Text_0107	The queen's birthday is a national event. Now, shall we begin the celebration?
+Talk_Text_0108	Shall we execute a traitor to commemorate the occasion? Hehe, just kidding.
+Talk_Text_0109	Is this an offering to me? Hehe, I will accept it.
+Talk_Text_0110	This is something worthy of a queen. Thank you.
+Talk_Text_0111	Are you finally ready to submit to me?
+Talk_Text_0112	Hehehe... Do you want to look good for me too?
+Talk_Text_0113	I want to see roses dyed in your color.
+Talk_Text_0114	I invite you to the queen's tea time. I won't forgive rejection.
+Talk_Text_0115	Welcome back to Fairy Tale Land!
+Talk_Text_0116	Come on~ I've been waiting!\\rLet's work hard together today too!
+Talk_Text_0117	You're late, writer!\\rMaking a great actor wait~!
+Talk_Text_0118	I guess it's because I've been taking a break from filming recently...\\rDo you feel heavy?
+Talk_Text_0119	This? It's not heavy at all!\\rWant to hear it?
+Talk_Text_0120	Hey, the writer only writes fairy tales? It would be nice if you wrote my script too!
+Talk_Text_0121	I'm a hard-working genius~ Hehe!
+Talk_Text_0122	I feel like my body has gotten lighter!\\rWhat if I become even more perfect~?
+Talk_Text_0123	You won't regret choosing me! I'm a genius actor~.
+Talk_Text_0124	I'm starting to get the hang of it! I'll repay you with even better acting!
+Talk_Text_0125	Hehe, I've been a hard-working person since I was young!\\rOf course~ It's thanks to the writer's help!
+Talk_Text_0126	Acting and martial arts, 120 out of 100!\\rLeave it to the genius actor!
+Talk_Text_0127	If this was a movie~ I would have won the Academy Award?\\rI'll give that honor to the writer!
+Talk_Text_0128	The flames in my heart and the dragons at my fingertips burn even more intensely~\\rThis is truly the finishing touch!
+Talk_Text_0129	I'll become a flame that burns forever.\\rSo that you can see me wherever you are!
+Talk_Text_0130	My birthday~? Every year is a special day! Because I'm with special people!
+Talk_Text_0131	I'm scared of how much I grow every year~\\rHow much stronger will I be on my next birthday?
+Talk_Text_0132	The gifts from fans are piling up! I want to open them quickly~.
+Talk_Text_0133	I often get gifts~ But I'm still happy. Thank you!
+Talk_Text_0134	The writer liked my acting too? Hehe.
+Talk_Text_0135	The writer was a fan of mine, too?\\rI knew it from the beginning~
+Talk_Text_0136	As expected, in fairy tale land~ you only meet good friends!
+Talk_Text_0137	Hehe, the writer wants to be friends with me too, right?
+Talk_Text_0138	Writer, don't you want to be my manager? Hehe, just kidding~.
+Talk_Text_0139	Ouch!!! I want to hunt!!!\\rLet's go hunting together!!
+Talk_Text_0140	Writer!! You came to hunt monsters, right?! \\rLet's go quickly!!
+Talk_Text_0141	Oh! Here it comes at just the right time!\\rIt's monster respawn time~!
+Talk_Text_0142	Oh? Is a monster appearing? Where, where?!
+Talk_Text_0143	Ahahaha!! When I stay still,\\rmy body gets so tense!
+Talk_Text_0144	When my head's complicated, it's hunting!\\rShould I lend you my sword?
+Talk_Text_0145	Hey~ Training~? I'm a practical person~?
+Talk_Text_0146	Awesome! I'll become the strongest warrior!!
+Talk_Text_0147	I think I can even break rocks~?
+Talk_Text_0148	Take a look! The warrior who will conquer Wonderland has appeared!
+Talk_Text_0149	Ahahahaha! With this, I can defeat more monsters!\\rLet's go catch a stronger guy~!
+Talk_Text_0150	The hero from another world who will save the world!\\rI've become stronger and descended to Wonderland~!
+Talk_Text_0151	Huh... ? I've become the strongest hero... ... \\rI can rule this world with this!!! Hehe!!!
+Talk_Text_0152	Birthday?! It's my birthday?! Hehehe!!!
+Talk_Text_0153	Birthday present? There are many things I want!!!\\rHero's sword! Hero's shield! Hero's staff!
+Talk_Text_0154	Huh~ Let's have fun on your birthday?\\rHunting is fun~
+Talk_Text_0155	If I have this, I'll be stronger?! \\rOh~ I like it?!
+Talk_Text_0156	What's this?! Are you giving it to me?!
+Talk_Text_0157	If you're going to do it, give me a gift that makes me stronger!!!
+Talk_Text_0158	We're going to go hunting monsters together in the future too?!
+Talk_Text_0159	As expected~ You're the best party member, right?
+Talk_Text_0160	Oh?! We've become close?!
+Talk_Text_0161	You can lean on me if you have any difficulties.\\rIt's okay to ask for advice.
+Talk_Text_0162	Nice to meet you~ \\rYou should call me if you have any troubles!
+Talk_Text_0163	I wish I could make memories with you in Fairy Tale Land!
+Talk_Text_0164	Author!! What's your favorite animal?
+Talk_Text_0165	Huh? Hehe... I like it when someone greets me first~
+Talk_Text_0166	Even when an animal is sick, they come to me~\\rI'll treat them anytime!
+Talk_Text_0167	Oh...!! Want to see a picture of the parrot I'm raising? Hehe...
+Talk_Text_0168	I can easily lift things heavier than a gauntlet!
+Talk_Text_0169	Gulp, gulp... Don't you have more?
+Talk_Text_0170	I have strength to spare!!
+Talk_Text_0171	I'll protect all the weak children with my strength!
+Talk_Text_0172	If you rely on me... There's nothing I'd be happier about!
+Talk_Text_0173	Hehe, to become a more trustworthy friend... \\rI have to work harder, right?
+Talk_Text_0174	The stronger my will to protect,\\rI can become stronger! Hehe…
+Talk_Text_0175	I like my big body.\\rI want to be a big tree that everyone can lean on.
+Talk_Text_0176	My best birthday present is my friends.\\rI'm so happy to be congratulated like this.
+Talk_Text_0177	I'm going to spend today with my family.\\rAnd all my pets.
+Talk_Text_0178	Birthday presents are okay. My family takes good care of me.\\rRather than that, I like receiving sincere congratulations more!
+Talk_Text_0179	Wow… I have to prepare a gift for the author next time!!!
+Talk_Text_0180	Me… Am I giving it to you? I feel good! Hehe!
+Talk_Text_0181	A gift is a gift, but the heart makes me happier! Thank you!
+Talk_Text_0182	Hehehe... I hope I can be remembered as a kind person to you.
+Talk_Text_0183	I want to be a little more reliable to the author.
+Talk_Text_0184	Don't be afraid of me and come to me.\\rThat alone makes me so happy!!
+Talk_Text_0185	Fairytale Land is always waiting for you, \\rAuthor.
+Talk_Text_0186	May your day be filled with joy today.
+Talk_Text_0187	You came back. \\rI'm glad I could meet you, Author!
+Talk_Text_0188	Thank you for always helping me. \\rI feel so secure because you're here!
+Talk_Text_0189	As much as you help me,\\rI want to be of help to you too.
+Talk_Text_0190	Oh my... ? I'm surprised!\\rIs this a sign of friendliness?
+Talk_Text_0191	Please give me the strength to protect Fairy Tale Land!
+Talk_Text_0192	The necklace is sparkling... \\rHave I grown a little more?
+Talk_Text_0193	Hehehe, can I ask for a strawberry-flavored potion?
+Talk_Text_0194	If it's to protect Fairy Tale Land and my friends... \\rI can do anything.
+Talk_Text_0195	My power of joy has grown stronger... !\\rIt's a blessing that the author came to Fairy Tale Land.
+Talk_Text_0196	I hope everyone is happy.\\rMe, the author...and our Fairy Tale Land.
+Talk_Text_0197	With this... I can protect everyone.\\rSo please watch over me.
+Talk_Text_0198	Thank you for the congratulations.\\rIt will be an unforgettable memory.
+Talk_Text_0199	It's just my birthday, but I'm a little embarrassed that it's a national holiday.\\rBut I'm glad that everyone is happy for me!
+Talk_Text_0200	A gift? That's okay!\\rI'd rather give you a gift because I'm grateful...
+Talk_Text_0201	I'll put it in the treasure vault! Thank you, author!
+Talk_Text_0202	Thank you so much! I'll designate it as a national treasure of the fairy tale land!
+Talk_Text_0203	I'm glad! That you thought of me...
+Talk_Text_0204	Hehe. My heart feels warm when I'm with you, author.\\rIs this what a friend is?
+Talk_Text_0205	To me, a friend is the best gift.
+Talk_Text_0206	Author... Thank you. For being with me...
+Talk_Text_0207	Are you interested in my research?\\rKekeke, learning is a good attitude. I'll praise you.
+Talk_Text_0208	Hello? \\rPoor ones who waited for me.
+Talk_Text_0209	You have a bad habit of taking out scholars who should be in the library.
+Talk_Text_0210	… I couldn't sleep last night either.\\rSo, stop touching me.
+Talk_Text_0211	Artifact!!! \\rThe sound itself is a beautiful name.
+Talk_Text_0212	Oh, is this a new artifact?\\rBring it here.
+Talk_Text_0213	Eh, ehehehehehahahaha!!\\rYou've gotten stronger. As an artifact.
+Talk_Text_0214	Accepting new things. That's strength.
+Talk_Text_0215	Energy is flowing in.\\rIs this your emotion? Hehehe...
+Talk_Text_0216	The return of the Smile Mask you've been waiting for.\\rAfter overcoming all those ups and downs.
+Talk_Text_0217	Wow, this power...is it a new research topic? \\rKekekekekekeke... It's quite interesting.
+Talk_Text_0218	As long as I feel emotions, this energy will not run dry.\\rDo you now understand the infinite possibilities of the artifact?
+Talk_Text_0219	Okay, okay. This is it.\\rAll pleasure and despair!!! It's all here!!!
+Talk_Text_0220	Birth begins with all joys and sorrows.\\rIt's certainly a beautiful thing.
+Talk_Text_0221	Apart from the beauty of birth.\\rI don't understand why this is celebrated every year.
+Talk_Text_0222	… Well, I'll still appreciate your kindness.\\rWouldn't it be better if you gave me an artifact? Kekekekekeke!!
+Talk_Text_0223	I'll take it for now.\\rI have to appraise it to see if it's junk or an artifact.
+Talk_Text_0224	Is it an artifact? If it's not an artifact, I'm not interested.
+Talk_Text_0225	Do you want to win my favor? You seem to like doing pretty useless things, don't you?
+Talk_Text_0226	Can you handle it? Kekekekeke… .
+Talk_Text_0227	Oh, good, good.\\rYou're saying you'll be my assistant?
+Talk_Text_0228	Hmm~ That's good. I just needed a test subject.
+Talk_Text_0229	... Did you find a wolf? \\rThen don't hesitate and shoot.
+Talk_Text_0230	While you were dawdling, you must have caught three wolves.
+Talk_Text_0231	Don't be complacent. You never know when a wolf might show up.
+Talk_Text_0232	You should also learn how to hide your presence.\\rYou... should learn it.
+Talk_Text_0233	Here you are. I was guarding the front.
+Talk_Text_0234	I'm just running towards my target. \\rI don't have time to look around.
+Talk_Text_0235	Is this a request? \\rI'm not taking it right now unless it's a wolf hunt.
+Talk_Text_0236	Don't touch it carelessly. It'll damage your gun.
+Talk_Text_0237	It smells like a wolf... It's unpleasant.
+Talk_Text_0238	I need to get stronger. I'm still lacking.
+Talk_Text_0239	Good. I can hunt more wolves.
+Talk_Text_0240	I'm one step closer to revenge.
+Talk_Text_0241	I'm in good shape. I'll hunt you with all my might.
+Talk_Text_0242	I'm ready to annihilate you.\\rSo, where are the wolves?
+Talk_Text_0243	I guess I'm just warming up. The war is just beginning.
+Talk_Text_0244	I've finally gotten to the point where I can shoot two with one shot.\\rI guess revenge isn't far away.
+Talk_Text_0245	Those damn wolves...\\rIt's time to end this war.
+Talk_Text_0246	All revenge is over, but the hatred won't go away.\\rDo you know who I should vent my anger on?
+Talk_Text_0247	Celebrating the day you were born? What a strange custom.
+Talk_Text_0248	Until revenge is over... I have no intention of celebrating.
+Talk_Text_0249	A wolf's head as a gift. ... Heh, just kidding.
+Talk_Text_0250	If it weren't for you, it would have just passed by.
+Talk_Text_0251	What? If it's not a wolf, I don't care.
+Talk_Text_0252	I'll accept it. For now.
+Talk_Text_0253	Why do you want to be friends with me? That's suspicious.
+Talk_Text_0254	I don't really have anything to give you...
+Talk_Text_0255	I'll at least say thank you for your kindness.
+Talk_Text_0256	I don't have time to quibble. Not yet.
+Talk_Text_0257	I don't need friends. This is a battlefield for me.
+Talk_Text_0258	This kind of favor... I'm not used to it.
+Talk_Text_0259	Should I hunt you next time? Heh, just kidding.
+Talk_Text_0260	... This is a secret, \\rIf you see the red-haired circus leader, run away unconditionally!
+Talk_Text_0261	Today is a great day for Mr. Zepetto! \\rAlways great, though!
+Talk_Text_0262	Hello! Have a good day today!\\rDid you eat well?
+Talk_Text_0263	Let's go to school~♪ Let's do our homework~♪
+Talk_Text_0264	Is there anything you want me to do? \\rI'm confident when it comes to errands!
+Talk_Text_0265	Whoa! Don't touch Hammer's nose~!
+Talk_Text_0266	Oh right!!! I forgot my school supplies...
+Talk_Text_0267	I have to work harder to get praised.
+Talk_Text_0268	I feel stronger!\\rAm I getting a little closer to perfection?
+Talk_Text_0269	I'll become a cool guy and protect Mr. Zepeto!!
+Talk_Text_0270	I'll work hard! Then you'll think I'm cute, right?
+Talk_Text_0271	I think I've grown taller!\\rHuh? Your nose... got longer?!
+Talk_Text_0272	Wow!! Did you listen to me? You worked hard, right?\\rPraise me quickly!! Hehe...
+Talk_Text_0273	I've gotten a little stronger!\\rDo I deserve to stand by that person's side now?
+Talk_Text_0274	I made a lot of mistakes and was only protected... \\rNow I want to protect someone too.
+Talk_Text_0275	The day Zepeto made me!!\\rThis is the best day ever for me!
+Talk_Text_0276	Hehehe... I'm going to go eat something delicious with Zepeto.\\rWriter, do you want to come with me?
+Talk_Text_0277	I'm so happy Zepeto made me.\\rIf not, I wouldn't have been able to receive birthday wishes like this?
+Talk_Text_0278	Should I give it to Zepeto?\\r... Ah! Are you giving it to me?
+Talk_Text_0279	Hehehe... I'm loved...
+Talk_Text_0280	Thank you!! I'll cherish it.
+Talk_Text_0281	Writer!! If you have any errands to run, leave them to me!\\r… Isn't this it?
+Talk_Text_0282	Writer. That's… well… \\r… Hehe, always thank you!!
+Talk_Text_0283	Becoming someone's friend… \\rWhat a precious feeling!
+Talk_Text_0284	Nice to meet you!\\rDo you like ballet too, writer?
+Talk_Text_0285	It's a familiar and nostalgic place to me.\\rI'm sure you'll like it too, writer.
+Talk_Text_0286	Hello, writer. Are you here to see a performance?
+Talk_Text_0287	Entrès! Ballon~ \\rHehe, ballet is really beautiful.
+Talk_Text_0288	The basics of ballet start with toe shoes.\\rShould I get you some?
+Talk_Text_0289	Huh? Is your outfit messy?
+Talk_Text_0290	I won't lose my beginner's mind. \\rI'll work hard!
+Talk_Text_0291	I really feel like I have wings~
+Talk_Text_0292	Haha, I think I can do an arabesque easily.
+Talk_Text_0293	Ballet is elegant and strong.\\rWould you like to dance with me?
+Talk_Text_0294	The beginning of ballet is the steps.\\rI can finally take my first step.
+Talk_Text_0295	I think that only endless practice makes a pro.\\rHaha, I'll work even harder here.
+Talk_Text_0296	My life as a ballerina,\\rI want to prove that it shines brightly more than anything else.
+Talk_Text_0297	Etoile, Towards a Realm Beyond.\\rI'll Show You a Ballet That Everyone Will Remember.
+Talk_Text_0298	If My Ballet Were a Song and a Poem...\\rIs It Okay if I Dedicate My Ballet to You?
+Talk_Text_0299	Do You Like Fruit Cream Cake? Would You Like to Have Some?
+Talk_Text_0300	When is your birthday? I'd like to give you a celebratory performance.
+Talk_Text_0301	I spent my birthday with my mother last year. I miss her somehow. Hehe...
+Talk_Text_0302	I'll Repay You with a Better PerformanceI'll give it to you.
+Talk_Text_0303	I can feel the heart in the gift. I'll treasure it.
+Talk_Text_0304	Just knowing that it's a gift for me makes my heart flutter, haha.
+Talk_Text_0305	You're interested in ballet, too, writer? I'm glad.
+Talk_Text_0306	Can I invite you to my performance?
+Talk_Text_0307	I'm so glad I met such a good person.
+Talk_Text_0308	If you're in trouble, tell me. \\rWe should help people in crisis.
+Talk_Text_0309	Ah, you're here. \\rI could hear your footsteps from far away.
+Talk_Text_0310	I can't rest for even a moment.\\rWhat should I do today, writer?
+Talk_Text_0311	… I miss you. My hometown people… \\r… No. I won't say anything weak.
+Talk_Text_0312	The path of a great warrior won't be easy.\\rThat's why it's more honorable.
+Talk_Text_0313	The Mother of the Earth and the Father of Flames\\rare watching over us.
+Talk_Text_0314	I will work hard to become an honorable chieftain.
+Talk_Text_0315	I wish the tribesmen would be proud of me.
+Talk_Text_0316	The spirits are gathering.\\rWith this, I will grow a little.
+Talk_Text_0317	There is no fear in the ghost of the red flame.\\rI will show the bravery of a great warrior.
+Talk_Text_0318	Is this all I need to become a chieftain... \\r... .No, I still have a long way to go.
+Talk_Text_0319	To become a great warrior and lead the tribe,\\rI will not stop for a moment.
+Talk_Text_0320	A soul that burns to protect is stronger.\\rI have a place I must return to, so I cannot stop yet.
+Talk_Text_0321	The spirit of a great warrior dwells in me.\\rAs the leader of the tribe, I will inherit that will.
+Talk_Text_0322	This flame is a fierce flame containing the spirits of our ancestors.\\rMy will will soon become the will of the tribe.
+Talk_Text_0323	Our tribe does not celebrate birth.\\rThis atmosphere is a little unfamiliar… but it’s not bad.
+Talk_Text_0324	I always remembered death… \\rI also remember the day you were born.
+Talk_Text_0325	Being born and living means getting closer to the spirits of our ancestors.
+Talk_Text_0326	Our tribe never forgets kindness.\\rWe will definitely repay it.
+Talk_Text_0327	Are you giving me your spoils?\\r… I will gratefully accept them. Thank you.
+Talk_Text_0328	What does the gift from the people here mean?
+Talk_Text_0329	Your spirit is truly strong.\\rHave you ever thought of becoming a warrior?
+Talk_Text_0330	Even if I go back, I will not forget your name.
+Talk_Text_0331	I like those with pure souls.
+Talk_Text_0332	Yeah. If you call, I will follow. \\rOnly where there is dessert.
+Talk_Text_0333	Come on. Where's the cake?\\rI like strawberry flavor.
+Talk_Text_0334	… … … Heh. Heh. Heh. (Negative thoughts)
+Talk_Text_0335	You don't need to listen to Hansel. \\rThat guy's an idiot.
+Talk_Text_0336	Want to pat his head?\\rOne cake at a time.
+Talk_Text_0337	See? There's a cake over there.\\rIs it mine? It's mine, right?
+Talk_Text_0338	I've gotten stronger, so give me a present. \\rIf you're going to do it, cake!
+Talk_Text_0339	If you don't cheer up, Oppa... \\rYour little brother might catch up to you.
+Talk_Text_0340	Gulp, gulp... Add more syrup!!!
+Talk_Text_0341	… Courage and wisdom? Oppa will take care of those things.\\rI'm cute, so that's fine.
+Talk_Text_0342	Huh? Did I grow? Did I grow a bit taller too...?
+Talk_Text_0343	Huh, huh. It looks better now.\\rAh. I'm talking about dessert plating.
+Talk_Text_0344	The cake seems sweeter.\\rIs it okay to eat it now?
+Talk_Text_0345	The strong always get the cake!!!\\rThis is a famous saying in the dessert world.
+Talk_Text_0346	… Sometimes you can't back down.\\rTo do that... . I have to eat dessert!!
+Talk_Text_0347	Birthday!!! You know what day I'm doing!!!\\rThe day I eat dessert!!!!
+Talk_Text_0348	Um um um… Author, you’re not bad at choosing cakes, even though you look cute.
+Talk_Text_0349	Wow… I ate all the cake… .\\rIn that sense, please take care of me next year too, Author.
+Talk_Text_0350	When is your birthday, oppa? I have to steal your present… .
+Talk_Text_0351	Huh? What’s this?
+Talk_Text_0352	I’m giving another present to a cute kid. \\rThat’s what it is.
+Talk_Text_0353	… How much dessert can I buy if I sell this… \\rHuh? Did you hear that?
+Talk_Text_0354	Did the author succumb to my cuteness too?
+Talk_Text_0355	I’ll pay my friend’s expenses with dessert.
+Talk_Text_0356	You want to be friends with me because I'm cuter than you, right?
+Talk_Text_0357	Aramode~deun \\rI like making desserts!
+Talk_Text_0358	Today is another sweet day~\\rIs it that kind of day for the author too?
+Talk_Text_0359	Let's go play at Aramode~deun's candy shop~
+Talk_Text_0360	Are we going to be friends? \\rAre we going to eat cookies together?
+Talk_Text_0361	Huh? Did the cookies\\rgo bad?
+Talk_Text_0362	Ah~ That's what I'm saying~ \\rI'm putting dessert in your mouth~
+Talk_Text_0363	Wow~ Pudding~
+Talk_Text_0364	There's a ton of sugar~
+Talk_Text_0365	It feels even sweeter~
+Talk_Text_0366	Cake~ Pudding~ Cookie~\\rI'll make any dessert~
+Talk_Text_0367	I think I'm baking better today~
+Talk_Text_0368	Are you going to make giant cookies starting today~?\\rYou're going to need a lot of flour and sugar~?
+Talk_Text_0369	I'm going to make a ton of friends~\\rLet's share a ton of desserts~
+Talk_Text_0370	Cookies~ Donuts~ Ice cream~ Muffins~ Pudding~
+Talk_Text_0371	Now I know how to make friends.\\rSo... Aramode is going to work hard to become a great friend too!
+Talk_Text_0372	Cake~ Thank you~\\rNext time, I'll repay you with an Aramode cake!
+Talk_Text_0373	But what's your birthday... ??\\rThe day you were born... ? Why are you celebrating it?
+Talk_Text_0374	Do friends celebrate like this?\\rThen the author and I are friends?
+Talk_Text_0375	Now I think I'll think of the author every birthday.\\rThank you so much~!
+Talk_Text_0376	Huh? You want me to make dessert?
+Talk_Text_0377	Oh~~? Thank you!!
+Talk_Text_0378	What is this~? I don't know much about anything but desserts!
+Talk_Text_0379	Can writers become cookies too?\\rJust kidding~
+Talk_Text_0380	I make a lot, a lot of desserts!\\rI only give them to my friends!
+Talk_Text_0381	Everyone who likes desserts is a friend!!
+Talk_Text_0382	I'm good at baking too.\\rI used to work part-time at a bakery in a shopping mall!
+Talk_Text_0383	Hello! \\rHave you seen Gretel by any chance...?
+Talk_Text_0384	Oh, you're here!\\rWould you like some bread?
+Talk_Text_0385	Whoa! Did Gretel say something weird again?
+Talk_Text_0386	Huh? What's on your lips?\\rWhere?
+Talk_Text_0387	Is Gretel cute?\\rDo you... have any siblings?
+Talk_Text_0388	... I think my character is a bit plain... \\rIs it too bland...
+Talk_Text_0389	This potion is good!! How did you make it?
+Talk_Text_0390	I feel like I've gotten smarter? Haha!
+Talk_Text_0391	Wow! This is so sweet!\\rCan I have a little more?
+Talk_Text_0392	No matter what difficulties you face, I'll overcome them!\\rBecause I have courage and wisdom!
+Talk_Text_0393	Wow! Thank you!\\rI'll work hard and become a great adult!
+Talk_Text_0394	I just had an idea for a new dessert recipe!\\rCan I try making it?
+Talk_Text_0395	My shield seems to have gotten stronger, right?\\rI like it! I'll get stronger!
+Talk_Text_0396	I feel like I've grown. Not only in my fighting skills, but also in my heart...\\rOh, and my baking skills too!!
+Talk_Text_0397	When you realize that you have something precious by your side,\\rI think that's when you find true strength.
+Talk_Text_0398	Is that my birthday cake?\\rAhaha!! It looks so delicious!!
+Talk_Text_0399	Last year, Gretel stole all my birthday cakes... \\rI absolutely have to get it this year...
+Talk_Text_0400	I'll give you my cake. \\rLet's eat it together.Haha!
+Talk_Text_0401	Thank you for the gift!\\rI have to be careful not to let my little sister steal it from me.
+Talk_Text_0402	Are you giving it to me? You're not up for anything, are you?!
+Talk_Text_0403	Are you eating it?! Thank you!!!
+Talk_Text_0404	Ahem! You can rely on me sometimes.\\rEven Gretel acts up.
+Talk_Text_0405	Author! Would you like to try the cookies I made?
+Talk_Text_0406	I thought I wanted a brother or sister...\\rI don't feel that way these days. Hehe.
+Talk_Text_0407	You came to the strange and beautiful \\rfairytale land again today?
+Talk_Text_0408	It's everywhere, but nowhere.\\rIt's a strange cat in a strange country, right?
+Talk_Text_0409	You leave the cat behind and leave... \\rI might make a mess of it~?
+Talk_Text_0410	Hehehehe... I didn't think of anything playful\\rIsn't it?
+Talk_Text_0411	It didn't disappear?\\rYou saw it wrong~ Maybe?
+Talk_Text_0412	Yes~ It's a Cheshire cat... \\rYou want me to pet it?
+Talk_Text_0413	Do you like strong cats? Hehe.
+Talk_Text_0414	You think cats are better than dogs~\\rright?
+Talk_Text_0415	The claws have gotten sharper~\\rIf you let your guard down, it'll scratch you?
+Talk_Text_0416	You're suspicious of me?\\rHmm~ I'm just an ordinary cat, right?
+Talk_Text_0417	I wasn't trying to lie~\\rI guess I became a stronger cat?
+Talk_Text_0418	Oh my~ Is it okay if I become stronger?\\rAren't you trusting me too much? Hehe.
+Talk_Text_0419	I'm a cat that surprisingly listens to the butler.\\rWho don't you like today?
+Talk_Text_0420	A strange country, a strange cat, and a strange butler... \\rThere are really so many strange things~
+Talk_Text_0421	You even remember a day like this?\\rYou're such a kind butler~
+Talk_Text_0422	You didn't prepare anything like canned food for my birthday, did you?
+Talk_Text_0423	Is there anything you want?\\rHmm~ Can you handle it?
+Talk_Text_0424	Cats never forget favors~\\rShould I get you something?
+Talk_Text_0425	Hmm~ You know cats' tastes well, don't you?\\rThank you, butler.
+Talk_Text_0426	I told you not to trust anyone~\\rShould I cancel it for you? Hehe.
+Talk_Text_0427	Huh~ Are you okay?\\rI'm a very suspicious cat, aren't you~?
+Talk_Text_0428	You're a capable butler~\\rCats might like it.
+Talk_Text_0429	I told you I'm a really strange butler~\\rThat's why I like you even more.
+Talk_Text_0430	Did you come to see Flare? Ahaha♥
+Talk_Text_0431	Author~ You're here?\\rFlair, I've been waiting for you♥
+Talk_Text_0432	Ahaang~ Mimi, Pipi~ You're so cute today too♥
+Talk_Text_0433	Aang♥ Don't touch.♥
+Talk_Text_0434	Huh~? You want to play with Flare?\\rShe's cute, Author♥
+Talk_Text_0435	Author, Author!! Want to try on a cute one-piece dress?
+Talk_Text_0436	I wonder where Pinocchio is and what he's doing~?
+Talk_Text_0437	Eung~ Flare doesn't burst like a doll even when you press it~
+Talk_Text_0438	You like Flare♥
+Talk_Text_0439	I received the author's love♥
+Talk_Text_0440	Aha~♥ It's a potion that gives you strength♥
+Talk_Text_0441	I found a cute doll♥ \\rI'm recruiting a circus troupe starting today~♥
+Talk_Text_0442	The curtain rises on the circus performance~!\\rThe super pretty leader Flare... here she comes♥
+Talk_Text_0443	Ahaha♥ Is the author a fan of Flare too?\\rShould I give her a kiss as fan service... ~ Of course it's a joke♥
+Talk_Text_0444	Leaping to the world's best circus troupe!\\rOf course it's possible because it's Flare♥
+Talk_Text_0445	Gyah♥♥ A surprise party for Flare!!!\\rI'm soooo happy!!!! I love you, Author!!!
+Talk_Text_0446	I'm going to stuff cake into the mouths of the cute dolls♥\\rOf course, the dolls can't eat cake...so they'll spit it all out♥
+Talk_Text_0447	Today's the day Flare's circus troupe is closed!\\rI'm going to have a good time with the Author... ♥
+Talk_Text_0448	Ahaha♥ Can I get a cute doll for my next gift?
+Talk_Text_0449	All gifts from fans are precious♥
+Talk_Text_0450	The hearts that cherish and love Flare... \\rI'll repay you with an even better performance? ♥
+Talk_Text_0451	Ahahahaha♥ Do you need Flare's autograph?
+Talk_Text_0452	Woof~♥ ​​Getting close to her in person is forbidden! !\\rBut... maybe the author is okay?
+Talk_Text_0453	Flair isn't interested in anything but cute dolls~\\rIs the author an exception?♥
+Talk_Text_0454	The author crying... I think it'd be cute... ♥
+Talk_Text_0455	Hmm... Hmm... Yeah... … zzZ… zzZ…
+Talk_Text_0456	This body just woke up, so\\rIt's a good morning.
+Talk_Text_0457	… It means you're having a bad dream.
+Talk_Text_0458	… … … It means you're dazed... It means you need to sleep a little more…
+Talk_Text_0459	You need to sleep at least 18 hours to be healthy.\\rThis is a Maginot Line that cannot be compromised.
+Talk_Text_0460	… … .Wake up and you'll die!!!! \\rDon't touch me!!
+Talk_Text_0461	Sleep 24 hours a day.\\rPlease let me protect you.
+Talk_Text_0462	… … … … … zzZ… Huh!!! I fell asleep again…
+Talk_Text_0463	Sleeping is recharging your energy.\\rThat means you'll become stronger!!
+Talk_Text_0464	Study how to sleep more efficiently.
+Talk_Text_0465	Hmm? It makes me feel taller.
+Talk_Text_0466	… Whoa... It's not time to wake up yet…
+Talk_Text_0467	Wow, the pillow is softer.\\rI guess I can sleep a little more deeply.
+Talk_Text_0468	Huh. This is the basic quality of a princess!\\r… So this body has used up all its energy for the day\\rSo it’s going to sleep.
+Talk_Text_0469	… But it might be more enjoyable now than just sleeping in the castle.\\rThanks to that, I’ve become stronger. In body and mind.
+Talk_Text_0470	Hmm… Um… Hmm… Huh?\\rThis body’s birthday?
+Talk_Text_0471	This body was cursed when it was 15 and slept for 100 years.\\rSo it’s 115 years old in total!!!! But… \\rMy body and mind are still middle school girls!!
+Talk_Text_0472	Umul umul… If you eat sugar before going to bed… umul umul… \\rIt means that the quality of your sleep deteriorates… umul umul… \\rHa~! It’s delicious. So, from now on, avoid giving me cake as a gift!
+Talk_Text_0473	It means that it’s a good thing to eat and sleep with.\\rIt means that you’re praising me.
+Talk_Text_0474	Hmph. It means that you have an eye for choosing gifts, rather than just looking at them.
+Talk_Text_0475	This is what Abama always bought for you.\\r… But, that doesn’t mean that you should take it back!!!
+Talk_Text_0476	If you want to become friends with this body,\\rYou should get me the best comforter!!!
+Talk_Text_0477	Whoa… Let’s meet in our dreams for now.
+Talk_Text_0478	You want to become friends with this body? \\rIt means that you’ll be together for a special time.
+Talk_Text_0479	Uh... . So... That's... Hello!!!\\rWhew... I got my courage up...
+Talk_Text_0480	I shouldn't stand out... In my eyes... Hot!\\rHuh, why is the author here... ... ?!
+Talk_Text_0481	Heheheung~♪ Heheheung~♪\\r(Writing a diary.)
+Talk_Text_0482	Yangyang~ Memeya~\\rWhere did the kids go again...
+Talk_Text_0483	Whoa... ?! Did you say hello?! \\r... That couldn't be right, right?
+Talk_Text_0484	Whoa! I'm sorry... !\\rMi, did I end up being hated...
+Talk_Text_0485	You... didn't see my diary, did you… .?!\\rThen I'll kill everyone and I'll die too!!
+Talk_Text_0486	Wow!! Don't pull my skirt!!
+Talk_Text_0487	I guess I was lacking… ? \\rI'm sorry!! I'm sorry!!
+Talk_Text_0488	This, this is too much… \\rThat kind of person… That kind of person aaaaah…
+Talk_Text_0489	This… Can Yangyang and Meme drink it too… ?
+Talk_Text_0490	Me, you mean me? Me… I'm… the nightmare fairy… \\rI'm, I'm sorry!!! I'm sorry for giving you nightmares!!
+Talk_Text_0491	This, this kind of affectionate feeling… \\rIs it okay for a gloomy fairy like me to feel this way…
+Talk_Text_0492	Me… A gloomy fairy like me to be so \\rcherished, cherished, loved, and cared forPlease spread it out… \\rUh, somehow repay me…!!!
+Talk_Text_0493	Yes… That’s right… With this power, I can put everyone to sleep… !!\\rCurse them… !! Be hated… . Hehe… Hehehehehe… …
+Talk_Text_0494	Even someone so weak and worthless as I am\\rCan become strong… \\rI feel a little more confident now.
+Talk_Text_0495	… Yes… ? Could this be… \\rNo, there’s no way! There’s no way the author would remember my birthday… \\r… No, you really prepared this for me… ?
+Talk_Text_0496	Uh-huh-huh… Uh-huh-huh… . Uh-huh-huh… \\rI’m sorry. I shouldn’t be crying on a day like this… \\rI get so touched when I receive something like this… .
+Talk_Text_0497	I... When I saw Rose having her birthday party when she was little... \\rI was so jealous. \\rI wondered if I could be congratulated like that by someone...
+Talk_Text_0498	Thank you so much for remembering and celebrating my insignificant birthday.\\rI really think... today will be the best day ever.
+Talk_Text_0499	Oh... No... If you give me something like this... \\rI'll misunderstand my relationship with the author... .
+Talk_Text_0500	A... gift, you say... ?\\rA gift... ? It's the same as the 'gift' I know, right?
+Talk_Text_0501	No way... Are you giving it to me... ?\\rHehehe... Am I mistaken?
+Talk_Text_0502	Um... Should we... call each other by our nicknames... ?\\rI'm Meruling. Author, how about Jakka-chan…? Hehehe…
+Talk_Text_0503	That’s… I see… This is what it means to be friends… .\\rSo it can happen naturally like this… .
+Talk_Text_0504	I’m sorry, I’m sorry, I’m sorry!!!\\rI was so presumptuous!! I’m sorryoooooo!!!
+Talk_Text_0505	Uhuhuhu… There’s no way the author would like me!\\rIt’s okay!! I deserve to be hated!
+Talk_Text_0506	Do you have a request? \\rThen come to the Zepeto workshop.
+Talk_Text_0507	For a single masterpiece,\\rI won’t stop today either.
+Talk_Text_0508	… … … Oh, I didn’t even know you were here.\\rI was just starting to work for a moment.
+Talk_Text_0509	… Pinocchio guy… \\rDid you go to school properly?
+Talk_Text_0510	Why? Should I make you a doll?
+Talk_Text_0511	It’s difficult to see puppetry as a piece of play.
+Talk_Text_0512	I want to become a more proper carpenter.
+Talk_Text_0513	I got the inspiration for a masterpiece. Let’s get started.
+Talk_Text_0514	As a puppeteer, I’m a little… \\r… No, I still have a long way to go.
+Talk_Text_0515	Making it until it’s perfect.\\rThat’s my motto.
+Talk_Text_0516	Well. I don’t think it’s perfect yet.\\r… But still, I like it a little. Hehe.
+Talk_Text_0517	I feel like I’m getting closer to perfection.\\rI’ll show you what a proper doll is.
+Talk_Text_0518	What I make is not just a doll.\\rIt's a perfect work of art.
+Talk_Text_0519	I create life at the tip of a sword, and handle my heart at the end of a thread.\\rNow it's time to turn my ideals into reality.
+Talk_Text_0520	Born as a creature, become the creator... \\rHeh, not so bad.
+Talk_Text_0521	It's not a special day. There's no one to congratulate me.\\r… Well, if it were a doll, I wouldn't know.
+Talk_Text_0522	Pinocchio, did you see where he went?\\rHe looks busy since morning.
+Talk_Text_0523	What is it? This isn't even a good material.\\r… You're giving it to me as a gift?
+Talk_Text_0524	Well, I'll think of it as a light gesture.
+Talk_Text_0525	Even if it looks good to me, it's not like I'm ordering anything... \\rShould I accept it once?
+Talk_Text_0526	Well, I'll admit it.\\rMy friendship with you is a good inspiration in its own way.
+Talk_Text_0527	Even getting along with Pinocchio... \\rHmm, is it too much of a bother?
+Talk_Text_0528	Should I hang you on a string and make you into a doll?\\rHehe, just kidding.
+Talk_Text_0529	Let's organize it step by step.\\rThe basics are important for anything.
+Talk_Text_0530	Hmm, these are pretty good materials.\\rThe design is perfect.
+Talk_Text_0531	Not bad.\\rI'll organize it with this.
+Talk_Text_0532	The best star, DnD!! \\rIt's nice to meet you, our cuties!
+Talk_Text_0533	You came to see the concert?\\rShall we start the solo performance~?
+Talk_Text_0534	You're cute no matter when I see you~ Our cutie.
+Talk_Text_0535	But... did you buy my album?
+Talk_Text_0536	Okay, focus now~\\rThe concert for you is about to start!
+Talk_Text_0537	Huh~ Do you need fan service?\\rI'll do it over and over, cutie♪
+Talk_Text_0538	Even the best idols shouldn't be proud!
+Talk_Text_0539	Huh~ Did your vocal range increase again?\\rHow perfect do you plan to become, DnD~
+Talk_Text_0540	Okay, I'll be an even brighter star!
+Talk_Text_0541	I'm your eternal superstar! \\rWant to hear my song?
+Talk_Text_0542	I'll show you how I shine!\\rTo you who made me shine♪
+Talk_Text_0543	Is it time to shine brightly?\\rI'll be a star that never sets♪
+Talk_Text_0544	As long as there's someone who listens to my song,\\rI'll be a star that shines forever.
+Talk_Text_0545	The day I was born was like a gift to someone~
+Talk_Text_0546	Oh my~ Are you congratulating me? You're such a sweet cutie~♪
+Talk_Text_0547	I always like hearing that I was born to be loved~
+Talk_Text_0548	Oh my, is that a fan letter? I'll treasure it ♪
+Talk_Text_0549	You're such an active cutie? Rather, I like it~
+Talk_Text_0550	Gifts from fans, I'm always happy to receive them~ Thank you.
+Talk_Text_0551	Should we make our cutie our next stage partner?
+Talk_Text_0552	Scandals are difficult~ but would you be okay?
+Talk_Text_0553	Don't you think our harmony will suit you well?
+Talk_Text_0554	Huh? Where is this… ?
+Talk_Text_0555	Are you hungry? Woof… Should I get some bread?
+Talk_Text_0556	I've been waiting!\\rLet's run an errand together!
+Talk_Text_0557	Where is Epu? I want to touch his tail…
+Talk_Text_0558	Don't follow strangers!!\\rRaise your hand when crossing the crosswalk!!!!
+Talk_Text_0559	Ehehehe... I love puppies!
+Talk_Text_0560	Huh? Did you just call me?
+Talk_Text_0561	This has a teddy bear on its head!\\rGrandma made it for me! Isn't it cute!
+Talk_Text_0562	I feel so energetic!!!\\rI guess it's because I drank it all at once!!
+Talk_Text_0563	Ehehehe! I have to go out and play now!
+Talk_Text_0564	I really like delicious food!
+Talk_Text_0565	Grandma's errands are always like a trip!\\rThere are lots of fun things to do!
+Talk_Text_0566	Wow! The errand was a huge success!!
+Talk_Text_0567	They say delicious food tastes the best when you share it!
+Talk_Text_0568	Grandma, Mom, and Jaka all praised me!\\rI'll work hard in the future!
+Talk_Text_0569	Happy bus~ day~ to me~~\\rHappy bus~ day~ to me~~
+Talk_Text_0570	Cake? Can I eat it all??\\rI can eat it all by myself!!!!
+Talk_Text_0571	Hehehe, I'm so so happy because it's my birthday!!!\\rI'm going to invite a bunch of my friends and have a birthday party!!
+Talk_Text_0572	Jaka, do you like delicious food?\\rShould I make it for you next time?
+Talk_Text_0573	Wow, wow!! A present!! \\rI love receiving presents!!!
+Talk_Text_0574	I don't know what to use it for!\\rBut I still feel so good!
+Talk_Text_0575	Please hold my hand when crossing a dangerous road!!\\rJacka is an adult and I'm a child!!!
+Talk_Text_0576	I think it would be better if Jacka had puppy ears.\\r... But it's okay if he doesn't!
+Talk_Text_0577	I think of Jacka as a friend!!!
+Talk_Text_0578	Don't waste time. \\rYou'll regret it.
+Talk_Text_0579	You're here. Let's start the operation.
+Talk_Text_0580	...I was cracking nuts.\\rIt's not worth it.
+Talk_Text_0581	It's okay to take a break sometimes? \\rThere's no time for that.
+Talk_Text_0582	This is a wartime situation, so refrain from talking.
+Talk_Text_0583	Are you free?\\rThis isn't the time to be doing this.
+Talk_Text_0584	To replace my right arm,\\rIt's not enough yet.
+Talk_Text_0585	Are you stronger? This is what I wanted.
+Talk_Text_0586	This is just a journey to find my worth.
+Talk_Text_0587	Am I cruel?\\rI just don't want to be a worthless person.
+Talk_Text_0588	Not bad. I can continue the war with this.
+Talk_Text_0589	Are you satisfied with this? No, not yet.\\rUntil I restore my arm... I need more strength.
+Talk_Text_0590	Good. Haha, with this, I can keep fighting.\\rNow I feel alive.
+Talk_Text_0591	… … … … … … .Ah. Right.\\rThis is the day I was created by Lord Drosselmeyer.
+Talk_Text_0592	What was I created for?\\rWhere does the value of my existence lie... ?\\rI always ask myself this on this day.
+Talk_Text_0593	… But this year... .\\rI want to put those worries aside and just spend it blankly.\\rThat's better, so don't worry.
+Talk_Text_0594	Now that I think about it, Marie also gave me a present early in the morning.\\r… I wonder why she’s happier than I am.
+Talk_Text_0595	Is this something needed for the exhibition?
+Talk_Text_0596	I just needed supplies.
+Talk_Text_0597	… There’s something else I want to receive.
+Talk_Text_0598	… Hmm. Do you want to enlist?
+Talk_Text_0599	I need reinforcements. … Don’t you think so?
+Talk_Text_0600	… Want to crack some walnuts?
+Talk_Text_0601	I wish it snowed.\\rWhen the weather’s cold… I feel good.
+Talk_Text_0602	… … … … .Hello, writer.
+Talk_Text_0603	You’re here, writer.\\r… Even with my eyes closed… I can tell.
+Talk_Text_0604	My memory is vague... \\rMy head feels foggy...
+Talk_Text_0605	… Hot... !! I... I, I'm not used to someone touching my body... .
+Talk_Text_0606	… I'm not used to chatting.
+Talk_Text_0607	This butterfly... keeps circling around.\\rI wonder if it has something to say...
+Talk_Text_0608	… … … Was there something?
+Talk_Text_0609	… Not a bad feeling.
+Talk_Text_0610	Will this help me remember a little bit...
+Talk_Text_0611	Butterflies... are gathering.
+Talk_Text_0612	You're probably a part of my memories.\\r… That's why we're together.
+Talk_Text_0613	The lights have gotten a little dimmer…
+Talk_Text_0614	It feels familiar.\\rIt feels like I've experienced it before…
+Talk_Text_0615	When my memories come back… Will I be the same as before?\\rWill I be swallowed by darkness? Or was darkness originally me…
+Talk_Text_0616	Birthday… So, that's the day I was born?
+Talk_Text_0617	I didn't know I'd be congratulated on my birthday… \\rWhat should I do in a time like this… So… \\r… … .Thank you, author.
+Talk_Text_0618	But I don't remember my birthday… How did you know?\\rEfrat told me… ?
+Talk_Text_0619	… … … … .Cake… .\\r(Staring intently at the strawberry cake.)
+Talk_Text_0620	… I'm speechless with surprise. Thank you, Author.
+Talk_Text_0621	What is this for?
+Talk_Text_0622	Are you giving it to me…? Why…?\\r… Hmm… Anyway, thank you.
+Talk_Text_0623	… Sometimes I'll rely on you… You rely on me too.
+Talk_Text_0624	… I'm… glad I met you, Author.
+Talk_Text_0625	When I'm with you, I feel \\rdifferent than when I'm with other people. Why is that…
+Talk_Text_0626	… It's a Mu~ day. So… \\rMu~ is Mu~.
+Talk_Text_0627	Where should we go today?\\rThe stars are watching too… ★
+Talk_Text_0628	Shararang~ Author's entrance sound effect... \\rDo you like it?
+Talk_Text_0629	Oh... \\rStella, the fairy of the star country, rebroadcast time!
+Talk_Text_0630	Are you interested in cosplay?\\rTwin Plan, it'll be so much fun... ♪
+Talk_Text_0631	Somehow it feels new~... \\rIt might be a little difficult...
+Talk_Text_0632	My desire to create is burning~
+Talk_Text_0633	Stella Force, charging complete!\\rStardust is floating... ♪
+Talk_Text_0634	Is this... the power of love and justice~\\r? Hehe... ★
+Talk_Text_0635	I've always dreamed of going to the star country.\\rWill you make my dream come true...?
+Talk_Text_0636	Stella Change, Magical Girl Transformation!\\rIs it the same feeling… ★
+Talk_Text_0637	If this continues… \\rI might be able to go to the stars… ♪
+Talk_Text_0638	Let's go together. The place I've always dreamed of… \\rTo our world filled with stars and love… ♪
+Talk_Text_0639	Becoming a star just for you, on the other side of the stars… \\rI think it's very romantic… ★
+Talk_Text_0640	I like a nutcracker for my birthday present~\\r… Hehe, of course I'm joking.
+Talk_Text_0641	This is an unforgettable day for me.\\rBecause I met my own prince for the first time.
+Talk_Text_0642	A special day with a special person… \\rHuh? So it's already come true…?
+Talk_Text_0643	Are you giving it to me?\\rYou're the fairy of the Star Country... ♪
+Talk_Text_0644	An item that touches the heartstrings of otakus!\\rYou have a keen eye for detail... ♪
+Talk_Text_0645	It sparkles because it's filled with heart~\\rHehe, I'll treasure it... ★
+Talk_Text_0646	Would you like to go together? To the Star Country I've always dreamed of... ★
+Talk_Text_0647	A story about something I like... \\rWould you like to share it with me?
+Talk_Text_0648	When I'm with you, I feel like I'm feeling like I'm feeling like I'm feeling like I'm feeling like I'm feeling like I'm feeling like I'm feeling like I'm feeling like I'm feeling like I'm having a lot of fun.
+Talk_Text_0649	Hey, you! Don't just stare,\\rBring some food to Jim!
+Talk_Text_0650	How ​​about it? Are you happy to see Jim?\\rI've been waiting for you!
+Talk_Text_0651	Hey, you!!! Jim orders!!!\\rGive me something delicious right now!
+Talk_Text_0652	Gyahahahah!! Are you overwhelmed by Jim's momentum?\\rHe's kind to the people who listen well!
+Talk_Text_0653	Is this cheese? Of course~\\rIt's Jim's spoils of war! Gyahahahahah!!
+Talk_Text_0654	What, what?! You're cheeky!\\rBe careful not to step on his tail!
+Talk_Text_0655	Jim is kind of cool!!
+Talk_Text_0656	Who's going to stop Jim!
+Talk_Text_0657	Gyahahahah!! Can we look forward to the next war?
+Talk_Text_0658	Mouse Army!!!\\rFollow me wherever I lead!
+Talk_Text_0659	Kyahahahahaha!! Do you realize the greatness of our mouse army?
+Talk_Text_0660	Great king, King Dieter!\\rYou can look up to me a little more!
+Talk_Text_0661	Mouse Army. Don't despair even in the darkest times.\\rOvercome the sorrow of sacrifice and be courageous!!\\rI will protect you from before you!!!
+Talk_Text_0662	Kyahahahaha!! Today is Jim's birthday!!!\\rOf course you prepared a present, right?
+Talk_Text_0663	Today is a feast!!\\rLet's eat, drink, and defeat!! Kyahaha!
+Talk_Text_0664	I'm looking forward to next year too... ?!\\rYou have to pack it!!
+Talk_Text_0665	It's a real product? Bring it here!!
+Talk_Text_0666	Kyahahaha!! This gift doesn't suit my taste at all!\\rThat's why it's fun!!
+Talk_Text_0667	Oh!!! It's the stuff I looted from the human house last time!
+Talk_Text_0668	Ahem!! Swear allegiance to me from now on!!!
+Talk_Text_0669	Good, you! I like it!!\\rAre you going to be my subject?
+Talk_Text_0670	If you want to be my subject, give me everything you've got!! Kyahaha~!
+Talk_Text_0671	The ocean is visible from here too... \\rWell, it's not bad.
+Talk_Text_0672	Why did you come now?\\rDon't make me wait.
+Talk_Text_0673	I wasn't really waiting for you.\\rCome on, or leave.
+Talk_Text_0674	What a surprise! What the! \\rDon't touch me carelessly. Huh.
+Talk_Text_0675	Do you like playing the lyre?\\rWell... I don't hate it.
+Talk_Text_0676	Don't get me wrong!\\rI didn't think about it!
+Talk_Text_0677	What, what! I never asked you for help.
+Talk_Text_0678	Tta, you don't really want to be thankful?
+Talk_Text_0679	Do you think I'll be happy that you've become stronger?\\r... Well... I feel good.
+Talk_Text_0680	I won't be easily swayed by my love.\\r... It's not like I love anyone in particular.
+Talk_Text_0681	I thought you'd look back a little when I got stronger,\\rDon't get me wrong, I've never done that before!
+Talk_Text_0682	It doesn't matter if I'm not loved anymore.\\rBecause my loving heart is enough.
+Talk_Text_0683	It's not that I can't return to the sea.\\rThe sea is where I want to go.
+Talk_Text_0684	I'm glad to be with you on a day like today... \\r... Oh, it can't be good!
+Talk_Text_0685	Sometimes I miss my familyBut… \\rThe people here are also nice.
+Talk_Text_0686	Gifts are fine. You,\\rHave some time… Haa, it's nothing.
+Talk_Text_0687	… Hehe. I feel okay. I'll tell you thank you.
+Talk_Text_0688	You're not excited at all? Idiot.\\r… Well, it's not that it's bad.
+Talk_Text_0689	Why are you giving it to me? You to me too… \\rTch, it's nothing!
+Talk_Text_0690	Don't get the impression that we're getting closer!\\rI'm just hanging out with you.
+Talk_Text_0691	Even though I look like this, I was a princess of the sea.\\r… You don't have to be formal, though.
+Talk_Text_0692	Well, I'll hang out with you for a little while.\\rYou… Because I think you're a good person.
+Talk_Text_0693	If it's flower care, \\rleave it to me. I'm confident.
+Talk_Text_0694	The weather in Fairy Tale Land is clear.\\rShall we take a walk in the garden together?
+Talk_Text_0695	Hmm~ The petals are okay... \\rThe leaves are healthy too...
+Talk_Text_0696	A relationship where we cooperate and complement each other... \\rI think it's an ideal relationship.
+Talk_Text_0697	Which flower do you like the most?\\rI'll make it bloom beautifully.
+Talk_Text_0698	I feel good after waking up early in the morning and hanging out my laundry.
+Talk_Text_0699	It was a good experience. \\rThank you!
+Talk_Text_0700	I won't disappoint you.
+Talk_Text_0701	Did you help me?\\rI should do my best too.
+Talk_Text_0702	I will overcome any ordeal that comes my way.\\rLike a flower blooming in the snow.
+Talk_Text_0703	I want to keep getting stronger.\\rThen I will be able to overcome anything.
+Talk_Text_0704	If it's to protect my happiness,\\rI can do anything.
+Talk_Text_0705	Do you believe in the strong vitality of wild flowers?\\rThey endure bad weather and eventually bloom.\\rI want to be a wild flower like that.
+Talk_Text_0706	Did you celebrate my birthday?\\rThank you so much!!! I don't think I'll ever forget it.
+Talk_Text_0707	When is the author's birthday?\\rI'll take care of it next time.\\rIsn't it good for us to share each other's joy?
+Talk_Text_0708	I received a lot of gifts from the villagers.\\rThere's no need for everyone to do that...
+Talk_Text_0709	Are you giving it to me? I'll gratefully accept it!
+Talk_Text_0710	I think that giving and receiving gifts has a meaning beyond the purpose of the gift.
+Talk_Text_0711	This is a gift that makes me feel the author's heart.
+Talk_Text_0712	If you need my wisdom, I'll lend it to you anytime.
+Talk_Text_0713	It's good to have more partners!\\r... Huh? Not partners... but friends?
+Talk_Text_0714	Would you like to hire a gardener? Hehe.
+Talk_Text_0715	Hello! Hello! Hehe, Vera, have you been waiting?
+Talk_Text_0716	What if you come now~\\rI've been waiting for you!
+Talk_Text_0717	Author, author! How's Vera today?\\rIsn't there something different~?
+Talk_Text_0718	Oh! Don't touch me! \\rVera has a master~♥
+Talk_Text_0719	Huh~? You want to play with Vera?\\rVera's fine too!
+Talk_Text_0720	Sometimes I miss her~\\rVera's dignified, so I can endure it!
+Talk_Text_0721	I'll keep working hard in the future!
+Talk_Text_0722	Isn't she cute? Isn't she adorable?\\rCuteness and strength are proportional!
+Talk_Text_0723	Vera can become stronger!\\rYou have to watch over me~?
+Talk_Text_0724	The darkness that shines brighter than anyone else! A strong and cute vampire!!\\rThat's right~
+Talk_Text_0725	Wow~ Vera's power is amazing, amazing, amazing!\\rI want to show him~!
+Talk_Text_0726	Vera, I'll become stronger!\\rI want to show him a side of me that I'm not ashamed of!
+Talk_Text_0727	I'll make you blinded by the splendid darkness.\\rPromise me you won't take your eyes off Vera, right?
+Talk_Text_0728	Do you know what day today is?\\rThen~ Did you prepare a present too?
+Talk_Text_0729	A special day when special Vera was born!\\rThe author can think of it as special too~
+Talk_Text_0730	She's one year older, you know!\\rIt means she's gotten even cuter~
+Talk_Text_0731	Huh? Are you really giving it to Vera?\\rI'm so so happy~ Thank you!
+Talk_Text_0732	Oh my, Vera has that person~\\rBut since it's from the author, I'll take it!
+Talk_Text_0733	Wow~ Guys, look at this!\\rIt's a present from the author~
+Talk_Text_0734	Vera likes the author!\\rShould I stay by Vera's side from now on?
+Talk_Text_0735	Author, you care about Vera, right?\\rI can tell just by looking at your eyes~
+Talk_Text_0736	Yeah, author, do you like bats?\\rIf you like bats, you're a good person!
+Talk_Text_0737	Author, look here!\\rThere are so many gifts you want~♪
+Talk_Text_0738	This is amazing, amazing, amazing!!\\rThis is an amazing archaeological object!
+Talk_Text_0739	Wow~ Congratulations!\\rVera will cheer you on next time too!
+Talk_Text_0740	Our meeting was also fate...\\rIt was just as the waves foretold.
+Talk_Text_0741	You were coming,\\rI could tell without a prophecy.
+Talk_Text_0742	Haha, my fortune was good today... \\rYou came to see me, baby?
+Talk_Text_0743	Good, baby. Hehe... \\rI like a child who is compliant.
+Talk_Text_0744	Fate flows as Providence dictates.\\rHey... Should I tell your fate?
+Talk_Text_0745	You seem interested in me?\\rShh... Come a little closer.
+Talk_Text_0746	Hehe, I'm glad. You're a good child.
+Talk_Text_0747	I can see your uncertainty.
+Talk_Text_0748	Don't look away from me.
+Talk_Text_0749	Am I the villain in this story? Hehe... \\rI just leave my fate to the flow of the waves.
+Talk_Text_0750	Don't be afraid of the fate that's coming, baby.\\rI'll be by your side so you can adapt.
+Talk_Text_0751	I've seen the moment when the river flows and the day when the sea dries.\\rWhat kind of fate can your waves bring me?
+Talk_Text_0752	I want all the waves of Haewon to move as I wish.\\rNow it's my turn to rule your fate.
+Talk_Text_0753	I was born with the primordial sea.\\rI decided that the day the waves began to flow would be my birthday.
+Talk_Text_0754	A day that's but a fleeting moment in the eons...\\rBut I think your congratulations will last quite a long time.
+Talk_Text_0755	Today, receiving congratulations from you is a future I haven't read.\\rHehe... Isn't this fate bad?
+Talk_Text_0756	Are you honest with your heart?\\rHehe, I don't hate that either.
+Talk_Text_0757	It's fate, you'll want me too.
+Talk_Text_0758	This wasn't in the prophecy.\\rYou always make me happy. Hehe…
+Talk_Text_0759	I'm also interested in your fate.\\rWill you make me more happy?
+Talk_Text_0760	Next time, should I read your future too?
+Talk_Text_0761	The reason you and I have become so close is because\\rThe fate that even the poetry of the waves couldn't read.
+Talk_Text_0762	… I've been waiting for you, author.\\rI've been waiting for the moment when I'll get rid of you.
+Talk_Text_0763	…You're stupid. The human who ruined everything for me… \\rI've been believing and relying on you all along.
+Talk_Text_0764	Can you understand my feelings?\\rIt's no use now, but...
+Talk_Text_0765	… I don't want to face you like this, \\rAuthor.
+Talk_Text_0766	Why are you bringing me here?\\rI'm just a villain.
+Talk_Text_0767	… Don't talk to me.
+Talk_Text_0768	I don't want to hear anything from you.
+Talk_Text_0769	Do you still have something to say?
+Talk_Text_0770	… … I'm the villain you created.\\rIt's better to stop having uncomfortable conversations with each other.
+Talk_Text_0771	Author, why are we... \\r… No, it's nothing.
+Talk_Text_0772	Everyone lived happily ever after.\\rIs that story enough?
+Talk_Text_0773	… Hoohoohoo, the darkness is getting thicker.
+Talk_Text_0774	… It's becoming clearer.\\rThe voices I had forgotten…
+Talk_Text_0775	The more I regain my memories and strength… My heart aches… .
+Talk_Text_0776	I don't care if I'm a villain.\\rIf I can protect this forest… I'll gladly become a monster.
+Talk_Text_0777	… If I had become stronger earlier, would I have been able to protect it?
+Talk_Text_0778	I will never become weak.\\rBecause I can't forget those children…
+Talk_Text_0779	This is the strength. The strength I needed… .\\rThe darkness, to protect my winter tree forestStory.
+Talk_Text_0780	What's the point of celebrating a day like this?
+Talk_Text_0781	… … There were days when I had fun with Nascha.\\rNow… They've all melted away.
+Talk_Text_0782	… … If you weren't here, wouldn't I have been born?
+Talk_Text_0783	… I don't need it.
+Talk_Text_0784	I don't want to receive a gift like this from you, Author.
+Talk_Text_0785	… How about giving it to the old fool Cecilia?
+Talk_Text_0786	… Why are you doing this to me… ?
+Talk_Text_0787	I wish you wouldn't come closer… I wish you would… Why…
+Talk_Text_0788	We can't go back to how we were before…
+Talk_Text_0789	Fairytale Land... It's been a while since I've been here,\\rbut it's still a fun place.
+Talk_Text_0790	Oh, who is this?\\rIsn't that the author of the broken fairytale?
+Talk_Text_0791	Keep in mind that while you're dawdling,\\rthe darkness is getting thicker.
+Talk_Text_0792	Don't underestimate the darkness.\\rWe have a pretty important role to play, too.
+Talk_Text_0793	You'd better not bother me.\\rIf you don't want to disappear.
+Talk_Text_0794	No matter how hard you struggle,\\ryou'll need the darkness too.
+Talk_Text_0795	Is it just one step away from regaining your strength?
+Talk_Text_0796	The darkness is gathering... There's not much left.
+Talk_Text_0797	Hmm, I never thought you'd grow darkness.
+Talk_Text_0798	It's been a while since I've seen a twisted fairy tale.\\rNot a bad sight.
+Talk_Text_0799	Why don't you despair a little more?\\rI'll accept it all as my darkness.
+Talk_Text_0800	All despair and hatred are gathering in this body.\\rFeel the true power of darkness.
+Talk_Text_0801	You can't have darkness without light? Not at all.\\rI'll show you a world dyed pitch black.
+Talk_Text_0802	Ah, I miss my brother.\\rThe guy born in the darkness. Heh heh…
+Talk_Text_0803	Tsk, it brings back old memories.\\r… Now it's just a useless sentiment.
+Talk_Text_0804	Oh, you prepared a birthday present?\\rI'll accept it as an offering to the leader.
+Talk_Text_0805	Instead of something like this, why don't you give me your darkness?
+Talk_Text_0806	Hmm, do you want to hear me say thank you?
+Talk_Text_0807	Do you want to look good to the leader of darkness?\\rHeh heh... You're a guy who can see the future.
+Talk_Text_0808	It'd be a problem if you thought we were close.\\rShould I let it slide? Heh heh...
+Talk_Text_0809	You're a pretty useful guy. Should I take you as my subordinate?
+Talk_Text_0810	You're a guy who likes to pretend to be close, then and now.
+Talk_Text_0811	... You've changed a lot since I was away.\\rThis is a place with a lot of memories.
+Talk_Text_0812	What, when did you come?\\rCome on.
+Talk_Text_0813	Space development is more complicated than you think.\\rI really studied a lot.
+Talk_Text_0814	… Do you like pandas by any chance?
+Talk_Text_0815	Space design requires precision.\\rDon't talk to me, I'm concentrating.
+Talk_Text_0816	One space, hundreds of designs.\\rIt's my job to think of them.
+Talk_Text_0817	Now… I've just grown to be able to control the darkness.
+Talk_Text_0818	… It's getting darker.\\rWell, that's about it.
+Talk_Text_0819	Not bad. I wish I could be as smart as my father...
+Talk_Text_0820	Creating a space that gives happiness and trials.\\rFollowing my father's will, I returned here.
+Talk_Text_0821	The darkness has grown stronger. But... my heart is at ease.
+Talk_Text_0822	I'm no longer afraid of my darkness.\\rBecause I know I'm not alone.
+Talk_Text_0823	The darkness has bound me and tormented me, but I've grown because of it.\\rI think that being truly strong means having a strong heart.\\r... .Well, is that too serious? Let's pretend I didn't hear that!
+Talk_Text_0824	My birthday? Oh... I completely forgot.\\rDid you even prepare a cake?
+Talk_Text_0825	When I was little, my father made me a cake himself.\\rBut I failed miserably.\\rMy father was better at making home-cooked meals than desserts.
+Talk_Text_0826	This year… It wouldn’t be bad to spend it with you.\\rBy the way, when is your birthday?\\r… Oh, no… I wasn’t saying you’d take care of it?!
+Talk_Text_0827	What, what is it… I never said I needed something like this.\\r… But thank you.
+Talk_Text_0828	You prepared it for me? Uh… Hmm… It’s not bad, huh…
+Talk_Text_0829	It’ll help with your research too.\\r… Since you cared, I’ll take it.
+Talk_Text_0830	You… want to be friends with me?\\rAhem… It’s not that I don’t like it.
+Talk_Text_0831	Well… It’s nothing.\\r(He scratches his head as if embarrassed.)
+Talk_Text_0832	It’s nice that we’re friends.\\rNo… It’s not that I like you.
+Talk_Text_0833	… Lazy weather… . I’m sick, \\rbut I don’t need it. Hehe.
+Talk_Text_0834	Are you here? I’ve been waiting.\\rIt hurts less when you’re here…
+Talk_Text_0835	… It’s annoying. The bandage got dirty…
+Talk_Text_0836	Clean bandages feel good. \\rCan you help me change the bandage?
+Talk_Text_0837	Oh. It’s an ant… .\\r… .I stepped on it and killed it.
+Talk_Text_0838	… .Bring me some water. And…I wish you’d close the curtains.
+Talk_Text_0839	Cough… Cough, Cough!!!! … No. Nothing.
+Talk_Text_0840	It seems to hurt a little less.
+Talk_Text_0841	… Is it medicine? I should take it… If I don’t want to die.
+Talk_Text_0842	Compared to the medicine I take every day… It’s nothing.
+Talk_Text_0843	It’s unfair that only I’m sick.\\rSo… We all share the pain?
+Talk_Text_0844	My condition has improved… \\rWill I be able to live tomorrow…
+Talk_Text_0845	If I can forget the pain… Anything…
+Talk_Text_0846	Let’s share the pain together.\\rSo that we can shudder in pain together…
+Talk_Text_0847	Is this healthy? Ahahaha!!!\\rYou guys… Have you been feeling this happy until now? Annoyingly.
+Talk_Text_0848	Aha, ahahaha!! Ahahaha!!!! I don't feel any pain!!!\\rI, I don't have any pain!!! That's how I felt? Ahahahaha!!
+Talk_Text_0849	Birthday... ? Do you think that would be meaningful?
+Talk_Text_0850	I don't know when I'll die.\\rIf I give meaning to each of these things... it'll be hard.
+Talk_Text_0851	... Oh. I see. Healthy people\\rcelebrate their 'birthday' and live happily?\\rHehehe... ? Heheheehe... .
+Talk_Text_0852	Aha, ahahahaha... ahahaha!!!\\rIf you want to celebrate my birthday... Share my pain.\\rThat'll be the best birthday present for me...
+Talk_Text_0853	Huh... ? Are you giving it to me? \\rI didn't really want something like this...
+Talk_Text_0854	A present... I see…
+Talk_Text_0855	A gift? Leave it next to the bed.
+Talk_Text_0856	If I'm less sick... \\rThat means you're sicker, right? I'm glad.
+Talk_Text_0857	I didn't need a friend... \\rSomehow. Hehehe… .
+Talk_Text_0858	Do you understand me… ? Or do you pity me?
+Talk_Text_0859	Are you back, master?
+Talk_Text_0860	Cleaning, laundry, and... dishes.\\rWhat would you like to do first?
+Talk_Text_0861	Welcome, master.\\rThere are no services prepared.
+Talk_Text_0862	… If there's anything you want to order, feel free to ask.\\rI'll reject useless things.
+Talk_Text_0863	I swore loyalty.\\rDo not touch it carelessly.
+Talk_Text_0864	Do you think the plate is floating?\\rIt's clearly my imagination.
+Talk_Text_0865	Now I can do housework well.\\rI'm not saying I'll do it, though.
+Talk_Text_0866	The housekeeper will be happy too.
+Talk_Text_0867	I hope the master watches over you too.
+Talk_Text_0868	Dedicating body and mind to the master.\\rThat's the maid's attitude.
+Talk_Text_0869	If it's to protect the master.\\r... Oh, I meant the queen, not you.
+Talk_Text_0870	The basics of cleaning are removal.\\rIf you want, I'll sweep it together.
+Talk_Text_0871	Perfect, classy, ​​and elegant.\\rYou have become a maid who is even more worthy of the royal family.
+Talk_Text_0872	I will not spare anyone who harms the royal family.\\rThat is my belief as a maid.
+Talk_Text_0873	Blind loyalty is not everything.\\rHow far would you go for the royal family?
+Talk_Text_0874	I exist for my master.\\rDoes the date of birth of a tool matter?
+Talk_Text_0875	If you're going to make my birthday special,\\rCould you please give me a vacation?
+Talk_Text_0876	Cake? That's your taste.\\rShall I serve it with black tea?
+Talk_Text_0877	Are you giving me something to throw away?
+Talk_Text_0878	It will help with cleaning. I will use it well.
+Talk_Text_0879	Your safety is the greatest gift to me.\\r… If I say that, would you be touched?
+Talk_Text_0880	Being close to you is also part of the order.
+Talk_Text_0881	Let's not pretend to be close. Well, can I give you a little bit of leniency?
+Talk_Text_0882	Is personal emotion necessary in a master-servant relationship?
+Talk_Text_0883	I like humor and pranks.\\rIf you live long enough, you should have that kind of pleasure.
+Talk_Text_0884	Patience is a gentleman's virtue.\\rOh, it doesn't mean I waited.
+Talk_Text_0885	Beatrice \\ralways laughed at my humor...
+Talk_Text_0886	What is the most beautiful plant in the world?\\rIt's... Beautiful. Heheheehe... .
+Talk_Text_0887	I forgot about age. Age doesn't mean anything.
+Talk_Text_0888	What's the king's favorite drink? \\rIt's... Whiskey. Hahahahaha!
+Talk_Text_0889	What does a king say when he doesn't want to go into the palace?\\rGrowling... Growling... Heheheehehe!!!
+Talk_Text_0890	Thank you for liking my humor.
+Talk_Text_0891	I feel strong. The power of a vampire!!
+Talk_Text_0892	The scent of blood is getting stronger!\\rWould you like a drink too?
+Talk_Text_0893	Hmm... This drink needs to age a bit more.\\rI'm quite the gourmet.
+Talk_Text_0894	Something that becomes more valuable as time goes by.\\rIt's wine and vampires.
+Talk_Text_0895	It reminds me of the old days.\\rWhat do you think it was like? Hehe…
+Talk_Text_0896	I'm sure you'll like this too. \\rAhh… Beatrice.
+Talk_Text_0897	It's late at night. \\rOkay, now it's vampire time. Hehehehe… .
+Talk_Text_0898	The power that has reached the end of eternal life.\\rIt's a very sweet taste that reminds me of someone I loved a long time ago.
+Talk_Text_0899	Huh? Birthday? Hahaha, stop it.\\rIf you celebrate a vampire's birthday every year, \\ryou'll get tired of it too.
+Talk_Text_0900	Still, it's been a long time since I've received a congratulation like this.\\rSince Beatrice died... are you the first?
+Talk_Text_0901	... Thank you, author. \\rThanks to you... I'll have a day to reminisce about the old days.
+Talk_Text_0902	Beatrice really liked this too...
+Talk_Text_0903	Hmm~ It's not bad to like this kind of thing.
+Talk_Text_0904	Should I decorate my house... My room is a bit dreary.
+Talk_Text_0905	We... have a good taste in comedy.
+Talk_Text_0906	Friends... It'll be hard to comfort the loneliness of eternal life...
+Talk_Text_0907	Hehe, someday I'll invite you to my hometown mansion.
+Talk_Text_0908	Leone Knights Commander, \\rOlivier Briand.
+Talk_Text_0909	On constant alert.\\rNothing's wrong.
+Talk_Text_0910	… I don't think it's that strict... \\rBut many people misunderstand.
+Talk_Text_0911	Is it training? It's a good attitude.
+Talk_Text_0912	Is it a private conversation?\\r… Let's postpone it until next time.
+Talk_Text_0913	Are you taking good care of your weapons?\\r… Why are you taking care of them?
+Talk_Text_0914	How ​​are you, Sir Helia?
+Talk_Text_0915	… Keep going.
+Talk_Text_0916	I owe you something. I will repay you.
+Talk_Text_0917	A potion to become stronger… What a mysterious elixir.
+Talk_Text_0918	Don't be afraid.\\rIt is a knight's duty to protect you.
+Talk_Text_0919	To become the best knight.
+Talk_Text_0920	Even if I take a step forward,\\rMy duty will not change.
+Talk_Text_0921	As a representative of the Leone Knights,\\rI will continue to work hard.
+Talk_Text_0922	There is no such thing as being strong enough.\\rAs a knight, I must continue to move forward.
+Talk_Text_0923	Birthday… ? It's already like that.\\rI've been so busy that I forgot.
+Talk_Text_0924	I don't really celebrate my birthday.\\rBut... I'm grateful that other people remember my birthday.
+Talk_Text_0925	It's my birthday, but I can't take a break from work.\\r... After work... It wouldn't be bad to spend some quality time with the author.
+Talk_Text_0926	I refuse gifts from ladies... \\rBut somehow I can't refuse gifts from the author.
+Talk_Text_0927	... I don't feel like getting personal,\\rbut to be honest, I'm happy.
+Talk_Text_0928	I'll gratefully accept it.\\rI'll leave it in the captain's office.
+Talk_Text_0929	Leone Knights is open.\\rYou're always welcome if you join.
+Talk_Text_0930	… I have a friend to do morning training with.
+Talk_Text_0931	Sometimes, it's not bad to rest together...
+Talk_Text_0932	I'm researching right now, \\rLet's talk later!
+Talk_Text_0933	Not interested in alchemy?\\rI can teach you a little bit...
+Talk_Text_0934	3.14159265… \\rAh, I was memorizing a formula that makes me feel better.
+Talk_Text_0935	Even if I try my hardest, I'll still come in second place... \\rThat's life... Mumbling...
+Talk_Text_0936	If I plug the formula into this substance... \\r... Haa... Another failure...
+Talk_Text_0937	Combination and discovery... \\rThat's the charm of alchemy.
+Talk_Text_0938	Effort won't betray you, right... ? Someday...
+Talk_Text_0939	My knowledge has increased... \\rThanks to you.
+Talk_Text_0940	Who discovered this potion?\\rThere are so many geniuses in the world...
+Talk_Text_0941	You shouldn't skip the process... \\rYou have to approach it step by step from the basics.
+Talk_Text_0942	No matter how hard you try, you can't beat a genius... \\rThat's unfair~!!!
+Talk_Text_0943	Effort won't beat a genius... ? No way.\\rI'll prove that I can!
+Talk_Text_0944	With this, the theory is perfect.\\rAll that's left is the heart to not give up until you succeed.
+Talk_Text_0945	I finally did it... \\rThis is the greatest discovery of the century that no one has ever achieved!
+Talk_Text_0946	Hehe, hehehehe… … \\rNow no one can ignore this genius alchemist!
+Talk_Text_0947	There were more days when I passed by… \\rBut today, someone is taking care of me.
+Talk_Text_0948	When will my great discovery\\rbe celebrated on its birthday…
+Talk_Text_0949	A birthday cake made with alchemy… ?\\rThat can’t possibly taste good.
+Talk_Text_0950	Could this be an ingredient too… ?\\rOh, I’m not saying I’ll use it!
+Talk_Text_0951	Thank you… I’ll prove it with results.
+Talk_Text_0952	Yeah, if I keep trying… \\rThere will be people like you who notice.
+Talk_Text_0953	You recognize hidden geniuses, right?\\rHaha… You have a keen eye.
+Talk_Text_0954	Are you interested in alchemy too?\\rThere’s a formula I discovered yesterday…
+Talk_Text_0955	Should I give you the potion I just made?\\rIt’s unfinished, but…
+Talk_Text_0956	Hello, I see?
+Talk_Text_0957	Hello, author.\\r… That’s not what I meant… Is it?
+Talk_Text_0958	Drink it with warm milk, right?\\rIt’s good for maintaining body temperature.
+Talk_Text_0959	… … … Polar bear!! Kwaang!!
+Talk_Text_0960	If you touch it, it freezes.\\rDon’t touch it recklessly, I see.
+Talk_Text_0961	No matter how cold it is, I can overcome it.\\rBecause I'm a strong investigator.
+Talk_Text_0962	... Awesome. Clap clap clap.
+Talk_Text_0963	I've become stronger... !\\rCan you feel the author?
+Talk_Text_0964	I want to show it to my mother.
+Talk_Text_0965	Even in a blizzard, you don't get lost.\\rThat's a Seolsan investigator.
+Talk_Text_0966	I'm trying to become a stronger investigator.\\rSo that I can get closer to my mother's traces.
+Talk_Text_0967	Now, as a magician who never misses his target,\\rI'm one step closer as an ice witch.
+Talk_Text_0968	Do you know the legend of the Seolsan witch?\\rBeautiful, strong, and... It is merciless.
+Talk_Text_0969	Writing down the winter is my story.\\rNow, I can move forward without getting lost.
+Talk_Text_0970	Never-ending snowstorm, never-ending winter... \\rI wish everything would freeze so that it could last forever.
+Talk_Text_0971	On a birthday without a mother… \\rI’m still not used to it,
+Talk_Text_0972	The cakes here are really soft… \\rand sweet,
+Talk_Text_0973	I was born in winter,…Huh? It’s not winter here?
+Talk_Text_0974	Thank you,
+Talk_Text_0975	They say there’s no such thing as a free lunch,What do you wish for?
+Talk_Text_0976	There’s one more thing to write in the letter.I’ll cherish it,
+Talk_Text_0977	I’ve become a little closer to you…, right?
+Talk_Text_0978	Hehe… The writer is a good person.I like bears too,
+Talk_Text_0979	No matter how close we are, I can’t take off my cloak,
+Talk_Text_0980	Don't give presents to crying children.
+Talk_Text_0981	!!!!!! Santa!!!!!
+Talk_Text_0982	Looking forward to the next present, too.
+Talk_Text_0983	Hello~ If you're going to enter the dungeon, \\rInvite me to a party! Please?
+Talk_Text_0984	Coin insert, complete!\\rStart the game with the start button!
+Talk_Text_0985	Work. Ha~ Huh? What does that mean?\\rIt means "Author Hi~"!
+Talk_Text_0986	I got a feeling!!! \\rIf you pull now, you'll hit the jackpot!
+Talk_Text_0987	Oh! Now that I think about it... \\rDid you get the attendance reward yesterday...?
+Talk_Text_0988	If you're with the author~\\r2-inqueue isn't bad either!
+Talk_Text_0989	EXP Up! LEVEL UP!!! Yeah!
+Talk_Text_0990	What do you want for your stats?\\rSTR? DEX? LUK, after all?
+Talk_Text_0991	What if I end up being OP~?
+Talk_Text_0992	Hehehe~ The best gamer appears!\\rRanked #1 is me!
+Talk_Text_0993	Gamers grow infinitely! \\rTowards the Grandmaster! Ahaha!
+Talk_Text_0994	Ready, Player, One!\\rAre you ready to watch a mad movie?
+Talk_Text_0995	Nerfing them won't help anymore?\\rIt's not about stats, it's about skills!
+Talk_Text_0996	Birthday Bang On... Oops! I've become a habit when I broadcast.
+Talk_Text_0997	Are you going to give me a present? Really? Then please give me the new game pack!
+Talk_Text_0998	It's my birthday today~ Can we do duo together? Okay?
+Talk_Text_0999	Thanks for supporting! I'll definitely take care of you~.
+Talk_Text_1000	Oh! Is this a favorability gift by any chance~? Thank you!
+Talk_Text_1001	Thank you for supporting~ Okay? It's not a support, it's a gift?
+Talk_Text_1002	Want to do a fixed duo with me? I'll carry you!
+Talk_Text_1003	We seem like a good match! Don't you think so?
+Talk_Text_1004	If this was a prequel~ Would I be the main heroine? Hehe.
+Talk_Text_1005	Do you know Lapel? She's my little sister. \\rWhat a wonderful wolf!
+Talk_Text_1006	I'm hungry... Do you have anything to eat?\\rIf possible, I'd like meat...
+Talk_Text_1007	How ​​can I become a wolf that everyone is afraid of?\\rWhat should I do?
+Talk_Text_1008	Don't pet me!!! I'm not a puppy?\\rI'll bite you!!!
+Talk_Text_1009	... … Didn't you hear the growling sound?
+Talk_Text_1010	If you call me a puppy, I won't leave you alone?\\rThat's why I call you a wolf!!
+Talk_Text_1011	Are you sharing the drink? Thank you!!!
+Talk_Text_1012	I was just getting thirsty!! This is refreshing!!
+Talk_Text_1013	... Do you want a drink too? Don't say no!! I'll drink it all?
+Talk_Text_1014	Black Wolf Clan.\\rI will protect that honor and pride.
+Talk_Text_1015	This is the power of the Wolf Clan!\\rSharp teeth and claws!! This is me!!
+Talk_Text_1016	I have to keep getting stronger.\\rBecause I still have someone to protect!
+Talk_Text_1017	The last remaining descendant of the wolf.\\rEven if it's hard and lonely... I won't lose my pride.
+Talk_Text_1018	If I had this strength, could I have protected the wolf pack?\\r... No, that kind of talk itself is weak.\\rThe strong shouldn't look back! I'll see tomorrow!
+Talk_Text_1019	Ke... cake? Are you giving me this to eat?\\rI'm really going to eat it all?!
+Talk_Text_1020	My birthday? Wow... Birthdays, they're such a good thing?!\\rA day to eat lots of delicious food!
+Talk_Text_1021	From now on, I have to make sure to celebrate my little brother's birthday!!!\\rOh no, this cake... Can I share it with my little brother?!
+Talk_Text_1022	What...What is that... You, you... You're such a nice guy, aren't you?
+Talk_Text_1023	Please give me edible gifts!! \\rNo need to go hungry!!
+Talk_Text_1024	You're the first person who's been so kind to me... \\rThank you, you!!
+Talk_Text_1025	You're a better guy than I thought?!\\rI'll acknowledge you as a friend of the wolf!
+Talk_Text_1026	Once you acknowledge someone as a comrade, they're a comrade forever.\\rThat's what a wolf is!
+Talk_Text_1027	What the... Aren't you scared of me?!\\rYou can be this friendly to me?!
+Talk_Text_1028	Writer... was it?\\rI think the owner greeted the author like this~
+Talk_Text_1029	Owner~ Welcome... No, it was the author~ Nyahaha... \\rIt's fun playing with the author, so it's okay~★
+Talk_Text_1030	I like being comfortable like this~\\rI should rest when I rest~
+Talk_Text_1031	The owner said let's do a duo earlier, how about a 3-person queue including the author?
+Talk_Text_1032	It's really different from when you work? Nyahaha~★\\rDistinguishing between public and private, isn't that what a pro is?
+Talk_Text_1033	There's a strange lump of metal following the owner around... \\rShould I just shoot it~? Nyahahaha★ Just kidding~
+Talk_Text_1034	Level up! That's my favorite word~♪
+Talk_Text_1035	Ugh, the taste isn't really my style.\\rJust because I'm a pro doesn't mean I can eat everything~
+Talk_Text_1036	Oh, I feel like I've gotten stronger, doesn't it?
+Talk_Text_1037	Nyahahaha~★ This refreshing air~\\rThe owner is here!
+Talk_Text_1038	With this, I've gotten closer to the appearance the owner knew of me!
+Talk_Text_1040	Main mission, Find the owner!\\rWhat will the next mission be?♪
+Talk_Text_1041	Perfect equipment, perfect abilities, and a perfect companion.\\rTo this extent, I feel like I've become stronger than when I was at my prime♪
+Talk_Text_1042	Protecting the owner's side, protecting you.\\rAnd protecting the fairyland where everyone is.\\rThat's the mission given to me now!
+Talk_Text_1043	Happy Birthday to me~♪\\rToday is~ my character creation day!
+Talk_Text_1044	The owner bought me these cat ears with the allowance he received for my birthday,\\rIn a way, I received my birthday present too~♪
+Talk_Text_1045	Game settings don't mean anything,\\rThe important thing is the day my owner created me♪
+Talk_Text_1046	Huh? Not the owner, but me? \\rNyahahaha~ I don't know if it suits me~
+Talk_Text_1047	You have to give the owner the same thing as a gift~?
+Talk_Text_1048	Thank you, I'll think of it as a commission fee~
+Talk_Text_1049	After the owner, the writer has become my closest friend~
+Talk_Text_1050	The owner's friend is already like my friend~
+Talk_Text_1051	Nyahaha~★ We've gotten a little closer~?
+Talk_Text_1052	Hey, you're late. I was just feeling a little shaky.
+Talk_Text_1053	Kendo, swordsmanship is ready.\\rJust tell me who to cut down.
+Talk_Text_1054	Murasame, I can leave your back to you... \\r... What, what! Since when have you been here?!
+Talk_Text_1055	Huh? Are you ignoring me because I'm small?!
+Talk_Text_1056	The sword doesn't lie.\\rThat's why it's the only one I can trust.
+Talk_Text_1057	Ah? What is it? Did you ask me something?\\r... T, don't stare at me like that!
+Talk_Text_1058	I've sharpened my blade, is there anyone I can cut down?
+Talk_Text_1059	Huh, what's that? Even without this, I'm the strongest.
+Talk_Text_1060	Murasame, your condition is the best? Me too, ahaha!
+Talk_Text_1061	If the sword and I are one, there's nothing we can't cut down.\\rSo, who should I cut down?
+Talk_Text_1062	I have to get stronger.\\rI have to be the strongest here, too!
+Talk_Text_1063	The feeling of Murasame and I becoming one... \\rHave I finally reached the state of Shinken Unification?
+Talk_Text_1064	A weapon that dances according to the will of its master.\\rSaya, I swear to become your master's sword.
+Talk_Text_1065	Hey, do you know what day it is today?\\rYeah, it's my birthday... What, did you forget!
+Talk_Text_1066	The cake is just too sweet, right?\\r... If it's fruit on topDon't you know?
+Talk_Text_1067	Today is a happy day for Murasame too.\\rCan I congratulate you a little more?
+Talk_Text_1068	Oh, you prepared a pretty useful gift, didn't you? I like it.
+Talk_Text_1069	Ah? A gift? ... Why, why are you giving it to me?!
+Talk_Text_1070	Murasame, what do you think? Should I keep this guy alive? Ahaha!
+Talk_Text_1071	A guy whose mind is hard to read... Well, I don't hate him.
+Talk_Text_1072	He's not as stupid as he looks.\\rBut don't act friendly.
+Talk_Text_1073	I'm not interested in weaklings.\\rBut you seem like a pretty strong guy, don't you?
+Talk_Text_1074	Oh, is the author here? I've been waiting for you!
+Talk_Text_1075	… Oh my, it's not mine! I was meditating!
+Talk_Text_1076	You're here now~ I thought I was going to die from boredom!
+Talk_Text_1077	Do you know how to swim? Do you want to go swimming with me?
+Talk_Text_1078	Your dialect? You don't plan on fixing it? Is this also a unique kid?
+Talk_Text_1079	Surfing is just as fun as running~ Should I teach you a little bit?
+Talk_Text_1080	Drinking water is important! Thank you~
+Talk_Text_1081	This is awesome! My body feels light~
+Talk_Text_1082	My condition is the best! I feel like I'm flying~
+Talk_Text_1083	This is basic organization in our neighborhood!\\rBut still~ My body feels a little light!
+Talk_Text_1084	Now I'm used to this sea!\\rHigher waves are no problem~
+Talk_Text_1085	They say it's the sea of ​​Bear Paw Island~\\rHaven't we seen it somewhere?
+Talk_Text_1086	This is the fastest sea in the sea!\\rFollow me well so you don't fall behind~
+Talk_Text_1087	Be careful not to get swept away!\\rNow I'm the tsunami itself, okay~
+Talk_Text_1088	Humans rule the sea?\\rOf course not, it's my sea that rules the sea!
+Talk_Text_1089	This is all I can congratulate you on~ Thank you.
+Talk_Text_1090	Meat side dish for birthdays! It's our family motto.
+Talk_Text_1091	A present? That's enough~ Let's go eat something delicious!
+Talk_Text_1092	Why are you giving me all this in such a manly way~ Thank you.
+Talk_Text_1093	A surprise? Hahaha, thank you!
+Talk_Text_1094	Huh? I didn't prepare anything... Let's have a meal later!
+Talk_Text_1095	Do you like the ocean? Not me~ The ocean you see!
+Talk_Text_1096	I think we've become a little closer? Am I mistaken?
+Talk_Text_1097	Come play on our island too! I think you'll like it too~
+Talk_Text_1098	What kind of fairy tale should we go into today?
+Talk_Text_1099	Since coming here, I feel more rewarded than ever.
+Talk_Text_1100	The people here are all friendly.
+Talk_Text_1101	Fairytale Land may look peaceful on the outside, but... it's actually in danger.
+Talk_Text_1102	Should I write on my day off?
+Talk_Text_1103	Fighting is getting more and more common... Is it a good thing?
+Talk_Text_1104	My writing room... It seems much more comfortable than my room in the original world.
+Talk_Text_1105	You might think fairytales are childish, but they're not.
+Talk_Text_1106	Welcome~♥ Do you want to go hunting? Or me, me, me... \\rWow!! Let's just go hunting!
+Talk_Text_1107	Hand heart... Perfect♥ Hand kiss too... \\rWow!? So, the author is here...
+Talk_Text_1108	If I put my mind to it, I can captivate all the men in the world!\\r... Maybe.
+Talk_Text_1109	If you stay with me like this, you won't even realize that you're falling for my charm?\\rI'll show you my secret weapon, aegyo... next time!
+Talk_Text_1110	Oh my~♥ Have you fallen for my charm?\\rDude, don't stare!
+Talk_Text_1111	Strangely, I don't tremble when I'm with you.\\rHehe... This is really amazing.
+Talk_Text_1112	With this, I can seduce the whole world!
+Talk_Text_1113	I failed last time, but I think I can really seduce you now!
+Talk_Text_1114	I want to get strong quickly and play the role of a succubus!\\rOf course, that's not to say that I can't do it now...
+Talk_Text_1115	Someday, I'll captivate everyone! Everyone, get ready♥
+Talk_Text_1116	Hehe, don't you think you've become a little prettier?
+Talk_Text_1117	What should I do~? If I'm this charming, even the writer will be attracted to me♥
+Talk_Text_1118	My charm is getting stronger!\\rWell, when will you fall for me?
+Talk_Text_1119	How ​​is it? You're really into me now, right?\\rOh, not yet? You haven't fallen for me yet... ?
+Talk_Text_1120	For some reason, I haven't been able to charm you.\\rI don't know why, but I know what I have to do.\\rI'll stick with you until you fall for me!
+Talk_Text_1121	I didn't know you'd remember my birthday?\\rThen, as a thank you, a special pose... \\rOh, that's not necessary... Yeah...
+Talk_Text_1122	The birthday boy just needs to receive a gift…?\\r… Thank you. Then I’ll do the special pose on your birthday♥
+Talk_Text_1123	How ​​many candles should I put on the cake?\\rOf course, a hundred… Oh, no! \\rJust put one big one…
+Talk_Text_1124	Oh my~ Do you want to win my heart?\\rYou’re just giving it to me…? Thank you…
+Talk_Text_1125	You said you picked it up…? D, be embarrassed! \\rIt’s an offering to me, right? I’ll accept it♥
+Talk_Text_1126	You can’t show off your cuteness by giving me this♥\\rBut don’t take it back!
+Talk_Text_1127	I’ll start by seducing you!\\r… Friends first!
+Talk_Text_1128	I have to seduce all the men in the world,\\rWhy am I only talking to you… Woof…
+Talk_Text_1129	If I use my ultimate charm, I can seduce you in no time!\\rAre you just letting it slide for now?
+Talk_Text_1130	You're the author! Are you going hunting today too?
+Talk_Text_1131	Strangely, everything I do goes well!\\rI'm scared of myself too!
+Talk_Text_1132	I'm from the countryside,\\rbut I trained hard enough not to fall behind anyone!
+Talk_Text_1133	This sword was passed down to me by my father!\\rMy father was a warrior too!
+Talk_Text_1134	Justice will prevail!\\rThat's my favorite saying!
+Talk_Text_1135	After saving the world, I went back to my hometown… \\rOh no, my father said that was dangerous.
+Talk_Text_1136	It feels different from cultivation… Amazing!
+Talk_Text_1137	Wow…I get stronger just by drinking it… \\rBut I can’t slack off on cultivation!
+Talk_Text_1138	I really feel stronger just by drinking it!
+Talk_Text_1139	I can’t forgive those who bully the weak!!
+Talk_Text_1140	I’m glad I came to the capital!
+Talk_Text_1141	Wow, I feel stronger?\\rI’m going to save the world with this momentum!
+Talk_Text_1142	I can’t let my guard down just because I’ve gotten a little stronger!\\rI’ll keep training until I save the world!
+Talk_Text_1143	Awesome! Can I call myself a warrior now?\\rThe warrior who will save the world, Arc Polyph!
+Talk_Text_1144	I was able to come this far because of my companions... \\rBut our journey isn't over yet!\\rWill you stay with me until the end?
+Talk_Text_1145	A cake!? Is it okay to receive something this expensive?\\rThank you so much! It's really hard to get in the countryside!
+Talk_Text_1146	Back home, we ate a big piece of meat on our birthdays,\\rIt was harder to get a cake!
+Talk_Text_1147	A birthday spent with a trustworthy companion is really special!\\rI think it'll be a birthday to remember!
+Talk_Text_1148	Oh, you're giving it to me? Thank you!
+Talk_Text_1149	Thank you! I'll help save the world!
+Talk_Text_1150	I'll keep it as a token of our bond!
+Talk_Text_1151	If we're together, anything seems possible!
+Talk_Text_1152	After saving the world, I'll invite you to my hometown!
+Talk_Text_1153	A strong bond with my colleagues, that's the best!
+Talk_Text_1154	What, why are you looking at me like that?\\rIs there something on my face?
+Talk_Text_1155	My specialty is landscape painting.\\rThere's a lot to draw here... It's nice.
+Talk_Text_1156	Don't keep me waiting.\\rI'm a busy person, too?
+Talk_Text_1157	They say art makes money...\\rIt's not wrong, but I don't really like it.
+Talk_Text_1158	I'm drawing a picture?\\rCan you please not interrupt me?
+Talk_Text_1159	This? It's not that heavy.\\rDrawing requires physical strength.
+Talk_Text_1160	… …I'm not sleeping.\\rI'm thinking about a piece.
+Talk_Text_1161	Hmm... My eyesight seems to have gotten worse... \\rShould I get my glasses readjusted...?
+Talk_Text_1162	With paint, paper, and a brush,\\rI can draw anything.
+Talk_Text_1163	Art isn't something that can be completed with talent alone.\\rI try my best, too.
+Talk_Text_1164	I'm not satisfied with just reaching the top.\\rBecause creation is a never-ending staircase.
+Talk_Text_1165	Yes, I'm that genius artist you know.\\rSo, what should I draw this time?
+Talk_Text_1166	The more I know how to draw,\\rthe more the world I can draw has expanded.
+Talk_Text_1167	Coloring lines and surfaces and adding layers to the world.\\rNo matter what you imagine, I'll draw it for you.
+Talk_Text_1168	Finally finished. A world made only of things for me… \\rNothing will hurt me here.
+Talk_Text_1169	When I was young, the thing I drew most often on my birthday was\\ra picture of eating cake with my friends.\\rNow…it’s become reality.
+Talk_Text_1170	Candlelight…a warm and sparkling moment… \\r…Should I write a picture diary after a long time?
+Talk_Text_1171	I like letters more than extravagant gifts.\\r…It’s been a while since I’ve received one.
+Talk_Text_1172	I don’t like everything that’s sweet, right?\\r…Well…the cake was delicious, though.
+Talk_Text_1173	That’s a pretty useful gift, right?\\rIt’ll be a great inspiration.
+Talk_Text_1174	I’ll accept it because I think it’s sincere.\\r…Oh, thank you.
+Talk_Text_1175	… Is there anything you want to ask?\\rHuh? Just give it to me… right?
+Talk_Text_1176	There were a lot of people who wanted to be friends.\\r… Are you different?
+Talk_Text_1177	Next time… Should I draw you?\\rI think it’ll turn out pretty well.
+Talk_Text_1178	I didn’t think I needed friends… \\rIt wouldn’t be bad to have them.
+Talk_Text_1179	Ah~ The writer is here… \\rBut you… Why are you spinning around~?
+Talk_Text_1180	I’m not drunk~\\rIt’s the alcohol that’s getting me drunk…
+Talk_Text_1181	My drinking capacity~? Well… \\rThere’s also a saying called a gas station villa~?
+Talk_Text_1182	It's so bright... \\rWho thought of putting a zombie here... ?
+Talk_Text_1183	Bah~ What would a busy writer do for a drunkard~?
+Talk_Text_1184	Aww~ Stop nagging... \\rI told you my throat hurts~
+Talk_Text_1185	Haa~ I lost my talisman again... \\rI wonder if there's a writer who can help me find it~
+Talk_Text_1186	If you keep messing with me like that~\\rI might bite you right in the ass... ?
+Talk_Text_1187	Okay, I'm going to drink~... \\r... Huh? It's not alcohol?
+Talk_Text_1188	I feel like alcohol is running through my body... \\rI'm drinking this because it tastes good~
+Talk_Text_1189	Aren't you expecting too much~?\\rI'm already dead once~
+Talk_Text_1190	I'm just~ a zombie who died a hundred years ago... \\rI just follow the alcohol and flow with the water~
+Talk_Text_1191	Is the alcohol drinking me~ or am I drinking the alcohol... \\rWhen you don't know, just drink both~
+Talk_Text_1192	With four glasses, your worries will disappear~ With five glasses, your worries will disappear... \\rIf you drink until you're drunk, you'll forget everything~
+Talk_Text_1193	I thought my heart would be empty if I emptied my glass~\\rI guess I didn't want to throw it away...
+Talk_Text_1194	The day I was born or the day I died~\\rAh~I don't remember anything...
+Talk_Text_1195	Even though it was just a short life… \\rWho would have thought it would turn out like this~?
+Talk_Text_1196	Even if you're born, when the time comes, you all~ go… … \\rAh, am I already dead… ?
+Talk_Text_1197	The good thing about birthdays, you know~?\\rThat's... I get to drink a celebratory drink~
+Talk_Text_1198	Huh~ Are you giving it to me?\\rYou were surprisingly a good guy, weren't you… ?
+Talk_Text_1199	Liquor that's only available here~\\rWhat, you wouldn't give it to me…
+Talk_Text_1200	Next time~\\rPlease give me something I can drink~?
+Talk_Text_1201	Are you curious about my past~? Hehe… \\rI forgot, so I can't tell you~
+Talk_Text_1202	You have to drink together,\\rIt's not like you become drinking buddies~
+Talk_Text_1203	You're the one~ It's nice because it's warm... \\rIt's nice to be alive~
+Talk_Text_1204	What if it's like this, what if it's like that. My single-minded devotion to you... \\rHuh? Isn't this a poem? Ahem...
+Talk_Text_1205	Come on, you came at a time when I was feeling lonely!\\rHey, let's have a chat, shall we?
+Talk_Text_1206	The good rain falls when spring comes, recognizing the season. \\rIsn't a poem beautiful?
+Talk_Text_1207	... You're such a good person, \\rYou're the first to come to me like this.
+Talk_Text_1208	Chatting with you like this\\rI don't know how much time has passed!
+Talk_Text_1209	What are all these butterflies?\\r… Hehe, it's a secret.
+Talk_Text_1210	I feel a hundred years younger! Hahaha!
+Talk_Text_1211	Is it a precious elixir? Thank you.
+Talk_Text_1212	There are so many strange things in the world these days!
+Talk_Text_1213	Haha, I didn't come to get you, so don't worry!\\r… For now, you know.
+Talk_Text_1214	I'm starting to get used to writing down names,\\rAnd that's all thanks to you!
+Talk_Text_1215	It seems like there are more butterflies around you?\\rHaha, it's just my imagination!
+Talk_Text_1216	I've lived a long time, but I still have a long way to go as a messenger.\\rWould you like to join me?
+Talk_Text_1217	I can feel the butterflies thanking me.\\rThis is truly... a joyful thing...
+Talk_Text_1218	The happiness I've been desperately searching for is not too far away.\\rThe day will come when you will understand it soon.
+Talk_Text_1219	On your birthday, you put candles in the cake... as many as your age,\\rWill I be able to prepare candles for this body? Hehehe...
+Talk_Text_1220	Now that your birthday has passed, how old are you?\\rWell... I don't know because I stopped counting after about 500.
+Talk_Text_1221	A dead person is being congratulated on their birthday...\\rIt feels strange, but anyway, thank you!
+Talk_Text_1222	If you've been treated well, it's the duty of the host to grant a favor, \\rTell me.
+Talk_Text_1223	If it's not a bribe, I'll gladly accept it,\\rThere was a host who suffered a lot~
+Talk_Text_1224	I guess I can take you a day later than what's on the list.
+Talk_Text_1225	The sound of the word friend, isn't it nice?
+Talk_Text_1226	I'm a little awkward in expressing my feelings, but thank you.
+Talk_Text_1227	Hello~ Did you come to see my show again today?\\rOr did you miss me?
+Talk_Text_1228	What kind of magic should I show you today?\\rI like card magic.
+Talk_Text_1229	Ta-da~ How is it? Are you surprised that I'm here?\\rI wanted to be the first to greet you.
+Talk_Text_1230	This preview design is... \\r... Oh, did you hear that?
+Talk_Text_1231	Magic isn't a trick~\\rIt just makes you believe what you want to believe.
+Talk_Text_1232	What's inside the hat?\\rThat's the thief's secret♣
+Talk_Text_1233	Huh? I wasn't trying to steal it! It's real~!
+Talk_Text_1234	No matter how easy the magic is, you shouldn't slack off on practicing.
+Talk_Text_1235	I feel like I'm getting a little closer to magic?
+Talk_Text_1236	You're expecting that much from me, right?\\rI won't disappoint you.
+Talk_Text_1237	I came up with a new trick!\\rJay, should we practice?
+Talk_Text_1238	Claude, the magician of the century who steals smiles!\\rWelcome him with cheers and applause~♣
+Talk_Text_1239	No matter how easy the magic is,\\ryou shouldn't slack off on practice.
+Talk_Text_1240	To steal something special,\\ryou need a special thief.
+Talk_Text_1241	I feel like I've gotten one step closer to the greatest treasure, and to your smile!
+Talk_Text_1242	The real show starts now!\\rI'll show you a dreamlike stage and fantastic magic♣
+Talk_Text_1243	Your smile is my greatest treasure.\\rI'll protect your dream so it doesn't disappear
+Talk_Text_1244	Would you like to come see my birthday performance?\\rI think it'll be a nice present to see your smile.
+Talk_Text_1245	As long as the cake isn't carrot cake, it's fine.\\r… Well, I don't particularly dislike carrots.
+Talk_Text_1246	You want me to pat your head since it's your birthday?\\r… Hey, you know it's my birthday, right?
+Talk_Text_1247	For some reason, it's a day I want to remember for a long time.\\rI guess it's because you congratulated me.
+Talk_Text_1248	This gift, I wouldn't trade it for a jewel.It's worth it.\\rI'll treasure it.
+Talk_Text_1249	Huh? Are you trying to steal my heart? ... Haha, just kidding.
+Talk_Text_1250	Can you use it as a magic tool?\\rI wouldn't use the gift you gave me like that, though.
+Talk_Text_1251	If it's luck that we met~\\rIs it you or me who's lucky?
+Talk_Text_1252	The distance between you and me,\\rDon't you think it's gotten a little closer?
+Talk_Text_1253	Ah~ It's difficult... \\rI don't want to run away.
+Talk_Text_1254	Ha~ A fairy tale... The air is so nostalgic?\\rIt makes me want to run backwards.
+Talk_Text_1255	Hey~ The author is here?\\rAre you ready to run like the wind?
+Talk_Text_1256	Is it time to feed the cats… \\r… Oh, author. When did you get here?
+Talk_Text_1257	It’s a nice day to run~\\rIt’s been a while since I’ve felt this way
+Talk_Text_1258	I know you’re handsome, but don’t touch me too much~?\\rI’ve styled my hair in a certain way.
+Talk_Text_1259	Isn’t running backwards cool in its own way?\\rHaha, that’s my identity here
+Talk_Text_1260	The secret to becoming the best racer?\\rOf course, I just run forward.
+Talk_Text_1261	Huh? Why are you looking at me like that?\\rDo you think I’m cool?
+Talk_Text_1262	I never forget the path I’ve run on.\\rI think Lion is getting used to the fairyland.
+Talk_Text_1263	Hmm~ I feel like I've gotten faster?\\rThe world record is just around the corner
+Talk_Text_1264	I'm a strong enough racer~\\rI think I've become the strongest racer with this
+Talk_Text_1265	If I accelerate more from here~\\rIt'll be hard for even the author to catch up with me, right?
+Talk_Text_1266	The fact that there's still a long way to go means\\rThere are still many moments left for me to run.
+Talk_Text_1267	Okay~ Let's be the wind together once again?
+Talk_Text_1268	The fact that there's still a long way to go means\\rThere are still many moments left for me to run.
+Talk_Text_1269	I never forget a path I've run once.\\rI think Lion is slowly getting used to the fairyland?
+Talk_Text_1270	The bike's engine is like a human heart.\\rLion, I feel my heart pounding
+Talk_Text_1271	This speed, this feeling... I'm completely back.\\rI'll show you what real wind is
+Talk_Text_1272	The most important thing is gone,\\rBut now I can clearly see where I should go
+Talk_Text_1273	My birthday is also a special day for Lion.\\rWell, Lion's birthday is separate.
+Talk_Text_1274	No matter how many times I've been congratulated, it's still an awkward day.\\rI'm not saying I don't like it. Thank you, author
+Talk_Text_1275	Now that I think about it, there's a bike I borrowed around this time~\\rI wonder how he's doing?
+Talk_Text_1276	The weather is nice~ and the cats are in a good mood.\\rIsn't this a day where everything is for me?
+Talk_Text_1277	Huh? You were my fan too? Thank you.
+Talk_Text_1278	What are you giving me?\\rWhat should I give you…
+Talk_Text_1279	A gift that makes you, who is behind me,\\rturn around?
+Talk_Text_1280	You~ are a good guy, aren't you?\\rI'll admit it. I like it
+Talk_Text_1281	I don't ride behind just anyone... \\rI think you'll be okay?
+Talk_Text_1282	Want to go for a drive together?\\rI'll make sure you're safe, don't you worry
+Talk_Text_1283	I'm satisfied with my job as an aide.\\rBecause I get to see the Queen often! Hehe…
+Talk_Text_1284	Ah! Author, I've been waiting for you.\\rYou can always leave it to me for healing!
+Talk_Text_1285	Hmm… I feel like I made a mistake… \\rHuh, huh, did you hear that…?
+Talk_Text_1286	It’s a day full of blessings.\\rI feel like something good will happen.
+Talk_Text_1287	I think I’ve gained some weight recently.\\rI wish I were taller…
+Talk_Text_1288	These clothes are a bit uncomfortable, but… \\rI can’t help it if I want to be by the Queen’s side.
+Talk_Text_1289	Sometimes someone touches my wings like a toy… \\r… Oh, well. I’m not saying that you are.
+Talk_Text_1290	I wish I could be taller too… \\r… Oh, no. It’s nothing!
+Talk_Text_1291	I can feel the power of light more clearly!\\rI’ve gotten stronger!
+Talk_Text_1292	Ehehe, I feel like I'm getting closer to the Queen!
+Talk_Text_1293	If you need a blessing, come to me anytime.
+Talk_Text_1294	If I reduce my mistakes like this and get used to the light... \\rI believe I can become a better me tomorrow.
+Talk_Text_1295	Even turning darkness into light... \\rI think I'm getting a little used to it.
+Talk_Text_1296	I feel the power of the blessing that has grown stronger.\\rI will repay the Queen's faith and the writer's expectations!
+Talk_Text_1297	I'm no longer afraid of the darkness inside me.\\rI will illuminate the world with a brighter light.
+Talk_Text_1298	For a world where neither light nor darkness is excluded.\\rThat is the essence of my power and my mission.
+Talk_Text_1299	Even the day you were born can be a blessing... \\rIf it weren't for Fairy Tale Land, I wouldn't have known.
+Talk_Text_1300	Today, Lara and... Oh, no!\\rWe're going to eat cake with the Queen.\\rWould you like to come with me, Author?
+Talk_Text_1301	The Queen prepares a birthday present every year.\\rOh, well, I'm not bragging! I'm just... grateful...
+Talk_Text_1302	Hehehe... It's nice that Fairy Tale Land is so bustling,\\rand that everyone is congratulating me.
+Talk_Text_1303	I have to take good care of it so I don't lose it. Hehehe...
+Talk_Text_1304	Items can't be healed... Huh? You're giving it to me?
+Talk_Text_1305	I can feel your heart... ! I'll treasure it.
+Talk_Text_1306	You want to get to know me?\\rYou know my true self, right… ?
+Talk_Text_1307	Are we getting a little closer?\\rI guess I can call you a friend…?
+Talk_Text_1308	I used to not trust people much… \\rNot anymore. I want to get to know you better.
+Talk_Text_1309	Ta-da! Ta-da! Ta-da~!
+Talk_Text_1310	Hello~! Today was my fate to meet you!
+Talk_Text_1311	When your heart is heavy, look up at the sky.\\rThe stars are always watching over us!
+Talk_Text_1312	Huh? Did you bring anything to eat?
+Talk_Text_1313	Hey, if I play with you like this, will I grow taller… ?\\rI want to be bigger than my friends…
+Talk_Text_1314	Do you want to go stargazing together next time?\\rThe night sky in Fairy Tale Land is really pretty!
+Talk_Text_1315	The energy of the sun is overflowing!
+Talk_Text_1316	You get stronger just by drinking it… This is the best!
+Talk_Text_1317	It would have been better if it was sweeter!
+Talk_Text_1318	It's my destiny to be with my precious friends.\\rFollowing that destiny, I appear here!
+Talk_Text_1319	I feel like I've grown, it's completely different from when I was training alone!
+Talk_Text_1320	I feel like I'm getting stronger right away because I'm with the author!\\rLet's keep pushing forward at this pace~!
+Talk_Text_1321	What do you think? Can you feel my energy getting stronger?\\rHehe, I'll get stronger and stronger!
+Talk_Text_1322	So that my friends can find me anytime, anywhere,\\rI'll become a brightly shining sun!
+Talk_Text_1323	I came to Fairytale Land with my precious friend, but now it's different.\\rThis time, I'll lead the way!
+Talk_Text_1324	Yay~! Cake! Huh? It's my birthday?\\rGyahaha! I forgot! Thank you for remembering!
+Talk_Text_1325	Someone always remembers my birthday!\\rWhen is the author's birthday? I'll remember it and not forget!
+Talk_Text_1326	Shall we eat cake together?\\rIt's okay if I eat it alone, but happiness is doubled when shared, right?
+Talk_Text_1327	Wow~! Thank you! I'll brag about it later!
+Talk_Text_1328	You've got a great sense of humor! Thank you!
+Talk_Text_1329	Hehe, I'll give you a fortune in return!
+Talk_Text_1330	We're destined to be friends!
+Talk_Text_1331	Can I be the sun in your heart?
+Talk_Text_1332	The author is a good friend! Gyahaha!
+Talk_Text_1333	… You're here.\\rI heard your voice… carried by the waves.
+Talk_Text_1334	… … … .\\r(Staring somewhere.)
+Talk_Text_1335	The star that fell into the sea… \\rI wonder if it's dreaming of a sparkling day.
+Talk_Text_1336	There are more things you can see when your eyes are closed… \\rthan when they're open.
+Talk_Text_1337	You are… watching.\\rYou don't have to draw attention to yourself…
+Talk_Text_1338	From the things I miss... It smells like the sea.\\rA scent of salt and foam...
+Talk_Text_1339	Don't come too close.\\rIt's not that they're poisonless...
+Talk_Text_1340	... … … \\r(They somehow look happy.)
+Talk_Text_1341	Would you like to change the direction of the waves?
+Talk_Text_1342	If this is the flow you want...
+Talk_Text_1343	Rising waves... \\rAre you feeling good today?
+Talk_Text_1344	Being swept away... Is that the job of the waves?\\rI'm just floating along, going with the flow...
+Talk_Text_1345	Larissa's Dialogue
+Talk_Text_1346	Larissa's Dialogue
+Talk_Text_1347	The voice of the waves becomes clearer.\\rThe sea is still crying…
+Talk_Text_1348	We will sink and flow endlessly.\\rTo a place where no sorrow or joy can be heard…
+Talk_Text_1349	Our promise has finally been fulfilled.\\rI will never let you cry again…
+Talk_Text_1350	With these children… We have been together since the moment we opened our eyes.\\rPrecious friends who will never leave…
+Talk_Text_1351	The sea… does not commemorate birth or death.\\rAll life and death, just flow by…
+Talk_Text_1352	… I have never seen such a small flame.\\rA warm sparkle, just like hope…
+Talk_Text_1353	Thank you for your heart, but... I can't eat the cake.\\r... And the chocolate on top is no good either...
+Talk_Text_1354	Children... will like it too.\\rEven if you don't have a heart, you can feel the heart...
+Talk_Text_1355	People... give meaning to small moments.\\rWhat does this mean?
+Talk_Text_1356	Small but sparkly... \\rA gift like a pebble on a sandy beach...
+Talk_Text_1357	Those eyes... resemble the sea.\\rStrong but affectionate, and beautiful...
+Talk_Text_1358	If you were a wave... What would it look like?\\rI'd like to be swept away once...
+Talk_Text_1359	I've heard your name...\\rIn the lyrics the sea brought...
+Talk_Text_1360	Oh my, you're here?\\rToday's weather is... cloudy and then clear~♪
+Talk_Text_1361	What I do is not simply predicting and observing.\\rManaging and controlling variables is also part of my job.
+Talk_Text_1362	Clear skies, bright sun, a warm day... \\r… … What a boring day.
+Talk_Text_1363	The atmosphere is confusing.\\rMaybe we'll see Asperitas today♪
+Talk_Text_1364	Cumulative clouds, from west to east... \\r… Hooray, is a storm coming?
+Talk_Text_1365	I'm not bringing the rain.\\rThe clouds are with me.
+Talk_Text_1366	Don't try to know too much.\\rSometimes ignorance is bliss, right?
+Talk_Text_1367	Tropical turbulence, hurricane, cyclone… \\rThe sound of the letters is beautiful.
+Talk_Text_1368	Cumulonimbus clouds are gathering… \\rIt’s a pleasant front♪
+Talk_Text_1369	Taking control firmly in your hands… \\rIt’s a pleasant feeling.
+Talk_Text_1370	The power to turn chaos into order… \\rI feel like I’m getting one step closer♪
+Talk_Text_1371	I don’t care about wishes.\\rI just want to appease the sky♪
+Talk_Text_1372	The air currents that left are returning to their orbit… \\rEverything will be perfect.
+Talk_Text_1373	Don’t worry, the typhoon won’t come.\\rWe’ll have a beautiful night.
+Talk_Text_1374	Collecting clouds, raging winds, unstable air currents… \\rIf a typhoon comes… It’ll definitely be beautiful… … ♪
+Talk_Text_1375	Oh my. I got a letter from my parents… \\rI guess I should stop by sometime.
+Talk_Text_1376	I want a cold front that never disappears.\\rWill you grant my wish?
+Talk_Text_1377	Special days require special weather.\\rWell… Shall we make it rain today?
+Talk_Text_1378	Nothing is perfect from birth.\\rEven storms start out as just clouds.
+Talk_Text_1379	Even if you give me something like this, it won’t stop the rain… \\r… Hehe, just kidding♪
+Talk_Text_1380	It’s a cute gift like you.\\rI should display it somewhere visible.
+Talk_Text_1381	A small favor is a pleasant favor.\\rI will treasure it.
+Talk_Text_1382	Ladies keep many secrets... \\rThe author is no exception.
+Talk_Text_1383	The author resembles turbulence.\\rI like weather that is difficult to control.
+Talk_Text_1384	What does the world look like from under an umbrella... \\rAren't you curious?
+Talk_Text_1385	You... are planning to share the fate of this land.\\rThen, you are also a child I must protect.
+Talk_Text_1386	This world is always changing. \\rThat's why it's good. Hehe.
+Talk_Text_1387	Do you want wealth and honor?\\rThen~ Try hard.
+Talk_Text_1388	I know what the writer did yesterday.\\rI see through every move on this earth.
+Talk_Text_1389	Come on, say hello. This is Dobby and Kobi.\\rMy cute friends.
+Talk_Text_1390	You came at a good time. Can you take a picture of me?\\rI have to upload a new feed.
+Talk_Text_1391	There's an underworld grandpa nearby?\\rSigh~ I'm getting tired again.
+Talk_Text_1392	You don't have to be afraid of Seongju.\\rI'm like nature, always by your side.
+Talk_Text_1393	I'm strong even without this...\\rI'll take it for now.
+Talk_Text_1394	Thanks to you, I feel energized.\\rNow that it's come to this, should I show off my strength?
+Talk_Text_1395	Hmm? Not bad?\\rNext time, takeout.
+Talk_Text_1396	It's my duty to protect the people of this land.\\rThis is the only place I can belong.
+Talk_Text_1397	The stronger the energy of the land becomes, the stronger I become.\\rBecause the fate of this land is my fate.
+Talk_Text_1398	The sorrow of those who were lost is engraved in this heart.\\rI became strong with those tears. So that the tragedy would not repeat itself.
+Talk_Text_1399	With this strength, I will definitely protect it.\\rUntil I fulfill my fate as a god after an eternity.
+Talk_Text_1400	Cake and Americano are good, but~\rFor a birthday, rice and seaweed soup is better. Hehe!
+Talk_Text_1401	It's the Lord Seongju's birthday.\rYou must have prepared a lot of offerings, right?
+Talk_Text_1402	Should I buy a present for myself today?\\rIt's a good day, you know.
+Talk_Text_1403	Thank you all for congratulating me.\\rHehe. I should enjoy today to the fullest.
+Talk_Text_1404	Oh my. Are you offering an offering? Hehe.
+Talk_Text_1405	I'll remember your sincerity. You can look forward to the future.
+Talk_Text_1406	Anything from this land is good.\\rMy energy is in everything.
+Talk_Text_1407	Like the 'yeon' in my name. \\rI'll make sure to engrave our bond.
+Talk_Text_1408	Want to go shopping together next time? \\rI don't really need a porter~
+Talk_Text_1409	You... You know who I should show off to?
+Talk_Text_1410	I'm thinking of opening up my treasure trove.
+Talk_Text_1411	Hehe. This is the protection of the Holy Spirit.
+Talk_Text_1412	What do you think? Do you like it?
+Talk_Text_1413	Hey, little lamb.\\rIs there a good bar? Please show me around.
+Talk_Text_1414	Need salvation? Will I be saved just by reciting a prayer? \\rI don't understand.
+Talk_Text_1415	... A children's book writer? You seem trivial.\\rOh. Of course, it looks more fun than a worship service.
+Talk_Text_1416	Once trapped in the shadows, don't give in. \\rBorrowing your power, I'll shine... (sigh)... Can't you see I'm praying?
+Talk_Text_1417	This is a non-smoking area? What? A fine?\\rHaa. I don't know. Talk to the Vatican.
+Talk_Text_1418	... Ah~ I see. It's annoying... \\rSo where's the smoking area?
+Talk_Text_1419	What are you looking at? Do you want to get a hole in your head?\\rHeh heh heh...
+Talk_Text_1420	Hey. I can at least recite the prayers properly.\\rYou haven't forgotten that I'm a bishop, have you?
+Talk_Text_1421	This tastes so soul-cleansing.
+Talk_Text_1422	This would go well with alcohol.
+Talk_Text_1423	Better than expected? Next time, prepare more.
+Talk_Text_1424	Ahh. There's another cute lamb here.\\rPut your donation here.
+Talk_Text_1425	Mikhael Virtues. In my name,\\rI will grant you the grace of light.
+Talk_Text_1426	It's not the form that matters.\\rYour light is in your heart. I mean this.
+Talk_Text_1427	I will destroy everything that is rotten and corrupt.\\rAnd I will show you what true light is.
+Talk_Text_1428	Haha! Alright. OhJust live as you please.\\r… Ah. Is it the same as usual?
+Talk_Text_1429	It's my birthday, so I won't do anything boring.\\rKeep that in mind.
+Talk_Text_1430	Heh heh, the believers gave me some pretty nice presents.\\rDon't you have anything prepared?
+Talk_Text_1431	Hey. Let's have a drink today.\\rHuh? You should go too. Where are you going? Heh heh.
+Talk_Text_1432	Ah~ Alright. Is this the extent of your faith? Heh heh.
+Talk_Text_1433	Why? Give me a blessing?
+Talk_Text_1434	Are you trying to buy an indulgence?
+Talk_Text_1435	Hahaha! You. Do you like it when I'm cocky?
+Talk_Text_1436	Why don't you become a believer now? Hehehe...
+Talk_Text_1437	Do you like me? Priests can't get married.
+Talk_Text_1438	Mikhail's Dialogue
+Talk_Text_1439	Mikhail's Dialogue
+Talk_Text_1440	Mikhail's Dialogue
+Talk_Text_1441	As much as I've changed, so has Fairy Tale Land... \\rReally! I've grown so much!
+Talk_Text_1442	One, two, three, four... Oh! The writer is here! \\rI've developed a habit of stretching every day~
+Talk_Text_1443	It's been a long time since we all met, but we can have fun conversations like before \\rI'm so, so happy right now!
+Talk_Text_1444	Wow!? Oh... You're the writer, I was surprised because I thought Miho was here... \\rIt seems like they're teasing me more than before...
+Talk_Text_1445	Hehehe, after practicing alone for a while,\\rIt's so fun to meet my friends again after such a long time!
+Talk_Text_1446	Do you want to stretch with me?\\rIt makes me feel refreshed, but I heard it also helps me grow taller!
+Talk_Text_1447	Wow~! I feel like I'm bursting with energy!
+Talk_Text_1448	I want to get stronger and become the strength of the author!
+Talk_Text_1449	Do you want to drink with me? It's a shame to drink alone~
+Talk_Text_1450	I've become stronger so that I can become the strength of everyone!\\rI, really... Woof...
+Talk_Text_1451	Fighting is still scary,\\rBut I can do it because my friends are with me!
+Talk_Text_1452	I just realized it!\\rI had my friends by my side, so there was nothing to be afraid of!!
+Talk_Text_1453	I've become strong, strong enough to speak proudly with my chest held high!\\rBut I wouldn't have been this strong if I were alone.\\rThank you, friends! And... author!
+Talk_Text_1454	Is it because it's been a while since I've received congratulations?\\rI feel like I've received more congratulations than usual, so I'm happy!
+Talk_Text_1455	Miho said she'd bring me a cake later...\\rWill I be able to eat both of them...?
+Talk_Text_1456	Thank you so much for the birthday wishes!\\rThank you for the cake, and thank you for the gift, and, and...
+Talk_Text_1457	Oh, are you really giving it to me!? Thank you!
+Talk_Text_1458	Hehehe! I should show off to Miho!
+Talk_Text_1459	I'll definitely thank you later!!\\rIs there anything you want, author?
+Talk_Text_1460	We're real friends now~!\\rOh... We were real friends before!
+Talk_Text_1461	Hehe, I have the most fun with friends!
+Talk_Text_1462	Yeah! Let's keep being friends~?
+Talk_Text_1463	It's not much, but...\\rThis is my small thank you for the author!
+Talk_Text_1464	Wow~! That's great!!\\rAs expected of the author!
+Talk_Text_1465	I hope you like it...
+Talk_Text_1466	Saladin Ambassador
+Talk_Text_1467	Saladin Ambassador
+Talk_Text_1468	Saladin Ambassador
+Talk_Text_1469	Saladin Ambassador
+Talk_Text_1470	Saladin Ambassador
+Talk_Text_1471	Saladin Ambassador
+Talk_Text_1472	Saladin Ambassador
+Talk_Text_1473	Saladin Ambassador
+Talk_Text_1474	Saladin Ambassador
+Talk_Text_1475	Saladin Ambassador
+Talk_Text_1476	Saladin Ambassador
+Talk_Text_1477	Saladin Ambassador
+Talk_Text_1478	Saladin Ambassador
+Talk_Text_1479	Saladin Ambassador
+Talk_Text_1480	Saladin Ambassador
+Talk_Text_1481	Saladin Ambassador
+Talk_Text_1482	Saladin Ambassador
+Talk_Text_1483	Saladin Ambassador
+Talk_Text_1484	Saladin Ambassador
+Talk_Text_1485	Saladin Ambassador
+Talk_Text_1486	Saladin Ambassador
+Talk_Text_1487	Saladin Ambassador
+Talk_Text_1488	Saladin Ambassador
+Talk_Text_1489	Saladin Ambassador
+Talk_Text_1490	Saladin Ambassador
+Talk_Text_1491	Scherazad Ambassador
+Talk_Text_1492	Scherazad Ambassador
+Talk_Text_1493	Scherazad Ambassador
+Talk_Text_1494	Scherazad Ambassador
+Talk_Text_1495	Scherazad Ambassador
+Talk_Text_1496	Scherazad Ambassador
+Talk_Text_1497	Ambassador Scheherazade
+Talk_Text_1498	Ambassador Scheherazade
+Talk_Text_1499	Ambassador Scheherazade
+Talk_Text_1500	Ambassador Scheherazade
+Talk_Text_1501	Ambassador Scheherazade
+Talk_Text_1502	Ambassador Scheherazade
+Talk_Text_1503	Ambassador Scheherazade
+Talk_Text_1504	Ambassador Scheherazade
+Talk_Text_1505	Ambassador Scheherazade
+Talk_Text_1506	Ambassador Scheherazade
+Talk_Text_1507	Ambassador Scheherazade
+Talk_Text_1508	Ambassador Scheherazade
+Talk_Text_1509	Ambassador Scheherazade
+Talk_Text_1510	Ambassador Scheherazade
+Talk_Text_1511	Scheherazade Ambassador
+Talk_Text_1512	Ambassador Scheherazade
+Talk_Text_1513	Ambassador Scheherazade
+Talk_Text_1514	Ambassador Scheherazade
+Talk_Text_1515	Ambassador Scheherazade

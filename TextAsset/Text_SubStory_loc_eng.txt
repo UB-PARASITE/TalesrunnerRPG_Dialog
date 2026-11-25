@@ -1,0 +1,10 @@
+SubStory_Name_0001	Sea Event
+SubStory_Name_0002	For the Warmest Winter in the World
+SubStory_Name_0003	Like a Light that Illuminates the New Year
+SubStory_Name_0004	A Premonition Thrown to the Fox Star
+SubStory_Name_0005	Genesis:P1 with Fairy Tale Land
+SubStory_Description_0001	Sea Event A Content Description
+SubStory_Description_0002	For the Warmest Winter in the World
+SubStory_Description_0003	Like a Light that Illuminates the New Year
+SubStory_Description_0004	A Premonition Thrown to the Fox Star
+SubStory_Description_0005	Genesis:P1 with Fairy Tale Land

@@ -1,0 +1,6 @@
+WriterSkillLvBonus_Name_0000	분노의 작가
+WriterSkillLvBonus_Name_0001	조력의 작가
+WriterSkillLvBonus_Name_0002	혼돈의 작가
+WriterSkillLvBonus_Desc_0000	아래의 지정된 스킬 모두 최대 레벨에 도달 할 시, 아래 스킬의 레벨이 3 증가합니다.\\r
+WriterSkillLvBonus_Desc_0001	아래의 지정된 스킬 모두 최대 레벨에 도달 할 시, 아래 스킬의 레벨이 3 증가합니다.\\r
+WriterSkillLvBonus_Desc_0002	아래의 지정된 스킬 모두 최대 레벨에 도달 할 시, 아래 스킬의 레벨이 3 증가합니다.\\r

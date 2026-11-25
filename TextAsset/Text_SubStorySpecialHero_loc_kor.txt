@@ -1,0 +1,1 @@
+SubStorySpecialHero_Desc1_	A 재화 획득량 +30%

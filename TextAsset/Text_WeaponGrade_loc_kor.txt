@@ -1,0 +1,68 @@
+WeaponGrade_Name_0000	초원
+WeaponGrade_Name_0001	헬리아
+WeaponGrade_Name_0002	루나
+WeaponGrade_Name_0003	엘린
+WeaponGrade_Name_0004	퀸 하트
+WeaponGrade_Name_0005	밍밍
+WeaponGrade_Name_0006	앨리스
+WeaponGrade_Name_0007	빅보
+WeaponGrade_Name_0008	라라
+WeaponGrade_Name_0009	엘림스 스마일
+WeaponGrade_Name_0010	제인 도우
+WeaponGrade_Name_0011	피노키오
+WeaponGrade_Name_0012	리나
+WeaponGrade_Name_0013	스칼렛
+WeaponGrade_Name_0014	그레텔
+WeaponGrade_Name_0015	아라모드
+WeaponGrade_Name_0016	헨젤
+WeaponGrade_Name_0017	체셔
+WeaponGrade_Name_0018	플레어
+WeaponGrade_Name_0019	브라이어 로즈
+WeaponGrade_Name_0020	멜피
+WeaponGrade_Name_0021	제페토
+WeaponGrade_Name_0022	DnD
+WeaponGrade_Name_0023	사샤
+WeaponGrade_Name_0024	드로셀마이어
+WeaponGrade_Name_0025	세실리아
+WeaponGrade_Name_0026	마리
+WeaponGrade_Name_0027	디에터
+WeaponGrade_Name_0028	아이르
+WeaponGrade_Name_0029	플로렌스
+WeaponGrade_Name_0030	베라
+WeaponGrade_Name_0031	키스멧
+WeaponGrade_Name_0032	마녀 세실리아
+WeaponGrade_Name_0033	하루
+WeaponGrade_Name_0034	카이
+WeaponGrade_Name_0035	루시안
+WeaponGrade_Name_0036	레일라
+WeaponGrade_Name_0037	막시밀리안
+WeaponGrade_Name_0038	올리비에
+WeaponGrade_Name_0039	오필리아
+WeaponGrade_Name_0040	아나스타샤
+WeaponGrade_Name_0041	피치 크러시
+WeaponGrade_Name_0042	자르갈
+WeaponGrade_Name_0043	닉스
+WeaponGrade_Name_0044	사야
+WeaponGrade_Name_0045	바다
+WeaponGrade_Name_0046	릴리스
+WeaponGrade_Name_0047	아크 포리프
+WeaponGrade_Name_0048	모니카
+WeaponGrade_Name_0049	메이메이
+WeaponGrade_Name_0050	하랑
+WeaponGrade_Name_0051	클로드
+WeaponGrade_Name_0052	러프
+WeaponGrade_Name_0053	카인
+WeaponGrade_Name_0054	미호
+WeaponGrade_Name_0055	라리사
+WeaponGrade_Name_0056	아멜리
+WeaponGrade_Name_0057	연오
+WeaponGrade_Name_0058	미하일
+WeaponGrade_Name_0059	시호
+WeaponGrade_Name_0060	살라딘
+WeaponGrade_Name_0061	셰라자드
+WeaponGrade_Name_0062	크리스티앙
+WeaponGrade_Name_0063	죠안
+WeaponGrade_Name_0064	악마 카인
+WeaponGrade_Name_0065	소피
+WeaponGrade_Name_0066	타브리스
+WeaponGrade_Name_0067	티나

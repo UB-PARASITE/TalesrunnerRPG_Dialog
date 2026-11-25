@@ -1,0 +1,400 @@
+RelationBuffGroup_TypeDesc_0101	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_0102	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0103	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0104	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0105	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0106	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0107	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0108	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0109	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0110	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0201	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_0202	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0203	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0204	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0205	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0206	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0207	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0208	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0209	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0210	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0301	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_0302	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0303	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0304	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0305	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0306	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0307	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0308	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0309	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0310	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0401	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_0402	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0403	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0404	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0405	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0406	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0407	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0408	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0409	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0410	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0501	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_0502	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0503	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0504	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0505	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0506	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0507	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0508	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0509	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0510	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0601	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_0602	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0603	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0604	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0605	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0606	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0607	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0608	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0609	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0610	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0701	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_0702	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0703	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0704	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0705	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0706	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0707	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0708	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0709	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0710	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0801	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_0802	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0803	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0804	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0805	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0806	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0807	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0808	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0809	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0810	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0901	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_0902	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0903	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0904	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0905	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0906	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0907	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_0908	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0909	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_0910	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1001	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_1002	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1003	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1004	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1005	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1006	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1007	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1008	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1009	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1010	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1101	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_1102	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1103	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1104	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1105	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1106	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1107	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1108	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1109	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1110	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1201	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_1202	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1203	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1204	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1205	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1206	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1207	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1208	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1209	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1210	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1301	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_1302	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1303	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1304	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1305	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1306	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1307	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1308	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1309	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1310	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1401	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_1402	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1403	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1404	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1405	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1406	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1407	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1408	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1409	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1410	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1501	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_1502	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1503	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1504	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1505	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1506	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1507	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1508	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1509	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1510	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1601	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_1602	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1603	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1604	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1605	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1606	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1607	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1608	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1609	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1610	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1701	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_1702	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1703	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1704	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1705	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1706	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1707	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1708	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1709	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1710	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1801	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_1802	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1803	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1804	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1805	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1806	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1807	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1808	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1809	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1810	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1901	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_1902	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1903	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1904	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1905	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1906	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1907	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_1908	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1909	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_1910	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_2001	대상 캐릭터 보유
+RelationBuffGroup_TypeDesc_2002	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_2003	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_2004	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_2005	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_2006	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_2007	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_TypeDesc_2008	대상 캐릭터 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_2009	대상 캐릭터 친밀도 레벨 {v0} 도달
+RelationBuffGroup_TypeDesc_2010	대상 캐릭터 {v0}성 도달
+RelationBuffGroup_Desc_0101	공격력 {v0} 증가
+RelationBuffGroup_Desc_0102	공격력 {v0} 증가
+RelationBuffGroup_Desc_0103	공격력 {v0} 증가
+RelationBuffGroup_Desc_0104	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0105	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0106	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0107	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0108	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0109	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0110	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0201	공격력 {v0} 증가
+RelationBuffGroup_Desc_0202	공격력 {v0} 증가
+RelationBuffGroup_Desc_0203	공격력 {v0} 증가
+RelationBuffGroup_Desc_0204	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0205	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0206	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0207	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0208	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0209	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0210	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0301	공격력 {v0} 증가
+RelationBuffGroup_Desc_0302	공격력 {v0} 증가
+RelationBuffGroup_Desc_0303	공격력 {v0} 증가
+RelationBuffGroup_Desc_0304	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0305	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0306	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0307	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0308	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0309	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0310	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0401	공격력 {v0} 증가
+RelationBuffGroup_Desc_0402	공격력 {v0} 증가
+RelationBuffGroup_Desc_0403	공격력 {v0} 증가
+RelationBuffGroup_Desc_0404	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0405	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0406	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0407	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0408	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0409	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0410	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0501	공격력 {v0} 증가
+RelationBuffGroup_Desc_0502	공격력 {v0} 증가
+RelationBuffGroup_Desc_0503	공격력 {v0} 증가
+RelationBuffGroup_Desc_0504	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0505	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0506	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0507	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0508	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0509	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0510	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0601	공격력 {v0} 증가
+RelationBuffGroup_Desc_0602	공격력 {v0} 증가
+RelationBuffGroup_Desc_0603	공격력 {v0} 증가
+RelationBuffGroup_Desc_0604	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0605	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0606	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0607	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0608	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0609	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0610	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0701	공격력 {v0} 증가
+RelationBuffGroup_Desc_0702	공격력 {v0} 증가
+RelationBuffGroup_Desc_0703	공격력 {v0} 증가
+RelationBuffGroup_Desc_0704	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0705	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0706	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0707	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0708	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0709	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0710	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0801	공격력 {v0} 증가
+RelationBuffGroup_Desc_0802	공격력 {v0} 증가
+RelationBuffGroup_Desc_0803	공격력 {v0} 증가
+RelationBuffGroup_Desc_0804	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0805	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0806	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0807	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0808	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0809	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0810	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0901	공격력 {v0} 증가
+RelationBuffGroup_Desc_0902	공격력 {v0} 증가
+RelationBuffGroup_Desc_0903	공격력 {v0} 증가
+RelationBuffGroup_Desc_0904	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0905	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0906	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0907	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_0908	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0909	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_0910	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1001	공격력 {v0} 증가
+RelationBuffGroup_Desc_1002	공격력 {v0} 증가
+RelationBuffGroup_Desc_1003	공격력 {v0} 증가
+RelationBuffGroup_Desc_1004	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1005	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1006	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1007	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1008	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1009	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1010	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1101	공격력 {v0} 증가
+RelationBuffGroup_Desc_1102	공격력 {v0} 증가
+RelationBuffGroup_Desc_1103	공격력 {v0} 증가
+RelationBuffGroup_Desc_1104	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1105	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1106	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1107	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1108	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1109	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1110	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1201	공격력 {v0} 증가
+RelationBuffGroup_Desc_1202	공격력 {v0} 증가
+RelationBuffGroup_Desc_1203	공격력 {v0} 증가
+RelationBuffGroup_Desc_1204	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1205	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1206	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1207	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1208	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1209	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1210	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1301	공격력 {v0} 증가
+RelationBuffGroup_Desc_1302	공격력 {v0} 증가
+RelationBuffGroup_Desc_1303	공격력 {v0} 증가
+RelationBuffGroup_Desc_1304	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1305	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1306	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1307	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1308	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1309	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1310	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1401	공격력 {v0} 증가
+RelationBuffGroup_Desc_1402	공격력 {v0} 증가
+RelationBuffGroup_Desc_1403	공격력 {v0} 증가
+RelationBuffGroup_Desc_1404	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1405	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1406	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1407	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1408	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1409	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1410	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1501	공격력 {v0} 증가
+RelationBuffGroup_Desc_1502	공격력 {v0} 증가
+RelationBuffGroup_Desc_1503	공격력 {v0} 증가
+RelationBuffGroup_Desc_1504	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1505	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1506	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1507	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1508	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1509	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1510	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1601	공격력 {v0} 증가
+RelationBuffGroup_Desc_1602	공격력 {v0} 증가
+RelationBuffGroup_Desc_1603	공격력 {v0} 증가
+RelationBuffGroup_Desc_1604	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1605	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1606	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1607	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1608	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1609	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1610	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1701	공격력 {v0} 증가
+RelationBuffGroup_Desc_1702	공격력 {v0} 증가
+RelationBuffGroup_Desc_1703	공격력 {v0} 증가
+RelationBuffGroup_Desc_1704	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1705	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1706	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1707	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1708	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1709	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1710	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1801	공격력 {v0} 증가
+RelationBuffGroup_Desc_1802	공격력 {v0} 증가
+RelationBuffGroup_Desc_1803	공격력 {v0} 증가
+RelationBuffGroup_Desc_1804	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1805	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1806	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1807	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1808	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1809	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1810	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1901	공격력 {v0} 증가
+RelationBuffGroup_Desc_1902	공격력 {v0} 증가
+RelationBuffGroup_Desc_1903	공격력 {v0} 증가
+RelationBuffGroup_Desc_1904	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1905	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1906	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1907	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_1908	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1909	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_1910	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_2001	공격력 {v0} 증가
+RelationBuffGroup_Desc_2002	공격력 {v0} 증가
+RelationBuffGroup_Desc_2003	공격력 {v0} 증가
+RelationBuffGroup_Desc_2004	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_2005	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_2006	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_2007	공격력 {v0} , 방어력 {v0} 증가
+RelationBuffGroup_Desc_2008	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_2009	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가
+RelationBuffGroup_Desc_2010	공격력 {v0}, 방어력 {v0}, 최대 체력 {v0} 증가

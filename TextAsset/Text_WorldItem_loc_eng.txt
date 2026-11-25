@@ -1,0 +1,15 @@
+WorldItem_Name_0000	Blue Treasure Chest
+WorldItem_Name_0001	Red Treasure Chest
+WorldItem_Name_0002	Wooden Chest
+WorldItem_Name_0003	Gold
+WorldItem_Name_0004	Gold and Gems
+WorldItem_Name_0005	Golden Key
+WorldItem_Name_0006	Silver Key
+WorldItem_Name_0007	Diamond
+WorldItem_Name_0008	Health Recovery
+WorldItem_Name_0009	Dark Abyss Coin
+WorldItem_Name_0010	Dark Abyss Stamina
+WorldItem_Name_0011	Stat Up
+WorldItem_Name_0012	Secret Chest
+WorldItem_Name_0013	Experience Potion
+WorldItem_Name_0014	Stamina

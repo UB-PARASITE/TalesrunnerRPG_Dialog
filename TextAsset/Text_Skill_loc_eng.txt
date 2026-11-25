@@ -1,0 +1,49 @@
+Skill_Name_0000	Crazy Blow
+Skill_Name_0001	Shooting Star
+Skill_Name_0002	Shield Attack
+Skill_Name_0003	Hellbird Strike
+Skill_Name_0004	Curve Shot
+Skill_Name_0005	Moon Cutter
+Skill_Name_0006	Potion Delivery
+Skill_Name_0007	Potion Rain
+Skill_Name_0008	Fatal Strike
+Skill_Name_0009	Defensive Stance
+Skill_Name_0010	Suppressive Shot
+Skill_Name_0011	Vital Jade
+Skill_Name_0012	Rapid Heal
+Skill_Name_0016	That guy is very Hit
+Skill_Name_0017	Rude
+Skill_Name_0018	Whirlwind Slash
+Skill_Name_0019	Fire Dragon's Fever
+Skill_Name_0020	Cyclone
+Skill_Name_0021	Heaven's Fall
+Skill_Name_0022	Rage
+Skill_Name_0023	Scorched Earth
+Skill_Name_0024	Elin's Mistake
+Skill_Name_0025	Power of the Jewel
+Skill_Name_0026	Power of the Brilliant Jewel
+Skill_Name_0027	Artifact of Recovery
+Skill_Name_0028	Emotion
+Skill_Desc_0000	Cho Won-i's Decisive Strike
+Skill_Desc_0001	Run! 
+Skill_Desc_0002	Swings the shield to stun enemies
+Skill_Desc_0003	Shoots down an exploding Hellbird, dealing damage to all enemies
+Skill_Desc_0004	Shoots an arrow in a curved direction, dealing damage to enemies behind you
+Skill_Desc_0005	Fires a magic arrow that gathers energy to shatter the moon, causing moon fragments to fall and dealing damage to all enemies.
+Skill_Desc_0006	Shoots a potion that increases attack power to an ally of your choice.
+Skill_Desc_0007	Scattering the power of the Wand Alchemist, recovering the health of all allies.
+Skill_Desc_0011	Creates a spirit orb and fires it at all enemies.
+Skill_Desc_0012	Recovers the HP of all friendly units.
+Skill_Desc_0016	The target that is hit by this attack will receive additional damage from subsequent attacks due to a deep wound.
+Skill_Desc_0017	For a while, skills cannot be used and will continuously take damage.
+Skill_Desc_0018	Attacks a single target enemy twice with a spinning slash using the crescent sword, dealing damage.
+Skill_Desc_0019	Fires the crescent sword with the red flame dragon's energy, damaging and burning the enemy.
+Skill_Desc_0020	Throws the greatsword horizontally and returns, causing a single enemy to bleed.
+Skill_Desc_0021	Slams the greatsword down into the enemy formation, dealing damage to all enemies and causing them to bleed.
+Skill_Desc_0022	Unleash your hidden power of anger to strengthen yourself.
+Skill_Desc_0023	Using both gauntlets, pour all your power into slamming the ground, dealing damage to enemies within range.
+Skill_Desc_0024	Using both gauntlets, pour all your power into slamming the ground, dealing damage to enemies within range.
+Skill_Desc_0025	Creates a sharp crystal with the power of a jewel, dealing damage to a single target enemy.
+Skill_Desc_0026	Throws a powerful jewel that draws out the power of joy to its extreme, dealing damage to all enemies.
+Skill_Desc_0027	Grants a selected target an artifact of recovery that restores health and instantly removes debuffs.
+Skill_Desc_0028	Grants an artifact filled with complex emotions to an enemy, dealing damage and fear.

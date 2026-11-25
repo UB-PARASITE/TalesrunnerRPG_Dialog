@@ -1,0 +1,37 @@
+SubStoryRead_StoryName_15000	Let's go, to the sea!
+SubStoryRead_StoryName_15001	Sea Hero
+SubStoryRead_StoryName_15002	Sea Kids
+SubStoryRead_StoryName_15003	Giving names
+SubStoryRead_StoryName_15004	Team Sea vs. Team Among
+SubStoryRead_StoryName_15005	In front of the campfire
+SubStoryRead_StoryName_15006	Guys who suit the sea
+SubStoryRead_StoryName_15007	Someday, back to the sea!
+SubStoryRead_StoryName_15008	Becoming a righteous thief
+SubStoryRead_StoryName_15009	Baphir's Lady
+SubStoryRead_StoryName_15010	Underworld Snow Festival Operation!
+SubStoryRead_StoryName_15011	Those who block the cold
+SubStoryRead_StoryName_15012	What was traded for chicken skewers
+SubStoryRead_StoryName_15013	Let's make sweet snow
+SubStoryRead_StoryName_15014	Romance and Philosophy
+SubStoryRead_StoryName_15015	Hot air balloons in crisis!
+SubStoryRead_StoryName_15016	For the warmest winter in the world
+SubStoryRead_StoryName_15017	Rebels of the Underworld Company
+SubStoryRead_StoryName_15018	Guardians of Fairytale Land
+SubStoryRead_StoryName_15019	New Year is fun
+SubStoryRead_StoryName_15020	Strange things are happening
+SubStoryRead_StoryName_15021	The relationship between mice and goblins
+SubStoryRead_StoryName_15022	Scary stories
+SubStoryRead_StoryName_15023	Reasons for anger
+SubStoryRead_StoryName_15024	Give me a lottery ticket
+SubStoryRead_StoryName_15025	The identity of the goblin
+SubStoryRead_StoryName_15026	The lantern that illuminates the New Year
+SubStoryRead_StoryName_15027	The star that shares fate
+SubStoryRead_StoryName_15028	Guide in the forest
+SubStoryRead_StoryName_15029	Bubble-drop potion! 
+SubStoryRead_StoryName_15030	Lower your body and focus your gaze
+SubStoryRead_StoryName_15031	Pandora's Guardian Angel
+SubStoryRead_StoryName_15032	Stolen Star Piece
+SubStoryRead_StoryName_15033	Phantom Thief Found♣
+SubStoryRead_StoryName_15034	Pandora's Back Side
+SubStoryRead_StoryName_15035	Qualifications for the Next Guardian Angel
+SubStoryRead_StoryName_15036	Mother's Heart

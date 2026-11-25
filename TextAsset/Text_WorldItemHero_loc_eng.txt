@@ -1,0 +1,9 @@
+WorldItemHero_Desc_0000	공격과 방어의 우수한 벨런스
+WorldItemHero_Desc_0001	지치지 않는 탱킹 능력
+WorldItemHero_Desc_0002	후방 보호에 월등한 능력
+WorldItemHero_Desc_0003	공격과 방어의 우수한 벨런스
+WorldItemHero_Desc_0004	지치지 않는 탱킹 능력
+WorldItemHero_Desc_0005	후방 보호에 월등한 능력
+WorldItemHero_Desc_0006	공격과 방어의 우수한 벨런스
+WorldItemHero_Desc_0007	지치지 않는 탱킹 능력
+WorldItemHero_Desc_0008	후방 보호에 월등한 능력

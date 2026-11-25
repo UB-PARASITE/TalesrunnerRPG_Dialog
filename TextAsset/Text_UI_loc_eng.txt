@@ -1,0 +1,2675 @@
+<<! Menu Related >>
+Menu_Alchemy	Alchemy
+Menu_Farm	Farm
+Menu_Guild	Guild
+Menu_Friend	Friend
+Menu_Character	Character
+Menu_Shop	Exchange
+Menu_OccWarShop	Store
+Menu_Gatcha	Summon
+Menu_Town	Sky Island
+Menu_Adventure	Adventure
+Menu_Post	Mailbox
+Menu_Mission	Mission
+Menu_Library	Library
+Menu_Help	Help
+Menu_Ranking	Ranking
+Menu_Option	Option
+Menu_Inventory	Inventory
+Menu_Archive	Archive
+Menu_NewUserMission	New Writer Mission
+Menu_ComebackUserMission	Return Writer Mission
+Menu_WritersRoom	Writing Room
+Menu_CollabCoupon	Coupon Event
+<<! Submenu >>
+SubMenuNotice	Notice
+SubMenuDailyCheck	Event
+SubMenuLibrary	Library
+SubMenuSuperPass	Tales Pass
+SubMenuWorldSkill	World Skill
+SubMenuWorldInven	Bag
+SubMenuShortcut	Occupied Area
+SubMenuRoguelikeRewards	Loot
+SubMenuRoguelikeAbilities	Abilities
+SubMenuRoguelikeGiveUp	Give Up
+SubMenuFarm	Farm
+SubMenuGuild	Guild
+SubMenuFishing	Fishing
+SubMenuFishingEnd	Fishing End
+SubMenuCleaning	Cleaning
+SubMenuBoosting	Boosting
+SubMenuMiniGame	Arcade
+SubMenuMission	Mission
+SubMenuCashStore	Tales Shop
+SubMenuStore	Exchange
+SubMenuPass	Tales Pass
+SubMenuAlchemy	Alchemy
+SubMenuWritersRoom	Writing Room
+SubMenuHotDeal	Hot Deal
+<<! Content Name >>
+Contents_Main	Main Story
+Contents_Rogue	Abyss of Darkness
+Contents_OccupationWar	Anubis Occupation War
+Contents_Weekly	Champions Arena
+Contents_Property	Infinite Tower
+Contents_Arena	Arena
+Contents_BossRaid	Chaos Raid
+Contents_GoodsDun	Jewel Dungeon
+Contents_GrowthGoodsDun	Growth Training Center
+Contents_SubStory	Event Story
+Contents_FishingGame	Fishing
+Contents_Library	Library
+Contents_ChampionArena	Champions Arena
+Contents_AttrDun	Infinite Tower
+Contents_GuildWar	Guild War
+<<! Content Name Black>>
+Contents_Black_Main	Main Story
+Contents_Black_Rogue	Abyss of Darkness
+Contents_Black_Conquer	Anubis Conquest
+Contents_Black_Weekly	Day of the Week <color='#000000'>Dungeon</color>
+Contents_Black_Property	Property <color='#000000'>Dungeon</color>
+Contents_Black_Arena	Arena
+Contents_Black_BossRaid	Chaos Raid
+Contents_Black_GoodsDun	Jewel Dungeon
+Contents_Black_GrowthGoodsDun	Growth Training Center
+Contents_Black_SubStory	Sub <color='#000000'>Story</color>
+Contents_Black_AttrDun	Infinite Tower
+Contents_Black_ChampionsArena	Champions Arena
+<<! Terms and Conditions >>
+Terms_Title	Terms and Conditions
+Terms_All	Agree to all
+Terms_Details	View details..
+Terms_Disable	You do not agree to the required terms.
+Terms_1	Required) Terms of Use
+Terms_2	(Required) Personal information collection and use guide
+Terms_3	Select) Agree to receive promotional notifications
+Terms_4	Select) Consent to receive advertising notifications at night (9 p.m. - 8 a.m.)
+Terms_5	Terms of Use..
+Terms_6	Privacy Policy..
+Terms_7	(Required) Must be 15 years of age or older.
+Terms_Guest	When using a guest account, game (service) information may not be saved due to app deletion, device change, etc. We recommend linking your account to ensure safe account protection. \\rDo you want to continue with a guest account?
+<<! Boss name >>
+RaidBossNick0	Flame Dragon
+RaidBossName0	Voltaire
+RaidBossNick1	Predator of the Snowfields
+RaidBossName1	Asla
+RaidBossNick2	Blade of Wind
+RaidBossName2	Windia
+RaidBossNick3	Disaster of the Century
+RaidBossName3	Bear King
+<<! Store Name >>
+Shop_Event	Event Exchange
+Shop_Package	Package Store
+Shop_Gold	Gold Shop
+Shop_Fish	Fishing Exchange
+<<! Button Related >>
+Btn_ChatClose	Close chat
+Btn_List	List
+Btn_Return	Go back
+<<!	Start unused check Btn_Start >>
+Btn_Retry	Retry
+<<! Unused check Btn_WaitJoin	Wait _1_ / _2_ >>
+Btn_InfinityTowerMission	Infinity Mission
+Btn_Converting	is moving
+Btn_Yes	Yes
+Btn_No	No
+Btn_Confirm	Confirm
+Btn_Cancel	Cancel
+Btn_InputFinish	Input completed
+Btn_Skip	Skip
+Btn_Log	Log
+Btn_Quit	Exit
+Btn_QuitGame	Quit the game
+Btn_RemoveQuit	Reset account and exit
+Btn_AppQuit	Quit the app
+Btn_TeamMake	Team Formation
+Btn_BattleStart	Battle Start
+Btn_QuickBattleStart	Quick battle start
+Btn_SweepOp	Sweep Operation
+Btn_BattleEnter	Start battle
+Btn_EnemyInfo	Enemy information
+Select Btn_Choice	
+Btn_Close	Close
+Btn_DeckPreset	Team Preset
+Btn_Init	initialization
+Btn_ChangeLeader	Change Leader
+Btn_WriterSkillSetting	Writer skill settings
+Btn_Help	Help
+Btn_DeckSetup	setup complete
+Changing Btn_Change	
+Btn_Copy	Copy
+Btn_DeckPaste	Paste
+Get Btn_CallPreset	
+Btn_CancelCopy	Cancel copying
+Btn_Auto	Auto
+Btn_AutoUse	Automatic use
+Btn_AllPetsReturn	Retrieve all pets
+Btn_Levelup	Growth
+Btn_ReadDeleteAll	Delete read mail
+Btn_ReciveAll	Receive All
+Btn_Recive	Receive
+Btn_Received	Receipt Completed
+Btn_Inquire	Contact us
+Btn_Gradeup	Upgrade
+Btn_SignIn	Login
+Btn_SignOut	Logout
+Btn_EditWriterSkill	Writer skill management
+Btn_EditWriterGender	Select writer gender
+Btn_ChoiceSex	Choose gender
+Btn_EditSign	Change sign
+Btn_EditNickname	Change nickname
+Btn_EditProfle	Change representative character
+Btn_EditCustomProfile	Customize your profile
+Btn_Agree	Accept
+Btn_Deny	Reject
+Btn_Enter	Entry
+Btn_BoostEnter	Boost entry
+Btn_Sweep	1 sweep
+Btn_ExplorerEnd	Exploration ends
+Btn_ApRecover	Stamina Recovery
+Btn_Recharge	Recharge
+Btn_GiveUp	Give Up
+Btn_EquipmentEnhance	Enhancement
+Btn_AutoEquip	Auto Equip
+Btn_AllUnequip	Unequip all
+Equipped with Btn_Equip	
+Btn_Unequip	release
+Btn_Equip+	+ Equip
+Btn_Unequip-	- Unequip
+Btn_TeamSetting	Team Settings
+Btn_CoinShop	Coin Shop
+Btn_GradeReward	!
+Btn_BossBattleInfo	Boss Battle Information
+Btn_PracticeMode	Practice Mode
+Btn_Challenge	Challenge now
+Btn_GradeInfo	Grade information
+Btn_SeasonRanking	Season Ranking
+Btn_StopChallenge	Stop the challenge
+Btn_Continue	Continue
+Exchange Btn_Exchange	
+Btn_MauShop	Mau Shop
+Btn_CharacterInfo	Character information
+Try Btn_Experience	
+Btn_3DConvert	3D conversion
+Btn_RemainTime	Remaining time
+Btn_RemainTurn	Remaining turns
+Btn_1CountGacha	1 summon
+Btn_10CountGacha	Summon 10 times
+Btn_1CountGachaRetry	1 re-summon
+Btn_10CountGachaRetry	Summon 10 times again
+Btn_ShortCuts	Shortcut
+Btn_Alchemy	Alchemy
+Btn_ItemDecompose	Equipment Decomposition
+Btn_OptionChange	Change option
+Btn_Make	production
+Btn_AuxiliaryEquipment	Auxiliary Equipment
+Btn_Ingredient	Ingredients
+Btn_AllOptionChange	Change all options
+Add Btn_Add	
+Decompose Btn_Decompose	
+Using Btn_Use	
+Btn_SortInc	Ascending
+Btn_SortDec	descending
+Btn_Search	Search
+Btn_HeroName	Character Name
+Btn_FilterNormal	Normal
+Btn_FilterUnique	Legendary
+Btn_FilterRare	Unique
+Btn_FilterSpecial	Rare
+Btn_FilterGrowth	Growth Material
+Btn_FilterAlchemy	Alchemy Material
+Btn_FilterEtc	Other
+Btn_SortFilter	Sort filter
+Btn_CurListSelectAll	Select current list in bulk
+Btn_FilterSubWeapon	Sub-weapon
+Btn_FilterAmor	Armor
+Btn_FilterAccessary	Accessory
+Btn_FilterGold	Gold
+Btn_FilterOptChangeNormal	Change Normal Option
+Btn_FilterOptChangePremium	Advanced option change stone
+Btn_ShowLockItem	Show locked items
+Btn_CurListUnSelectAll	Unselect all current list
+Btn_Receive	Reward Receipt
+Btn_ReceiveAll	bulk receipt
+Btn_SelectAll	Select all
+Btn_Gift	Give a gift
+Btn_LevelUp	Level Up
+Btn_Unlock	liberation
+Btn_Select	selection
+Btn_PresetSet	Preset Setting
+Btn_PresetSave	Save preset
+Btn_Preset1	Preset 1
+Btn_Preset2	Preset 2
+Btn_Preset3	Preset 3
+Btn_PresetGet	Get from preset
+Btn_Save	Save
+Btn_SaveCancel	Cancel Save
+Btn_Apply	Apply
+Btn_Accept	Accept
+Btn_Reject	Reject
+Btn_Exit	Exit
+Btn_ShowInfo	View information
+Btn_VisitFarm	Visit another farm
+Btn_ReturnMyFarm	Return to my farm
+Btn_PetReturn	Pet Return
+Btn_FarmDig	Dig up crops
+Btn_FriendlyPvP	Battle Application
+Btn_FishingExchange	Catch Exchange
+Btn_FishingAuto	Automatic fishing
+Btn_FishingAcquisition	Fishing Acquisition Status
+Btn_FishingLocker	Locker
+Btn_FishingEnd	Fishing End
+Btn_FishingManual	Manual Fishing
+Btn_FishingTime	Total fishing time
+Btn_RankFrom1	1st place~
+Btn_RankFrom1001	1001st place~
+Btn_RankFrom5001	5001st place~
+Btn_RankFrom10001	10001st place~
+Btn_ProfileImage	Profile Character
+Btn_ProfileEdge	Profile border
+Btn_ParkControl	Sky Island Character
+Btn_MainStoryMiniGame	Main Story\\rMini Game
+Btn_MiniGameChallenge	Minigame\\rChallenge
+Btn_OptionLowest	Lowest
+Btn_OptionLow	Lower
+Btn_OptionCommon	Intermediate
+Btn_OptionHigh	Advanced
+Btn_OptionHighest	Highest
+Btn_OptionCustom	Custom
+Btn_RecGoods	Recommended Products
+Btn_CashGoods	Cash Goods
+Btn_Package	package
+Btn_NormalSell	Normal sale
+Btn_ExchangeShop	exclusive goods
+Btn_PieceShop	Page Store
+Btn_ImmediateUpdate	Immediate update
+Btn_AllSelect	Select all
+Btn_AllDeselect	Deselect all
+Btn_SelectBuy	Select Buy
+Btn_Buy	Buy
+Btn_Buy2	Buy
+Btn_Arena	Arena
+Btn_Roglike	Abyss of Darkness
+Btn_Raid	Raid
+Btn_OccWar	Anubis Occupation War
+Btn_Update	Update
+Btn_BuyMonthlyCard	Monthly subscription purchase
+Btn_JustBuy	Buy Now
+Btn_Secession	Leave
+Linking Btn_Peristalsis	
+Btn_OnPeristalsis	is being linked
+Btn_NotPeristalsis	Not connected
+Contact Btn_Receipt	
+Setting the Btn_ProfileObjectSetting object	
+Enter Btn_Input	
+Btn_GetPlace	Acquisition location
+Btn_Purchase	Purchase
+Btn_Reset	Initialization
+Activate Btn_Activate	
+Btn_GoActivate	Go to Activate
+Btn_Again	Do it again
+Btn_CharacterGrowth	Character Growth
+Get Btn_Get	
+Change Btn_OccSelectDifficulty	
+Btn_ActiveRelation	Activated Relationship
+Btn_Timer	time required
+Btn_MissionReceiveAll	Reward bulk receipt
+Btn_ShopShortCut	Go to store
+Btn_Back	Go back
+Btn_Battle	Battle
+Btn_Conversation	Conversation
+Btn_DetailRecord	Detail record
+Btn_Calendar	Calendar
+Btn_NowProceed	Now in progress
+Btn_EnableGetReward	Entry possible
+<<! Difficulty Related >>
+Diff_Normal	Difficulty Normal
+Diff_Hard	Difficulty Hard
+Diff_A	General
+Diff_B	Difficulty
+Diff_OccupationWar1	Easy
+Diff_OccupationWar2	Normal
+Diff_OccupationWar3	Difficulty
+Diff_OccupationWar4	Extreme
+Diff_OccupationWar5	Nightmare
+Diff_OccupationWar6	Hell
+Diff_OccupationWar7	Lunatic
+<<! Stat related defense
+Stat_Intimacy	Intimacy
+Stat_Atk	Attack power
+Stat_Def	Defense
+Stat_Hp	Stamina
+Stat_MaxHp	Maximum health
+Stat_NaturalHpUp	Natural health recovery amount
+Stat_CriRate	Critical chance
+Stat_CriResistRate	Critical resistance rate
+Stat_CriDmgRate	Critical damage increase rate
+Stat_EvasionRate	Evasion Rate
+Stat_HitRate	Hit Rate
+Stat_EyeSight	Field of view
+Stat_Luck	Luck
+Stat_AtkVel	Action Points
+Stat_ResistDebuff	Debuff resistance chance
+Stat_AtkRate	Attack power change rate
+Stat_RecvDmgRate	Damage received change rate
+Stat_MaxHpRate	Maximum health change rate
+Stat_AtkIfNor	Attack power (normal) change value
+Stat_AtkIfSkill	Attack power (skill) change value
+Stat_AtkRateIfNor	Attack power (normal) change rate
+Stat_AtkRateIfSkill	Attack power (skill) change rate
+Stat_DefIfNor	Defense (Normal) change value
+Stat_DefIfSkill	Defense (skill) change value
+Stat_DefRate	Defense change rate
+Stat_DefRateIfNor	Defense (Normal) change rate
+Stat_DefRateIfSkill	Defense (skill) change rate
+Stat_Dmg	Damage change value
+Stat_DmgIfNor	Damage (Normal) change value
+Stat_DmgIfSkill	Damage (skill) change value
+Stat_DmgRate	Damage change rate
+Stat_DmgRateIfNor	Damage (Normal) change rate
+Stat_DmgRateIfSkill	Damage (Skill) change rate
+Stat_ChangeHp	Health change value
+Stat_ChangeAp	Action power change value
+Stat_ChangeSpc	Special gauge change value
+Stat_ChangeSuper	Super Gauge Change Value
+Stat_AbsorbHp	Absorb blood
+Stat_Stun	stun
+Stat_Obilivion	Oblivion
+Feedback when using Stat_Condition skill	
+Stat_ProtectBody	Immune to bleeding effects
+Stat_StrongAtkProb	Strengthened attack probability
+Stat_Silence	skill use prohibited
+Stat_AddDmgAtkerAtkRate	Attack power ratio additional damage
+Stat_AddHpAtkerMaxHpRate	Added damage to health ratio
+Stat_AddHpAtkerAtkRate	Attack power ratio added health
+Stat_AddHpMaxHpRate	Add HP to HP ratio
+Stat_ChangeHpAtkerAtkRate	Attack Power Ratio Damage Over Time
+Stat_DecDefRate	The rate at which enemy defense rate decreases when attacking
+Stat_AddDmg	Additional fixed damage when attacking
+Stat_ReflectDmgRate	Damage reflected when hit
+Stat_AddDmgDmgRate	Damage ratio added when attacking
+Stat_AddHpChangeHpRate	Add HP to HP change rate
+Stat_AttrDmgRate	attribute damage
+Stat_SummonAtk	Summoned creature attack power
+Stat_SummonDef	Summon Defense
+Stat_SummonMaxHp	Summon's maximum health
+<<! Regarding ability value notation >>
+Status_Attack	Attack Power
+Status_Defence	Defense
+Status_MaxHP	Maximum health
+Status_AutoAttack	Attack Power (Normal)
+Status_SkillAttack	Attack Power (Skill)
+Status_DefenceAutoAttack	Defense (Normal)
+Status_DefenceAutoSkillAttack	Defense (Skill)
+Status_Damage	Damage
+Status_AutoAttackDamage	Damage (Normal)
+Status_SkillAttackDamage	Damage (Skill)
+Status_HitRate	Hit Rate
+Status_EvasionRate	Evasion rate
+Status_ReduceDmgRate	Damage received reduction rate
+Status_AttackVelocity	
+Status_ChangeHpByMaxHp	Maximum HP increase rate
+Status_ChangeHpByAttack	HP increase rate proportional to attack power
+Status_ChangeEnergy	Energy Recharge
+Status_Energy	Energy amount
+Status_CriticalProbability	Critical Probability
+Status_CriticalDamage	Critical Damage
+Status_CriticalResistProb	Critical Resistance
+Status_DebuffResistRate	Debuff Resistance
+<<! Mob Level >>
+MobGrade_Weak	Normal grade
+MobGrade_Strong	Leader Grade
+MobGrade_Boss	Boss Grade
+<<! Classification Related >>
+Category_SubWeapon	Sub-weapon
+Category_Armor	Armor
+Category_Accessory	Accessories
+<<!	Mission Related >>
+Mission_Inspection	The content will be temporarily closed for inspection. \\rPlease check the notice for more details.
+Mission_EtcLogin	Login _1_times
+Mission_EtcAccountLv	Account level _1_ achieved
+Mission_EtcGachaCount	Summon character _1_ times achieved
+Mission_EtcEquipmentLvUpCount	Cumulative auxiliary equipment level up _1_ times achieved
+Mission_EtcEquipmentGradeUpCount	Cumulative auxiliary equipment grade up _1_ times achieved
+Mission_EtcArenaPlayCount	Arena _1_plays
+Mission_EtcDailyMissionCount	Complete daily mission _1_ times
+Mission_EtcSubStoryMissionCount	Clear event story mission _1_ times
+Mission_EtcAfterSpecificTime	Login after _1_ hours
+Mission_EtcSpecialMissionCount	Special mission reward _1_ times acquired
+Mission_PvEClearCount	Clear random battles _1_ times
+Mission_PvEFailCount	Battle failures _1_ times
+Mission_PvEGoodsDunPlayCount	Played Jewel Dungeon _1_time
+Mission_PvEGrowthGoodsDunPlayCount	Growth Training Center _1_plays
+Mission_PvERoguelikePlayCount	Clear any floor of the Dark Abyss _1_ times
+Mission_PvEBossRaidPlayCount	Chaos Raid _1_ times played
+Mission_PvEMainStoryBattleClearCount	Clear the main stage _1_ times
+Mission_PvEMainStoryBattle3StarClearCount	Clear the main stage 3 stars _1_ times
+Mission_PvEMainStoryBattleTotalStarCount	Stage accumulated star _1_ acquired
+Mission_PvEMonsterKillCount	Destroy _1_ monsters
+Mission_ItemGoldGainCount	Gain _1_ gold
+Mission_ItemGoldUseCount	Use _1_ gold
+Mission_ItemStaminaUseCount	Uses _1_ stamina
+Mission_ItemStaminaChargeCount	Charge _1_ stamina
+Mission_ItemRoguelikeStaminaUseCount	Dark Abyss Stamina _1_ used
+Mission_ItemEventRouletteCount	Number of minigames played during the event story period _1_ times
+Mission_ItemEventCoinACount	Use _1_ Fox Marble during the event story period
+Mission_ItemDiaUseCount	Use _1_ diamond
+Mission_ItemFinalRequireItemIdCount	Acquire _1_ _2_ event items
+Mission_HeroCount	_1_ character possession
+Mission_Hero3StarCount	Have _1_ 3-star characters
+Mission_Hero5StarCount	Have _1_ 5-star character
+Mission_HeroLvUpCount	Achieve cumulative character level up _1_ times
+Mission_HeroWeaponLvUpCount	Accumulated character unique weapon level up achieved _1_ times
+Mission_HeroSkillLvUp	Achieve cumulative character skill level up _1_ times
+Mission_HeroActiveSkillLvUp	Achieve cumulative character active skill level up _1_ times
+Mission_HeroPassiveSkillLvUp	Accumulated character passive skill level up _1_ times achieved
+Mission_AttrDunTotalStarCount	Achieve _1_ cumulative stars
+Mission_AlchemyItemCount	Create _1_ items with alchemy
+Mission_AlchemyItemEquipmentCount	Craft _1_ auxiliary equipment with alchemy
+Mission_AlchemyItemStuffCount	Craft _1_ alchemy material item
+Mission_AlchemyItemDecomposeCount	Decompose items _1_ times with alchemy
+Mission_AlchemyItemDecomposeEquipmentCount	Decompose _1_ Alchemy Equipment
+Mission_AlchemyItemDecomposeStuffCount	Decompose material items _1_ times using alchemy
+Mission_AlchemyOptionChangeEquipmentCount	Change equipment options _1_ times with alchemy
+Mission_AlchemyBossRaidVoltairePlayCount	Chaos Raid Voltaire _1_ times played
+Mission_AlchemyBossRaidAslaPlayCount	Chaos Raid Asla _1_play
+Mission_AlchemyBossRaidWinPlayCount	Chaos Raid Windia _1_ times played
+Mission_PvE2MainStorySpecificClear	Clear Main Story _1_
+Mission_PvE2MainStorySpecific3StarClear	Main Story _1_ Clear 3 stars
+Mission_PvE2MainStorySpecificTimeClear	Clear the main story within _1_ _2_ seconds
+Mission_PvE2SubStoryBattleClearCount	Clear event story stage _1_ times
+Mission_PvE2SubStoryBattleTotalStarCount	Event Story Stage Total Star _1_ acquired
+Mission_PvE2ArenaRank	Arena _1st_Achievement
+Mission_PvE2ChampArenaRank	Achieve 1st place in Champions Arena
+Mission_Etc2NewMainStorySpecificRead	View Episode _2_ of Chapter _1_ of the Main Story in the Library
+Mission_Etc2NewHeroLvSpecificHave	_2_ or more characters of level _1_
+Mission_Etc2NewGoodsDunSpecificDiffClear	Clear the _1_ Jewel Dungeon
+Mission_Etc2NewGrowthGoodsDunSpecificDiffClear	Clear _1_ of Growth Training Center
+Mission_Ect2FarmGainCount	Farm harvest _1_ times achieved
+Mission_Ect2FarmPetGainCount	Farm Animal Harvest _1_times
+Mission_Ect2FarmTreeGainCount	Achieve 1 harvest of palm trees
+Mission_Ect2FarmPotGainCount	Farm Pot Harvest _1_times
+Mission_Ect2FarmLv	Farm Level _1_ achieved
+Mission_Ect2FishingGainCount	Get _1_ catch from fishing
+Mission_Etc2FarmInteractCount	Clean other farms _1_ times
+Mission_Etc3FriendGreetCount	Greet a friend _1_ times
+Mission_Etc3WriterSkillLvUpCount	Writer skill level up _1_ times achieved
+Mission_Etc3ArchiveActiveCount	Archive activation accumulated _1_ times achieved
+Mission_Etc3RelationLvUpCount	Relationship activation achieved _1_ times
+Mission_Etc3LibraryFriendshipReadCount	Number of times you read a random character story in the library _1_ times
+Mission_Etc3MiniGameChallengePlayCount	The number of times the minigame challenge has been cleared is _1_ times
+Mission_Etc3ChampArenaPlayCount	Play Champions Arena _1_ times
+Mission_Etc4RoguelikeIdClear	_1_ Clear
+Mission_Etc4MainStoryNormalPlayCount	Main Story (Normal) _1_plays
+Mission_Etc4MainStoryHardPlayCount	Main Story (Hard) _1_play
+Mission_ItemUnitIdGain	_1_ First acquisition
+Mission_HeroGrade	_1_ _2_star achieved
+Mission_HeroWeapon	_1_ Unique Weapon _2_ Achievement
+Mission_ShortCutMain	Main Lobby
+Mission_ShortCutAdventure	Battle Lobby
+Mission_ShortCutMainStory	Main Story
+Mission_ShortCutHex	Stage _1_
+Mission_ShortCutGoodsDun	Jewel Dungeon
+Mission_ShortCutGrowthGoodsDun	Growth Training Center
+Mission_ShortCutArena	Arena Lobby
+Mission_ShortCutRoguelike	Dark Abyss Lobby
+Mission_ShortCutBossRaid	Chaos Raid Lobby
+Mission_ShortCutConquer	Anubis Conquest Lobby
+Mission_ShortCutAlchemy	Alchemy Lobby
+Mission_ShortCutHeroinventory	Character List
+Mission_ShortCutGacha	Summon Screen
+Mission_ShortCutShop	store screen
+Mission_ShortCutGuild	Guild Screen
+Mission_ShortCutFriend	Friend Screen
+Mission_ShortCutFarm	Farm Screen
+Mission_ShortCutTown	Sky Island Screen
+Mission_ShortCutStamina	Stamina Recharge Window
+Mission_ShortCutLibrary	Library Lobby
+Mission_ShortCutLibraryMainStory	Rewatch the main story
+Mission_Conquer	Anubis Conquest _1_play
+Mission_HeroGradeUpCount	Character Grade Up _1_times
+Mission_PvEBossRaidScore	Obtain Chaos Raid Score _1_
+Mission_PvEWeeklyMissionCount	Complete weekly missions _1_ times
+Mission_Etc3OccWarPlayCount	Anubis Occupation War _1_ times played
+Mission_Etc3OccWarPoint	Anubis Occupation War Point _1_ Acquired
+Mission_Etc3OccWarBonusPoint	Anubis Special Character Bonus _1_ Acquire
+Mission_Etc4AlchemyItemConsumeCount	Create consumable items _1_ times using alchemy
+Mission_Etc4AlchemyEquipWeaponOpChangeCount	Change secondary weapon options _1_ times with alchemy
+Mission_Etc4AlchemyEquipArmorOpChangeCount	Change armor options _1_ times with alchemy
+Mission_Etc4AlchemyEquipNeckOpChangeCount	Change accessory options _1_ times with alchemy
+Mission_Etc4FishingExchangeCount	Exchange fishing catch _1_ times
+Mission_Etc4FishingCoinUseCount	Fishing Coin _1_ used
+Mission_Etc5ArenaTimeRewardReceiveCount	Arena cumulative reward received _1_ times
+Mission_Etc5ArenaDailyRewardReceiveCount	Arena Daily Reward _1_ times received
+Mission_Etc5GuildWarBattleCount	Play 1 Guild War Battle
+Mission_Etc5GuildWarBattleWinCount	Win _1_ battle in a Guild War Battle round
+Mission_Etc5GuildAttendCount	Achieve guild attendance _1_ times
+<<! Attribute Dungeon Related >>
+AttrDun_Tower1	Tower of Burning
+AttrDun_Tower2	Tower of Vortex
+AttrDun_Tower3	Tower of the West Wind
+AttrDun_Tower4	Tower of Heavenly Light
+AttrDun_Tower5	Tower of the Abyss
+AttrDun_Week0	Sunday
+AttrDun_Week1	Monday
+AttrDun_Week2	Tuesday
+AttrDun_Week3	Wednesday
+AttrDun_Week4	Thursday
+AttrDun_Week5	Friday
+AttrDun_Week6	Saturday
+AttrDun_Open	_1_ Open
+AttrDun_TowerInfo	On Saturdays and Sundays, you can enter a tower of your choice.
+AttrDun_TowerCount	(complete _1_/_2_)
+AttrDun_Remain	Remaining
+AttrDun_Time	Event Period _1_ ~ _2_
+AttrDun_SelOkTitle	Select the target of the strategy
+AttrDun_SelOk	<color='#ffcd46'>[_1_]</color> has been selected as the target for the attack.\\r\\rThe tower you selected today cannot be changed for the rest of the day. Would you like to proceed with the attack on that tower?
+AttrDun_Floor	_1_floor
+AttrDun_Lv	Recommended Level: _1_
+AttrDun_FloorInfo	Reach the top floor using a favorable formation
+AttrDun_FloorLimit	Formation limit
+AttrDun_FloorLimitDesc	_1_Attribute _2_Characters included
+AttrDun_CharRecoverNum	Number of recoveries remaining: _1_
+AttrDun_CharRecover	Character Recovery
+AttrDun_Btn_EnemyInfo	Enemy information details
+AttrDun_Btn_Start	Challenge
+AttrDun_BonusNum	Cumulative number of stars acquired: <color='#ffcd46'>_1_</color>
+AttrDun_ItemUseCount	_1_
+AttrDun_FloorLimitInfo	The formation limit can be replaced with up to 1 character without attribute.
+AttrDun_FloorLimitDesc2	_1_Attribute Character Formation Required: <color='#ff0000'>_2_</color> people
+AttrDun_RecoverInfo1	Regardless of the tower's attributes, clear the \\r_1_floor
+AttrDun_RecoverInfo2	Increases the number of recoveries by _1_ times
+AttrDun_RecoverSelNum	Selected Characters\\r_1_
+AttrDun_RecoverSelNum1	(Recovery count <color='#ffff00'>_1_</color> times used)
+AttrDun_RecoverSelNum2	Recover character: _1_ use\rResurrect incapacitated character: _2_ uses
+AttrDun_RecoverNoChar	There are currently no characters that need to be recovered.
+AttrDun_RecoverOk	Would you like to recover _1_ characters?\\r\\r(Remaining recoveries: _2_ -> _3_)
+AttrDun_RecoverNotEnough	The number of recoverable attempts is not enough.
+AttrDun_MissionInfo	More rewards will be provided later.
+AttrDun_MissionInfo1	※ You can obtain rewards based on the number of stars you obtain in the Infinite Tower.
+AttrDun_MissionNum	Cumulative star acquisition count _1_ achieved
+Error_AttrDunPartyLimitNot	The attributes of the characters in your current deck are insufficient to enter battle.
+Error_AttrDunPartyLimitDie	Among the characters currently in your deck, there is a dead character.
+<<! Champions Arena Related>>
+ChampionArena_AtkDeck1	Attack Team 1
+ChampionArena_AtkDeck2	Attack Team 2
+ChampionArena_AtkDeck3	Attack Team 3
+ChampionArena_DefDeck1	Defense Team 1
+ChampionArena_DefDeck2	Defense Team 2
+ChampionArena_DefDeck3	Defense Team 3
+ChampionArena_SetUpDeck1	Team 1 formation complete
+ChampionArena_SetUpDeck2	Team 2 formation complete
+ChampionArena_SetUpDeck3	Team 3 formation complete
+ChampionArena_PreviousDeck	Previous Team
+ChampionArena_DetailTeamName	Team_1_
+ChampionArena_Details	View Details
+ChampionArena_DetailsDeck	Team_1_ Battle Record
+<<! Guild>>
+GuildTrainingRoom	Guild Training Room
+GuildTrainingRoom1	Guild Training Room A
+GuildTrainingRoom2	Guild Training Room B
+GuildWarEnterWinLabel	Victory: Earn _1_ points
+GuildWarEnterLostLabel	Defeat: Gain _1_ points
+GuildWarAtk	Guild War Attack Team
+GuildWarDef	Guild War Defense Team
+<<! Event Related >>
+Event_7DayTabName	Siho Release Attendance Sheet
+Event_10DayTabName	50th day commemorative attendance sheet
+Event_7Day2TabName	Valentine's Day Attendance
+Event_Continue28daysTabName	28 days continuous attendance
+Event_Event14days2TabName	14-day special attendance sheet
+<<! Label Related >>
+Label_NextBall	Next Ball
+Label_PointValue	point
+Label_FriendlyArena	Friendly Match
+Label_FastRoulette	The roulette will spin faster when you touch the screen.
+Label_Podium	Heroes who saved the fairyland
+Label_Exchanged	Exchange information
+Label_Close	Closed
+Label_Lobby	Lobby
+Label_AcquireSkill	'_1_' Acquire skill
+Label_NewRelation	New Relationship
+Label_UseShadow	Use shadow function
+Label_Using	in use
+Label_RequiredLv	Required level
+Label_MaxUse	Maximum usage
+Label_MaxUseWorldSkill	Maximum use of world skills
+Label_Shout	Shout
+Label_Statistics	Statistics
+Label_Story	Story
+Label_Roulette	Spin the roulette
+Label_MemberInfo	Member information
+Label_FarmCleanCount	Number of times to clean per day
+Label_EnableFarmClean	Enable cleaning
+Label_UnableFarmClean	Already cleaned
+Label_FarmLv	Farm level
+Label_Visit	Visit
+Label_VisitFarm	Visit the farm
+Label_ReceiveAll	Receive all
+Label_Desc	Description
+Label_AllAbilities	All Abilities
+Label_MonthDay	_January _2nd_
+Label_YearMonthDayHourMinute	_1_year _2_month _3_day _4_:_5_
+Label_YearMonthDay	_1_ year _2_ month _3_ day
+Label_MonthDayHourMinute	_1_Month_2_Day_3_:_4_
+Label_DayHourMinuteSeconds	_1_day _2_hours _3_minutes _4_seconds
+Label_DayHourMinute	_1_day _2_hours _3_minutes
+Label_Days	_1_day
+Label_DaysHour	_1_day _2_hours
+Label_HourMinutes	_1_hour _2_minutes
+Label_MinuteSeconds	_1_minute _2_seconds
+Label_Seconds	_1_ seconds
+Label_DayHoursRemains	_1_day _2_hours remaining
+Label_HourMinutesRemains	_1_hours _2_minutes remaining
+Label_MinuteSecondsRemains	_1_minutes _2_seconds remaining
+Label_SecondRemains	_1_ seconds left
+Label_HourMinuteSecondRemainsAlter	_1_:_2_:_3_
+Label_ChannelCool	<color='#00ff00'>[Seamless]</color>
+Label_ChannelConfusion	<color='#ffff00'>[Complex]</color>
+Label_ChannelFull	<color='#ff0000'>[Saturation]</color>
+Label_ChatTotal	Total
+Label_ChatChannel	Channel
+Label_NewChannel	New Channel
+Label_ChatGuild	Guild
+Label_ChatWhisper	Whisper
+Label_EditWriter	Edit writer information
+Label_Notice	Notification
+Label_Roguelike	Abyss of Darkness
+Label_Name	Name
+Label_Job	Occupation
+Label_Damage	Damage
+Label_Cool	Casting Time
+Label_Warning	Warning
+Label_RewardTime	Reward cycle
+Label_Grade	Rarity
+Label_EquipmentGrade	Grade
+Label_Att	attribute
+Label_Tier	Tier
+Label_All	All
+Label_Level	level
+Label_Join	Affiliation
+Label_Role	Role
+Label_Type	Classification
+Label_OccWarPoint	Specialized Character
+Label_Filter	Filter
+Label_PvPInfo	Arena Battle Information
+Label_StartInfo	Daejeon Information
+Label_Search	Search
+Label_None	None
+Label_Count	_1_
+Label_Empty	Empty slot
+Label_Setting	options
+Label_Developing	Currently under development.
+Label_Ranking	Ranking
+Label_ArenaDefence	Arena Defense Team
+Label_Cooltime	Cooldown _1_turn
+Label_Year	Year
+Label_Month	Month
+Label_Day	
+Label_Hour	Hour
+Label_Minute	Minute
+Label_Second	seconds
+Label_AM	AM
+Label_PM	Afternoon
+Label_EmptySlot	Empty slot
+Label_BattleInvite	Battle Invite
+Label_Forward	Forward
+Label_Back	Back
+Label_ControlPlace	Positioning
+Label_ControlAim	Direction
+Label_ControlSelect	Targeting
+Label_CompanyEvent0	Description of Arena of Blood
+Label_CompanyEvent1	Description of the Advance Tournament
+Label_CompanyEvent2	Beat the Developer Description
+Label_Normal	Normal
+Label_Special	Rare
+Label_Rare	Unique
+Label_Unique	Legendary
+Label_Equipment	Equipment
+Label_EquipmentList	Equipment List
+Label_EquipmentLevelup	enhancement
+Label_Ticket	Admission Ticket
+Label_OwnTicket	Own Ticket
+Label_BoostTicket	Boost Ticket _1_/_2_
+Label_Fire	Fire
+Label_Water	Water
+Label_Nature	Nature
+Label_Light	Light
+Label_Dark	Darkness
+Label_Max	maximum
+Label_AllMax	All maximum
+Label_AllInit	Initialize all
+Label_SubWeapon	Sub-weapon
+Label_Armor	Armor
+Label_Necklace	Necklace
+Label_Ring	Ring
+Label_SortName	By Name
+Label_SortGrade	By grade
+Label_SortLevel	Level order
+Label_MaxCombo	Maximum Combo
+Label_MissionDaily	Daily Mission
+Label_MissionWeekly	Weekly Mission
+Label_MissionMain	Main Mission
+Label_MissionAchieve	Achievement
+Label_MissionClear	is a temporary mission clear title.
+Label_MissionEvent	Event Mission
+Label_MissionSubStoryEvent	Event Mission
+Label_OccupationWarEvent	Anubis Occupation War Mission
+Label_MissionOccWar	Anubis Occupation War Mission
+Label_MissionNewUser	New User Mission
+Label_MissionComebackUser	Return User Mission
+Label_MissionRaidMission	Raid Mission
+Label_MissionOccupationWarDaily	Daily Mission
+Label_MissionOccupationWarWeekly	Weekly Mission
+Label_MissionEventSpecial	Special Mission
+Label_MissionEventSpecial2	Relay Mission Event
+Label_MissionEventGuide100	New Year's 7-day mission
+Label_MissionEventGuide101	Event Guide Mission 2
+Label_MissionEventDaily200	Guild Competition Daily Mission
+Label_MissionEventDaily201	Alchemy Daily Mission
+Label_MissionEventDaily202	Sky Island Daily Mission
+Label_MissionEventDaily203	Arena Daily Mission
+Label_MissionEventPackage300	Level Achievement Mission Package
+Label_MissionEventPackage301	Story Achievement Mission Package 1
+Label_MissionEventPackage302	Story Achievement Mission Package 2
+Label_MissionEventPackage303	Cecilia Promotion Mission Package
+Label_MissionEventPackage304	Cumulative Star Achievement Mission Package
+Label_MissionEventPackage309	Dark Abyss Mission Package
+Label_MissionEventGuide100Title	New Year's 7-day mission
+Label_MissionEventGuide100SubTitle	New Year's Play Mission!
+Label_MissionEventGuide101Title	Event Guide Mission 2
+Label_MissionEventGuide101SubTitle	Grow through Event Guide Mission 2!\\rGrow again!
+Label_MissionSpecialMission	Special Mission
+Label_MissionSpecialMission2	Limited Event Mission
+Label_MissionEventGuide11Title	Runner High Special Mission
+Label_MissionEventGuide11SubTitle	Complete all missions and run to the next round~!
+Label_MissionEventGuide13Title	New Year's Tales Life
+Label_MissionEventGuide13SubTitle	Achieve achievements to earn various rewards!
+Label_MissionAttrDun	Infinite Tower Mission
+Label_FriendlyTurn	Friendly Turn
+Label_EnemyTurn	Enemy Turn
+Label_New	Latest
+Label_Hot	Popular
+Write Label_Write	
+Label_Read	Unread priority
+Label_FriendshipLevel	Intimacy Level
+Using Label_Use	
+Label_ActiveSkill	Active
+Label_WorldSkill	World
+Label_Friend	Friend
+Label_Guild	Guild
+Label_Nickname	Nickname
+Label_Introduce	Introduction
+Label_Chat	Chat
+Label_Management	Management
+Label_MemberMgr	Member Management
+Label_Gold	Gold
+Label_HighestRank	Highest Rank
+Label_CurrentRank	Current rank
+Label_GuildNormal	Normal Member
+Label_GuildSubMaster	Sub-guild Master
+Label_GuildMaster	Guild Master
+Label_GuildJoinFree	Free membership
+Label_GuildJoinApprove	Join Approval
+Label_GuildJoinAll	All Join Methods
+Label_GuildTraining	Guild Training Grounds
+Label_GuildTrainingRoomDesc1	A scarecrow appears.
+Label_GuildTrainingRoomDesc2	A number of scarecrows appear.
+Label_GuildTrainingRankData	There is currently no rank history.
+Label_SignInError	Login failed
+Label_JackpotProb	Jackpot Probability
+Label_MiniGame	Mini Game
+Label_Reading	Read
+Label_FarmLevelUp	Farm level up information
+Label_FarmLevelAttainment	Farm LV._1_ Attainment
+Label_FarmPetCount	Maximum number of pets to be placed
+Label_FarmTreeCount	Maximum number of tree batches
+Label_FarmPotCount	Maximum number of pots to be placed
+Label_Bonus	Bonus
+Label_LvFilter	Level Filter
+Label_ReadStory	View Story
+Label_BoostEvent	Boosting event notification
+Label_Boosting	Boosting in progress
+Label_SelectDifficulty	Select Difficulty
+Label_Diff	Difficulty
+Label_ExchangeRemain	_1_ Exchangeable
+Label_ReleaseCondition	Release Condition
+Label_CurrLv	Current level
+Label_NextLv	Next level
+Label_SettingFinish	Setting complete
+Label_Male	Male
+Label_Female	
+Label_Preset	Preset
+Label_Preview	Preview
+Request Label_RequestPermission	
+Label_BaseProfile	Default
+Label_Signature	Sign
+Label_Character	Character
+Label_MiniGame_Easy	Easy
+Label_MiniGame_Normal	Normal
+Label_MiniGame_Hard	Difficulty
+Label_MiniGame_VeryHard	Very Hard
+Label_Bronze	Bronze
+Label_Silver	Silver
+Label_Diamond	Diamond
+Label_Platinum	Platinum
+Label_BuyConfirm	Purchase Confirmation
+Label_Guide	Guide
+Label_GraphicQuality	Graphic quality (quick settings)
+Label_Resolution	Set resolution
+Label_AntiAliasing	Anti-aliasing
+Label_NormalShadow	Background shadow
+Label_CharacterShadow	Character Shadow
+Label_BgEffect	Background effect effect
+Label_Cloudy	Cloud, fog effect
+Label_BattleFPS	Frames during battle
+Label_NormalFPS	Frames outside of combat
+Label_Brightness	Screen brightness
+Label_Bright	Brightness
+Label_Gloominess	Darkness
+Label_BgSound	Background sound
+Label_DialogSpd	Automatic Dialog Speed
+Label_Faster	Fast
+Label_Slower	Slow
+Label_EffectSound	Sound effect
+Label_VoiceSound	Voice
+Label_Dmg	Damage display
+Label_DmgContraction	Damage abbreviation display
+Label_SmartAi	Smart AI
+Label_Promotion	Receive promotional push notifications
+Label_NightPromotion	Receive night promotion push notifications (21:00 ~ 08:00)
+Label_Disturb	Do not disturb setting (24:00 ~ 6:59)
+Label_ReturningUsers	Returning User Benefits Push Notification
+Label_FarmReward	Farm Reward Receipt Push Notification
+Label_ArenaReward	Arena Reward Receipt Push Notification
+Label_ShowStamina	Stamina full recovery push notification
+Label_BossRaid	Chaos Raid Push Notification
+Label_Occupy	Anubis Occupation Push Notification
+Label_Mute	Mute
+Label_PostAlarm	Postal Notification
+Label_CharacterAlarm	Character Alert
+Label_MissionAlarm	Mission Completion Notification
+Label_DungeonAlarm	Dungeon Entry Notification
+Label_AlchemyAlarm	Alchemy Alert
+Label_NotificationAlarm	Notification Alert
+Label_LibraryAlarm	Library Alert
+Label_FarmAlarm	Sky Island Notification
+Label_Round	Champions Arena _1_Round
+Label_CommunityAlarm	Community Alert
+Label_Google	Google integration
+Label_GooglePlay	Google Play integration
+Label_Naver	Naver linkage
+Label_Apple	Apple Link
+Label_Logout	Logout
+Label_Secession	Account Deletion
+Label_SoundSettingReset	Reset sound settings
+Label_SignInEmail	integration completed
+Label_NotPeristalsis	Not linked
+Label_Inquiry	1:1 Inquiry
+Label_GraphicTab	Graphics
+Label_SoundTab	Sound
+Label_GameTab	Game
+Label_AlramTab	Notification
+Label_SignInTab	Account
+Label_AccUid	Account UID
+Label_HelpTab	Customer Center
+Label_MiniGameList	Minigame list
+Label_Menu	Menu
+Label_Inventory	Inventory
+Label_ChangeNick	Change nickname
+Label_InputNick	Enter nickname
+Label_Input	input
+Label_HeroPiece	Character Page
+Label_Skill	Skill
+Label_HeroWeapon	Unique Weapon
+Label_Writer	Writer
+Label_Cost	Cost
+Label_Help	We are currently working on the help.
+Label_Coupon	Coupon
+Label_Stage	Stage
+Label_First	First
+Label_RoguelikeName	Abyss Dungeon
+Label_Acquisition	Acquisition location
+Label_DeckAttrBuff	Deck Buff
+Label_EquipmentOption	Equipment Options List
+Label_SkillProduction	Activate skill production
+Label_Etc	Materials
+Label_Ingredient	Consumables
+Label_FromUnknown	Unknown
+Label_FromFairyTale	Fairy Tale
+Label_FromTalesRunner	TalesRunner
+Label_FromTalesWorld	Tales World
+Label_FromRealWorld	Reality
+Label_WriterAttack	Writer Attack Power
+Label_MaxStamina	Maximum Stamina
+Label_Relation	Character Relationship
+Label_GuildEmblem	Guild Emblem
+Label_GuildEmblemPrimary	Emblem Symbol
+Label_GuildEmblemBack	Emblem Background
+Label_GuildEmblemManagement	Emblem Management
+Label_Current	Current
+Change Label_Change	
+Label_FriendPoint	Friendship Points
+Label_SaveAndClose	Save and Close
+Label_Completion	completed
+Label_SeasonPassBuyLevel	Level Purchase
+Label_SeasonPassPaidDesc	Available when purchasing Tales Pass
+Label_QuickBattleTitle	Quick Battle
+Label_CharacterVoice	CV _1_
+Label_AccountRestriction	Account usage restrictions
+Label_Maintenance	service check
+Label_MaintenanceTime	Maintenance time: _1_ ~ _2_
+Label_MaintenanceTitleDesc	Check Contents
+Label_MaintenanceTitleTime	Maintenance date and time
+Label_MaintenanceTitleRemainTime	Time remaining until maintenance is completed
+Label_Gender	Gender
+Label_DiaState	Free _1_\\rPaid _2_
+Label_ChoiceBox	Select Item
+Label_HeroVoiceRelation	Achieved intimacy level _1_
+Label_Vioce	Voice
+Label_Victory	Victory
+Label_Defeat	Defeat
+Label_InfoActiveSkill	Active Skill
+Label_InfoPassiveSkill	Passive Skill
+Label_InfoLeaderSkill	Leader Skill
+Label_ChampionsArena	Champions Arena
+Label_DeleteAccountDesc1	If you delete your account, you will no longer be able to play the game.\\rThe withdrawal process will be completed after the 7-day withdrawal grace period has passed.\\rIf you delete your account, all information, including account information, purchase history, and items, will be deleted and cannot be recovered.
+Label_DeleteAccountDesc2	※ If you have read and agreed to the notes, please enter the characters accurately.
+Label_DeleteAccountPlaceholder	Tales Runner RPG Withdrawal Request
+Label_DeleteAccountSignInTitle	Account deletion processing
+Label_DeleteAccountSignInDesc	This account is currently being deleted.\\rTime left until deletion is complete: <color='#FFFF00'>_1_</color>\\rDo you want to cancel your account deletion?
+Label_DeleteAccountMsg1	Please enter the above text correctly.
+Label_DeleteAccountSignInBtn1	Cancel
+Label_MiniGameLockText	Unlocked when reaching account level _1_
+Label_WriterNoGender	Writer
+Label_PurchasePolicy01	※ This product is considered used immediately after purchase and cannot be cancelled.
+Label_PurchasePolicy02	(Cancellation possible when payment is made under the name of a minor without the consent of a legal representative)
+Label_CurrHaveAmounts	Current Hold Amount
+Label_GachaRepeatReward	Repeat Summon Reward
+Label_GachaRepeatRewardDesc	※ Rewards based on the number of summons can be obtained repeatedly.
+Label_WeaponLvUp	Unique weapon growth
+Label_Reward	Reward
+Label_DiceBoardEventTab	Dice Boarding
+Label_DiceBoardEventUIBtnBuyLabel	Roll the Dice
+Label_DiceBoardEventUIBtnCompleteList	Completion Reward
+Label_DiceBoardEventUIBtnMsgCompleteLabel	Currently <color='#ffed57'>_1_</color> rounds completed
+Label_EltDiceBoardCycleTitle	Complete the dice board cycle _1_ times
+Label_PrevMove	Move to previous screen
+Label_EventTabNameSurvey	Survey
+Label_EventPanelDescSurvey	We would like to ask for the author's valuable opinion.
+Label_EventPanelDesc2Survey	When you select an answer, you can obtain a reward. The reward is provided only once per question.
+Label_EventPanelTitleSurvey	Tales Runner RPG Survey
+Label_GuildWarTabJoin	Enter the battlefield
+Label_GuildWarWinStreak	Win Streak
+Label_GuildWarEnterTitle	Guild War Battle Information
+Label_GuildWar	Guild War
+Label_GuildWarLoading	Retrieving guild information.
+Label_000	Level Bonus
+Label_001	Unable to connect to server
+Label_002	Reward Item
+Label_003	Battle Record
+Label_004	Character List
+Label_005	Unowned character
+Label_006	Team formation
+The list will change to the items you set for Label_007 .	
+Label_008	Character Filtering
+Label_009	Level _1_
+Label_010	Record Graph
+Label_011	Damage inflicted
+Label_012	Damage received
+Label_013	Ally Recovery Amount
+Label_014	Obtainable Items
+Label_015	Mission Achievement Information
+Label_016	Sweep
+Label_017	Recommended Level
+Label_018	Enemy Information
+Label_019	Team preset settings
+Label_020	Edit
+Label_021	Load this preset
+Label_022	Please select a character.
+Label_023	Team Preset Properties
+Label_024	Team Colors
+Label_025	Name to change
+Change Label_026	
+Label_027	2 to 10 characters
+Label_028	Select team color
+Label_029	Please enter the name you want to change.
+Label_030	※ When designated as a leader, action power increases by +10.
+Label_031	Do you want to initialize this configuration?
+Label_032	Preset _1_
+Label_033	Do not show this guide again
+Label_034	Cancel Edit
+Label_035	_1_time
+Label_036	NotUsed
+Label_037	Stamina
+Label_038	Sweeping Results
+Label_039	Participating Team Information
+Label_040	Skill List
+Label_041	Select the target to paste
+Label_042	Preset Edit
+Import from Label_043 preset	
+Label_044	'_1_' Edit
+Label_045	Representative Character
+Label_046	Information
+Label_047	Cumulative Reward
+Label_048	Daily Reward
+Label_049	Daejeon History
+Label_050	Team formation
+Label_051	Please select an opponent from the list below.
+Label_052	Arena Season 2
+Label_053	Arena Coin
+Label_054	Number of battles remaining
+Label_055	Re-exploration
+Label_056	Opponent team information
+Label_057	Accumulated gold per minute
+Label_058	Current cumulative gold
+Label_059	Reward Information
+Label_061	Current cumulative time
+Label_062	_1_(minutes)
+Label_063	_1_ seconds ago
+Label_064	_1_minute ago
+Label_065	_1_hour ago
+Label_066	_1_days ago
+Label_067	Battle Record
+Label_068	There was no response from the server. \\rPlease try again.
+Label_069	_1_/_2_
+Label_070	Ranking List
+Label_071	Reward Details
+Label_072	Time Reward
+Label_073	Daily Reward
+Label_074	Season Record Reward
+Label_075	Highest Record Reward
+Label_076	Ranking and Rewards
+Label_077	_1_top
+Label_078	Admission possible
+Label_079	No items obtained.
+Label_080	Detailed Ability
+Label_081	Promotion
+Label_082	Awakening
+Label_083	Skill Enhancement
+Label_084	Unique Weapon
+Label_085	Equipment Reinforcement
+Label_086	Character Growth
+Label_087	My Information
+Get Label_088	
+Label_089	Get daily rewards
+Label_090	Target does not exist.
+Label_091	Opposing team formation information
+Label_092	Basic Information
+Label_093	Profile
+Label_094	Take the challenge
+Label_095	Character Profile
+Label_096	Age
+Label_097	_1_years old
+Label_098	Height/Weight
+Label_099	Key Information
+From Label_100	
+Label_101	Favorite Gift
+Label_102	Birthday
+Label_103	_1_._2_
+Label_104	Occupation
+Label_105	Role
+Label_106	Character Story
+Label_107	Affiliation
+Label_108	My team composition information
+Label_109	No history of war
+Label_110	Character Information
+Label_111	Level and Ability Information
+Label_112	Rating Information
+Label_113	Equipment Information
+Label_114	Experience potion to use
+Label_115	Promotion Cost
+Label_116	Leader Effect
+Label_117	Page and Ability Information
+Label_118	Character Features
+Label_119	Mail whose retention period has expired is automatically deleted.
+Label_120	Mailbox is empty
+Label_121	(after _1_) Expires
+Label_122	Expired
+Label_123	Acquisition Reward
+Label_124	Sender
+Label_125	Unique weapon ability information
+Label_126	Unique Weapon Introduction
+Label_127	Required Goods
+Label_128	Unique Weapon Level
+Label_129	Unique weapon growth completed
+Label_130	No reward
+Label_131	Match the numbers
+Label_132	Promotion
+Label_133	Acquired Skill
+Label_134	Additional Abilities
+Label_135	Character promotion completed
+Label_136	_1_{this,that}\\rCurrently the highest grade.
+Label_137	Author's signature
+Label_138	Please enter the signature you will use as an author. \\rPlease make sure that as many signatures as possible are within the dotted line.
+Label_139	Join
+Label_140	You can edit it later in <color='#4488ff'>My Profile</color>
+Label_141	(General)
+Label_142	(Difficult)
+Label_143	_1_{을,를}\\rCompleted.
+Label_144	Recommended Level
+Label_145	Consumption admission ticket
+Label_146	Check before entering
+Label_147	Chapter _1_
+Label_148	First Reward Item
+Label_149	Final Item Reward
+Label_150	is not available
+Label_151	You have acquired _1_{of,} _2_.
+Label_152	Acquired Items
+Label_153	Sweeping the Abyss of Darkness
+Label_154	Equipment owned
+Label_155	_1_ and above
+Label_156	Buff information being applied
+Label_157	Sweeping is in progress.
+Label_158	Select the highest level equipment of the same grade.
+Label_159	Select the equipment from the list on the right.
+Label_160	This is the highest grade that your current equipment tier can reach.
+Label_161	_Step_1
+Label_162	Abyssal Stamina Recovery
+Label_163	Loot
+Label_164	Ability
+Label_165	Boost applied
+Label_166	_1_\\rCorresponds to character
+Label_167	_1_ Corresponds to character
+Label_168	Matching Pieces
+Label_169	From now on, you can proceed with _1_{.}
+Label_170	Unlocked when clearing story _1_-_2_\\r
+Label_171	View results immediately
+Label_172	My Score
+Label_173	Stage _1_ Sweep
+Label_174	Information about this character is incorrect.
+Label_175	Unlocked when character [_1_ star] is achieved
+Label_176	Season Rating Details
+Label_177	_1_etc.
+Label_178	My cumulative score
+Label_179	Current rank
+Label_180	Highest difficulty level
+Label_181	Highest level reached
+Label_182	Rank User Information
+Label_183	Gold Dungeon
+Label_184	Character Growth
+Label_185	Equipment Enhancement
+Label_186	Unique Weapon Growth
+Label_187	Skill Enhancement
+Label_188	Unlocked when you reach 3 stars in the previous stage
+Label_189	Break the crystals you obtain from the dungeon to obtain various hidden treasures and goods!
+Label_190	Ticket Recharge
+Label_191	Opposing team attribute
+Label_192	Stage List
+Label_193	Double Reward\\r_1_/_2_
+Label_194	Boss Battle Information
+Label_195	attribute
+Label_196	Attack Power
+Label_197	Defense
+Label_198	Max Stamina
+Label_199	Select Practice Mode
+Label_200	Entry
+Label_201	This is a stage where you cannot clear the map.
+Label_202	This is a stage you cannot enter.
+Label_203	Challenge End
+Label_204	Boss Difficulty
+Label_205	Boss Level
+Label_206	Total time required
+Label_207	Total decks used
+Label_208	Earned points
+Label_209	Cumulative score
+Label_210	Season End
+Label_211	Final Grade Reward
+Label_212	Clear Highest Difficulty
+Label_213	Clear highest level
+Label_214	1st challenge high score
+Label_215	Total number of challenges
+Label_216	Final cumulative score
+Label_217	Final Grade
+Label_218	Season Buff
+Label_219	Ticket holder
+Label_220	_1_ Ticket Recharge
+Label_221	The number of tickets to be charged is 0.
+Label_222	Ticket Purchase Completed
+Label_223	Defeat the remnants to obtain items needed for character growth!
+Label_224	Daily Buff
+Label_225	Equipped equipment
+Label_226	Selected Equipment
+Label_227	Equipment Ability
+Label_228	Category
+Label_229	There is currently no equipment selected.
+Label_230	Number of purchases possible
+Label_231	Chaos Raid Season Reward Period.
+Label_232	
+Label_233	_1_ Chaos Raid in progress
+Label_234	Defensive
+Label_235	Offensive
+Label_236	Supported
+Label_237	Recovery type
+Label_238	Male Writer
+Label_239	Female Writer
+Label_240	Skill Enhancement (Defensive Tank)
+Label_241	Skill Enhancement (Assault Tank)
+Label_242	Skill Enhancement (Single Dealer)
+Label_243	Skill Enhancement (Area Dealer)
+Label_244	Skill Enhancement (Supporter)
+Label_245	Skill Enhancement (Healer)
+Label_246	Chaos Raid Total Battle Record
+Label_247	Total Deal
+Label_248	Damage dealt
+Label_249	Healing amount
+Label_250	Practice mode in progress
+Label_251	_1_ times reward count _2_/_3_
+Label_252	_1_ Sweeping results
+Label_253	There are not enough tickets
+Label_254	Ticket Recharge
+Label_255	Earned points
+Label_256	Chaos Raid Season _1_ Reward Claim
+Label_257	_1_ after termination
+Label_258	Mau Point
+Label_259	Mau Point Exchange
+Label_260	Summoning Results
+Label_261	Hold Mau Points
+Label_262	Mau Point Exchange Results
+Label_263	Probability Information
+Label_264	View 3D Character
+Label_265	Ability Information
+Label_266	Current Mau Points
+Label_267	Stop watching today
+Label_268	Remaining pickup period
+Label_269	'_1_' _2_ In progress
+Label_270	_1_ After summoning ends
+Label_271	Selected Item
+Label_272	Recipe List
+Label_273	Materials List
+Label_274	Select item to disassemble
+Label_275	List of possible equipment
+Label_276	List of items to disassemble
+Label_277	_1_ can be produced
+Label_278	Lack of materials
+Label_279	Expected decomposition results
+Label_280	Decomposition Results
+Label_281	Page Store
+Label_282	Selected Equipment
+Label_283	Cancel targeting
+Label_284	Protect the hen's eggs
+Label_285	_1_ _2_required
+Label_286	option
+Label_287	Mau Point Consumption
+Label_288	Go to exchange
+Label_289	Earned Mau Points
+Label_290	Acquired Page Exchange Voucher
+Label_291	Summon again
+Label_292	Summoning result confirmed
+Label_293	Equipment Ability
+Label_294	Sort Filter
+Label_295	Skills to use
+Label_296	Item Quantity (Maximum _1_)
+Label_297	Production Results
+Label_298	Recipe Information
+Label_299	Before change
+After changing Label_300	
+Label_301	Stamina Recharge
+Label_302	One-time cost
+Label_303	Total Cost
+Label_304	Number of recharges possible
+Label_305	Would you like to recover _1_ stamina?
+Label_306	Account level _1_ or higher available
+Label_307	Compatibility by attribute
+Label_308	_1_ after _2_ end
+Label_309	_1_ Story
+Label_310	Intimacy Management
+Label_311	Chapter _1_
+Label_312	Unlocked when reaching Intimacy Level _1_
+Label_313	Birthday
+Label_314	Today is my birthday!!!
+Label_315	Skill Enhancement
+Label_316	Skill level is currently at its highest level.
+Label_317	_1_star or higher
+Label_318	Attack Power +_1_
+Label_319	Defense +_1_
+Label_320	Max Stamina +_1_
+Label_321	Intimacy
+Label_322	Automatic organization
+Label_323	Combat Role Information
+Label_324	
+Label_325	Character Statistics
+Label_326	Recommended combination
+Label_327	Recommended Content
+Label_328	
+Label_329	
+Label_330	Author Skills
+Label_331	Writer Skill List
+Label_332	Active Skill
+Label_333	World Skill
+Label_334	Author Skills Released
+Label_335	Writer Skill Setting
+Label_336	_1_ea
+Label_337	Account Level _1_ achieved
+Label_338	Consumption Cost
+Label_339	Friends List
+Label_340	Requesting friends
+Label_341	Pending approval
+Label_342	Find Friends
+Label_343	Support character settings
+Label_344	Number of friends
+Label_345	Batch greeting exchange
+Label_346	Recent Login
+Label_347	Friends with
+Label_348	User Information
+Label_349	Say hello
+Label_350	Delete Friend
+Label_351	Progress
+Label_352	Number of characters owned
+Label_353	World Progress
+Label_354	Sent application
+Label_355	Cancel application
+Label_356	Application received
+Label_357	Auto Approval
+Label_358	Approval Confirmation
+Label_359	Approval denied
+Label_360	List Refresh
+Label_361	Friend Code
+Label_362	Number of characters
+Label_363	Previous Raid
+Label_364	Subscription method
+Label_365	Special Character
+Label_366	Ends in <color=#65FEFE>_1_</color> days
+Visit Label_367	
+Label_368	Guild ID
+Label_369	Guild Search
+Label_370	Guild Creation
+Label_371	Guild Management
+Label_372	My Information
+Label_373	Guild Member List
+Label_374	Current number of guild members
+Label_375	Subscription Management
+Label_376	Guild Attendance Reward
+Label_377	Guild Introduction
+Label_378	Guild member information
+Label_379	Date of joining
+Label_380	Attendance days
+Label_381	Title
+Label_382	Delegation of Guild Leader
+Label_383	Dismissal of the Vice Guild Leader
+Label_384	Guild Leader Delegation
+Label_385	※ Up to _1_ characters can be entered.
+Label_386	Expected Revenue
+Label_387	Guild Name
+Label_388	Please enter your guild name.
+Label_389	Reel winding
+Label_390	Get Reward
+Label_391	Please select a search method.
+Label_392	Enter keyword to search for friends
+Label_393	Friend's name
+Label_394	All levels
+Label_395	Level _1_~_2_
+Label_396	Select the subscription method you wish to display.
+Label_397	Friend Request
+Label_398	Reuse time
+Label_399	Duration
+Label_400	Enter guild search keyword
+Label_401	Connecting
+Label_402	Greetings completed
+Label_403	Get Greetings
+Label_404	Sign up
+Label_405	Withdrawal
+Label_406	Guild Leave
+Label_407	Guild Disbandment
+Label_408	Emoticon
+Label_409	Remaining period
+Label_410	Daily Attendance Sheet
+Label_411	Event Attendance Sheet
+Label_412	Return Event Attendance Book
+Label_413	Birthday Reward
+Label_414	My Team
+Label_415	Opposing Team
+Experience provided by Label_416	
+Label_417	If successful, the reward item will be changed to _1_.
+Label_418	If successful, you will receive double the rewards.
+Label_419	Special Character
+Label_420	Read the event story
+Label_421	World Move
+Label_422	Exchangeable Period\\r_1_
+Label_423	in possession
+Label_424	Specialized Character List
+Label_425	Team Information
+Label_426	_1_ Acquisition amount _2_
+Label_427	_1_ Open when cleared
+Label_428	Specialized character information
+Label_429	_1_ The story has been unlocked.\\rDo you want to move immediately?
+Label_430	Compensation time reduction rate
+Label_431	Random Farm Visit
+Label_432	There are no targets that meet the conditions for visiting the farm.
+Label_433	Conversation Log
+Label_434	Would you like to skip this story?
+Label_435	Start fishing right away
+Label_436	_1_ after termination
+Label_437	Event Story End
+Label_438	Event Story Reward
+Label_439	_1_ Parking
+Label_440	Main Story
+Label_441	Character Story
+Lable_442	Mini Game Reward
+Label_443	_1_ will be deleted in bulk.
+Label_444	Story Viewing Reward
+Label_445	Story List
+Label_446	Event Story\\rLibrary
+Label_447	New Writer Guide Mission
+Label_448	Returning Writer Guide Mission
+Label_449	Growth support for new writers!
+Label_450	Adaptation support for returning writers!
+Label_451	Special Reward
+Label_452	Pickup End
+Label_453	Get reward\\r_1_ then exit
+Label_454	Guild Information
+Label_455	Occupation Contribution Points: _1_
+Label_456	Personal Points
+Label_457	Top Contributing Guild Information
+Label_458	Select difficulty..
+Label_459	
+Label_460	
+Label_461	Play History
+Label_462	Occupation Reward Information
+Label_463	(Recommended Level _1_~_2_)
+Label_464	Total points earned
+Label_465	Anubis Points Acquisition: _1_
+Label_466	Point Bonus
+Label_467	Affiliated Guild
+Label_468	This season's ranking
+Label_469	Highest capture point this season
+Label_470	Rank Reward
+Label_471	Occupation Point Reward
+Label_472	Check personal points
+Label_473	When the Anubis occupation battle ends
+Label_474	_1_ ~ _2_ above
+Label_475	Occupation Points
+Label_476	Anubis occupation war ended\\r_1_ Exchange possible
+Label_477	Conflict Area Results
+Label_478	_1_ Successful Occupation of Region
+Label_479	Equipped Skill
+Label_480	Skill Information
+Label_481	Occupation War Period
+Label_482	Get Occupation Reward
+Label_483	Remaining Bait: _1_
+Label_484	Anubis Occupation War Reward
+Label_485	has no guild affiliation.
+Label_486	_1_ point
+Label_487	Reward receipt period: \\rUntil the Anubis occupation war exchange period
+Label_488	Reward Exchange Period
+Label_489	Fishing gear setup
+Label_490	Fishing rod to use
+Label_491	Bait to use
+Label_492	Edit self-introduction
+Label_493	Please write a self-introduction.\\rThe maximum number of characters is _1_.
+Label_494	Select gender
+Label_495	Background
+Label_496	Decoration
+Label_497	Text
+Label_498	
+Label_499	Color change
+Label_500	Normal background
+Label_501	Illustration
+Label_502	Change text
+Label_503	Resize
+Label_504	Text Alignment
+Label_505	Color
+Label_506	All Seasons
+Label_507	Current Season
+Label_508	New Text
+Label_509	Farm Level
+Label_510	_1_
+There is no record for Label_511 .	
+Label_512	Game Results
+Label_513	Decoration
+Label_514	Show additional text
+Label_515	Components
+Label_516	Current Stock: <color='#2270EE'>_1_</color>
+Label_517	Number of items issued _1_
+Label_518	Number of bonus payments _1_
+Label_519	Number of purchases available _1_
+Label_520	Until the end of sales _1_
+Label_521	Until update _1_
+Label_522	_1_ to \\r_2_
+Label_523	Number of Remaining Renewals _1_
+Label_524	Unopened
+Label_525	Remaining receipt days: _1_ days
+Label_526	Sliding Puzzle
+Label_527	Rotation Puzzle Match
+Label_528	Jewel Game
+Label_529	Chicken Egg Receiving Game
+Label_530	Sold out
+Label_531	Remaining lives
+Label_532	_1_ Record
+Label_533	Fish Image Matching Game
+Label_534	Guess the fish at the very front of the sea
+Label_535	Sign Preset
+Label_536	Game 1 To 50
+Label_537	<color='#2270EE'><size=28>_1_</size></color>/_2_
+Label_538	Place
+Label_539	Farm level information
+Label_540	List of natural objects generated
+Label_541	Tier
+Label_542	Additional Ability Details
+Label_543	Final increased ability
+Label_544	Auto-decomposition settings
+Label_545	Enter channel number
+Label_546	Characters owned
+Label_547	Unowned character
+Label_548	Lv.
+Label_549	Enter coupon
+Label_550	Please enter the coupon number.
+Label_551	Final Intimacy Reward
+Label_552	Details
+Label_553	Basic Pass
+Label_554	Tales Pass
+Label_555	Purchase Completed
+Label_556	_1_ after initialization
+Label_557	When clearing daily and weekly missions, you can earn points and level up your pass. When purchasing Tales Pass, you can earn Tales Pass rewards.
+Label_558	Stock: _1_
+Label_559	Crystal Attributes
+Label_560	There is no source for acquisition.
+Label_561	Season Period
+Label_562	Required Gold
+Label_563	Max LV _1_
+Label_564	Unique weapon breakthrough success
+Label_565	Formation Buff Effect
+Label_566	Battle entrance
+Label_567	Event World
+Label_568	_1_ Obtained upon clearing
+Label_569	Alchemy Crafting
+Label_570	Alchemy Decomposition
+Label_571	Obtainable from the Dark Abyss Box
+Label_572	Obtainable upon clearing the Abyss of Darkness
+Label_573	Obtainable from the Battle Platform of the Dark Abyss
+Label_574	Obtained through farm rewards
+Label_575	Obtained through fishing rewards
+Label_576	Obtained through purchasing items
+Label_577	Obtained through item exchange
+Label_578	Obtained through exchanging catches
+Label_579	Option Re-change
+Confirm Label_580	
+Label_581	Adding the option change stone increases the minimum value.
+Label_582	Option Change Stone Selection
+Label_583	Change option settings
+Label_584	Increased summon probability!
+Label_585	Guild Notice
+Label_586	Please enter a guild introduction.
+Label_587	Please enter the guild notice.
+Label_588	The maximum number of input characters has been exceeded.
+Label_589	Not used
+Label_590	Expected change range
+Label_591	Whether to use the change stone
+Label_592	When shouting, gold is required.
+Label_593	Required Gold:
+Label_594	Apply Buff
+Label_595	Additional buff activation
+Label_596	There are currently no active buffs.
+Label_597	Additional buff applied
+Label_598	Disable additional buffs
+Label_599	Archive Initialization
+Label_600	No additional buffs are currently active.
+Label_601	Additional Buff
+Label_602	<size='26'><color='#ffffffaa'>(Paid once per rank)</color></size>
+Label_603	Chapter _1_ _2_ Occupation Status
+Label_604	Clear Reward
+Label_605	Chapter _1_ _2_ Occupation Reward
+Label_606	Season Highest Rank: _1_
+Label_607	Personal Highest Rank: _1_
+Label_608	Production quantity:
+Label_609	Production quantity
+Making Label_610	
+Label_611	View strengthened items
+Label_612	Period: _1_
+Label_613	_1st_day
+Label_614	Touch the screen to close
+Label_615	Pension Decision Dungeon
+Label_616	Pension Material Dungeon
+Label_617	Representative character setting
+Label_618	Party Sign
+Label_619	Checkmark
+Label_620	Random display
+Label_621	The party members I last used are displayed on the main screen. You can select and display the desired character by touching [Selection Mark] on the left.
+Label_622	You can set up to _1_ characters to be displayed on the main screen.
+Label_623	Number of entries: _1_ / _2_
+Label_624	Number of Challenges Available Purchases
+Label_625	Would you like to purchase the number of challenges (_1_ times)?\\rYou can purchase up to _2_ times per day.
+Label_626	[_1_] Number of challenges remaining
+Label_627	_1_time ▶ _2_time
+Label_628	You have purchased the number of challenges (_1_ times) on the Hard difficulty level.
+Save Label_629 settings	
+Label_630	Author level information
+Label_631	Additional Author Skills Unlockable
+Label_632	Author World Skill _1_times available
+Label_633	Additional alchemy recipes open
+Label_634	The current writer level has reached the maximum writer level.
+Label_635	's profile
+Label_636	User ID
+Label_637	layer
+Label_638	Destiny Lv._1_ / _2_
+Label_639	Deactivated relationship
+Label_640	Activation Relationship
+Label_641	Number of purchases _1_
+Label_642	_1_Price increases with each purchase.
+Label_643	All active relationships
+Label_644	There are no active relationships.
+Label_645	Affinity activation possible
+Label_646	Affinity level up possible
+Label_647	_1_ or more available
+Label_648	Gender does not affect abilities.
+Label_649	Change Alchemy Options
+Label_650	_1_ has been unlocked.
+Label_651	Cost consumption: _1_
+Label_652	Current skill is at maximum level.
+Label_653	Activation
+Label_654	Activation status
+Label_655	Basic
+Label_656	Collection
+Label_657	Unknown tree
+Label_658	Unknown crop
+Label_659	Author characteristics
+Label_660	Activation Condition _1_/_2_
+Label_661	This is not the sales period.
+Label_662	Buff List
+Label_663	Battle Description
+Label_664	The character growth dungeon is a dungeon where you fight against multiple waves and enemies to win and obtain character experience rewards.\\rTry to challenge the dungeon by making full use of area-of-effect attacks.
+Label_665	Equipment Reinforcement Dungeon is a dungeon where you fight enemies that can withstand one attack without dying in one go and win to obtain equipment experience rewards.\\rTry to challenge the dungeon by making the most of continuous attacks.
+Label_666	Unique Weapon Growth Dungeon is a dungeon where you fight enemies with high resistance to your allies' skill attacks and win to obtain unique weapon growth rewards.\\rTry to challenge the dungeon by making the most of your normal attacks.
+Label_667	Skill Enhancement Dungeon is a dungeon where you fight enemies with high resistance to allies' normal attacks and win to obtain skill enhancement rewards.\\rTry to challenge the dungeon by making the most of skill attacks.
+Label_668	Obtained through character summoning
+Label_669	Obtained through page exchange
+Label_670	Applied World Skill
+Label_671	Destiny Lv._1_
+Lavel_672	Affinity Bonus
+Lavel_673	_1_chapter _2_
+Label_674	Arena Ticket Recharge
+Label_675	All available tickets have been used.\\r_Would you like to purchase 1_ _2_?
+Label_676	_1_ea ▶ _2_ea
+Label_677	_1_ _2_ were purchased.
+Label_678	Disabled
+Label_679	Peach Crush's
+Label_680	<color=#ED9A9F>First Purchase</color> <color=#855CA9>Gift!</color>
+Label_681	Get the first day reward immediately after your first purchase!
+Label_682	You can obtain the corresponding reward when you purchase a paid item (including Tales Shop and Season Pass) for the first time!
+Label_683	Touch an empty space to close
+Label_684	Go to store
+Label_685	Limited Character
+Label_686	Free
+Label_687	Top 3 Recommended Packages
+Label_688	First purchase attendance
+Label_689	Event Guide
+Label_690	Daily Mission
+Label_691	Special Mission
+Label_692	Event Period:
+Label_693	_1_Chapter _2_
+Label_694	Challenge
+Label_695	Minigame Challenge
+Label_696	Main Story Minigame
+Label_697	Minigame
+Label_698	Obtainable in Anubis Conquest
+Label_699	Attendance Reward
+Label_700	Product Renewal
+Label_701	Winner
+Label_702	Out of stock
+Label_703	Exchange Period: From _1_ to _2_
+Label_704	_1_time exchange
+Label_705	_1_ used
+Label_706	Event Prize Exchange
+Label_707	Number of possessions
+Label_708	Remaining quantity: _1_
+Label_709	Exchange Options
+Label_710	Auxiliary equipment maximum
+Label_711	<size='26'><color='#ffffffaa'>(Accumulates every minute)</color></size>
+Label_712	_1_ Charge
+Label_713th	episode
+Label_714	Read the story
+Label_715	All stock is sold out.\\rPlease renew the product.
+Label_716	Please select the quantity to exchange at one time.
+Label_717	One more exchange
+Label_718	_1_Episode
+Label_719	Current author level: <color='#FDBF45'>_1_</color>
+Label_720	Current Progress Stage (Normal): _1_ - _2_
+Label_721	Current stage (difficulty): _1_ - _2_
+Label_722	Star Acquisition: <color='#FDBF45'>_1_</color>
+Label_723	Purchase period: No limit
+Label_724	Purchase period: _1_ ~ _2_
+Label_725	The acquired optional box has been registered in your inventory.
+Label_726	In progress
+Label_727	You do not own that character.
+Label_728	Main Options _1_: _2_
+Label_729	Immediate payment quantity
+Label_730	Daily payment quantity
+Label_731	Total amount paid
+Label_732	_2_ _3_ can be obtained in _1_ days
+Label_733	_2_ _3_ and _4_ _5_ can be obtained in _1_ days
+Label_734	Monthly Card
+Label_735	Lasts for 30 days
+Label_736	Top Contributing Guild: _1_
+Label_737	Growth Progress: <color='#FDBF45'>_1_</color>
+Label_738	Current stage: <color='#FDBF45'>_1_</color>
+Label_739	Available for purchase from author level _1_\\r.
+There are no enemies with the Label_740 skill.	
+Label_741	Defense Team Formation
+Label_742	Opponent team information
+Label_743	Every time the character level increases by 5, the unique weapon level can increase by 1.
+Label_744	Option change range
+Label_745	Current Options
+Label_746	Top floor strategy ranking
+Label_747	My best record
+Label_748	Check ranking
+Label_749	※ Cancellation of subscription is possible within 7 days from the date of purchase, but cancellation of subscription is restricted upon receipt or use of the product.
+Label_750	※ Payments made by minors without the consent of their legal representative may be cancelled. <color='#4773E1'>[More details]</color>
+Label_751	All exchange
+Label_752	No expiration date
+Label_753	Saved Bonus
+Label_754	Current deck lineup Bonus
+Label_755	Season Period _1_
+Label_756	is activated when you clear stage 2-1.
+Label_757	Event Story Exchange End
+Label_758	Cooldown: _1_ minutes
+Label_759	Rewards will be sent to your mailbox.
+Label_760	Available for purchase: ~ _1_
+Label_761	Select the highest level equipment of the same boss equipment and grade.
+Label_762	- The acquired coupons can only be used once per account and cannot be used multiple times.\\r- The coupons can only be acquired once per account.\\r- The issued coupons can only be used in Tales Runner.\\r- The event may end early if all coupons are used up.
+Label_763	Provided upon completion of selective summoning
+Label_764	_1_ Provided upon clearing
+Label_765	All coupons have been used up.
+Label_766	Tales Runner Reward
+Label_767	Author's Blessing Fountain Pen Reward
+Label_768	Cecilia Pet Reward
+Label_769	You can obtain items required for prize exchange by clearing the main story.
+Label_770	Daily purchase count _1_
+Label_771	Weekly Purchases _1_
+Label_772	Monthly purchase count _1_
+Label_773	Daily update until _1_
+Label_774	Weekly update until _1_
+Label_775	Monthly renewal until _1_
+Label_776	Snow Breaking Game
+Label_777	Champions Arena Ticket Recharge
+Label_778	Number of purchases per account _1_
+Label_779	Rank
+Label_780	_lasts for _1_days
+Label_781	_1_space
+Label_782	Number of weekly adventure journals available: <color='#d8b13a'>_1_ </color>/ _2_
+Label_783	※ When the writer level reaches the maximum, you can obtain an adventure journal in proportion to the stamina consumed.
+Label_784	Score
+Label_785	Season Record
+Label_786	Ranking Information
+Label_787	win
+Label_788	No
+Label_789	pattern
+Label_790	Watermelon Game
+Label_791	When the guild battle ends
+Label_792	When the guild competition ends, ranking rewards will be sent to your mailbox.
+Label_793	Remaining battle time
+Label_794	14 days or more
+<<! Message >>
+Msg_ExitReplay	Are you sure you want to stop replay and exit?
+Msg_EndReplay	Replay is finished. Go to the previous screen.
+Msg_NotInSeason	It is not the season now
+Msg_NotBossInSeason	_1_ _2_{is, is} not in the current season
+Msg_AttrDungeonTooHigh	The challenge is not possible because you have not cleared the previous floor.
+Msg_AttrDungeonNotEnough	You cannot receive the reward because you have not achieved the cumulative star target number.
+Msg_GachaDesc	※ Characters that you already own will be paid with a 'Page Exchange Ticket' and the 'Page' of that character.
+Msg_UnableDialogAuto	Automatic state cannot be turned off at this time
+Msg_FishingNoBait	You have no bait. Would you like to go to the store now?
+Msg_AutoPlayOn	Autoplay is turned on.
+Msg_AutoPlayOff	Autoplay is turned off.
+Msg_SpdNormal	The game proceeds at normal speed.
+Msg_SpdFaster	The game progresses at _1_x speed.
+Msg_ReplaySpdNormal	Replay will proceed at normal speed.
+Msg_ReplaySpdFaster	Replays will proceed at _1_x speed.
+Msg_NewRelation	You can activate a new relationship now.
+Msg_GachaBonus	The above reward will be given to characters who have already joined.
+Msg_AlreadyStarted	Already started.
+Msg_Qb_Ing	You are in a quick battle. Please wait a moment for the results.
+Msg_Qb_Victory	You have won.
+Msg_Qb_Fail	You have been defeated.
+Msg_DefaultReward	You have received the following rewards:
+Msg_ReqNick	Please enter the author's pen name. You will be called by the name you enter. <color='#62A8FF'>(8 Korean characters, 12 English characters and special characters)</color>
+Msg_Purchase	Would you like to purchase {_1_}?
+Msg_DescDeckBuff	● The attribute of the currently formed character is the standard, and the buff effect is only provided to characters of the target attribute.\\r● Light/Dark attribute does not receive the 'same attribute' buff.\\r● Light/Dark attribute buff can be applied together with the 'same attribute' buff of other attributes.
+Msg_ContainBanStr	Contains banned words.
+Msg_ClearSign	All signatures will be cleared. Do you want to continue?
+Msg_Lock	This function is currently unavailable.
+Msg_NoGetItem	There are no obtainable items.
+Msg_MiniGameSkip	You can skip this puzzle and continue later at the Sky Island Arcade.
+Msg_InAppPurchase1	The purchase feature has been disabled. Please check your security settings.
+Msg_InAppPurchase2	There is already a purchase in progress. Please try again later.
+Msg_InAppPurchase3	This product is currently not available for purchase.
+Msg_InAppPurchase4	Signature verification on purchase receipt failed.
+Msg_InAppPurchase5	Purchase has been cancelled.
+Msg_InAppPurchase6	Payment failed. Please check your payment information.
+Msg_InAppPurchase7	This transaction has already been completed.
+Msg_InAppPurchase8	An unknown error occurred. Please contact customer support.
+Msg_MiniGameNotCleared	Failed to complete minigame
+Msg_GuildWarEnter_NoAttackLeft	You have used up all your attacks today.
+Msg_GuildWarEnter_NoHP	Users with no health cannot attack.
+Msg_GuildWarEnter_BattleUnavailable	You are not participating in a guild war.
+Msg_GuildWarEnter_ExcludedToday	You have been excluded from today's matching because the matching conditions are not met.
+Msg_GuildWarEnter_NotInProgress	The Guild War is not currently in progress.
+Msg_000	The app is about to close. Do you want to continue?
+Msg_001	Would you like to stop combat and leave?
+Msg_002	Recovering connection.\\rPlease wait a moment.
+Msg_003	The connection to the server has been lost. You will be exited from the battle.
+Msg_004	Do you want to start the battle?
+Msg_005	Please select the gender of the writer you wish to work with.
+Msg_006	A portion of the stamina used will be returned.
+Msg_007	No items obtained.
+Msg_008	The character you selected is already assigned to the team.
+Msg_009	Do you want to initialize this formation?
+Msg_010	Do you want to initialize the formation of _1_?
+Msg_011	You cannot enter because you do not have enough stamina.
+Msg_012	The mission cannot be executed because it has not been completed.
+Msg_013	Cannot be executed because the team is not organized.
+Msg_014	You have used up all of your Arena ticket recharges today.
+Msg_015	The current team formation must include at least one character.
+Msg_016	Do you want to reset the summoning results and perform 10 new summons?
+Msg_017	Congratulations.
+Msg_018	This can't be happening...
+Msg_019	Real-time notice
+Msg_020	Chat content will be displayed here.
+Msg_021	[System]
+Msg_022	There is a shortage of goods.
+Msg_023	Would you like to proceed with character growth?
+Msg_024	You have entered channel_1_.
+Msg_025	You cannot gain any more experience points.
+Msg_026	There is no mail to receive the reward.
+Msg_027	There are no mails to delete.
+Msg_028	Do you want to delete all read mail?
+Msg_029	The server is under maintenance.
+Msg_030	Please enter chat.
+Msg_031	This is the difficulty level you have currently selected.
+Msg_032	'Hard' difficulty is available after completing all of the normal difficulty levels.
+Msg_033	'Very Hard' difficulty is available after completing all lower difficulties.
+Msg_034	You do not have enough materials to grow to the level you selected.
+Msg_035	Preparing to sweep.
+Msg_036	Failed to match the number.
+Msg_037	_1_ has requested a match. Do you want to accept it?
+Msg_038	The battle is about to begin
+Msg_039	The opponent has refused the match.
+Msg_040	'_1_' has applied for the\\r competition
+Msg_041	A battle was requested.
+Msg_042	Are you sure you want to log out?\\r<color='#ff8800'><size=27>※If it's a guest account, recovery is not possible.</size></color>
+Msg_043	Account logout is complete.\\rClick OK to start data cleanup.
+Msg_044	Account logout failed.\\rReason: _1_
+Msg_045	Organizing data.\\rWhen data organization is complete, it will return to the beginning.
+Msg_046	Move to the beginning in _1_ seconds.
+Msg_047	The signature is too simple. Please write a little more.
+Msg_048	The signature is too complicated. Please correct it using the undo or clear button.
+Msg_049	Regarding the author, please select the item to be modified.
+Msg_050	The author's attack power increased from <color='#ffffff'>_1_</color> to <color='#ffffff'>_2_</color>.
+Msg_051	You can now level up your character to <color='#2E93F2'>_1_</color>.
+Msg_052	_1_ _2_{eul, ,} was acquired.
+Msg_053	_1_{this, ga} is available for joining.\\r_1_{will you join}?
+Msg_054	Waiting for the opposing team to target
+Msg_055	You can clear as many times as you want without entering the battlefield.
+Msg_056	The latest version update has been confirmed.\\rWould you like to return to the home screen for the update?
+Msg_057	In the dungeon that is randomly generated each time you enter, you must use Abyss Stamina wisely to reach the final destination and clear it. \\rBe careful, because once you enter, you cannot enter again until you clear it or give up.
+Msg_058	Would you like to enter '_1_'?\\rYou cannot enter again until you clear or give up.
+Msg_059	You can receive double rewards when using a boost ticket\\r(You can use it only _1_ times a week, and it resets on Monday)
+Msg_060	Boss level
+Msg_061	The probability of obtaining limited characters increases for a certain period of time.
+Msg_062	Do you want to wipe out {_1_'} once?
+Msg_063	Would you like to enter \\r'_1_' using the 2x reward booster?
+Msg_064	You have used up all your stamina. Would you like to use _1_ cash item to recover your stamina?
+Msg_065	Would you like to use _1_ diamond to recover _2_ to _3_?
+Msg_066	Do you want to abandon the ongoing exploration? \\r(Rewards earned so far will be paid.)
+Msg_067	You cannot use this week's reward x2 boost ticket because you have used all of them.\\r(It is recharged every Monday.)
+Msg_068	This content is available for account level _1_ and above.
+Msg_069	There are not enough resources to recover.
+Msg_070	Stamina has been restored.
+Msg_071	This character cannot be selected.
+Msg_072	Stamina recovered.
+Msg_073	You cannot move due to insufficient stamina.
+Msg_074	Would you like to use _1_ diamond to recover\\rAbyss Stamina?\\r[The recovered stamina will be reset when you enter another dungeon.]
+Msg_075	No abilities have been acquired.
+Msg_076	You cannot enter the Dark Abyss because you do not have enough tickets.
+Msg_077	Would you like to proceed with equipment strengthening?
+Msg_078	To break through, your equipment must reach the maximum level.
+Msg_079	You have already reached the maximum grade for the equipment tier, so you can no longer break through.
+Msg_080	No items obtained.
+Msg_081	You can receive double the rewards after the end.
+Msg_082	The pieces didn't fit together.
+Msg_083	Chaos Raid Description
+Msg_084	You cannot enter because you do not have enough tickets.
+Msg_085	Are you sure you want to stop the challenge?
+Msg_086	Would you like to recharge your Growth Training Center admission ticket?\\r(Diamonds consumed: _1_)
+Msg_087	Cannot be executed because it contains unusable characters.
+Msg_088	Please wait until the next Chaos Raid season.
+Msg_089	You can use it after clearing story _1_-_2_.
+Msg_090	Would you like to use the goods to summon _1_ times?
+Msg_091	You do not have enough diamonds to proceed with the summoning. Would you like to go to the diamond shop?
+Msg_092	You cannot proceed because you do not have enough inventory.
+Msg_093	The pickup period has ended and your Mau Points have been exchanged for the above item.
+Msg_094	Do you want to confirm the summoning result?\\rYou can select 'No' to try the summoning again.
+Msg_095	Summon Mau Points will expire soon.
+Msg_096	Summoning results have been confirmed.
+Msg_097	_1_ was created _2_ times.
+Msg_098	Are you sure you want to disassemble this item?
+Msg_099	Do you really want to craft this item?
+Msg_100	There are not enough material items to craft the item.
+Msg_101	When summoned 10 times, 1 2-star character is guaranteed.\\r<color='#7b09aa'>Characters that you already own will be exchanged for a page exchange ticket\\rand the corresponding character's page.\\r(Characters that can be obtained from the exchange shop are excluded.)</color>
+Msg_102	You can summon using friendship points given and received from friends.\\r<color='#7b09aa'>Characters you already own will be exchanged for page exchange tickets\\rand the corresponding character's page.\\r(Light, Dark attribute / characters that can be obtained from the exchange shop are excluded.)</color>
+Msg_103	Summon using a 3-star summon ticket. \\rYou can obtain one 3-star character for sure. \\r<color='#7b09aa'>Characters you already own will be exchanged for a page exchange ticket and \\rthe character's page. \\r(Characters that can be obtained from the exchange shop are excluded.)</color>
+Msg_104	You can definitely get the character you want.\\rYou can draw again without limitation until you get the character you want.\\rOnly one 3-star character is guaranteed.\\r<color='#7b09aa'>(Includes all characters except pick-ups.)</color>
+Msg_105	Sky Island is still loading.
+Msg_106	Do you want to change the options?
+Msg_107	When the pickup period ends, Mau Points will be exchanged for _1_{to,}.
+Msg_108	Unique grade item grade is included. Do you really want to <color='#ffff00'>disassemble</color> it to the list?
+Msg_109	There are no items to disassemble.
+Msg_110	Locked items cannot be included in the dismantlement list.
+Msg_111	You have used up all your stamina recharges.
+Msg_112	You do not have enough diamonds to recharge.
+Msg_113	Completed {_1_ '_2_'}.
+Msg_114	The current equipment is being equipped by another character. Would you like to swap it?
+Msg_115	Maximum stamina increased from <color='#ffffff'>_1_</color> to <color='#ffffff'>_2_</color>.
+Msg_116	Leveling up is limited due to lack of resources.
+Msg_117	You cannot enter because your equipment is full. Disassemble the equipment using alchemy.
+Msg_118	Skill '_1_' can be used after _2_ turns.
+Msg_119	Skill '_1_' is currently on standby.
+Msg_120	The nickname does not currently exist.
+Msg_121	Would you like to enhance your writer skills?
+Msg_122	Unable to unlock writer skill.
+Msg_123	You cannot level up your writer skill due to insufficient resources.
+Msg_124	No skills selected.
+Msg_125	Empty or identical skills cannot be saved.
+Msg_126	There is no world skill selected.
+Msg_127	This is a platform that already has world skills applied.
+Msg_128	It is not time to use world skills yet.
+Msg_129	You cannot register as a friend because the other person's friends list is full.
+Msg_130	Your number of friends has changed due to friend deletion.
+Msg_131	Would you like to proceed with greeting all friends you can greet?
+Msg_132	Do you want to unregister the selected friend from your friends list?
+Msg_133	Are you sure you want to cancel your friend request?
+Msg_134	Do you want to accept the friend request?
+Msg_135	Are you sure you want to decline the friend request?
+Msg_136	Do you want to enable auto-approval?
+Msg_137	The auto-approval feature is enabled. If there are users waiting for approval, they will be automatically approved as many times as possible.
+Msg_138	No presets to import.
+Msg_139	Would you like to apply to join this guild?
+Msg_140	Create a guild with the guild name <color='#ffffff'>"_3_"</color> by consuming _1_ _2_. If there are no problems, click the confirm button.
+Msg_141	World skills cannot be set as presets.
+Msg_142	There are currently no world skills.
+Msg_143	You can greet me again after 05:00 AM.
+Msg_144	You have reached the maximum number of greetings you can send today.
+Msg_145	cannot be specified.
+Msg_146	You can use it after joining a guild.
+Msg_147	※ In case of membership approval, the approval of the relevant guild leader is required.
+Msg_148	You have received the guild attendance reward.\\rYou can receive the reward from your mailbox.
+Msg_149	This guild member is appointed as the vice-guild leader.\\rDo you want to proceed with the appointment of the vice-guild leader?
+Msg_150	This guild member will be removed from the position of Vice-Guild Master and his/her guild management rights will be revoked.\\rAre you sure you want to proceed with removing the Vice-Guild Master?
+Msg_151	This guild member is appointed as guild leader.\\rDo you want to proceed with appointing the guild leader?
+Msg_152	※ When delegating the guild leader, the predecessor will be demoted to a guild member.
+Msg_153	This guild member is expelled from the guild.\\rAre you sure you want to expel the guild member?
+Msg_154	You can only disband a guild if there are no guild members other than the guild leader.
+Msg_155	Disbanding the guild.\\rYou can only disband a guild if there are no members left in the guild other than the guild master.\\rYou will not be able to join another guild for 24 hours after disbanding the guild.\\rAre you sure you want to disband the guild?
+Msg_156	The guild has been successfully disbanded. You will not be able to create a guild or join another guild for 24 hours.
+Msg_157	You cannot create a guild or join another guild for 24 hours.\\r(Activity time _1_)
+Msg_158	You are leaving the guild.\\rYou will not be able to join another guild for 24 hours after leaving the guild.\\rAre you sure you want to leave the guild?
+Msg_159	A guild leader can appoint up to _1_ people.
+Msg_160	You cannot join because the guild is full.
+Msg_161	My friends list is full and I can no longer accept or approve any more requests.
+Msg_162	You cannot send a friend request because the other person's friends list is full.
+Msg_163	You have no emoticons.
+Msg_164	Login failed.
+Msg_165	※ Attendance rewards are paid immediately.
+Msg_166	You have received the following rewards in the mail:
+Msg_167	Event Story The event period has ended, so the items you have have been exchanged for the items above.
+Msg_168	Enter the name of the guild to be created
+Msg_169	You have received the roulette reward.
+Msg_170	You need _1_ _2_ to get started.
+Msg_171	During the boosting period, the acquisition probability of limited characters increases by 2 times compared to before.
+Msg_172	During the boosting period, the probability of obtaining a 3-star character doubles.
+Msg_173	You have not entered a stage on 'Normal' difficulty.
+Msg_174	You have not entered a 'Hard' difficulty stage.
+Msg_175	This property is not affected by anything.
+Msg_176	Select the character whose story you want to read.
+Msg_177	No character selected.
+Msg_178	Please select difficulty.
+Msg_179	The conflict in the area where the battle was taking place has ended.
+Msg_180	You have entered the Anubis occupation battle.
+Msg_181	This is not the Anubis occupation period.
+Msg_182	Unable to receive reward.
+Msg_183	The author's current Anubis occupation point is <color='#ffffff'>_1_</color>.
+Msg_184	The writers have joined forces and successfully conquered all regions! \\rThis concludes the Anubis Conquest War. \\rPlease continue your efforts in the next Anubis Conquest War!
+Msg_185	You need to unlock the writer skill of the previous level.
+Msg_186	No fishing rod or bait selected.
+Msg_187	You do not have that item.
+Msg_188	You need storage permission to save screenshot.
+Msg_189	Screen capture completed.
+Msg_190	UID copied.
+Msg_191	There are no caught fish.\\rAutomatic fishing will continue even if you close the app.
+Msg_192	You did not select the catch required for exchange.
+Msg_193	Your profile information has been saved in _1_.
+Msg_194	Initialized to the last saved information.
+Msg_195	There is no profile information to save.
+Msg_196	No more can be added.
+Msg_197	Would you like to play _1_?
+Msg_198	Difficulty: _1_\\rMy record: _2_\\rRating: _3_
+Msg_199	Are you sure you want to delete the object?
+Msg_200	Do you want to reset to the most recently saved state?
+Msg_201	If changes exist, all operations will be reset. Do you still want to exit?
+Msg_202	Do you want to renew the purchase limit?
+Msg_203	You do not have enough money to purchase.
+Msg_204	The number of items that can be purchased has been exceeded.
+Msg_205	The quantity available for purchase has not been specified.
+Msg_206	The product you selected cannot be purchased.
+Msg_207	Are you sure you want to delete your account?\\r<color='#66AAFF'><size=30>※If you delete your account, data recovery is not possible.</size></color>
+Msg_208	You purchased the following products.
+Msg_209	There are no products selected.
+Msg_210	The purchase limit has been exceeded.
+Msg_211	Permission is required for push notifications. Would you like to modify the permissions?
+Msg_212	The purchase limit renewal number has been exceeded.
+Msg_213	The number of purchases available has been updated.
+Msg_214	Failed to clear the minigame.
+Msg_215	The minigame is not over.
+Msg_216	Cannot contain spaces.
+Msg_217	If it includes Korean characters, the number of characters is limited to 8.
+Msg_218	※ If even one Korean character is included, only up to 8 characters can be entered.
+Msg_219	Equipment that meets the criteria checked below will be immediately dismantled upon acquisition and given as material items.
+Msg_220	You cannot request a battle while your opponent is fishing.
+Msg_221	You cannot apply for a match while fishing.
+Msg_222	Enter the channel to move to.
+Msg_223	Only numbers between 1 and 9999 can be entered.
+Msg_224	You cannot enter channel _1_, so you entered channel _2_.
+Msg_225	Some mail items were not received because they had expired.
+Msg_226	You must leave the guild before you can delete your account.
+Msg_227	[Notice]
+Msg_228	The list is being updated. Please wait a moment.
+Msg_229	Command is not available.
+Msg_230	Video is being prepared.
+Msg_231	Account level _1_ or higher can use it.
+Msg_232	You do not have enough funds to purchase additional items.
+Msg_233	1. Please enter the coupon number without case sensitivity.\\r2. If the coupon cannot be used, please check the expiration date and coupon code again.\\r3. The reward item will be sent to your mailbox.\\r4. Enter the coupon number and click the confirmation button.
+Msg_234	The following rewards have been sent to your mailbox.
+Msg_235	Please enter the coupon code.
+Msg_236	It is an eerie cave with an unknown depth and a gloomy atmosphere, but adventurers are constantly coming to obtain treasure.
+Msg_237	There are currently no items selected.
+Msg_238	When you purchase Tales Pass, you can obtain the corresponding rewards.
+Msg_239	After selecting the option change stone or advanced option change stone, please click the confirm button.
+Msg_240	Would you like to change the options below using _1_ gold and _2_?
+Msg_241	Please enter text.
+Msg_242	Shout out You don't have enough gold.
+Msg_243	Additional buff is currently active. Would you like to replace the additional buff?
+Msg_244	All archive buff effects will be initialized when the archive is initialized.\\rDo you want to proceed with the initialization?
+Msg_245	* All used archive activation items except gold will be returned.
+Msg_246	Archive Activation Maximum amount of goods increased from <color='#ffffff'>_1_</color> to <color='#ffffff'>_2_</color>.
+Msg_247	If you exit battle, you will be considered defeated and _1_ stamina will be returned.\\rIf you re-enter battle, the current battle will be initialized and restarted, and 1 stamina will be deducted.
+Msg_248	When you re-enter or exit battle, the current battle progress is reset.
+Msg_249	If you exit the battle, you will be considered defeated, and the number of entries used will not be returned.
+Msg_250	When you exit battle, you are considered defeated.
+Msg_251	You do not have enough stamina to continue the battle.
+Msg_252	Sorted in descending order.
+Msg_253	Sorted in ascending order.
+Msg_254	Shows the character of interest at the top.
+Msg_255	Do not display the character of interest at the top.
+Msg_256	_1_.
+Msg_257	You must select at least one character.
+Msg_258	This function can be used after clearing the 1-1 battle.
+Msg_259	This relationship is already active.
+Msg_260	You are ready to activate the affinity level.\\rWould you like to activate it right now?
+Msg_261	Please select a character.
+Msg_262	Writer skill reset
+Msg_263	When resetting writer skills, all writer skills will be set to level 1.\\rDo you want to proceed with resetting?
+Msg_264	* All writer skill enhancement items used, excluding gold, will be returned.
+Msg_265	* All additional level effects of author skills will also be reset.
+Msg_266	Do you want to activate this skill?
+Msg_267	No more pets can be placed (_1_/_2_)
+Msg_268	You can't plant any more trees (_1_/_2_)
+Msg_269	No more crops can be planted (_1_/_2_)
+Msg_270	Do you want to retrieve all pets?
+Msg_271	You can't tell what kind of tree a sapling is until it's fully grown.
+Msg_272	You can't tell what kind of crop it is until the young plants are fully grown.
+Msg_273	_1_ Content has been opened.\\rDo you want to move it?
+Msg_274	Season End - Please wait for next season.
+Msg_275	The number of auxiliary equipment you can hold has reached its maximum, so crafting is not possible.
+Msg_276	The number of auxiliary equipment you can hold has reached its maximum, so you cannot craft more than that amount.
+Msg_277	Would you like to go to the Diamond Shop?
+Msg_278	You have already used all world skills.
+Msg_279	Items received (used) from the mailbox cannot be cancelled.
+Msg_280	Presets are full.
+Msg_281	Each effect has a _1_% chance of occurring, and\\rthe individual probabilities within the effect are the same.
+Msg_282	It will be updated later.
+Msg_283	This skill has already been registered.
+Msg_284	You have reached the maximum number of greetings you can receive today.
+Msg_285	You are not a member of a guild, so you cannot use chat.
+Msg_286	Rewards will be paid immediately.
+Msg_287	There are currently no event stories available to read.
+Msg_288	Minigame does not exist.
+Msg_289	This is a minigame that has already been cleared.
+Msg_290	You will receive a diamond reward upon clearing.
+Msg_291	The equipment you are currently trying to disassemble contains equipment of grade <color=#E7B04D>[Rare]</color> or higher.\\rDo you want to disassemble it?
+Msg_292	Cannot be used while fishing.
+Msg_293	Daily reset time has arrived.\\rReconnecting to the game.
+Msg_294	Guild application has been completed.
+Msg_295	※ When guild membership is completed, all guild membership applications will be cancelled.
+Msg_296	This content contains the main content of Chapter _1_.\\rWould you like to continue reading?
+Msg_297	You cannot perform a quick battle during this battle.\\rEnd the battle.
+Msg_298	Your stamina is full and you can no longer gain anything.
+Msg_299	The purchased product has been sent to your mailbox.
+Msg_300	When you purchase a paid item (including Tales Shop and Season Pass) for the first time, you can obtain the corresponding reward!
+Msg_301	You do not have enough friendship points to proceed with the summoning.
+Msg_302	This feature will be supported in a later official version.
+Msg_303	Account linking is complete.\\rClick OK to begin organizing data.
+Msg_304	The latest version update has been confirmed.\\rYou will be moved to the home screen to update.
+Msg_305	Items exceeding your possession limit will be sent to your mailbox.
+Msg_306	Guild membership has been completed.
+Msg_307	The item has exceeded its possession limit and will be sent to your mailbox.
+Msg_308	World skills cannot be used in unoccupied areas.
+Msg_309	Until next recharge\\r_1_
+Msg_310	Current stamina is \\rmaximum
+Msg_311	Would you like to update the product list?\\rAll unobtained products will be initialized.
+Msg_312	You are out of items and cannot trade any more.
+Msg_313	If you touch and hold the character, you can go to the \\rreinforcement page.
+Msg_314	When purchasing a product, you can receive a mission reward.
+Msg_315	Once you receive the reward, you cannot cancel the subscription.\\rDo you still want to receive the reward?
+Msg_316	This product has already been purchased.
+Msg_317	※ If you receive all the rewards, the mission will disappear.
+Msg_318	You can place a pet by long-pressing it and dragging it to the placement area.
+Msg_319	Your account level is lower than the recommended level. [Recommended level: _1_]\\rPlease try challenging after leveling up in a stage where you can clear it.
+Msg_320	Sound is already playing.
+Msg_321	The condition is not satisfied.
+Msg_322	If changes exist, all tasks will be reset. Do you still want to exit?
+Msg_323	This function can be used after clearing battles 1-3.
+Msg_324	The occupation war has opened.
+Msg_325	Loading items.
+Msg_326	There are disabled layers. Disabled state will not be saved in the final result. Do you want to continue?
+Msg_327	changed to _1_.
+Msg_328	Nickname has been changed.
+Msg_329	The sign has been changed.
+Msg_330	Preset has been registered.
+Msg_331	Additional buffs have been activated.
+Msg_332	My team formation has not been completed.\\rYou must form a team with at least one character to proceed with the battle.
+Msg_333	Camera permission denied.\\rYou can use this feature by enabling permission in Settings.\\rWould you like to go to Settings?
+Msg_334	Repository permission denied.\\rYou can use this feature by enabling permission in Settings.\\rWould you like to go to Settings?
+Msg_335	When your stamina is full, you can no longer recover.
+Msg_336	Your character level is insufficient, and you are currently at the maximum unique weapon level that can be reached.
+Msg_337	Archive has been initialized.
+Msg_338	Friend request successfully submitted.
+Msg_339	You successfully requested a friend and the other person immediately approved.
+Msg_340	All progress will be reset, and only the points calculated based on the current record will be awarded.
+Msg_341	Free diamonds will be used first.\\rIf there are not enough free diamonds, the paid diamonds you have will be used automatically.
+Msg_342	Please hold down the skill for 1 second
+Msg_343	There are not enough exchangeable items available for exchange.
+Msg_344	Paid products cannot be received in full due to cancellation of subscription.
+Msg_345	You have already entered _1_
+Msg_346	Entry is only allowed on _1_ today
+Msg_347	Would you like to recharge your Jewel Dungeon entrance ticket?\\r(Diamonds consumed: _1_)
+Msg_348	The event story has ended.
+Msg_349	You can unlock minigames by progressing through the main story.
+Msg_350	It will be released in a future update.
+Msg_351	The entire process is forced to shut down.
+Msg_352	The game will be terminated due to account usage restrictions.
+Msg_353	Chat is restricted due to violation of operating policy.\\rFor more information, please contact the customer center.
+Msg_354	Obtain monthly daily rewards
+Msg_355	Available after completing the disassembly tutorial.
+Msg_356	You currently have no items.
+Msg_357	Cannot be used during farm content.
+Msg_358	There is already an active author trait.
+Msg_359	The corresponding writer skill is not open.
+Msg_360	If you cancel your subscription for a purchased product, the rewards for the first purchase gift event will also be recovered. In addition, if you have used the purchased product or used the rewards for the first purchase gift event, your subscription cancellation will be restricted.
+Msg_361	If you receive the first purchase gift event reward in the mail, it will be considered used.
+Msg_362	You cannot proceed with the summoning because you do not have enough summoning tickets. Would you like to go to the Tales Shop?
+Msg_363	Tales Runner coupon rewards have been paid. \\rCheck the coupon number on the event banner in the lobby!
+Msg_364	Please wait until the next season of Infinite Tower.
+Msg_365	Would you like to use _1_ diamond to recover your Anubis occupation stamina?\\r<color='#FA5558'>※ Occupation stamina is reset to 100 at the start of each new season.</color>
+Msg_366	When you exit battle, the current record is reset.\\rWhen you re-enter battle, the current battle is reset and restarted.
+Msg_367	Today's Champions Arena admission ticket recharge count has been used up.
+Msg_368	This guild is currently disbanded.
+Msg_369	You cannot move to other tabs on the current guild information screen.
+Msg_370	You can enter after clearing all levels of normal difficulty.
+Msg_371	You can challenge the Hard difficulty.
+Msg_372	The dark power of Anubis has taken over all areas of Fairy Tale Land.\\rThis concludes the Anubis occupation battle.\\rI believe you will win the next Anubis occupation battle!
+Msg_373	This user does not have a profile.
+Msg_374	Your equipment is full and cannot be dismantled. Dismantle the equipment using alchemy.
+Msg_375	※ The first day item will be provided immediately upon purchase of the product, and the attendance reward will be provided upon subsequent login.\\r※ Once all rewards are received, the attendance will be canceled.\\r※ The product is considered to have been used immediately upon purchase, and cancellation of subscription is not possible. (Cancellation is possible when payment is made under the name of a minor without the consent of a legal representative)
+Msg_376	Get attendance rewards after purchasing the product!
+Msg_377	The amount that can be exchanged at one time has been exceeded
+<<! Role >>
+Role_All	All
+Role_00	Defensive
+Role_01	Offensive
+Role_02	Support type
+Role_03	Recovery type
+Role_10	High defense and maximum health\\rSpecialized in defense of allies
+Role_11	Attack Specialization
+Role_12	Specializes in providing buffs to allies and debuffs to enemies
+Role_13	Specialized in recovering allied HP
+<<! Attributes >>
+Attr_00	no
+Attr_01	Fire
+Attr_02	Water
+Attr_03	Nature
+Attr_04	Light
+Attr_05	darkness
+Attr_Desc	_1_ Damage when attacking a target with attribute _2_
+AttrRecv_Desc	_1_ Damage received from attribute target _2_
+<<! WARNING >>
+Warning_000	
+Warning_001	Placing a non-<color='#ffffff'>defensive</color> character in the front line may put your entire team at risk. Do you want to continue?
+Warning_002	This character is already assigned to another team. Do you still want to proceed with the assignment?
+Warning_003	This preset contains characters assigned to different teams. Would you like to load it without characters assigned to different parties?
+<<! Rank >>
+Rank_00	Clear the battle
+Rank_01	Surviving Member _1_ or more
+Rank_02	Cleared with _1_ seconds remaining
+<<! Mini Game >>
+Mini_Password_Title	Find Password
+Mini_Password_Desc	Please correctly guess the four-digit password using the information you obtained while adventuring through the world.
+Mini_3Match_Title	Triple Matching Game
+Mini_InFront_Title	Image Matching Game
+<<! Development Related Messages >>
+Dev_00	Not supported yet.
+Dev_01	I need to develop a function to read from a website.
+Dev_02	Female writers will be supported in the future.
+Dev_03	Saving assets..
+Dev_04	There is no introduction for this character
+Dev_05	There is no greeting for that character
+<<! Message when list is empty >>
+Empty_GuildMember	There are currently no users who have requested to join.
+Empty_HeroStats	There are currently no character statistics.
+Empty_ConquerRecord	There is no clear information for that area.
+Empty_FindFriend	No matching friends found.
+Empty_FindGuild	The corresponding guild could not be found.
+<<! Error related messages >>
+Error	Error
+Error_GetSettings	Failed to get initial information.\\rDo you want to retry?
+Error_CantConnect	Unable to communicate with the server. You can try again or close the app.
+Error_CantChatConnect	Failed to communicate with the chat server. If you do not retry, chat will be discontinued.
+Error_CantLogin	Unable to log in. Exit the app.
+Error_TooLongWait	The response timed out.
+Error_Default	An unknown error occurred. (Error code: _1_)
+Error_NoneGuildName	Guild name cannot be blank.
+Error_AllSlotEmpty	All slots cannot be emptied.
+Error_EquipSameSkill	You cannot equip the same skill.
+Error_Unknown	An unknown error occurred.
+Error_WrongBattleServerUid	Incorrect Battle Server UID.
+Error_WrongAccUid	Incorrect account UID.
+Error_WrongWorldEventId	The main world ID is incorrect.
+Error_CanNotFoundBattleServer	The current battle server cannot be found.
+Error_CanNotFoundCoolBattleServer	We can't find any active battle servers.
+Error_CanNotFoundCoolTownServer	Could not find an active town server.
+Error_NotIdentified	Error: Unidentified
+Error_NotEnoughStamina	You currently do not have enough stamina.
+Error_NotEnoughPvPTicket	You currently do not have enough arena tickets.
+Error_EmptyDeck	The deck is empty.
+Error_NotExistPost	The post does not exist.
+Error_NotExistPostItem	The postal item does not exist.
+Error_RewardOrExpirePost	This post has received a reward or the period for receiving a reward has expired.
+Error_CanNotFoundDictData	The data is Dict data that cannot be found.
+Error_ServerMaintenance	We are currently performing service maintenance.
+Error_NotEnoughItem	There are currently not enough items.
+Error_NonePvPAccount	The current arena account does not exist.
+Error_NonePvP	Arena information does not exist.
+Error_FailSaveDB	Failed to save DB.
+Error_FailSelectDB	Failed to load DB.
+Error_WrongToken	Invalid token.
+Error_ExistNick	The current nickname already exists.
+Error_NoneHeroDeckChange	When changing decks, there are characters you do not own.
+Error_CanNotFoundPvPUser	The current arena user cannot be found.
+Error_CanNotFoundWolrd	The current world information does not exist.
+Error_AlreadyPvPDailyRewardRecv	You have already received the Arena Daily Reward.
+Error_NotThreeStarAdventureSweep	The conditions for the current sweep are not met.
+Error_MaxLvHeroLvUp	The character has already reached the maximum level.
+Error_SmallChangeLvHeroWeaponLvUp	The change level is less than or equal to the current level of the hero weapon. (The change level should always be greater.)
+Error_DictValueCheck	Dict data exists, but value verification is required.
+Error_NotExistHeroId	The character ID does not currently exist.
+Error_NotExistHeroIdProfile	Cannot set a non-existent character ID as the representative character.
+Error_ExistHero	The character already exists.
+Error_AlreadyFriendlyPvPStart	The user is already in a match with another user.
+Error_NotClearPreviousChapter	You have not cleared the previous chapter.
+Error_RoguelikeSweepNotClear	You have never cleared a Dark Abyss on that difficulty before, so you cannot sweep it.
+Error_RoguelikeGrowthChooseNotGrowthId	The Dark Abyss buff selection is incorrect.
+Error_NotEnoughTicket	There are currently not enough tickets.
+Error_RoguelikeTicketNotEnough	There are currently not enough tickets to enter the Dark Abyss.
+Error_RoguelikeBoostTicketNotEnough	You currently do not have enough Dark Abyss Boost Tickets.
+Error_RoguelikePreviousDunNotClear	You have not cleared the previous dungeon in the Dark Abyss.
+Error_RoguelikeHpZeroNotDeck	Characters with 0 HP in the Dark Abyss cannot be registered in the deck.
+Error_EquipmentWearCountNot	Equipment wear count cannot be less than 4 (it must be at least -1).
+Error_EquipmentWearRoleNot	You are not a role that can wear that equipment.
+Error_EquipmentLvUpMaxLv	The equipment has already reached its maximum level.
+Error_EquipmentGradeUpMaxGrade	The equipment has already reached its maximum grade.
+Error_EquipmentGradeUpRequireMatCount	The number of materials required to upgrade equipment grade is not enough.
+Error_EquipmentGradeUpGradeDifferent	The grade of the current equipment breakthrough target equipment and the material equipment are different.
+Error_EquipmentGradeUpCategoryDifferent	The current equipment breakthrough target equipment and the material equipment are worn on different parts.
+Error_EquipmentGradeMaxLvNot	There is equipment among the equipment breakthrough equipment that is not at the maximum level.
+Error_UnlockTermNot	The current unlock conditions are not met.
+Error_CanNotFoundEnum	The enumeration value cannot be found.
+Error_MainWorldChapterPosNot	The current main story location cannot be found.
+Error_DeckChangeUsedHeroNotDeck	A deck that has already been used in a Chaos Raid cannot be placed in another deck in the Chaos Raid.
+Error_EquipmentWearPartNot	This is not a wearable part of the equipment.
+Error_EquipmentGradeUpMatLock	When breaking through equipment, currently locked material equipment cannot be used.
+Error_GachaStartGachaTypeOpenNot	The summon is not currently open.
+Error_GachaSelectStartCountNot	The number of selected summons is not enough.
+Error_ItemDecomposeLockNot	The currently locked equipment cannot be disassembled.
+Error_ItemDecomposeUnitEquipNot	The equipment currently worn by the character cannot be disassembled.
+Error_MissionClearProgressNot	This is not a current mission.
+Error_MissionClearNot	The mission could not be completed.
+Error_MissionRewardReceiveClearNot	The mission could not be completed.
+Error_MissionRewardReceiveStateRewardNot	You are not currently in a state where you can receive the mission reward.
+Error_WorldItemRewardTakeWorldItemNot	This is not a stepping stone for obtaining items.
+Error_StaminaChargeCountNot	You currently have insufficient stamina charges.
+Error_RoguelikeStartAlreadyProgress	You are already in the Dark Abyss.
+Error_BossRaidSeasonNotOpen	The Chaos Raid is not currently open.
+Error_BossRaidSweepCountZero	You attempted to sweep Chaos Raid 0 times.
+Error_BossRaidSeasonRewardNot	There are currently no season rewards available for the Chaos Raid.
+Error_BossRaidChallengeDifficultyNot	You can enter after clearing the Chaos Raid of the previous difficulty.
+Error_BossRaidSweepClearNot	Sweeping is possible after clearing the corresponding chaos raid.
+Error_GachaSelectConfirmResultNot	There is currently no selected summon result.
+Error_EquipmentMaxCount	Your inventory of auxiliary equipment items is full. Dismantle unused auxiliary equipment in alchemy content to make space in your inventory and proceed with combat.
+Error_FriendshipStoryReadRewardRecv	You have already received the story reward for that character.
+Error_FriendshipStoryReadPreviousReward	You must receive the previous story reward for that character.
+Error_HeroSkillLvUpMaxLv	The skill level is already at its maximum level and cannot be strengthened any further.
+Error_WriterSkillUnlockAlreadyUnlock	The writer skill is already unlocked.
+Error_WriterSkillLvUpMaxLv	This skill is at its maximum level.
+Error_WriterSkillDeckChangeSkillNot	There are no skills to equip.
+Error_WriterSkillDeckChangeSkillSame	You cannot equip the same skill.
+Error_FriendGreetMaxCount	You have exceeded the maximum number of greetings you can make today.
+Error_FriendDeleteNotFriend	You are no longer friends.
+Error_FriendAlready	You are already friends.
+Error_FriendAlreadyApply	A friend request has already been submitted.
+Error_FriendAlreadyAccept	The other person has already sent me a friend request.
+Error_FriendMaxCount	The number of friends is already at the maximum.
+Error_FriendApplyMaxCount	You cannot send any more friend requests because the maximum number of requests sent has been reached.
+Error_FriendAcceptMaxCount	The number of friends currently waiting for approval is at its maximum.
+Error_FriendApplyCancelAlready	You cannot cancel because you are already friends.
+Error_FriendApplyCancelApplyNot	The application cannot be cancelled because it is not currently applied.
+Error_FriendAcceptNot	You cannot accept because your acceptance is not pending.
+Error_FriendRejectAcceptNot	Cannot reject because acceptance is not pending.
+Error_FriendOtherMaxCount	The other person's friends list is currently full.
+Error_FriendNot	You are not currently friends with the other person.
+Error_FriendGreetToday	You have already sent a greeting to that friend today.
+Error_FriendSearchTypeNone	Search type does not exist.
+Error_FriendSearchLvSection	The search level section is incorrect.
+Error_FriendApplySameAccUid	You cannot send a friend request to yourself.
+Error_GuildNot	The guild does not exist.
+Error_GuildUserNot	You are not a guild member.
+Error_GuildUserMax	The current guild members are at maximum.
+Error_GuildJoinAlready	You are already joined to a guild.
+Error_GuildApplyTimeNot	It is not the time to create, join, or apply for a guild.
+Error_GeneratorUidFail	UID generation failed.
+Error_GuildMasterOrSubmaster	This function can only be used by guild masters or sub-guild masters.
+Error_GuildUserWithdrawMaster	The guild master cannot leave the guild.
+Error_GuildUserExpelGrade	You can only expel guild members who are lower ranked than you within the guild.
+Error_GuildUserMasterNot	This function is only available to the guild master.
+Error_GuildGradeChangeTimeNot	Guild Master and Vice Master delegated targets can be delegated again after 24 hours.
+Error_GuildUserSubmasterAlready	You are already a sub-guild master.
+Error_GuildUserNormalAlready	You are already a member of a guild.
+Error_GuildUserSubmasterMax	The number of current sub-guild leaders is at its maximum.
+Error_GuildDisbandUserCount	A guild can be disbanded when there is only one guild member left.
+Error_GuildCreateCharLength	The character length is incorrect.
+Error_GuildAcceptUserNot	There is currently no user to accept.
+Error_GuildRejectUserNot	The user to reject does not currently exist.
+Error_FarmAddMax	The number of farms currently registered is at maximum.
+Error_FarmNot	No farm information currently exists.
+Error_FarmVisitInteractRewardReceive	You have already received a farm interaction reward.
+Error_FarmVisitInteractMax	The number of farm interactions is currently at its maximum.
+Error_FarmVisitRandomNotFound	The current farm random visit user could not be found.
+Error_FarmIdNotFound	The current farm ID could not be found.
+Error_FarmRewardTimeNot	It is not the current time to receive the reward.
+Error_AttendNot	There is currently no attendance information.
+Error_AttendRewardReceive	You have already received the attendance reward.
+Error_BirthdayNot	There is currently no birthday information.
+Error_BirthdayRewardReceive	You have already received the birthday reward.
+Error_FarmAddAlreadyPos	A farm has already been added at the same location.
+Error_FarmExchangeAlreadyPos	A farm has already been added to the same location
+Error_SubStoryOpenNot	The current event story is not open.
+Error_SubStoryReadRewardReceive	You have already received the event story reward.
+Error_SubStoryWorldNot	There is currently no event story world information.
+Error_SubStoryBattleSweepClearNot	You have never cleared the dungeon before, so you cannot sweep it.
+Error_SubStoryBattleSweep3StarNot	You cannot sweep the dungeon because you have not achieved 3 stars.
+Error_AlreadyRewardReceive	The reward has already been received.
+Error_FishingManualEndRewardNot	There is no manual fishing reward. This is when you End without Starting or Ended twice or more.
+Error_FishingRodItemNot	The fishing rod item does not exist.
+Error_FishingBaitItemNot	You currently have insufficient bait items.
+Error_FishingAutoEndStartNot	You have never started auto-fishing.
+Error_FishingAutoEndTimeNot	The fishing auto-acquire time has not yet arrived.
+Error_BoardFindNot	The current board cannot be found.
+Error_BattleBoardNot	The platform is not a battle platform.
+Error_OccupationWarOpenNot	The current Anubis Occupation War season has not started.
+Error_PvPSeasonEnd	The current arena season has ended.
+Error_OccWarSeasonEnd	The current Anubis Occupation War season has ended.
+Error_OccWarBattleSweepClearNot	You cannot sweep this platform because it has never been cleared before.
+Error_OccWarRankRewardReceiveRankNot	You are not currently in the ranking, so you cannot receive the reward.
+Error_AlreadyRewardReceived	You have already received your reward.
+Error_OccWarPointRewardReceiveGuildNot	Error: You cannot receive the Anubis Occupation War Point Reward because there is no guild
+Error_MaxRewardReceived	You have already received the maximum reward.
+Error_CouponExistsNot	The coupon code is not valid. Please check the coupon code again.
+Error_CouponAlready	This coupon has already been used.
+Error_CouponMaxCount	All coupons in the group have been used up.
+Error_CouponAlreadyGroup	This coupon group has already been used.
+Error_AccountWithdraw	This user has withdrawn.
+Error_EmoticonExistsNot	The emoticon does not exist
+Error_CouponExpired	The coupon has expired.
+Error_PassEventOpenNot	The pass event is not open.
+Error_PassLvNot	You do not have enough pass level (a value greater than the maximum reward I can receive)
+Error_PassLvZero	Pass level is 0.
+Error_BuyMax	You can no longer purchase.
+Error_WeaponLvUpMaxLv	The unique weapon has reached the maximum level for its grade and cannot be leveled up.
+Error_WeaponGradeUpMaxLv	The unique weapon cannot be upgraded because it is not at the maximum level.
+Error_WeaponGradeUpMaxGrade	The unique weapon is at the maximum grade and cannot be upgraded.
+Error_ChapterClearRewardReceiveAllStarNot	You cannot receive the chapter clear reward. It is not all 3 stars.
+Error_ChapterClearRewardReceiveDifficutyNot	The difficulty level for receiving the chapter clear reward is incorrect.
+Error_ItemExistsNot	The item does not exist.
+Error_EquipmentExistsNot	The equipment item does not exist.
+Error_EquipmentOptionChangeNot	The option has already been changed or there is no option to change.
+Error_MissionRewardReceiveDayNot	It is not the day to receive the mission reward.
+Error_RelationLvUpConditionNot	The relationship activation condition has not been met.
+Error_ArchiveAddBuffActiveNot	The conditions for activating the archive add buff have not been met.
+Error_ArchiveResetNot	There is nothing to reset the archive.
+Error_MainStoryHardPlayCountNot	You have not played the Main Story on Hard difficulty.
+Error_MainStoryHardChargeCountNot	There are not enough charges for the Main Story Hard difficulty.
+Error_UnitExistsNotPageBuyNot	If the character does not exist, you cannot purchase that character's page in the Page Shop.
+Error_RelationLvUpActiveLvAlready	The relationship level is already activated.
+Error_RelationLvUpPrevLvActiveNot	You must level up the relationship before leveling up.
+Error_WriterSkillBonusActiveAlready	Writer Skill Bonus Active There is already a Writer Skill Bonus active.
+Error_WriterSkillBonusActiveConditionNot	The conditions for activating the writer skill bonus have not been met.
+Error_GoodsDunBattleSweepClearNot	The Gem and Growth Training Center dungeons have not been cleared, so they cannot be sweeped.
+Error_GoodsDunBattleSweepThreeStarNot	The Gem and Growth Training Center dungeons cannot be sweeped because 3 stars have not been achieved.
+Error_AttendRewardFirstIAPNot	You must make your first payment purchase to receive the attendance reward.
+Error_FriendGreetReceiveMaxCount	You have reached the maximum number of times you can receive greetings today.
+Error_HotDealOpenNot	The hot deal package is not available for purchase.
+Error_AppleAuthRevokeFailed	Failed to revoke Apple deactivation token.
+Error_FriendlyArenaMyDeckEmpty	My Arena Deck is empty in Friendly Match.
+Error_FriendlyArenaOtherDeckEmpty	In a friendly match, your opponent's Arena Deck is empty.
+Error_WrongUserUid	Incorrect user UID (ID).
+Error_BlockUser	This account has been restricted from using the game due to policy. For more information, please contact the email address below.\\r\\r<size=28>talesrunner.rpg_support@rhaon.com</size>
+Error_FailSignIn	Error: User verification failed
+Error_GuildWarSeasonOpenNot	The current Guild War Season is not open.
+Error_GuildWarMatchNot	There are no other guilds matching your guild.
+Error_GuildWarAtkDeckEmpty	The Guild War AtkDeck is empty.
+Error_GuildWarDefDeckEmpty	The opponent's Guild War defense deck is empty.
+Error_GuildWarGuildUserNot	New guild members can participate in the guild war starting from the matching day after.
+Error_GuildWarOtherGuildUserNot	The opposing guild member is not a guild member that can participate in guild wars.
+Error_GuildWarAttackCountNot	You do not have enough daily attacks.
+Error_GuildWarGuildNot	This guild is not eligible to participate in guild wars.
+Error_GuildWarOtherLifeNot	All health of the target enemy guild member has been depleted.
+Error_GuildWarOtherBattle	This user is currently in battle. Please wait until the battle ends.
+Error_GuildWarMatching	Guild War Matchmaking is being prepared.
+Warning_NoResponseTail	\\r<color='#ff4400'><size=24>※If you select "Exit", the app will close.</size></color>
+Error_SignChangeAlready	Account linking failed because the account already exists.
+Error_GachaCountNot	Insufficient summons.
+Error_ChampArenaDeckDuplicate	Duplicate characters exist.
+Error_ReplayThumbupAlready	The replay has already been liked.
+Error_ReplayListInsufficientArguments	The replay list does not contain enough data.
+Error_ReplayUploadCountExceeding	The number of replay uploads exceeded.
+REPLACE_BAN_WORD	*
+<<! Help Top Categories >>
+Help_Main_0	Basic
+Help_Main_1	Writing Room
+Help_Main_2	Battle
+Help_Main_3	Content
+Help_Main_4	Sky Island
+Help_Main_5	Adventure
+Help_Main_6	Character
+<<! Help Subcategories >>
+Help_Sub_0	Lobby
+Help_Sub_1	Edit author information
+Help_Sub_2	Mission
+Help_Sub_3	Guild
+Help_Sub_4	Friends
+Help_Sub_5	Store
+Help_Sub_6	Summon
+Help_Sub_100	Writing Room
+Help_Sub_101	Writer Skill Management
+Help_Sub_102	Author Level Information
+Help_Sub_103	Change author gender
+Help_Sub_104	Change sign
+Help_Sub_105	Change nickname
+Help_Sub_106	Archive
+Help_Sub_200	Stage Configuration
+Help_Sub_201	Attack System
+Help_Sub_202	Skill System
+Help_Sub_203	Writer Skill System
+Help_Sub_204	Attribute System
+Help_Sub_205	Team formation
+Help_Sub_206	Stats
+Help_Sub_300	Alchemy
+Help_Sub_301	Library
+Help_Sub_302	Season Pass
+Help_Sub_400	Sky Island
+Help_Sub_401	Mini Game
+Help_Sub_402	Palm
+Help_Sub_403	Fishing
+Help_Sub_500	Adventure
+Help_Sub_501	Main Story
+Help_Sub_502	Arena
+Help_Sub_503	Abyss of Darkness
+Help_Sub_504	Anubis Occupation
+Help_Sub_505	Jewel Dungeon
+Help_Sub_506	Growth Training Center
+Help_Sub_507	Chaos Raid
+Help_Sub_508	Event Story
+Help_Sub_509	Champions Arena
+Help_Sub_510	Infinite Tower
+Help_Sub_511	Guild Battle
+Help_Sub_600	Character List
+Help_Sub_601	Details
+Help_Sub_602	Level Up
+Help_Sub_603	Promotion
+Help_Sub_604	Skill Level Up
+Help_Sub_605	Unique Weapon
+Help_Sub_606	Equipment
+<<! Local Push Message >>
+Local_Push_01	Author! Please save Fairy Tale Land.
+Local_Push_02	Author!! You haven't forgotten about Fairy Tale Land, have you? \\rPlease help Fairy Tale Land, which is in danger!!
+Local_Push_03	You can harvest farm crops.
+Local_Push_04	Hehe, the harvest is bountiful!\\rThe farm warehouse is full, so could you please collect it?
+Local_Push_05	! Please come to the arena.
+Local_Push_06	The Arena Management Committee has contacted you! \\rThere are a ton of rewards piled up. Please collect them quickly!
+Local_Push_07	Stamina fully restored.
+Local_Push_08	When I woke up, my stamina was completely depleted.\\rIt won't accumulate anymore, so use it quickly!
+Local_Push_09	Author! Chaos Raid has started!!
+Local_Push_10	A powerful boss has appeared?\\rIt's time for this warrior to appear!! Let's go catch him!
+Local_Push_11	! Chaos Raid is ending soon!
+Local_Push_12	Oh my~ The raid is already over... Let's hit the boss one more time before he runs away!!!
+Local_Push_13	The Anubis occupation war has begun.
+Local_Push_14	I can't forgive you for targeting the territory of the fairy tale land. \\rNow, hurry to the battlefield!!!
+Local_Push_15	Before the Anubis occupation war ends, at least a little bit
+Local_Push_16	We need to capture more lands.\\rFor victory!!! Fight harder!
+<<! Boosting Event >>
+Boost_01	Jewel Dungeon Reward _1_x Increase
+Boost_02	Character Growth Dungeon Reward _1_x Increase
+Boost_03	Equipment Reinforcement Dungeon Reward _1_x Increase
+Boost_04	Unique Weapon Growth Dungeon Reward _1_x Increase
+Boost_05	Skill Growth Dungeon Reward _1_x Increase
+Boost_06	Main Story (Normal) Permanent Reward _1_x Increase
+Boost_07	Main Story (Hard) Permanent Reward _1_x Increase
+Boost_08	Dark Abyss Daily Entry Ticket _1_x Increase
+Boost_09	Arena Daily Entry Ticket _1_x Increase
+Boost_10	Chaos Raid permanent reward _1_x increase
+Boost_11	Writer experience points gained increased by _1_ times
+Boost_12	Farm jackpot chance doubled
+Boost_13:	Doubles the chance of a 3-star character appearing when summoned
+Boost_14:	Doubles the chance of pickup characters appearing when summoned
+Boost_15	Arena Daily Reward _1_x Increase
+Boost_16	Daily mission rewards _1_x increase
+Boost_17	Attendance Points _1_x Event
+Boost_18	Greeting Friendship Points _1_x Event
+Boost_19	When clearing the main story, event items are given in proportion to the amount of stamina used.
+<<! All-out war >>
+OccWarBoardTypeNone	None
+OccWarBoardTypeBattleAlly	Defending…
+OccWarBoardTypeScout	Reconnaissance in progress…
+OccWarBoardTypeConfront	in progress…
+OccWarBoardTypeBattleEnemy	Attacking…
+OccWarBoardTypeAlly	Friendly Area
+OccWarBoardTypeEnemy	Enemy Area
+<<! Probability Table >>
+ShopProbability	probability table
+SP_TITLE1	Alchemy - Equipment Crafting Probability
+SP_TITLE11	Item
+SP_TITLE12	rating
+SP_TITLE13	Probability
+SP_TITLE2	Alchemy - Chance of changing options
+SP_TITLE21	Option Change Stone Name
+SP_TITLE22	Option Group
+SP_TITLE23	Effect
+SP_TITLE24	probability
+SP_TITLE25	minimum value
+SP_TITLE26	maximum value
+SP_TITLE27	Minimum increment value
+SP_TITLE3	Fishing - Bait Probability
+SP_TITLE31	Item Name
+SP_TITLE32	Reward name
+SP_TITLE33	Manual Fishing Chance
+SP_TITLE34	Auto Fishing Chance
+SP_TITLE35	Number
+SP_TITLE4	Farm - Seed/Seedling Probability
+SP_TITLE41	Item Name
+SP_TITLE42	Reward Name
+SP_TITLE43	type
+SP_TITLE44	Probability
+SP_TITLE5	Equipment Selection Box Probability
+SP_TITLE51	Item Name
+SP_TITLE52	Reward Name
+SP_TITLE53	rating
+SP_TITLE54	probability
+SP_FarmTypeName1	pet
+SP_FarmTypeName2	tree
+SP_FarmTypeName3	Flowerpot
+SP_TITLE6	3 star character probability
+SP_TITLE61	Character Name
+SP_TITLE62	probability
+<<! Replay >>
+RePlay	Replay
+RePlay_nick	Nickname:
+RePlay_replayid	Replay ID:
+RePlay_BattleInfo	Contents
+RePlay_BattleInfoTime	Battle Time:
+RePlay_BattleInfoWin	Battle Results:
+Party using RePlay_BattleInfoParty	
+Delete RePlay_Del	
+Post RePlay_Upload	
+RePlay_Play	Play
+RePlay_Like	Like
+RePlay_Noti	Only the last 20 replay records are saved.
+RePlay_Tap1	Replay Bulletin Board
+RePlay_Tap2	My Replay
+RePlay_Tap3	Popularity
+RePlay_Tap4	Latest
+RePlay_Tap5	My upload
+RePlay_Tap6	Search Results
+RePlay_Tap7	Recent Records
+RePlay_Tap8	saved
+RePlay_Empty	There are no saved replay records.
+RePlay_DelTitle	Delete replay
+RePlay_DelDesc	Are you sure you want to delete the posted replay? \\rDeleted posts cannot be recovered.
+RePlay_DelDescMy	Are you sure you want to delete your saved replays?\\rDeleted replays cannot be recovered.
+RePlay_Copy	The replay ID has been copied.
+RePlay_LikeCom	liked this replay.
+RePlay_Post	Post a replay
+RePlay_Posttxt1	Please enter the name of the replay you want to register.
+RePlay_Posttxt2	Enter the replay title
+RePlay_Posttxt3	※ You can enter up to 24 characters.
+RePlay_Posttxt4	Please select a search method
+RePlay_Posttxt5	Enter replay description
+RePlay_Posttxt6	※ You can enter up to 100 characters.
+Replay_PostChecktxt1	Do you want to post the replay?
+Replay_PostChecktxt2	You can register up to 5 times a day.
+Replay_PostChecktxt3	Current upload count: _1_ times
+Replay_SearchTitle	Find Replay
+Replay_Searchtxt	Please select a search method
+Replay_Searchtxt1	Replay name
+Replay_Searchtxt2	Replay ID
+Replay_Searchtxt3	contents
+Replay_Searchtxt4	※ You can enter up to 24 characters.
+Replay_Msg1	There is no replay file selected.
+Replay_Msg2	There are no saved replay records.
+Replay_Msg3	No search results.

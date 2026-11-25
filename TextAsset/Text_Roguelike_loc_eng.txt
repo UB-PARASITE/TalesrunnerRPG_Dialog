@@ -1,0 +1,13 @@
+Roguelike_FloorName_0000	Abyss of Darkness, Basement 1
+Roguelike_FloorName_0001	Abyss of Darkness, Basement 2
+Roguelike_FloorName_0002	Dark Abyss, Basement 3
+Roguelike_FloorName_0003	Abyss of Darkness, 4th Floor
+Roguelike_FloorName_0004	Abyss of Darkness, 5th Floor
+Roguelike_FloorName_0005	Abyss of Darkness, 6th Floor
+Roguelike_FloorName_0006	Dark Abyss, Underground 7th Floor
+Roguelike_FloorName_0007	Dark Abyss, Underground Floor 8
+Roguelike_FloorName_0008	9th floor of the Dark Abyss
+Roguelike_FloorName_0009	Abyss of Darkness, 10th Floor
+Roguelike_FloorName_0010	Dark Abyss, Underground Floor 11
+Roguelike_FloorName_0011	Dark Abyss, Underground Floor 12
+Roguelike_FloorName_0012	13th Floor, Abyss of Darkness

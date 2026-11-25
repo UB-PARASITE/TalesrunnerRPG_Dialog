@@ -1,0 +1,71 @@
+ShopTab_Name_0100	Gold
+ShopTab_Name_0101	Special Gold
+ShopTab_Name_0102	100-day Special Shop
+ShopTab_Name_0200	General Sale
+ShopTab_Name_0300	Exclusive Goods
+ShopTab_Name_0301	Arena
+ShopTab_Name_0302	Dark Abyss
+ShopTab_Name_0303	Chaos Raid
+ShopTab_Name_0304	Anubis Conquest
+ShopTab_Name_0305	Attendance
+ShopTab_Name_0306	Champions Arena
+ShopTab_Name_0307	Adventure Journal
+ShopTab_Name_0400	Page Exchange
+ShopTab_Name_0500	Recommended Items
+ShopTab_Name_0501	Limited Time
+ShopTab_Name_0503	Pickup Summon
+ShopTab_Name_0504	2025 Fairy Tale Land
+ShopTab_Name_0505	50-day Commemoration
+ShopTab_Name_0506	Seollal
+ShopTab_Name_0507	Special Growth
+ShopTab_Name_0508	Valentine's Day
+ShopTab_Name_0509	Special Support
+ShopTab_Name_0510	White Day
+ShopTab_Name_0600	Diamond
+ShopTab_Name_0700	Regular Package
+ShopTab_Name_0701	Newcomer Support
+ShopTab_Name_0702	Daily
+ShopTab_Name_0703	Weekly
+ShopTab_Name_0704	Monthly
+ShopTab_Name_0800	Monthly Subsidy
+ShopTab_Name_0801	Daily Writer Support Pack
+ShopTab_Name_0802	Daily Writer Support Pack Plus
+ShopTab_Name_0803	Daily Stamina Supply Pack
+ShopTab_Name_0805	Daily Gift Box Supply Pack
+ShopTab_Name_0810	7-day Supply
+ShopTab_Name_0811	7-day Pickup Summon Ticket Supply Pack
+ShopTab_Name_0900	Hot Deal
+ShopTab_Name_1000	Fishing Gear
+ShopTab_Name_1001	Fishing Rod
+ShopTab_Name_1002	Bait
+ShopTab_Name_1100	Daily Items
+ShopTab_Name_1200	Weekly Items
+ShopTab_Name_1300	Monthly Items
+ShopTab_Name_1400	Hidden Items
+ShopTab_Name_1500	Growth
+ShopTab_Name_1501	Writer Level Achievement Pack
+ShopTab_Name_1502	Story Achievement Pack 1
+ShopTab_Name_1503	Story Achievement Pack 2
+ShopTab_Name_1504	Cecilia Promotion Achievement Pack
+ShopTab_Name_1505	Cumulative Star Achievement Pack
+ShopTab_Name_1506	Vera Promotion Achievement Pack
+ShopTab_Name_1507	Lilith Promotion Achievement Pack
+ShopTab_Name_1508	Larissa Promotion Achievement Pack
+ShopTab_Name_1509	Amelie Promotion Achievement Pack
+ShopTab_Name_1510	Dark Abyss Breakthrough Pack
+ShopTab_Name_1511	Yeon-oh Promotion Achievement Pack
+ShopTab_Name_1512	Monica Promotion Achievement Pack
+ShopTab_Name_1513	Meimei Promotion Achievement Pack
+ShopTab_Name_1514	Mikhail Promotion Achievement Pack
+ShopTab_Name_1515	Nix Promotion Achievement Pack
+ShopTab_Name_1516	Siho Promotion Achievement Pack
+ShopTab_Name_1517	Peach Crush Promotion Achievement Pack
+ShopTab_Name_1600	Season Pass
+ShopTab_Name_1601	Season Pass Shop 1
+ShopTab_Name_1700	Step Up Package
+ShopTab_Name_1701	Step Up Package 1
+ShopTab_Name_1702	Step Up Package 2
+ShopTab_Name_1703	Siho Growth Step Up
+ShopTab_Name_1800	Attendance Package
+ShopTab_Name_1801	Dia Attendance Package
+ShopTab_Name_1802	Stamina Attendance Package

@@ -1,0 +1,400 @@
+RelationBuffGroup_TypeDesc_0101	Target Character Possessed
+RelationBuffGroup_TypeDesc_0102	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0103	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0104	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0105	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0106	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0107	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0108	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0109	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0110	Target character reaches {v0} star
+RelationBuffGroup_TypeDesc_0201	Target Character Possessed
+RelationBuffGroup_TypeDesc_0202	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0203	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0204	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0205	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0206	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0207	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0208	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0209	Target character reaches intimacy level {v0}
+RelationBuffGroup_TypeDesc_0210	Target character reaches {v0} star
+RelationBuffGroup_TypeDesc_0301	Target Character Possessed
+RelationBuffGroup_TypeDesc_0302	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0303	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0304	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0305	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0306	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0307	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0308	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0309	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0310	Target character reaches {v0} star
+RelationBuffGroup_TypeDesc_0401	Target Character Possessed
+RelationBuffGroup_TypeDesc_0402	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0403	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0404	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0405	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0406	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0407	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0408	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0409	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0410	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0501	Target Character Possessed
+RelationBuffGroup_TypeDesc_0502	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0503	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0504	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0505	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0506	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0507	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0508	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0509	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0510	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0601	Target Character Possessed
+RelationBuffGroup_TypeDesc_0602	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0603	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0604	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0605	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0606	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0607	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0608	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0609	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0610	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0701	Target Character Possessed
+RelationBuffGroup_TypeDesc_0702	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0703	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0704	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0705	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0706	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0707	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0708	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0709	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0710	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0801	Target Character Possessed
+RelationBuffGroup_TypeDesc_0802	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0803	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0804	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0805	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0806	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0807	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0808	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0809	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0810	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0901	Target Character Possessed
+RelationBuffGroup_TypeDesc_0902	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0903	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0904	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0905	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0906	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0907	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_0908	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_0909	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_0910	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1001	Target Character Possessed
+RelationBuffGroup_TypeDesc_1002	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1003	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1004	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1005	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1006	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1007	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1008	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1009	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1010	Target character reaches {v0} star
+RelationBuffGroup_TypeDesc_1101	Target Character Possessed
+RelationBuffGroup_TypeDesc_1102	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1103	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1104	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1105	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1106	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1107	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1108	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1109	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1110	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1201	Target Character Possessed
+RelationBuffGroup_TypeDesc_1202	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1203	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1204	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1205	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1206	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1207	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1208	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1209	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1210	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1301	Target Character Possessed
+RelationBuffGroup_TypeDesc_1302	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1303	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1304	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1305	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1306	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1307	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1308	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1309	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1310	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1401	Target Character Possessed
+RelationBuffGroup_TypeDesc_1402	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1403	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1404	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1405	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1406	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1407	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1408	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1409	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1410	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1501	Target Character Possessed
+RelationBuffGroup_TypeDesc_1502	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1503	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1504	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1505	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1506	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1507	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1508	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1509	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1510	Target character reaches {v0} star
+RelationBuffGroup_TypeDesc_1601	Target Character Possessed
+RelationBuffGroup_TypeDesc_1602	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1603	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1604	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1605	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1606	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1607	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1608	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1609	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1610	Target character reaches {v0} star
+RelationBuffGroup_TypeDesc_1701	Target Character Possessed
+RelationBuffGroup_TypeDesc_1702	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1703	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1704	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1705	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1706	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1707	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1708	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1709	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1710	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1801	Target Character Possessed
+RelationBuffGroup_TypeDesc_1802	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1803	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1804	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1805	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1806	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1807	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1808	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1809	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1810	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1901	Target Character Possessed
+RelationBuffGroup_TypeDesc_1902	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1903	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1904	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1905	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1906	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1907	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_1908	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_1909	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_1910	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_2001	Target Character Possessed
+RelationBuffGroup_TypeDesc_2002	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_2003	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_2004	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_2005	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_2006	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_2007	Target character reaches {v0}
+RelationBuffGroup_TypeDesc_2008	Target character reaches level {v0}
+RelationBuffGroup_TypeDesc_2009	Target character intimacy level {v0} reached
+RelationBuffGroup_TypeDesc_2010	Target character reaches {v0}
+RelationBuffGroup_Desc_0101	Increases attack power by {v0}
+RelationBuffGroup_Desc_0102	Increases attack power {v0}
+RelationBuffGroup_Desc_0103	Increases attack power by {v0}
+RelationBuffGroup_Desc_0104	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0105	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_0106	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_0107	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0108	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0109	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0110	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0201	Increases attack power by {v0}
+RelationBuffGroup_Desc_0202	Increases attack power by {v0}
+RelationBuffGroup_Desc_0203	Increases attack power by {v0}
+RelationBuffGroup_Desc_0204	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0205	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_0206	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_0207	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0208	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0209	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0210	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0301	Increases attack power by {v0}
+RelationBuffGroup_Desc_0302	Attack power increased by {v0}
+RelationBuffGroup_Desc_0303	Attack power increased by {v0}
+RelationBuffGroup_Desc_0304	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0305	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0306	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0307	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0308	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0309	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0310	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0401	Increases attack power by {v0}
+RelationBuffGroup_Desc_0402	Attack power increased by {v0}
+RelationBuffGroup_Desc_0403	Increases attack power by {v0}
+RelationBuffGroup_Desc_0404	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0405	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0406	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0407	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0408	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0409	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0410	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0501	Increases attack power by {v0}
+RelationBuffGroup_Desc_0502	Attack power increased by {v0}
+RelationBuffGroup_Desc_0503	Attack power increased by {v0}
+RelationBuffGroup_Desc_0504	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0505	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0506	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0507	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0508	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0509	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0510	Increases Attack Power {v0}, Defense Power {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0601	Increases attack power {v0}
+RelationBuffGroup_Desc_0602	Attack power increased by {v0}
+RelationBuffGroup_Desc_0603	Increases attack power {v0}
+RelationBuffGroup_Desc_0604	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0605	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0606	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0607	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0608	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0609	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0610	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0701	Increases attack power by {v0}
+RelationBuffGroup_Desc_0702	Attack power increased by {v0}
+RelationBuffGroup_Desc_0703	Increases attack power {v0}
+RelationBuffGroup_Desc_0704	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0705	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0706	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0707	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0708	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0709	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0710	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0801	Increases attack power {v0}
+RelationBuffGroup_Desc_0802	Attack power increased by {v0}
+RelationBuffGroup_Desc_0803	Increases attack power {v0}
+RelationBuffGroup_Desc_0804	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0805	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0806	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_0807	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0808	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0809	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0810	Increases Attack Power {v0}, Defense Power {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0901	Increases attack power {v0}
+RelationBuffGroup_Desc_0902	Attack power increased by {v0}
+RelationBuffGroup_Desc_0903	Increases attack power {v0}
+RelationBuffGroup_Desc_0904	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0905	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_0906	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0907	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_0908	Increases Attack Power {v0}, Defense Power {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0909	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_0910	Increases Attack Power {v0}, Defense Power {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1001	Increases attack power by {v0}
+RelationBuffGroup_Desc_1002	Increases attack power {v0}
+RelationBuffGroup_Desc_1003	Increases attack power by {v0}
+RelationBuffGroup_Desc_1004	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1005	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1006	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1007	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1008	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1009	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1010	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1101	Increases attack power by {v0}
+RelationBuffGroup_Desc_1102	Increases attack power {v0}
+RelationBuffGroup_Desc_1103	Increases attack power by {v0}
+RelationBuffGroup_Desc_1104	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1105	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1106	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1107	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1108	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1109	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1110	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1201	Increases attack power {v0}
+RelationBuffGroup_Desc_1202	Increases attack power by {v0}
+RelationBuffGroup_Desc_1203	Increases attack power {v0}
+RelationBuffGroup_Desc_1204	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1205	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1206	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1207	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1208	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1209	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1210	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1301	Increases attack power {v0}
+RelationBuffGroup_Desc_1302	Increases attack power by {v0}
+RelationBuffGroup_Desc_1303	Increases attack power by {v0}
+RelationBuffGroup_Desc_1304	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1305	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1306	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1307	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1308	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1309	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1310	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1401	Increases attack power by {v0}
+RelationBuffGroup_Desc_1402	Increases attack power {v0}
+RelationBuffGroup_Desc_1403	Increases attack power {v0}
+RelationBuffGroup_Desc_1404	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1405	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1406	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1407	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1408	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1409	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1410	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1501	Increases attack power {v0}
+RelationBuffGroup_Desc_1502	Increases attack power {v0}
+RelationBuffGroup_Desc_1503	Increases attack power {v0}
+RelationBuffGroup_Desc_1504	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1505	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1506	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1507	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1508	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1509	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1510	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1601	Increases attack power by {v0}
+RelationBuffGroup_Desc_1602	Attack power increased by {v0}
+RelationBuffGroup_Desc_1603	Increases attack power by {v0}
+RelationBuffGroup_Desc_1604	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1605	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1606	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1607	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1608	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1609	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1610	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1701	Increases attack power by {v0}
+RelationBuffGroup_Desc_1702	Increases attack power by {v0}
+RelationBuffGroup_Desc_1703	Increases attack power {v0}
+RelationBuffGroup_Desc_1704	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1705	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1706	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1707	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1708	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1709	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1710	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1801	Increases attack power {v0}
+RelationBuffGroup_Desc_1802	Increases attack power {v0}
+RelationBuffGroup_Desc_1803	Increases attack power {v0}
+RelationBuffGroup_Desc_1804	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1805	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1806	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1807	Attack power {v0}, defense power {v0} increased
+RelationBuffGroup_Desc_1808	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1809	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1810	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1901	Increases attack power {v0}
+RelationBuffGroup_Desc_1902	Increases attack power {v0}
+RelationBuffGroup_Desc_1903	Increases attack power {v0}
+RelationBuffGroup_Desc_1904	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1905	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1906	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1907	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_1908	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1909	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_1910	Increases Attack Power {v0}, Defense {v0}, and Max Health {v0}
+RelationBuffGroup_Desc_2001	Increases attack power by {v0}
+RelationBuffGroup_Desc_2002	Increases attack power {v0}
+RelationBuffGroup_Desc_2003	Increases attack power {v0}
+RelationBuffGroup_Desc_2004	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_2005	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_2006	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_2007	Increases attack power {v0} and defense power {v0}
+RelationBuffGroup_Desc_2008	Increases attack power {v0}, defense {v0}, and maximum health {v0}
+RelationBuffGroup_Desc_2009	Increases attack power {v0}, defense {v0}, and maximum health {v0}
+RelationBuffGroup_Desc_2010	Increases attack power {v0}, defense {v0}, and maximum health {v0}

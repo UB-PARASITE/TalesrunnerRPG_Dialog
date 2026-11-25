@@ -1,0 +1,75 @@
+Tooltip_Desc_0000	The game you're currently playing is Tales Runner RPG, another story from Fairy Tales.
+Tooltip_Desc_0001	You can level up your character to fight stronger enemies.
+Tooltip_Desc_0002	You can strengthen equipment from Tier 2 or higher.
+Tooltip_Desc_0003	You can check announcements or communicate with users through Naver Lounge.
+Tooltip_Desc_0004	You can have friendly matches with other users on Sky Island.
+Tooltip_Desc_0005	You can earn many rewards by playing mini games on Sky Island.
+Tooltip_Desc_0006	The maximum grade varies depending on the tier of the weapon.
+Tooltip_Desc_0007	You can increase the intimacy of a character to obtain that character's emoticon. 
+Tooltip_Desc_0008	You can earn 10 stamina every day by attending the guild.
+Tooltip_Desc_0009	When crafting items, there is a higher chance of getting high-grade equipment.
+Tooltip_Desc_0010	If you find a bug while playing, please contact Customer Service!
+Tooltip_Desc_0011	There are characters that can only be obtained at the Exchange Shop!
+Tooltip_Desc_0012	Lucian starts his day by opening the window and sunbathing every morning.
+Tooltip_Desc_0013	Olivier may seem like a cold person, but he actually takes great care of those around him.
+Tooltip_Desc_0014	If you were going to give Cecilia a gift, I would recommend shortcake over flowers.
+Tooltip_Desc_0015	They say cats are liquids. What would the Cheshire Cat be like…? 
+Tooltip_Desc_0016	The Flare Circus Troupe is not only a circus, but also has many guests who come to see the Flare.
+Tooltip_Desc_0017	When Rose's sleep is interrupted, she uses superhuman strength to retaliate!
+Tooltip_Desc_0018	Melphie loves writing down her schedule on a calendar, but she says she's never used one before.
+Tooltip_Desc_0019	Sasha eats a lot, really, really a lot!
+Tooltip_Desc_0020	Drosselmeyer can crush walnuts with one hand. He hates it though.
+Tooltip_Desc_0021	Marie's favorite special effects movie is Magical Girls, and she can recite them by year.
+Tooltip_Desc_0022	Please hug Dieter! He starts out hating it, but gradually loses strength in his body. 
+Tooltip_Desc_0023	Eating seafood in front of Air is a very cruel act.
+Tooltip_Desc_0024	If you get the chance, check out Kismet's nail art!
+Tooltip_Desc_0025	Sunflowers are Florence's favorite flower. She likes the way they stand upright facing the sun.
+Tooltip_Desc_0026	Ruff is said to have become ambidextrous because he got used to moving his body upside down.
+Tooltip_Desc_0027	Vera is very weak to alcohol, but she drinks non-alcoholic wine to act classy.
+Tooltip_Desc_0028	If you treat Jargal like a puppy, he gets very angry. However, he eats dog gum well.
+Tooltip_Desc_0029	Harang, who values ​​tradition, doesn't like new words, but studies to look young.
+Tooltip_Desc_0030	When you go to see Miho, bring some sweet snacks with you! She really loves sweets.
+Tooltip_Desc_0031	If you think Cain's height has grown, look below. She has magpie legs.
+Tooltip_Desc_0032	Saya is weaker to praise than you think. Praise her a lot!
+Tooltip_Desc_0033	Bada is very athletic, but she's also quite smart.
+Tooltip_Desc_0034	Haru likes curry. The person who took care of her when she was little loved it.
+Tooltip_Desc_0035	A day in the meadow starts and ends with running.
+Tooltip_Desc_0036	Helia thinks of Olivier as her rival. The two knights are fated rivals! 
+Tooltip_Desc_0037	Luna calls her childhood friend Helia by her nickname.
+Tooltip_Desc_0038	Big explosions at Elin's house are a daily occurrence.
+Tooltip_Desc_0039	It's not a good idea to turn Queen Heart into your enemy.
+Tooltip_Desc_0040	Mingming is an action star, but her facial expressions are also top-notch!
+Tooltip_Desc_0041	It's easy to forget, but Alice is a noblewoman.
+Tooltip_Desc_0042	Bigbo became a veterinarian to study rare diseases in parrots.
+Tooltip_Desc_0043	Elims is always calculating. Especially when it comes to money!
+Tooltip_Desc_0044	Jane Doe is said to have erased her real name because she hated it. 
+Tooltip_Desc_0045	Lara always wants to be friends with everyone!
+Tooltip_Desc_0046	Pinocchio is stronger than he looks. He's glad he can help Geppetto!
+Tooltip_Desc_0047	Lina still loves desserts.
+Tooltip_Desc_0048	DnD secretly donates to charity.
+Tooltip_Desc_0049	Scarlett's other name is the Ghost of the Red Flame.
+Tooltip_Desc_0050	Geppetto can't cook. He thinks everything is perfect if he can eat it!
+Tooltip_Desc_0051	Hansel is polite to his superiors. More so than his sister.
+Tooltip_Desc_0052	Gretel used to cry a lot when she was young. Although she denies it. 
+Tooltip_Desc_0053	They say Maximilian still can't forget one person.
+Tooltip_Desc_0054	They say it's cool when Anastasia's around when it's hot.
+Tooltip_Desc_0055	They say the only housework Leila can do is 'sword cutting'. The way she holds it is a bit unusual...
+Tooltip_Desc_0056	There is a rule for Aramode to prolong pronunciation.
+Tooltip_Desc_0057	Don't be surprised if Ophelia collapses. It's normal for a scholar to be tired and passed out.
+Tooltip_Desc_0058	They say that when Peach Crush was a pro-gamer, he used to set up his equipment with a ruler.
+Tooltip_Desc_0059	Claude likes meat, but he's a bit reluctant about fish. 
+Tooltip_Desc_0060	It is said that Ark first beat his father in a dice game.
+Tooltip_Desc_1000	When the Special Gauge or Super Gauge is full, wait for the skill you want to use to reach that section.
+Tooltip_Desc_1001	You can conquer battles more easily by utilizing compatibility and formation buffs.
+Tooltip_Desc_1002	You can auto-fish while you are not connected to the game.
+Tooltip_Desc_1003	You can review past stories in the library and choose different options.
+Tooltip_Desc_1004	You can get free rewards every day at the Tales Shop!
+Tooltip_Desc_1005	Mobs in the Growth Training Center can only inflict damage through specific attacks.
+Tooltip_Desc_1006	You can check frequently used recommended combinations on the character page. 
+Tooltip_Desc_2000	Don't forget. During the adventure, there are various items placed on the field to help you overcome difficulties.
+Tooltip_Desc_2001	There are various obstacles in the world that hinder the author.
+Tooltip_Desc_2002	Use world skills to overcome difficult battles!
+Tooltip_Desc_2003	When you win the last battle of each chapter, you can obtain an item that can unlock the next author skill.
+Tooltip_Desc_3000	Strengthen your equipment and try again!
+Tooltip_Desc_3001	Grow your character through promotions!
+Tooltip_Desc_3002	Grow your character through various level-ups!

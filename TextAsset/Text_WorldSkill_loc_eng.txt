@@ -1,0 +1,14 @@
+WorldSkill_Name_9000	Sweet Fragrance
+WorldSkill_Name_9001	Circus Opening!
+WorldSkill_Name_9002	Path of Nightmare
+WorldSkill_Name_9003	Picnic Time
+WorldSkill_Name_9004	Prophecy of Sure Victory
+WorldSkill_Desc_9000	When entering battle from a platform within range, increases the attack power of all allies by {v0.0}% and defense power by {v0.0}%.
+WorldSkill_Desc_9001	When entering battle from a platform within range, increases the critical chance of all allies by {v0.0}% and critical damage by {v0.0}%.
+WorldSkill_Desc_9002	When entering battle from a platform within range, increases the damage received by all enemies by {v0.0}%. WorldSkill_Desc_9003 When entering battle from a platform within range, all allies' maximum health increases by {v0.0}% and action points by {v0}.
+WorldSkill_Desc_9004	When entering battle from a platform within range, all allies' damage increases by {v0.0}% and damage received also increases by {v0.0}%.
+WorldSkill_ToolTipDesc_9000	When entering battle from a platform within range, all allies' attack power increases by {v0.0}% and defense power increases by {v0.0}%.
+WorldSkill_ToolTipDesc_9001	When entering battle from a platform within range, all allies' critical chance increases by {v0.0}% and critical damage increases by {v0.0}%.
+WorldSkill_ToolTipDesc_9002	When entering battle from a platform within range, all enemies' damage increases by {v0.0}%. 
+WorldSkill_ToolTipDesc_9003	When entering battle from a platform within range, all allies' maximum health increases by {v0.0}% and action points by {v0}.
+WorldSkill_ToolTipDesc_9004	When entering battle from a platform within range, all allies' damage increases by {v0.0}% and damage received also increases by {v0.0}%.

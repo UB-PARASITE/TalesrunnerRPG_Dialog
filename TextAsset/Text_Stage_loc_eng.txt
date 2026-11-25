@@ -1,0 +1,1130 @@
+Stage_Name_0000	First Battle! Monsters Appear!
+Stage_Name_0001	The Power of Tales Book?
+Stage_Name_0002	In Search of the Main Character
+Stage_Name_0003	Gretel's Trap
+Stage_Name_0004	The Dark Forest is Dangerous
+Stage_Name_0005	Hansel's Trap
+Stage_Name_0006	The Brave, Enter!
+Stage_Name_0007	Welcome to Dessert World
+Stage_Name_0008	Delicious and Violent
+Stage_Name_0009	The Witch Needs a Friend
+Stage_Name_0010	[Difficult] One More Dessert! (1)
+Stage_Name_0011	[Difficult] One More Dessert! (2)
+Stage_Name_0012	[Difficult] One More Dessert! (3)
+Stage_Name_0013	[Difficult] One More Dessert! (4)
+Stage_Name_0014	[Difficult] One More Dessert! (5)
+Stage_Name_0015	Warrior or Devil?! 
+Stage_Name_0016	The Hero Who Summons Monsters
+Stage_Name_0017	The Romance of Adventure in the Cave
+Stage_Name_0018	Crossing the Bridge
+Stage_Name_0019	The Crossroads of Wonderland
+Stage_Name_0020	The Dead-End Garden
+Stage_Name_0021	The Queen of Hearts' Garden
+Stage_Name_0022	Suspicious Basement
+Stage_Name_0023	The Rebellion of Spades
+Stage_Name_0024	In Front of the Heart Castle Gate
+Stage_Name_0025	Queen of Hearts! The Red Rose of Betrayal
+Stage_Name_0026	[Difficult] More! Wonderland (1)
+Stage_Name_0027	[Difficult] More! Wonderland (2)
+Stage_Name_0028	[Difficult] More! Wonderland (3)
+Stage_Name_0029	[Difficult] More! Wonderland (4)
+Stage_Name_0030	[Difficult] More! Wonderland (5)
+Stage_Name_0031	The Disgrace of a Crime-Free Town
+Stage_Name_0032	Mimi & Pippi's Disease
+Stage_Name_0033	Invasion! Flare Circus
+Stage_Name_0034	Intruders are punished
+Stage_Name_0035	In search of Pinocchio
+Stage_Name_0036	Puppets' sabotage
+Stage_Name_0037	Puppets are strong
+Stage_Name_0038	Circus is strong
+Stage_Name_0039	Being loved means
+Stage_Name_0040	The circus show continues
+Stage_Name_0041	Circus performers' passageway
+Stage_Name_0042	Circus performers' waiting room
+Stage_Name_0043	Gorgeous backstage
+Stage_Name_0044	Coming soon! The show is imminent!
+Stage_Name_0045	Flare's lovey-dovey showtime
+Stage_Name_0046	[Difficult] Encore circus show! (1)
+Stage_Name_0047	[Difficult] Encore Circus Show! (2)
+Stage_Name_0048	[Difficult] Encore Circus Show! (3)
+Stage_Name_0049	[Difficult] Encore Circus Show! (4)
+Stage_Name_0050	[Difficult] Encore Circus Show! (5)
+Stage_Name_0051	Thorn Bush Removal Task
+Stage_Name_0052	Sleep at Home!
+Stage_Name_0053	Kissing requires permission
+Stage_Name_0054	Don't be fooled by cuteness
+Stage_Name_0055	One sheep, two sheep...
+Stage_Name_0056	Top of the Moon Tower
+Stage_Name_0057	The source of health is a good night's sleep
+Stage_Name_0058	Top of the Star Tower
+Stage_Name_0059	Good night, sir
+Stage_Name_0060	Knights in the middle of the night
+Stage_Name_0061	Top of the Cloud Tower
+Stage_Name_0062	Don't wake the sleeping knight
+Stage_Name_0063	Top of the Sun Tower
+Stage_Name_0064	100 years of waiting
+Stage_Name_0065	Just being loved I want to
+Stage_Name_0066	[Difficult] Sleeping Princess in the Forest (1)
+Stage_Name_0067	[Difficult] Sleeping Princess in the Forest (2)
+Stage_Name_0068	[Difficult] Sleeping Princess in the Forest (3)
+Stage_Name_0069	[Difficult] Sleeping Princess in the Forest (4)
+Stage_Name_0070	[Difficult] Sleeping Princess in the Forest (5)
+Stage_Name_0071	A Girl's Errand
+Stage_Name_0072	The Cunning Kidnapper
+Stage_Name_0073	Track the Wolf's Trail
+Stage_Name_0074	Sasha's Hide and Seek
+Stage_Name_0075	A Dangerous Valley In between
+Stage_Name_0076	Journey to find a comrade
+Stage_Name_0077	Children must not fight!
+Stage_Name_0078	Hidden flower garden
+Stage_Name_0079	Where is the wolf's home base?
+Stage_Name_0080	Wandering, wandering again...
+Stage_Name_0081	Battle in the maze
+Stage_Name_0082	Monsters in the maze
+Stage_Name_0083	Lost monsters
+Stage_Name_0084	Exit, imminent!
+Stage_Name_0085	What the Wolf Is Trying to Protect
+Stage_Name_0086	[Difficult] Errands That Became More Difficult (1)
+Stage_Name_0087	[Difficult] Errands That Became More Difficult (2)
+Stage_Name_0088	[Difficult] Errands That Became More Difficult (3)
+Stage_Name_0089	[Difficult] Errands That Became More Difficult (4)
+Stage_Name_0090	[Difficult] Errands That Became More Difficult (5)
+Stage_Name_0091	A Game for Rice Balls
+Stage_Name_0092	For Revenge of Rice Balls
+Stage_Name_0093	Darkness in a Cloudy Dream
+Stage_Name_0094	Mice Hear Day and Night Words
+Stage_Name_0095	Third-Rank Villains Interference
+Stage_Name_0096	The Never-ending War
+Stage_Name_0097	Where Will the Fight End?
+Stage_Name_0098	A Man Born from Darkness
+Stage_Name_0099	Night Rat Rat
+Stage_Name_0100	Sunshine in a Rat Hole
+Stage_Name_0101	Rat in a Rat Hole
+Stage_Name_0102	Rat Base Front Yard
+Stage_Name_0103	Listen to Me, Dieter!
+Stage_Name_0104	Not Easy Forgiveness
+Stage_Name_0105	The Fighter and the Stopper
+Stage_Name_0106	Before the Final War
+Stage_Name_0107	Peace is in Your Hands
+Stage_Name_0108	[Difficult] Training Continues (1)
+Stage_Name_0109	[Difficult] Training Continues (2)
+Stage_Name_0110	[Difficult] Training Continues (3)
+Stage_Name_0111	[Difficult] Training Continues (4)
+Stage_Name_0112	[Difficult] Training Continues (5)
+Stage_Name_0113	Surfing~ Surfing~
+Stage_Name_0114	I Hate Land Creatures!
+Stage_Name_0115	Suspicious Persons Are Arrested
+Stage_Name_0116	Troublemakers in Front of the Castle
+Stage_Name_0117	Love on the Beach
+Stage_Name_0118	Tears Under the Surface
+Stage_Name_0119	Monsters Washed Away by the Waves
+Stage_Name_0120	Flooding Sea and Monsters
+Stage_Name_0121	Where is Air?
+Stage_Name_0122	Suspicious Fish on the East Coast
+Stage_Name_0123	Monster Cleaner on the Coast
+Stage_Name_0124	Beware of the Fish with Legs
+Stage_Name_0125	Unknown World Under the Sea
+Stage_Name_0126	A Messy Party Hall
+Stage_Name_0127	Breaking Through the Security and Leaving the Party Hall
+Stage_Name_0128	Finding the Back Door of the Castle
+Stage_Name_0129	Stormy Cliff
+Stage_Name_0130	In a Cornered Fate
+Stage_Name_0131	The Crossroads of Fate and Will
+Stage_Name_0132	Loving Yourself
+Stage_Name_0133	[Difficult] In Search of a Greater Love! (1)
+Stage_Name_0134	[Difficult] In Search of a Greater Love! (2)
+Stage_Name_0135	[Difficult] In search of a more wonderful love! (3)
+Stage_Name_0136	[Difficult] In search of a more wonderful love! (4)
+Stage_Name_0137	[Difficult] In search of a more wonderful love! (5)
+Stage_Name_0138	Winter comes to Spring Flower Village
+Stage_Name_0139	On the way out of the village
+Stage_Name_0140	Outskirts of Spring Flower Village
+Stage_Name_0141	Dangers in the fields
+Stage_Name_0142	Crisis in the warm season
+Stage_Name_0143	There is no safe place!
+Stage_Name_0144	Anomalous phenomenon in the field
+Stage_Name_0145	The hand of the winter tree forest
+Stage_Name_0146	On the frozen field
+Stage_Name_0147	Help the soldiers
+Stage_Name_0148	Does spring come to the cold field?
+Stage_Name_0149	Struggle
+Stage_Name_0150	Plant grown in winter field
+Stage_Name_0151	Entering the royal palace!
+Stage_Name_0152	Winter Winds of the Castle
+Stage_Name_0153	Frozen City
+Stage_Name_0154	The Threatened Castle
+Stage_Name_0155	Monsters East of the Castle
+Stage_Name_0156	Cold Air in the Back Alley
+Stage_Name_0157	The Occupied Castle
+Stage_Name_0158	The Persistent Cold
+Stage_Name_0159	A Perilous Journey
+Stage_Name_0160	The Moment of a Secret Meeting
+Stage_Name_0161	A Story No One Knew
+Stage_Name_0162	Roya Sernege, the Forest Guardian
+Stage_Name_0163	[Difficulty] Even More Frozen Spring Flower Village (1)
+Stage_Name_0164	[Difficulty] Even More Frozen Spring Flower Village (2)
+Stage_Name_0165	[Difficult] Even more frozen Spring Flower Village (3)
+Stage_Name_0166	[Difficult] Even more frozen Spring Flower Village (4)
+Stage_Name_0167	[Difficult] Even more frozen Spring Flower Village (5)
+Stage_Name_0168	Main Story 9-1
+Stage_Name_0169	Main Story 9-2
+Stage_Name_0170	Battle with Florence
+Stage_Name_0171	Main Story 9-4
+Stage_Name_0172	Main Story 9-5
+Stage_Name_0173	Battle with Cecilia
+Stage_Name_0174	Main Story 9-7
+Stage_Name_0175	Main Story 9-8
+Stage_Name_0176	Main Story 9-9
+Stage_Name_0177	Main Story 9-10
+Stage_Name_0178	Main Story 9-11
+Stage_Name_0179	Main Story 9-12
+Stage_Name_0180	Main Story 9-13
+Stage_Name_0181	Main Story 9-14
+Stage_Name_0182	Main Story 9-15
+Stage_Name_0183	Main Story 9-16
+Stage_Name_0184	Battle with Witch Cecilia
+Stage_Name_0185	Main Story 9-18
+Stage_Name_0186	Main Story 9-19
+Stage_Name_0187	Main Story 9-20
+Stage_Name_0188	[Difficult] Main Story 9-1
+Stage_Name_0189	[Difficult] Main Story 9-2
+Stage_Name_0190	[Difficult] Main Story 9-3
+Stage_Name_0191	[Difficult] Main Story 9-4
+Stage_Name_0192	[Difficult] Main Story 9-5
+Stage_Name_1000	Underground Colosseum
+Stage_Name_1001	Sky Castle Riding Club
+Stage_Name_1010	Wish Stone Inner World
+Stage_Name_1020	Guild Training Grounds A
+Stage_Name_1030	Guild Training Grounds B
+Stage_Name_3000	Gold Resources Dungeon A
+Stage_Name_3001	Gold Resources Dungeon B
+Stage_Name_3002	Gold Dungeon C
+Stage_Name_3003	Gold Dungeon D
+Stage_Name_3004	Gold Dungeon E
+Stage_Name_3005	Gold Dungeon F
+Stage_Name_3006	Gold Dungeon G
+Stage_Name_3007	Gold Dungeon H
+Stage_Name_3008	Gold Dungeon I
+Stage_Name_3009	Gold Dungeon J
+Stage_Name_3010	Gold Dungeon K
+Stage_Name_3011	Gold Dungeon A
+Stage_Name_3012	Gold Dungeon B
+Stage_Name_3013	Gold Dungeon C
+Stage_Name_3014	Gold Dungeon D
+Stage_Name_3015	Gold Dungeon E
+Stage_Name_3016	Gold Dungeon F
+Stage_Name_3017	Gold Dungeon G
+Stage_Name_3018	Gold Dungeon H
+Stage_Name_3019	Gold Dungeon I
+Stage_Name_3020	Gold Dungeon J
+Stage_Name_3021	Gold Dungeon K
+Stage_Name_3022	Gold Dungeon A
+Stage_Name_3023	Gold Dungeon B
+Stage_Name_3024	Gold Dungeon C
+Stage_Name_3025	Gold Dungeon D
+Stage_Name_3026	Gold Dungeon E
+Stage_Name_3027	Gold Dungeon F
+Stage_Name_3028	Gold Dungeon G
+Stage_Name_3029	Gold Dungeon H
+Stage_Name_3030	Gold Dungeon I
+Stage_Name_3031	Gold Dungeon J
+Stage_Name_3032	Gold Dungeon K
+Stage_Name_3033	Gold Dungeon A
+Stage_Name_3034	Gold Dungeon B
+Stage_Name_3035	Gold Dungeon C
+Stage_Name_3036	Gold Dungeon D
+Stage_Name_3037	Gold Dungeon E
+Stage_Name_3038	Gold Dungeon F
+Stage_Name_3039	Gold Dungeon G
+Stage_Name_3040	Gold Dungeon H
+Stage_Name_3041	Gold Dungeon I
+Stage_Name_3042	Gold Dungeon J
+Stage_Name_3043	Gold Dungeon K
+Stage_Name_3044	Gold Dungeon A
+Stage_Name_3045	Gold Dungeon B
+Stage_Name_3046	Gold Dungeon C
+Stage_Name_3047	Gold Dungeon D
+Stage_Name_3048	Gold Dungeon E
+Stage_Name_3049	Gold Dungeon F
+Stage_Name_3050	Gold Dungeon G
+Stage_Name_3051	Gold Dungeon H
+Stage_Name_3052	Gold Dungeon I
+Stage_Name_3053	Gold Dungeon J
+Stage_Name_3054	Gold Dungeon K
+Stage_Name_3055	Gold Dungeon A
+Stage_Name_3056	Gold Dungeon B
+Stage_Name_3057	Gold Dungeon C
+Stage_Name_3058	Gold Dungeon D
+Stage_Name_3059	Gold Dungeon E
+Stage_Name_3060	Gold Dungeon F
+Stage_Name_3061	Gold Dungeon G
+Stage_Name_3062	Gold Goods Dungeon H
+Stage_Name_3063	Gold Goods Dungeon I
+Stage_Name_3064	Gold Goods Dungeon J
+Stage_Name_3065	Gold Goods Dungeon K
+Stage_Name_3100	Pension Decision Dungeon A
+Stage_Name_3101	Pension Decision Dungeon B
+Stage_Name_3102	Pension Decision Dungeon C
+Stage_Name_3103	Pension Decision Dungeon D
+Stage_Name_3104	Pension Decision Dungeon E
+Stage_Name_3105	Pension Decision Dungeon F
+Stage_Name_3106	Pension Decision Dungeon G
+Stage_Name_3107	Pension Decision Dungeon H
+Stage_Name_3108	Pension Decision Dungeon I
+Stage_Name_3109	Pension Decision Dungeon J
+Stage_Name_3110	Pension Decision Dungeon K
+Stage_Name_3111	Pension Decision Dungeon A
+Stage_Name_3112	Pension Decision Dungeon B
+Stage_Name_3113	Pension Decision Dungeon C
+Stage_Name_3114	Pension Decision Dungeon D
+Stage_Name_3115	Pension Decision Dungeon E
+Stage_Name_3116	Pension Decision Dungeon F
+Stage_Name_3117	Pension Decision Dungeon G
+Stage_Name_3118	Pension Decision Dungeon H
+Stage_Name_3119	Pension Decision Dungeon I
+Stage_Name_3120	Pension Decision Dungeon J
+Stage_Name_3121	Pension Decision Dungeon K
+Stage_Name_3122	Pension Decision Dungeon A
+Stage_Name_3123	Pension Decision Dungeon B
+Stage_Name_3124	Pension Decision Dungeon C
+Stage_Name_3125	Pension Decision Dungeon D
+Stage_Name_3126	Pension Decision Dungeon E
+Stage_Name_3127	Pension Decision Dungeon F
+Stage_Name_3128	Pension Decision Dungeon G
+Stage_Name_3129	Pension Decision Dungeon H
+Stage_Name_3130	Pension Decision Dungeon I
+Stage_Name_3131	Pension Decision Dungeon J
+Stage_Name_3132	Pension Decision Dungeon K
+Stage_Name_3133	Pension Decision Dungeon A
+Stage_Name_3134	Pension Decision Dungeon B
+Stage_Name_3135	Pension Decision Dungeon C
+Stage_Name_3136	Pension Decision Dungeon D
+Stage_Name_3137	Pension Decision Dungeon E
+Stage_Name_3138	Pension Decision Dungeon F
+Stage_Name_3139	Pension Decision Dungeon G
+Stage_Name_3140	Pension Decision Dungeon H
+Stage_Name_3141	Pension Decision Dungeon I
+Stage_Name_3142	Pension Decision Dungeon J
+Stage_Name_3143	Pension Decision Dungeon K
+Stage_Name_3144	Pension Decision Dungeon A
+Stage_Name_3145	Pension Decision Dungeon B
+Stage_Name_3146	Pension Decision Dungeon C
+Stage_Name_3147	Pension Decision Dungeon D
+Stage_Name_3148	Pension Decision Dungeon E
+Stage_Name_3149	Pension Decision Dungeon F
+Stage_Name_3150	Pension Decision Dungeon G
+Stage_Name_3151	Pension Decision Dungeon H
+Stage_Name_3152	Pension Decision Dungeon I
+Stage_Name_3153	Pension Decision Dungeon J
+Stage_Name_3154	Pension Decision Dungeon K
+Stage_Name_3155	Pension Decision Dungeon A
+Stage_Name_3156	Pension Decision Dungeon B
+Stage_Name_3157	Pension Decision Dungeon C
+Stage_Name_3158	Pension Decision Dungeon D
+Stage_Name_3159	Pension Decision Dungeon E
+Stage_Name_3160	Pension Decision Dungeon F
+Stage_Name_3161	Pension Decision Dungeon G
+Stage_Name_3162	Pension Decision Dungeon H
+Stage_Name_3163	Pension Decision Dungeon I
+Stage_Name_3164	Pension Decision Dungeon J
+Stage_Name_3165	Pension Decision Dungeon K
+Stage_Name_3200	Pension Material Dungeon A
+Stage_Name_3201	Pension Material Dungeon B
+Stage_Name_3202	Pension Material Dungeon C
+Stage_Name_3203	Pension Material Dungeon D
+Stage_Name_3204	Pension Material Dungeon E
+Stage_Name_3205	Alchemy Material Dungeon F
+Stage_Name_3206	Alchemy Material Dungeon G
+Stage_Name_3207	Alchemy Material Dungeon H
+Stage_Name_3208	Alchemy Material Dungeon I
+Stage_Name_3209	Alchemy Material Dungeon J
+Stage_Name_3210	Alchemy Material Dungeon K
+Stage_Name_3211	Alchemy Material Dungeon A
+Stage_Name_3212	Alchemy Material Dungeon B
+Stage_Name_3213	Alchemy Material Dungeon C
+Stage_Name_3214	Alchemy Material Dungeon D
+Stage_Name_3215	Alchemy Material Dungeon E
+Stage_Name_3216	Alchemy Material Dungeon F
+Stage_Name_3217	Alchemy Material Dungeon G
+Stage_Name_3218	Alchemy Material Dungeon H
+Stage_Name_3219	Alchemy Material Dungeon I
+Stage_Name_3220	Alchemy Material Dungeon J
+Stage_Name_3221	Alchemy Material Dungeon K
+Stage_Name_3222	Alchemy Material Dungeon A
+Stage_Name_3223	Alchemy Material Dungeon B
+Stage_Name_3224	Alchemy Material Dungeon C
+Stage_Name_3225	Alchemy Material Dungeon D
+Stage_Name_3226	Alchemy Material Dungeon E
+Stage_Name_3227	Alchemy Material Dungeon F
+Stage_Name_3228	Alchemy Material Dungeon G
+Stage_Name_3229	Alchemy Material Dungeon H
+Stage_Name_3230	Pension Material Dungeon I
+Stage_Name_3231	Pension Material Dungeon J
+Stage_Name_3232	Pension Material Dungeon K
+Stage_Name_3233	Pension Material Dungeon A
+Stage_Name_3234	Pension Material Dungeon B
+Stage_Name_3235	Pension Material Dungeon C
+Stage_Name_3236	Pension Material Dungeon D
+Stage_Name_3237	Pension Material Dungeon E
+Stage_Name_3238	Pension Material Dungeon F
+Stage_Name_3239	Pension Material Dungeon G
+Stage_Name_3240	Pension Material Dungeon H
+Stage_Name_3241	Pension Material Dungeon I
+Stage_Name_3242	Pension Material Dungeon J
+Stage_Name_3243	Alchemy Material Dungeon K
+Stage_Name_3244	Alchemy Material Dungeon A
+Stage_Name_3245	Alchemy Material Dungeon B
+Stage_Name_3246	Alchemy Material Dungeon C
+Stage_Name_3247	Alchemy Material Dungeon D
+Stage_Name_3248	Alchemy Material Dungeon E
+Stage_Name_3249	Alchemy Material Dungeon F
+Stage_Name_3250	Alchemy Material Dungeon G
+Stage_Name_3251	Alchemy Material Dungeon H
+Stage_Name_3252	Alchemy Material Dungeon I
+Stage_Name_3253	Alchemy Material Dungeon J
+Stage_Name_3254	Alchemy Material Dungeon K
+Stage_Name_3255	Alchemy Material Dungeon A
+Stage_Name_3256	Alchemy Material Dungeon B
+Stage_Name_3257	Alchemy Material Dungeon C
+Stage_Name_3258	Alchemy Material Dungeon D
+Stage_Name_3259	Alchemy Material Dungeon E
+Stage_Name_3260	Alchemy Material Dungeon F
+Stage_Name_3261	Alchemy Material Dungeon G
+Stage_Name_3262	Alchemy Material Dungeon H
+Stage_Name_3263	Alchemy Material Dungeon I
+Stage_Name_3264	Alchemy Material Dungeon J
+Stage_Name_3265	Alchemy Material Dungeon K
+Stage_Name_3300	Character Growth Dungeon A
+Stage_Name_3301	Character Growth Dungeon B
+Stage_Name_3302	Character Growth Dungeon C
+Stage_Name_3303	Character Growth Dungeon D
+Stage_Name_3304	Character Growth Dungeon E
+Stage_Name_3305	Character Growth Dungeon F
+Stage_Name_3306	Character Growth Dungeon G
+Stage_Name_3307	Character Growth Dungeon H
+Stage_Name_3308	Character Growth Dungeon I
+Stage_Name_3309	Character Growth Dungeon J
+Stage_Name_3310	Character Growth Dungeon K
+Stage_Name_3400	Equipment Enhancement Dungeon A
+Stage_Name_3401	Equipment Enhancement Dungeon B
+Stage_Name_3402	Equipment Enhancement Dungeon C
+Stage_Name_3403	Equipment Enhancement Dungeon D
+Stage_Name_3404	Equipment Enhancement Dungeon E
+Stage_Name_3405	Equipment Enhancement Dungeon F
+Stage_Name_3406	Equipment Enhancement Dungeon G
+Stage_Name_3407	Equipment Enhancement Dungeon H
+Stage_Name_3408	Equipment Enhancement Dungeon I
+Stage_Name_3409	Equipment Enhancement Dungeon J
+Stage_Name_3410	Equipment Enhancement Dungeon K
+Stage_Name_3500	Unique Weapon Growth - Defensive A
+Stage_Name_3501	Unique Weapon Growth - Defensive B
+Stage_Name_3502	Unique Weapon Growth - Defensive C
+Stage_Name_3503	Unique Weapon Growth - Defensive D
+Stage_Name_3504	Unique Weapon Growth - Defensive E
+Stage_Name_3505	Unique Weapon Growth - Defensive F
+Stage_Name_3506	Unique Weapon Growth - Defensive G
+Stage_Name_3507	Unique Weapon Growth - Defensive H
+Stage_Name_3508	Unique Weapon Growth - Defensive I
+Stage_Name_3509	Unique Weapon Growth - Defensive J
+Stage_Name_3510	Unique Weapon Growth - Defensive K
+Stage_Name_3600	Unique Weapon Growth - Offensive A
+Stage_Name_3601	Unique Weapon Growth - Offensive B
+Stage_Name_3602	Unique Weapon Growth - Offensive C
+Stage_Name_3603	Unique Weapon Growth - Offensive D
+Stage_Name_3604	Unique Weapon Growth - Offensive E
+Stage_Name_3605	Unique Weapon Growth - Offensive F
+Stage_Name_3606	Unique Weapon Growth - Offensive G
+Stage_Name_3607	Unique Weapon Growth - Offensive H
+Stage_Name_3608	Unique Weapon Growth - Offensive I
+Stage_Name_3609	Unique Weapon Growth - Offensive J
+Stage_Name_3610	Unique Weapon Growth - Offensive K
+Stage_Name_3700	Unique Weapon Growth - Support A
+Stage_Name_3701	Unique Weapon Growth - Support B
+Stage_Name_3702	Unique Weapon Growth - Support C
+Stage_Name_3703	Unique Weapon Growth - Support D
+Stage_Name_3704	Unique Weapon Growth - Support E
+Stage_Name_3705	Unique Weapon Growth - Support F
+Stage_Name_3706	Unique Weapon Growth - Support G
+Stage_Name_3707	Unique Weapon Growth - Support H
+Stage_Name_3708	Unique Weapon Growth - Support I
+Stage_Name_3709	Unique Weapon Growth - Support J
+Stage_Name_3710	Unique Weapon Growth - Support K
+Stage_Name_3800	Unique Weapon Growth - Recovery A
+Stage_Name_3801	Unique Weapon Growth - Recovery B
+Stage_Name_3802	Unique Weapon Growth - Recovery C
+Stage_Name_3803	Unique Weapon Growth - Recovery D
+Stage_Name_3804	Unique Weapon Growth - Recovery E
+Stage_Name_3805	Unique Weapon Growth - Recovery F
+Stage_Name_3806	Unique Weapon Growth - Recovery G
+Stage_Name_3807	Unique Weapon Growth - Recovery H
+Stage_Name_3808	Unique Weapon Growth - Recovery I
+Stage_Name_3809	Unique Weapon Growth - Recovery J
+Stage_Name_3810	Unique Weapon CastleChapter - Recovery K
+Stage_Name_3900	Skill Enhancement - Defensive A
+Stage_Name_3901	Skill Enhancement - Defensive B
+Stage_Name_3902	Skill Enhancement - Defensive C
+Stage_Name_3903	Skill Enhancement - Defensive D
+Stage_Name_3904	Skill Enhancement - Defensive E
+Stage_Name_3905	Skill Enhancement - Defensive F
+Stage_Name_3906	Skill Enhancement - Defensive G
+Stage_Name_3907	Skill Enhancement - Defensive H
+Stage_Name_3908	Skill Enhancement - Defensive I
+Stage_Name_3909	Skill Enhancement - Defensive J
+Stage_Name_3910	Skill Enhancement - Defensive K
+Stage_Name_4000	Skill Enhancement - Offensive A
+Stage_Name_4001	Skill Enhancement - Attack B
+Stage_Name_4002	Skill Enhancement - Attack C
+Stage_Name_4003	Skill Enhancement - Attack D
+Stage_Name_4004	Skill Enhancement - Attack E
+Stage_Name_4005	Skill Enhancement - Attack F
+Stage_Name_4006	Skill Enhancement - Attack G
+Stage_Name_4007	Skill Enhancement - Attack H
+Stage_Name_4008	Skill Enhancement - Attack I
+Stage_Name_4009	Skill Enhancement - Attack J
+Stage_Name_4010	Skill Enhancement - Attack K
+Stage_Name_4100	Skill Enhancement - Support A
+Stage_Name_4101	Skill Enhancement - Support B
+Stage_Name_4102	Skill Enhancement - Support C
+Stage_Name_4103	Skill Enhancement - Support D
+Stage_Name_4104	Skill Enhancement - Support E
+Stage_Name_4105	Skill Enhancement - Support F
+Stage_Name_4106	Skill Enhancement - Support G
+Stage_Name_4107	Skill Enhancement - Support H
+Stage_Name_4108	Skill Enhancement - Support I
+Stage_Name_4109	Skill Enhancement - Support J
+Stage_Name_4110	Skill Enhancement - Support K
+Stage_Name_4200	Skill Enhancement - Recovery A
+Stage_Name_4201	Skill Enhancement - Recovery B
+Stage_Name_4202	Skill Enhancement - Recovery C
+Stage_Name_4203	Skill Enhancement - Recovery D
+Stage_Name_4204	Skill Enhancement - Recovery E
+Stage_Name_4205	Skill Enhancement - Recovery F
+Stage_Name_4206	Skill Enhancement - Recovery G
+Stage_Name_4207	Skill Enhancement - Recovery H
+Stage_Name_4208	Skill Enhancement - Recovery I
+Stage_Name_4209	Skill Enhancement - Recovery J
+Stage_Name_4210	Skill Enhancement - Recovery K
+Stage_Name_5000	Voltaire's Cave (Easy)
+Stage_Name_5001	Voltaire's Cave (Easy)
+Stage_Name_5002	Voltaire's Cave (Easy)
+Stage_Name_5003	Voltaire's Cave (Easy)
+Stage_Name_5004	Voltaire's Cave (Easy)
+Stage_Name_5005	Voltaire's Cave (Normal)
+Stage_Name_5006	Voltaire's Cave (Normal)
+Stage_Name_5007	Voltaire's Cave (Normal)
+Stage_Name_5008	Voltaire's Cave (Normal)
+Stage_Name_5009	Voltaire's Cave (Hard)
+Stage_Name_5010	Voltaire's Cave (Hard)
+Stage_Name_5011	Voltaire's Cave (Hard)
+Stage_Name_5012	Voltaire's Cave (Hard)
+Stage_Name_5013	Voltaire's Cave (Hard)
+Stage_Name_5100	Asla's Snowfield (Easy)
+Stage_Name_5101	Asla's Snowfield (Easy)
+Stage_Name_5102	Asla's Snowfield (Easy)
+Stage_Name_5103	Asla's Snowfield (Easy)
+Stage_Name_5104	Asla's Snowfield (Easy)
+Stage_Name_5105	Asla's Snowfield (Normal)
+Stage_Name_5106	Asla's Snowfield (Normal)
+Stage_Name_5107	Asla's Snowfield (Normal)
+Stage_Name_5108	Asla's Snowfield (Normal)
+Stage_Name_5109	Asla's Snowfield (Hard)
+Stage_Name_5110	Asla's Snowfield (Hard)
+Stage_Name_5111	Asla's Snowfield (Hard)
+Stage_Name_5112	Asla's Snowfield (Hard)
+Stage_Name_5113	Asla's Snowfield (Hard)
+Stage_Name_5200	Windia Forest (Easy)
+Stage_Name_5201	Windia Forest (Easy)
+Stage_Name_5202	Windia Forest (Easy)
+Stage_Name_5203	Windia Forest (Easy)
+Stage_Name_5204	Windia Forest (Easy)
+Stage_Name_5205	Windia Forest (Normal)
+Stage_Name_5206	Windia Forest (Normal)
+Stage_Name_5207	Windia Forest (Normal)
+Stage_Name_5208	Windia Forest (Normal)
+Stage_Name_5209	Windia Forest (Hard)
+Stage_Name_5210	Windia Forest (Hard)
+Stage_Name_5211	Windia Forest (Hard)
+Stage_Name_5212	Windia Forest (Hard)
+Stage_Name_5213	Windia Forest (Hard)
+Stage_Name_5300	Bear King's Factory (Easy)
+Stage_Name_5301	Bear King's Factory (Easy)
+Stage_Name_5302	Bear King's Factory (Easy)
+Stage_Name_5303	Bear King's Factory (Easy)
+Stage_Name_5304	Bear King's Factory (Easy)
+Stage_Name_5305	Bear King's Factory (Normal)
+Stage_Name_5306	Bear King's Factory (Normal)
+Stage_Name_5307	Bear King's Factory (Normal)
+Stage_Name_5308	Bear King's Factory (Normal)
+Stage_Name_5309	Bear Doll King's Factory (Hard)
+Stage_Name_5310	Bear Doll King's Factory (Hard)
+Stage_Name_5311	Bear Doll King's Factory (Hard)
+Stage_Name_6000	Event Story Dungeon A
+Stage_Name_6001	Event Story Dungeon B
+Stage_Name_6002	Event Story Dungeon C
+Stage_Name_6003	Event Story Dungeon D
+Stage_Name_6004	Event Story Dungeon E
+Stage_Name_6005	Event Story Dungeon F
+Stage_Name_6006	Event Story Dungeon G
+Stage_Name_6007	Event Story Dungeon H
+Stage_Name_6008	Event Story Dungeon I
+Stage_Name_6009	Event Story Dungeon J
+Stage_Name_6010	For the warmest winter in the world A
+Stage_Name_6011	For the warmest winter in the world B
+Stage_Name_6012	For the warmest winter in the world C
+Stage_Name_6013	For the warmest winter in the world D
+Stage_Name_6014	For the warmest winter in the world E
+Stage_Name_6015	For the warmest winter in the world F
+Stage_Name_6016	For the warmest winter in the world G
+Stage_Name_6017	For the warmest winter in the world H
+Stage_Name_6018	For the warmest winter in the world I
+Stage_Name_6019	For the warmest winter in the world J
+Stage_Name_6020	Like a light illuminating the New Year A
+Stage_Name_6021	Illuminating the New Year Like a light B
+Stage_Name_6022	Like a light that illuminates the New Year C
+Stage_Name_6023	Like a light that illuminates the New Year D
+Stage_Name_6024	Like a light that illuminates the New Year E
+Stage_Name_6025	Like a light that illuminates the New Year F
+Stage_Name_6026	Like a light that illuminates the New Year G
+Stage_Name_6027	Like a light that illuminates the New Year H
+Stage_Name_6028	Like a light that illuminates the New Year I
+Stage_Name_6029	Like a light that illuminates the New Year J
+Stage_Name_6030	Like a light that illuminates the New Year [Difficult] A
+Stage_Name_6031	Like a light that illuminates the New Year [Difficult] B
+Stage_Name_6032	Like a light that illuminates the New Year [Difficult] C
+Stage_Name_6033	Like a light that illuminates the New Year [Difficult] D
+Stage_Name_6034	Like a light that illuminates the New Year [Difficult] E
+Stage_Name_6035	Like a light that illuminates the New Year [Difficult] F
+Stage_Name_6036	Like a light that illuminates the New Year [Difficult] G
+Stage_Name_6037	Like a light that illuminates the New Year [Difficult] H
+Stage_Name_6038	Like a light that illuminates the New Year [Difficult] I
+Stage_Name_6039	Like a light that illuminates the New Year [Difficult] J
+Stage_Name_6040	A notice thrown to the fox star A
+Stage_Name_6041	Notice thrown to the fox star B
+Stage_Name_6042	Notice thrown to the fox star C
+Stage_Name_6043	Notice thrown to the fox star D
+Stage_Name_6044	Notice thrown to the fox star E
+Stage_Name_6045	Fox starAnnouncement thrown to the fox star F
+Stage_Name_6046	Announcement thrown to the fox star G
+Stage_Name_6047	Announcement thrown to the fox star H
+Stage_Name_6048	Announcement thrown to the fox star I
+Stage_Name_6049	Announcement thrown to the fox star J
+Stage_Name_6050	Announcement thrown to the fox star K
+Stage_Name_6051	Announcement thrown to the fox star L
+Stage_Name_6052	Announcement thrown to the fox star [Difficult] A
+Stage_Name_6053	Announcement thrown to the fox star [Difficult] B
+Stage_Name_6054	Announcement thrown to the fox star [Difficult] C
+Stage_Name_6055	Announcement thrown to the fox star [Difficult] D
+Stage_Name_6056	Notice thrown to the Fox Star [Difficult] E
+Stage_Name_6057	Notice thrown to the Fox Star [Difficult] F
+Stage_Name_6058	Notice thrown to the Fox Star [Difficult] G
+Stage_Name_6059	Notice thrown to the Fox Star [Difficult] H
+Stage_Name_6060	Notice thrown to the Fox Star [Difficult] I
+Stage_Name_6061	Notice thrown to the Fox Star [Difficult] J
+Stage_Name_7000	Kingdom's Last Defense Line
+Stage_Name_7001	Kingdom's North 3rd Defense Line
+Stage_Name_7002	Kingdom's North 2nd Defense Line
+Stage_Name_7003	Kingdom's North 1st Defense Line
+Stage_Name_7004	Northern Fork
+Stage_Name_7005	Raja West Entrance
+Stage_Name_7006	Defense Tower Raja
+Stage_Name_7007	Raja East Entrance
+Stage_Name_7008	Anubis West 1st Defense Line
+Stage_Name_7009	Anubis West 2nd Defense Line
+Stage_Name_7010	Anubis Base
+Stage_Name_7011	Anubis South 3rd Defense Line
+Stage_Name_7012	Anubis South 2nd Defense Line
+Stage_Name_7013	Anubis South 1st Defense Line
+Stage_Name_7014	Defense Tower Karka
+Stage_Name_7015	Karka South Entrance
+Stage_Name_7016	Sea View Ridge
+Stage_Name_7017	Chase East Entrance
+Stage_Name_7018	Defense Tower Chase
+Stage_Name_7019	Kingdom East 1st Defense Line
+Stage_Name_7020	Kingdom East 2nd Defense Line
+Stage_Name_7021	Kingdom East 3rd Defense Line
+Stage_Name_7022	Peyra West Entrance
+Stage_Name_7023	Defense Tower Feyra
+Stage_Name_7024	Peyra East Entrance
+Stage_Name_7025	Crescent Crossroads
+Stage_Name_7026	Ashen Canyon
+Stage_Name_7027	Peyra North Entrance
+Stage_Name_8000	Dark Abyss Basement 1 A
+Stage_Name_8001	Dark Abyss Basement 1 B
+Stage_Name_8002	Dark Abyss Basement 1 C
+Stage_Name_8003	Dark Abyss Basement 1 D
+Stage_Name_8004	Dark Abyss Basement 1 E
+Stage_Name_8005	Dark Abyss Basement 1 F
+Stage_Name_8006	Dark Abyss Basement 1 G
+Stage_Name_8007	Dark Abyss Basement 1 H
+Stage_Name_8008	Dark Abyss Basement 1 I
+Stage_Name_8009	Dark Abyss Basement 1 J
+Stage_Name_8010	Dark Abyss Basement 2 A
+Stage_Name_8011	Dark Abyss Basement 2 B
+Stage_Name_8012	Dark Abyss Basement 2 C
+Stage_Name_8013	Dark Abyss Basement 2nd Floor D
+Stage_Name_8014	Dark Abyss Basement 2nd Floor E
+Stage_Name_8015	Dark Abyss Basement 2nd Floor F
+Stage_Name_8016	Dark Abyss Basement 2nd Floor G
+Stage_Name_8017	Dark Abyss Basement 2nd Floor H
+Stage_Name_8018	Dark Abyss Basement 2nd Floor I
+Stage_Name_8019	Dark Abyss Basement 2nd Floor J
+Stage_Name_8020	Dark Abyss Basement 3rd Floor A
+Stage_Name_8021	Dark Abyss Basement 3rd Floor B
+Stage_Name_8022	Dark Abyss Basement 3rd Floor C
+Stage_Name_8023	Dark Abyss Basement 3rd Floor D
+Stage_Name_8024	Dark Abyss Basement 3rd Floor E
+Stage_Name_8025	Dark Abyss Basement 3rd Floor F
+Stage_Name_8026	Dark Abyss Basement 3rd Floor G
+Stage_Name_8027	Dark Abyss Basement 3rd Floor H
+Stage_Name_8028	Dark Abyss Basement 3rd Floor I
+Stage_Name_8029	Dark Abyss Basement 3rd Floor J
+Stage_Name_8030	Dark Abyss Basement 4th Floor A
+Stage_Name_8031	Dark Abyss Basement 4th Floor B
+Stage_Name_8032	Dark Abyss Basement 4th Floor C
+Stage_Name_8033	Dark Abyss Basement 4th Floor D
+Stage_Name_8034	Dark Abyss Basement 4th Floor E
+Stage_Name_8035	Dark Abyss Basement 4F F
+Stage_Name_8036	Dark Abyss Basement 4F G
+Stage_Name_8037	Dark Abyss Basement 4F H
+Stage_Name_8038	Dark Abyss Basement 4F I
+Stage_Name_8039	Dark Abyss Basement 4F J
+Stage_Name_8040	Dark Abyss Basement 5F A
+Stage_Name_8041	Dark Abyss Basement 5F B
+Stage_Name_8042	Dark Abyss Basement 5F C
+Stage_Name_8043	Dark Abyss Basement 5F D
+Stage_Name_8044	Dark Abyss Basement 5F E
+Stage_Name_8045	Dark Abyss Basement 5F F
+Stage_Name_8046	Dark Abyss Basement 5 G
+Stage_Name_8047	Dark Abyss Basement 5 H
+Stage_Name_8048	Dark Abyss Basement 5 I
+Stage_Name_8049	Dark Abyss Basement 5 J
+Stage_Name_8050	Dark Abyss Basement 6 A
+Stage_Name_8051	Dark Abyss Basement 6 B
+Stage_Name_8052	Dark Abyss Basement 6 C
+Stage_Name_8053	Dark Abyss Basement 6 D
+Stage_Name_8054	Dark Abyss Basement 6 E
+Stage_Name_8055	Dark Abyss Basement 6 F
+Stage_Name_8056	Dark Abyss Basement 6 G
+Stage_Name_8057	Dark Abyss Basement 6 H
+Stage_Name_8058	Dark Abyss Basement 6 I
+Stage_Name_8059	Dark Abyss Basement 6 J
+Stage_Name_8060	Dark Abyss Basement 7 A
+Stage_Name_8061	Dark Abyss Basement 7 B
+Stage_Name_8062	Dark Abyss Basement 7 C
+Stage_Name_8063	Dark Abyss Basement 7 D
+Stage_Name_8064	Dark Abyss Basement 7 E
+Stage_Name_8065	Dark Abyss Basement 7 F
+Stage_Name_8066	Dark Abyss Basement 7 G
+Stage_Name_8067	Dark Abyss Basement 7 H
+Stage_Name_8068	Dark Abyss Basement 7th Floor I
+Stage_Name_8069	Dark Abyss Basement 7th Floor J
+Stage_Name_8070	Dark Abyss Basement 8th Floor A
+Stage_Name_8071	Dark Abyss Basement 8th Floor B
+Stage_Name_8072	Dark Abyss Basement 8th Floor C
+Stage_Name_8073	Dark Abyss Basement 8th Floor D
+Stage_Name_8074	Dark Abyss Basement 8th Floor E
+Stage_Name_8075	Dark Abyss Basement 8th Floor F
+Stage_Name_8076	Dark Abyss Basement 8th Floor G
+Stage_Name_8077	Dark Abyss Basement 8th Floor H
+Stage_Name_8078	Dark Abyss Basement 8th Floor I
+Stage_Name_8079	Dark Abyss Basement 8th Floor J
+Stage_Name_8080	Dark Abyss Basement 9th Floor A
+Stage_Name_8081	Dark Abyss Basement 9th Floor B
+Stage_Name_8082	Dark Abyss Basement 9th Floor C
+Stage_Name_8083	Dark Abyss Basement 9th Floor D
+Stage_Name_8084	Dark Abyss Basement 9th Floor E
+Stage_Name_8085	Dark Abyss Basement 9th Floor F
+Stage_Name_8086	Dark Abyss Basement 9th Floor G
+Stage_Name_8087	Dark Abyss Basement 9th Floor H
+Stage_Name_8088	Dark Abyss Basement 9th Floor I
+Stage_Name_8089	Dark Abyss Basement 9th Floor J
+Stage_Name_8090	Abyss of Darkness, 10th Basement Floor A
+Stage_Name_8091	Abyss of Darkness, 10th Basement Floor B
+Stage_Name_8092	Abyss of Darkness, 10th Basement Floor C
+Stage_Name_8093	Abyss of Darkness, 10th Basement Floor D
+Stage_Name_8094	Abyss of Darkness, 10th Basement Floor E
+Stage_Name_8095	Abyss of Darkness, 10th Basement Floor F
+Stage_Name_8096	Abyss of Darkness, 10th Basement Floor G
+Stage_Name_8097	Abyss of Darkness, 10th Basement Floor H
+Stage_Name_8098	Abyss of Darkness, 10th Basement Floor I
+Stage_Name_8099	Abyss of DarknessAbyss Basement 10th Floor J
+Stage_Name_8100	Abyss of Darkness Basement 11th Floor A
+Stage_Name_8101	Abyss of Darkness Basement 11th Floor B
+Stage_Name_8102	Abyss of Darkness Basement 11th Floor C
+Stage_Name_8103	Abyss of Darkness Basement 11th Floor D
+Stage_Name_8104	Abyss of Darkness Basement 11th Floor E
+Stage_Name_8105	Abyss of Darkness Basement 11th Floor F
+Stage_Name_8106	Abyss of Darkness Basement 11th Floor G
+Stage_Name_8107	Abyss of Darkness Basement 11th Floor H
+Stage_Name_8108	Abyss of Darkness Basement 11th Floor I
+Stage_Name_8109	Abyss of Darkness Basement 11th Floor J
+Stage_Name_8110	Dark Abyss Basement 12th Floor A
+Stage_Name_8111	Dark Abyss Basement 12th Floor B
+Stage_Name_8112	Dark Abyss Basement 12th Floor C
+Stage_Name_8113	Dark Abyss Basement 12th Floor D
+Stage_Name_8114	Dark Abyss Basement 12th Floor E
+Stage_Name_8115	Dark Abyss Basement 12th Floor F
+Stage_Name_8116	Dark Abyss Basement 12th Floor G
+Stage_Name_8117	Dark Abyss Basement 12th Floor H
+Stage_Name_8118	Dark Abyss Basement 12th Floor I
+Stage_Name_8119	Dark Abyss Basement 12th Floor J
+Stage_Name_8120	Dark Abyss Basement 13F A
+Stage_Name_8121	Abyss of Darkness Basement 13F B
+Stage_Name_8122	Abyss of Darkness Basement 13F C
+Stage_Name_8123	Abyss of Darkness Basement 13F D
+Stage_Name_8124	Abyss of Darkness Basement 13F E
+Stage_Name_8125	Abyss of Darkness Basement 13F F
+Stage_Name_8126	Abyss of Darkness Basement 13F G
+Stage_Name_8127	Abyss of Darkness Basement 13F H
+Stage_Name_8128	Abyss of Darkness Basement 13F I
+Stage_Name_8129	Abyss of Darkness Basement 13F J
+Stage_Name_9000	Tower of Burning 1st floor
+Stage_Name_9001	Scorching Tower 2nd floor
+Stage_Name_9002	Scorching Tower 3rd floor
+Stage_Name_9003	Scorching Tower 4th floor
+Stage_Name_9004	Scorching Tower 5th floor
+Stage_Name_9005	Scorching Tower 6th floor
+Stage_Name_9006	Scorching Tower 7th floor
+Stage_Name_9007	Scorching Tower 8th floor
+Stage_Name_9008	Scorching Tower 9th floor
+Stage_Name_9009	Scorching Tower 10th floor
+Stage_Name_9010	Scorching Tower 11th floor
+Stage_Name_9011	Scorching Tower 12th floor
+Stage_Name_9012	Scorching Tower 13th Floor
+Stage_Name_9013	Scorching Tower 14th Floor
+Stage_Name_9014	Scorching Tower 15th Floor
+Stage_Name_9015	Scorching Tower 16th Floor
+Stage_Name_9016	Scorching Tower 17th Floor
+Stage_Name_9017	Scorching Tower 18th Floor
+Stage_Name_9018	Scorching Tower 19th Floor
+Stage_Name_9019	Scorching Tower 20th Floor
+Stage_Name_9020	Scorching Tower 21st Floor
+Stage_Name_9021	Scorching Tower 22nd Floor
+Stage_Name_9022	Scorching Tower 23rd Floor
+Stage_Name_9023	Scorching Tower 24th Floor
+Stage_Name_9024	Scorching Tower 25th floor
+Stage_Name_9025	Scorching Tower 26th floor
+Stage_Name_9026	Scorching Tower 27th floor
+Stage_Name_9027	Scorching Tower 28th floor
+Stage_Name_9028	Scorching Tower 29th floor
+Stage_Name_9029	Scorching Tower 30th floor
+Stage_Name_9030	Scorching Tower 31st floor
+Stage_Name_9031	Scorching Tower 32nd floor
+Stage_Name_9032	Scorching Tower 33rd floor
+Stage_Name_9033	Scorching Tower 34th floor
+Stage_Name_9034	Scorching Tower 35th floor
+Stage_Name_9035	Scorching Tower 36th floor
+Stage_Name_9036	Scorching Tower 37th floor
+Stage_Name_9037	Scorching Tower 38th floor
+Stage_Name_9038	Scorching Tower 39th floor
+Stage_Name_9039	Scorching Tower 40th floor
+Stage_Name_9040	Scorching Tower 41st floor
+Stage_Name_9041	Scorching Tower 42nd floor
+Stage_Name_9042	Scorching Tower 43rd floor
+Stage_Name_9043	Scorching Tower 44th floor
+Stage_Name_9044	Scorching Tower 45th floor
+Stage_Name_9045	Scorching Tower 46th floor
+Stage_Name_9046	Scorching Tower 47th floor
+Stage_Name_9047	Scorching Tower 48th floor
+Stage_Name_9048	Scorching Tower 49th floor
+Stage_Name_9049	Scorching Tower 50th floor
+Stage_Name_9050	Scorching Tower 51st floor
+Stage_Name_9051	Scorching Tower 52nd floor
+Stage_Name_9052	Scorching Tower 53rd floor
+Stage_Name_9053	Scorching Tower 54th floor
+Stage_Name_9054	Scorching Tower 55th floor
+Stage_Name_9055	Scorching Tower 56th floor
+Stage_Name_9056	Scorching Tower 57th floor
+Stage_Name_9057	Scorching Tower 58th floor
+Stage_Name_9058	Scorching Tower 59th floor
+Stage_Name_9059	Scorching Tower 60th floor
+Stage_Name_9060	Scorching Tower 61st floor
+Stage_Name_9061	Scorching Tower 62nd floor
+Stage_Name_9062	Scorching Tower 63rd floor
+Stage_Name_9063	Scorching Tower 64th floor
+Stage_Name_9064	Scorching Tower 65th floor
+Stage_Name_9065	Scorching Tower 66th floor
+Stage_Name_9066	Scorching Tower 67th floor
+Stage_Name_9067	Scorching Tower 68th floor
+Stage_Name_9068	Scorching Tower 69th floor
+Stage_Name_9069	Scorching Tower 70th floor
+Stage_Name_10000	Vortex Tower 1st floor
+Stage_Name_10001	Vortex Tower 2nd floor
+Stage_Name_10002	Vortex Tower 3rd floor
+Stage_Name_10003	Vortex Tower 4th floor
+Stage_Name_10004	Vortex Tower 5th floor
+Stage_Name_10005	Vortex Tower 6th floor
+Stage_Name_10006	Vortex Tower 7th floor
+Stage_Name_10007	Vortex Tower 8th floor
+Stage_Name_10008	Vortex Tower 9th floor
+Stage_Name_10009	Vortex Tower 10th floor
+Stage_Name_10010	Vortex Tower 11th floor
+Stage_Name_10011	Vortex Tower 12th floor
+Stage_Name_10012	Vortex Tower 13th floor
+Stage_Name_10013	Vortex Tower 14th floor
+Stage_Name_10014	Vortex Tower 15th floor
+Stage_Name_10015	Vortex Tower 16th floor
+Stage_Name_10016	Vortex Tower 17th floor
+Stage_Name_10017	Vortex Tower 18th floor
+Stage_Name_10018	Vortex Tower 19th floor
+Stage_Name_10019	Vortex Tower 20th floor
+Stage_Name_10020	Vortex Tower 21st floor
+Stage_Name_10021	Vortex Tower 22nd floor
+Stage_Name_10022	Vortex Tower 23rd floor
+Stage_Name_10023	Vortex Tower 24th floor
+Stage_Name_10024	Vortex Tower 25th floor
+Stage_Name_10025	Vortex Tower 26th floor
+Stage_Name_10026	Vortex Tower 27th floor
+Stage_Name_10027	Vortex Tower 28th floor
+Stage_Name_10028	Vortex Tower 29th floor
+Stage_Name_10029	Vortex Tower 30th floor
+Stage_Name_10030	Vortex Tower 31st floor
+Stage_Name_10031	Vortex Tower 32nd floor
+Stage_Name_10032	Vortex Tower 33rd floor
+Stage_Name_10033	Vortex Tower 34th floor
+Stage_Name_10034	Vortex Tower 35th floor
+Stage_Name_10035	Vortex Tower 36th floor
+Stage_Name_10036	Vortex Tower 37th floor
+Stage_Name_10037	Vortex Tower 38th floor
+Stage_Name_10038	Vortex Tower 39th floor
+Stage_Name_10039	Vortex Tower 40th floor
+Stage_Name_10040	Vortex Tower 41st floor
+Stage_Name_10041	Vortex Tower 42nd floor
+Stage_Name_10042	Vortex Tower 43rd floor
+Stage_Name_10043	Vortex Tower 44th floor
+Stage_Name_10044	Vortex Tower 45th floor
+Stage_Name_10045	Vortex Tower 46th floor
+Stage_Name_10046	Vortex Tower 47th floor
+Stage_Name_10047	Vortex Tower 48th floor
+Stage_Name_10048	Vortex Tower 49th floor
+Stage_Name_10049	Vortex Tower 50th floor
+Stage_Name_10050	Vortex Tower 51st floor
+Stage_Name_10051	Vortex Tower 52nd floor
+Stage_Name_10052	Vortex Tower 53rd floor
+Stage_Name_10053	Vortex Tower 54th floor
+Stage_Name_10054	Vortex Tower 55th floor
+Stage_Name_10055	Vortex Tower 56th floor
+Stage_Name_10056	Vortex Tower 57th floor
+Stage_Name_10057	Vortex Tower 58th floor
+Stage_Name_10058	Vortex Tower59th floor
+Stage_Name_10059	Vortex Tower 60th floor
+Stage_Name_10060	Vortex Tower 61st floor
+Stage_Name_10061	Vortex Tower 62nd floor
+Stage_Name_10062	Vortex Tower 63rd floor
+Stage_Name_10063	Vortex Tower 64th floor
+Stage_Name_10064	Vortex Tower 65th floor
+Stage_Name_10065	Vortex Tower 66th floor
+Stage_Name_10066	Vortex Tower 67th floor
+Stage_Name_10067	Vortex Tower 68th floor
+Stage_Name_10068	Vortex Tower 69th floor
+Stage_Name_10069	Vortex Tower 70th Floor
+Stage_Name_11000	Tower of the West Wind 1st Floor
+Stage_Name_11001	Tower of the West Wind 2nd Floor
+Stage_Name_11002	Tower of the West Wind 3rd Floor
+Stage_Name_11003	Tower of the West Wind 4th Floor
+Stage_Name_11004	Tower of the West Wind 5th Floor
+Stage_Name_11005	Tower of the West Wind 6th Floor
+Stage_Name_11006	Tower of the West Wind 7th Floor
+Stage_Name_11007	Tower of the West Wind 8th Floor
+Stage_Name_11008	Tower of the West Wind 9th Floor
+Stage_Name_11009	Tower of the West Wind 10th Floor
+Stage_Name_11010	Tower of the West Wind 11th Floor
+Stage_Name_11011	Tower of the West Wind 12th Floor
+Stage_Name_11012	Tower of the West Wind 13th Floor
+Stage_Name_11013	Tower of the West Wind 14th Floor
+Stage_Name_11014	Tower of the West Wind 15th Floor
+Stage_Name_11015	Tower of the West Wind 16th Floor
+Stage_Name_11016	Tower of the West Wind 17th Floor
+Stage_Name_11017	Tower of the West Wind 18th Floor
+Stage_Name_11018	Tower of the West Wind 19th Floor
+Stage_Name_11019	Tower of the West Wind 20th Floor
+Stage_Name_11020	Tower of the West Wind 21st Floor
+Stage_Name_11021	Tower of the West Wind 22nd Floor
+Stage_Name_11022	Tower of the West Wind 23rd floor
+Stage_Name_11023	Tower of the West Wind 24th floor
+Stage_Name_11024	Tower of the West Wind 25th floor
+Stage_Name_11025	Tower of the West Wind 26th floor
+Stage_Name_11026	Tower of the West Wind 27th floor
+Stage_Name_11027	Tower of the West Wind 28th floor
+Stage_Name_11028	Tower of the West Wind 29th floor
+Stage_Name_11029	Tower of the West Wind 30th floor
+Stage_Name_11030	Tower of the West Wind 31st floor
+Stage_Name_11031	Tower of the West Wind 32nd floor
+Stage_Name_11032	Tower of the West Wind 33rd floor
+Stage_Name_11033	Tower of the West Wind 34th floor
+Stage_Name_11034	Tower of the West Wind 35th floor
+Stage_Name_11035	Tower of the West Wind 36th floor
+Stage_Name_11036	Tower of the West Wind 37th floor
+Stage_Name_11037	Tower of the West Wind 38th floor
+Stage_Name_11038	Tower of the West Wind 39th floor
+Stage_Name_11039	Tower of the West Wind 40th floor
+Stage_Name_11040	Tower of the West Wind 41st floor
+Stage_Name_11041	Tower of the West Wind 42nd floor
+Stage_Name_11042	Tower of the West Wind 43rd floor
+Stage_Name_11043	Tower of the West Wind 44th floor
+Stage_Name_11044	Tower of the West Wind 45th floor
+Stage_Name_11045	Tower of the West Wind 46th floor
+Stage_Name_11046	Tower of the West Wind 47th floor
+Stage_Name_11047	Tower of the West Wind 48th floor
+Stage_Name_11048	Tower of the West Wind 49th floor
+Stage_Name_11049	Tower of the West Wind 50th floor
+Stage_Name_11050	Tower of the West Wind 51st floor
+Stage_Name_11051	Tower of the West Wind 52nd floor
+Stage_Name_11052	Tower of the West Wind 53rd floor
+Stage_Name_11053	Tower of the West Wind 54th floor
+Stage_Name_11054	Tower of the West Wind 55th floor
+Stage_Name_11055	Tower of the West Wind 56th floor
+Stage_Name_11056	Tower of the West Wind 57th floor
+Stage_Name_11057	Tower of the West Wind 58th floor
+Stage_Name_11058	Tower of the West Wind 59th floor
+Stage_Name_11059	Tower of the West Wind 60th floor
+Stage_Name_11060	Tower of the West Wind 61st floor
+Stage_Name_11061	Tower of the West Wind 62nd floor
+Stage_Name_11062	Tower of the West Wind 63rd floor
+Stage_Name_11063	Tower of the West Wind 64th floor
+Stage_Name_11064	Tower of the West Wind 65th floor
+Stage_Name_11065	Tower of the West Wind 66th floor
+Stage_Name_11066	Tower of the West Wind 67th floor
+Stage_Name_11067	Tower of the West Wind 68th floor
+Stage_Name_11068	Tower of the West Wind 69th floor
+Stage_Name_11069	Tower of the West Wind 70th floor
+Stage_Name_12000	Tower of Heavenly Light 1st floor
+Stage_Name_12001	Tower of Heavenly Light 2nd floor
+Stage_Name_12002	Tower of Heavenly Light 3rd floor
+Stage_Name_12003	Tower of Heavenly Light 4th floor
+Stage_Name_12004	Tower of Heavenly Light 5th floor
+Stage_Name_12005	Tower of Heavenly Light 6th floor
+Stage_Name_12006	Tower of Heavenly Light 7th floor
+Stage_Name_12007	Tower of Heavenly Light 8th floor
+Stage_Name_12008	Tower of Heavenly Light 9th floor
+Stage_Name_12009	Tower of Heavenly Light 10th floor
+Stage_Name_12010	Tower of Heavenly Light 11th floor
+Stage_Name_12011	Tower of Heavenly Light 12th floor
+Stage_Name_12012	Tower of Heavenly Light 13th floor
+Stage_Name_12013	Tower of Heavenly Light 14th floor
+Stage_Name_12014	Tower of Heavenly Light 15th floor
+Stage_Name_12015	Tower of Heavenly Light 16th floor
+Stage_Name_12016	Tower of Heavenly Light 17th floor
+Stage_Name_12017	Tower of Heavenly Light 18th floor
+Stage_Name_12018	Tower of Heavenly Light 19th floor
+Stage_Name_12019	Tower of Heavenly Light 20th floor
+Stage_Name_12020	Tower of Heaven 21st floor
+Stage_Name_12021	Tower of Heaven 22nd floor
+Stage_Name_12022	Tower of Heaven 23rd floor
+Stage_Name_12023	Tower of Heaven 24th floor
+Stage_Name_12024	Tower of Heaven 25th floor
+Stage_Name_12025	Tower of Heaven 26th floor
+Stage_Name_12026	Tower of Heaven 27th floor
+Stage_Name_12027	Tower of Heaven 28th floor
+Stage_Name_12028	Tower of Heaven 29th floor
+Stage_Name_12029	Tower of Heaven 30th floor
+Stage_Name_12030	Tower of Heaven 31st floor
+Stage_Name_12031	Tower of Heaven 32nd floor
+Stage_Name_12032	Tower of Heaven 33rd floor
+Stage_Name_12033	Tower of Heaven 34th floor
+Stage_Name_12034	Tower of Heaven 35th floor
+Stage_Name_12035	Tower of Heaven 36th floor
+Stage_Name_12036	Tower of Heaven 37th floor
+Stage_Name_12037	Tower of Heaven 38th floor
+Stage_Name_12038	Tower of Heaven 39th floor
+Stage_Name_12039	Tower of Heaven 40th floor
+Stage_Name_12040	Tower of Heaven 41st floor
+Stage_Name_12041	Tower of Heaven 42nd floor
+Stage_Name_12042	Tower of Heavenly Light 43rd floor
+Stage_Name_12043	Tower of Heavenly Light 44th floor
+Stage_Name_12044	Tower of Heavenly Light 45th floor
+Stage_Name_12045	Tower of Heavenly Light 46th floor
+Stage_Name_12046	Tower of Heavenly Light 47th floor
+Stage_Name_12047	Tower of Heavenly Light 48th floor
+Stage_Name_12048	Tower of Heavenly Light 49th floor
+Stage_Name_12049	Tower of Heavenly Light 50th floor
+Stage_Name_12050	Tower of Heavenly Light 51st floor
+Stage_Name_12051	Tower of Heavenly Light 52nd floor
+Stage_Name_12052	Tower of Heavenly Light 53rd floor
+Stage_Name_12053	Tower of Heavenly Light 54th floor
+Stage_Name_12054	Tower of Heavenly Light 55th floor
+Stage_Name_12055	Tower of Heavenly Light 56th floor
+Stage_Name_12056	Tower of Heavenly Light 57th floor
+Stage_Name_12057	Tower of Heavenly Light 58th floor
+Stage_Name_12058	Tower of Heavenly Light 59th floor
+Stage_Name_12059	Tower of Heavenly Light 60th floor
+Stage_Name_12060	Tower of Heavenly Light 61st floor
+Stage_Name_12061	Tower of Heavenly Light 62nd floor
+Stage_Name_12062	Tower of Heavenly Light 63rd floor
+Stage_Name_12063	Tower of Heavenly Light 64th floor
+Stage_Name_12064	Tower of Heavenly Light 65th floor
+Stage_Name_12065	Tower of Heavenly Light 66th floor
+Stage_Name_12066	Tower of Heavenly Light 67th floor
+Stage_Name_12067	Tower of Heavenly Light 68th floor
+Stage_Name_12068	Tower of Heavenly Light 69th floor
+Stage_Name_12069	Tower of Heavenly Light 70th floor
+Stage_Name_13000	Tower of Abyss 1st floor
+Stage_Name_13001	Tower of Abyss 2nd floor
+Stage_Name_13002	Tower of Abyss 3rd floor
+Stage_Name_13003	Tower of Abyss 4th floor
+Stage_Name_13004	Tower of Abyss 5th floor
+Stage_Name_13005	Tower of Abyss Tower 6th Floor
+Stage_Name_13006	Tower of the Abyss 7th Floor
+Stage_Name_13007	Tower of the Abyss 8th Floor
+Stage_Name_13008	Tower of the Abyss 9th Floor
+Stage_Name_13009	Tower of the Abyss 10th Floor
+Stage_Name_13010	Tower of the Abyss 11th Floor
+Stage_Name_13011	Tower of Hell 12th Floor
+Stage_Name_13012	Tower of Hell 13th Floor
+Stage_Name_13013	Tower of Hell 14th Floor
+Stage_Name_13014	Tower of Hell 15th Floor
+Stage_Name_13015	Tower of Hell 16th Floor
+Stage_Name_13016	Tower of Hell 17th Floor
+Stage_Name_13017	Tower of Hell 18th Floor
+Stage_Name_13018	Tower of Hell 19th Floor
+Stage_Name_13019	Tower of Hell 20th Floor
+Stage_Name_13020	Tower of Hell 21st Floor
+Stage_Name_13021	Tower of Hell 22nd Floor
+Stage_Name_13022	Tower of Hell 23rd Floor
+Stage_Name_13023	Tower of Hell 24th Floor
+Stage_Name_13024	Tower of Hell 25th Floor
+Stage_Name_13025	Tower of Hell 26th Floor
+Stage_Name_13026	Tower of Hell 27th Floor
+Stage_Name_13027	Tower of Hell 28th Floor
+Stage_Name_13028	Tower of Hell 29th Floor
+Stage_Name_13029	Tower of Hell 30th Floor
+Stage_Name_13030	Tower of Hell 31st Floor
+Stage_Name_13031	Tower of Hell 32nd Floor
+Stage_Name_13032	Tower of Hell 33rd floor
+Stage_Name_13033	Tower of Hell 34th floor
+Stage_Name_13034	Tower of Hell 35th floor
+Stage_Name_13035	Tower of Hell 36th floor
+Stage_Name_13036	Tower of Hell 37th floor
+Stage_Name_13037	Tower of Hell 38th floor
+Stage_Name_13038	Tower of Hell 39th floor
+Stage_Name_13039	Tower of Hell 40th floor
+Stage_Name_13040	Tower of Hell 41st floor
+Stage_Name_13041	Tower of Hell 42nd floor
+Stage_Name_13042	Tower of Hell 43rd floor
+Stage_Name_13043	Tower of Hell 44th Floor
+Stage_Name_13044	Tower of Hell 45th Floor
+Stage_Name_13045	Tower of Hell 46th Floor
+Stage_Name_13046	Tower of Hell 47th Floor
+Stage_Name_13047	Tower of Hell 48th Floor
+Stage_Name_13048	Tower of Hell 49th Floor
+Stage_Name_13049	Tower of Hell 50th Floor
+Stage_Name_13050	Tower of Hell 51st Floor
+Stage_Name_13051	Tower of Hell 52nd Floor
+Stage_Name_13052	Tower of Hell 53rd Floor
+Stage_Name_13053	Tower of Hell 54th Floor
+Stage_Name_13054	Tower of Hell 55th floor
+Stage_Name_13055	Tower of Hell 56th floor
+Stage_Name_13056	Tower of Hell 57th floor
+Stage_Name_13057	Tower of Hell 58th floor
+Stage_Name_13058	Tower of Hell 59th floor
+Stage_Name_13059	Tower of Hell 60th floor
+Stage_Name_13060	Tower of Hell 61st floor
+Stage_Name_13061	Tower of Hell 62nd floor
+Stage_Name_13062	Tower of Hell 63rd floor
+Stage_Name_13063	Tower of Hell 64th floor
+Stage_Name_13064	Tower of Hell 65th floor
+Stage_Name_13065	Tower of Hell 66th floor
+Stage_Name_13066	Tower of the Abyss 67th floor
+Stage_Name_13067	Tower of the Abyss 68th floor
+Stage_Name_13068	Tower of the Abyss 69th floor
+Stage_Name_13069	Tower of the Abyss 70th floor

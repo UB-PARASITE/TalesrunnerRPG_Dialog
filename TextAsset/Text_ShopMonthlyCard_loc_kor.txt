@@ -1,0 +1,9 @@
+ShopMonthlyCard_Name_0001	데일리 작가 지원팩
+ShopMonthlyCard_Name_0002	데일리 작가 지원팩 플러스
+ShopMonthlyCard_Name_0003	데일리 스태미나 보급팩
+ShopMonthlyCard_Name_0004	7일간 픽업 소환권 보급 팩
+ShopMonthlyCard_Name_0005	데일리 선물 상자 보급 팩
+ShopMonthlyCard_Name_0006	7일간 선물 보급 팩
+ShopMonthlyCard_Name_0007	7일간 일반 소환권 보급 팩
+ShopMonthlyCard_Name_0008	신규 작가 전용 데일리 작가 지원팩
+ShopMonthlyCard_Name_0009	신입 작가 전용 7일 다이아 지원 팩

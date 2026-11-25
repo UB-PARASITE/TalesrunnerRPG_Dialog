@@ -1,0 +1,15 @@
+WorldSkill_Name_9000	달콤한 향기
+WorldSkill_Name_9001	서커스 개막!
+WorldSkill_Name_9002	악몽이 드리운 길
+WorldSkill_Name_9003	피크닉 타임
+WorldSkill_Name_9004	필승의 예언
+WorldSkill_Desc_9000	범위 내 발판에서 전투 진입 시, 아군 전체의 공격력 {v0.0}%와 방어력 {v0.0}%를 증가시킵니다.
+WorldSkill_Desc_9001	범위 내 발판 전투 진입 시, 아군 전체의 크리티컬 확률 {v0.0}%와 크리티컬 대미지 {v0.0}% 증가합니다.
+WorldSkill_Desc_9002	범위 내 발판에서 전투 진입 시, 적 전체의 받는 대미지를 {v0.0}% 증가시킵니다.
+WorldSkill_Desc_9003	범위 내 발판에서 전투 진입 시, 아군 전체의 최대 체력 {v0.0}%와 행동력이 {v0} 증가합니다.
+WorldSkill_Desc_9004	범위 내 발판에서 전투 진입 시, 모든 아군의 대미지를 {v0.0}% 증가시키며, 받는 대미지도 {v0.0}% 증가시킵니다.
+WorldSkill_ToolTipDesc_9000	범위 내 발판에서 전투 진입 시, 아군 전체의 공격력 {v0.0}%와 방어력 {v0.0}%를 증가시킵니다.
+WorldSkill_ToolTipDesc_9001	범위 내 발판 전투 진입 시, 아군 전체의 크리티컬 확률 {v0.0}%와 크리티컬 대미지 {v0.0}% 증가합니다.
+WorldSkill_ToolTipDesc_9002	범위 내 발판에서 전투 진입 시, 적 전체의 받는 대미지를 {v0.0}% 증가시킵니다.
+WorldSkill_ToolTipDesc_9003	범위 내 발판에서 전투 진입 시, 아군 전체의 최대 체력 {v0.0}%와 행동력 {v0}이 증가합니다.
+WorldSkill_ToolTipDesc_9004	범위 내 발판에서 전투 진입 시, 모든 아군의 대미지를 {v0.0}% 증가시키며, 받는 대미지도 {v0.0}% 증가시킵니다.

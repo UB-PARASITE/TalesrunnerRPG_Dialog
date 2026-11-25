@@ -1,0 +1,6 @@
+WriterSkillLvBonus_Name_0000	Writer of Wrath
+WriterSkillLvBonus_Name_0001	Writer of Assistance
+WriterSkillLvBonus_Name_0002	Writer of Chaos
+WriterSkillLvBonus_Desc_0000	When all of the specified skills below reach their maximum level, the level of the skill below increases by 3.\\r
+WriterSkillLvBonus_Desc_0001	When all of the specified skills below reach their maximum level, the level of the skill below increases by 3.\\r
+WriterSkillLvBonus_Desc_0002	When all of the specified skills below reach their maximum level, the level of the skill below increases by 3.\\r

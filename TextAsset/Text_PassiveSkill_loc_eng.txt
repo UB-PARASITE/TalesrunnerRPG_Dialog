@@ -1,0 +1,683 @@
+PassiveSkill_Name_10000	Speed Up
+PassiveSkill_Name_10001	Agile Movement
+PassiveSkill_Name_10002	One-sided attack
+PassiveSkill_Name_10003	Leading the Way
+PassiveSkill_Name_10004	Tales Shield
+PassiveSkill_Name_10005	Counterattack Preparation
+PassiveSkill_Name_10006	Frozen Protest
+PassiveSkill_Name_10007	Sharp Arrow
+PassiveSkill_Name_10008	Under the moonlight
+PassiveSkill_Name_10009	Random Potion
+PassiveSkill_Name_10010	Emergency Potion Delivery
+PassiveSkill_Name_10011	Alchemy Advancement
+PassiveSkill_Name_10012	Potion Making
+PassiveSkill_Name_10013	Queen's Duties
+PassiveSkill_Name_10014	Queen's Duties
+PassiveSkill_Name_10015	For Her Majesty the Queen!!
+PassiveSkill_Name_10016	Queen's Majesty
+PassiveSkill_Name_10017	Fire Strike
+PassiveSkill_Name_10018	Action actor Mingming
+PassiveSkill_Name_10019	Fierce Dragon
+PassiveSkill_Name_10020	Blue Sword Demon
+PassiveSkill_Name_10021	Warrior's Mindset
+PassiveSkill_Name_10022	Protection of the Other World
+PassiveSkill_Name_10025	Exhausted
+PassiveSkill_Name_10026	Inner Rage
+PassiveSkill_Name_10027	Extreme Training
+PassiveSkill_Name_10028	Anger Management
+PassiveSkill_Name_10029	Queen's Protection
+PassiveSkill_Name_10030	Joy Protection
+PassiveSkill_Name_10031	Brilliant Radiance
+PassiveSkill_Name_10032	Emotion Absorption
+PassiveSkill_Name_10033	Emotion Absorption
+PassiveSkill_Name_10034	Emotion Absorption
+PassiveSkill_Name_10035	Emotion Absorption
+PassiveSkill_Name_10036	Emotion Absorption
+PassiveSkill_Name_10037	Emotional Healing
+PassiveSkill_Name_10038	Artifact of Resurrection
+PassiveSkill_Name_10039	Don't miss a trace
+PassiveSkill_Name_10040	Wild Intuition
+PassiveSkill_Name_10041	Hiding won't help
+PassiveSkill_Name_10042	Nature's Breath
+PassiveSkill_Name_10043	Merciless Hammer
+PassiveSkill_Name_10044	Groggy Attack
+PassiveSkill_Name_10045	Healing Wave
+PassiveSkill_Name_10046	The charm of ballet
+PassiveSkill_Name_10047	Refreshing Breeze
+PassiveSkill_Name_10048	Ready Stance
+PassiveSkill_Name_10049	Residual Soul
+PassiveSkill_Name_10050	Hunting Skill
+PassiveSkill_Name_10051	Great Soul Collector
+PassiveSkill_Name_10052	Sugar Low
+PassiveSkill_Name_10053	Tea Time
+PassiveSkill_Name_10054	Sugar High
+PassiveSkill_Name_10055	Protein Cream
+PassiveSkill_Name_10056	Protect Cream
+PassiveSkill_Name_10057	Caffeine Cream
+PassiveSkill_Name_10058	Sweet Marshmallow
+PassiveSkill_Name_10059	Cookie Shield
+PassiveSkill_Name_10060	First Aid
+PassiveSkill_Name_10061	Can't see it?
+PassiveSkill_Name_10062	Are you getting more and more scared?
+PassiveSkill_Name_10063	Secretly Great
+PassiveSkill_Name_10064	Don't hurt Mimi!
+PassiveSkill_Name_10065	Mimi's exclusive taunt passive
+PassiveSkill_Name_10066	Flare Physical Ability Enhancement
+PassiveSkill_Name_10067	Flame Woman Flare
+PassiveSkill_Name_10068	Don't wake me up!
+PassiveSkill_Name_10069	It's harmful!
+PassiveSkill_Name_10070	Pillow Care
+PassiveSkill_Name_10071	Nightmare Spark
+PassiveSkill_Name_10072	Nightmare Flower
+PassiveSkill_Name_10073	Nightmare Fairy
+PassiveSkill_Name_10074	Healing Thread
+PassiveSkill_Name_10075	Healing Thread
+PassiveSkill_Name_10076	Link Shield
+PassiveSkill_Name_10077	Strengthen Allies
+PassiveSkill_Name_10078	For buffing wooden dolls
+PassiveSkill_Name_10079	Fan Service
+PassiveSkill_Name_10080	Fan Service
+PassiveSkill_Name_10081	Melody of Recovery
+PassiveSkill_Name_10082	Passive Skill Name ...
+PassiveSkill_Name_10083	Delicious Food
+PassiveSkill_Name_10084	I'm scared!
+PassiveSkill_Name_10085	Cheer up!
+PassiveSkill_Name_10086	Warmonger
+PassiveSkill_Name_10087	Explosive Bullet
+PassiveSkill_Name_10088	Pierces through..
+PassiveSkill_Name_10089	Pierces..._Additional application
+PassiveSkill_Name_10090	Deep Winter Night
+PassiveSkill_Name_10091	Seeping Night
+PassiveSkill_Name_10092	The Night That Never Ends
+PassiveSkill_Name_10093	The Night That Never Ends
+PassiveSkill_Name_10094	My Own Prince
+PassiveSkill_Name_10095	Stella's Protection
+PassiveSkill_Name_10096	Costume Star!
+PassiveSkill_Name_10097	Great King
+PassiveSkill_Name_10098	Keep your body healthy!
+PassiveSkill_Name_10099	How rude!!
+PassiveSkill_Name_10100	Aqua Mark
+PassiveSkill_Name_10101	Aqua Mark_Check Active Skill
+PassiveSkill_Name_10102	Mermaid Code
+PassiveSkill_Name_10103	Aqua Resonance
+PassiveSkill_Name_10104	Aqua Resonance_Additional fire attribute damage
+PassiveSkill_Name_10105	Floral Care
+PassiveSkill_Name_10106	Make nature beautiful
+PassiveSkill_Name_10107	Magic Watering Can
+PassiveSkill_Name_10108	Magic Watering Can
+PassiveSkill_Name_10109	Spicy Punch
+PassiveSkill_Name_10110	If you get hit, it'll hurt ♥
+PassiveSkill_Name_10111	If it hits, it'll be slow? ♥
+PassiveSkill_Name_10112	If you get hit, you'll be slow? ♥_For increasing action power
+PassiveSkill_Name_10113	Deep Sea Breath
+PassiveSkill_Name_10114	Is it too obvious?
+PassiveSkill_Name_10115	Prophecy of Victory
+PassiveSkill_Name_10116	Dark Lantern
+PassiveSkill_Name_10117	Darkness is my source
+PassiveSkill_Name_10118	Night's Veil
+PassiveSkill_Name_10119	Night's Veil_Effect removal
+PassiveSkill_Name_10120	Chaos Resurrection
+PassiveSkill_Name_10121	Along with the darkness.
+PassiveSkill_Name_10122	Writhe in pain
+PassiveSkill_Name_10123	Design Reconfiguration
+PassiveSkill_Name_10124	Increased Resistance
+PassiveSkill_Name_10125	Perfect Design
+PassiveSkill_Name_10126	Pain Enhancement
+PassiveSkill_Name_10127	Ringer injection
+PassiveSkill_Name_10128	The Peak of Pain
+PassiveSkill_Name_10129	Basic skills of a maid
+PassiveSkill_Name_10130	Basic skills of a maid
+PassiveSkill_Name_10131	Quick Action
+PassiveSkill_Name_10132	Cleaning is definitely
+PassiveSkill_Name_10133	Cleaning is definitely_Monster 1
+PassiveSkill_Name_10134	Cleaning is a sure thing_Monster 2
+PassiveSkill_Name_10135	Passive exclusive to monster cleaning effect
+PassiveSkill_Name_10136	Blood Transfusion
+PassiveSkill_Name_10137	Vampire Lord
+PassiveSkill_Name_10138	Curse of Blood
+PassiveSkill_Name_10139	Curse of Blood_Additional Damage
+PassiveSkill_Name_10140	Strong Mind
+PassiveSkill_Name_10141	Armor Modification
+PassiveSkill_Name_10142	Towards Victory
+PassiveSkill_Name_10143	Incomplete Attribute Weakening Potion
+PassiveSkill_Name_10144	Additional Materials
+PassiveSkill_Name_10145	Attribute Weakening Potion
+PassiveSkill_Name_10146	Acerado
+PassiveSkill_Name_10147	Rapido Axion
+PassiveSkill_Name_10148	Crystal Philor
+PassiveSkill_Name_10149	How about RPG!?
+PassiveSkill_Name_10150	How about FPS!?
+PassiveSkill_Name_10151	Games are healing!
+PassiveSkill_Name_10152	I'll bite you!
+PassiveSkill_Name_10153	Last Wolf
+PassiveSkill_Name_10154	Revealing Claws
+PassiveSkill_Name_10155	Reinforced Bullet
+PassiveSkill_Name_10156	Identifying Vital Points
+PassiveSkill_Name_10157	Bullseye
+PassiveSkill_Name_10158	Proof of the Strong
+PassiveSkill_Name_10159	One-handed sword and two-handed sword
+PassiveSkill_Name_10160	Samurai Heart
+PassiveSkill_Name_10161	Sea Girl Sea
+PassiveSkill_Name_10162	Sea Girl Sea_Additional Condition 1
+PassiveSkill_Name_10163	Sea Girl Sea_Additional Condition 2
+PassiveSkill_Name_10164	Sea Girl Sea_Additional Condition 2
+PassiveSkill_Name_10165	Seal's Friend
+PassiveSkill_Name_10166	Ebb and flow
+PassiveSkill_Name_10167	Ebb and Flow_For ally buff
+PassiveSkill_Name_10168	Anyone would fall in love with this! A exclusive passive
+PassiveSkill_Name_10169	Succubus' True Face B Exclusive Passive
+PassiveSkill_Name_10170	Succubus' True Face B Exclusive Passive 2
+PassiveSkill_Name_10171	Ready to seduce!
+PassiveSkill_Name_10172	Overflowing Stamina
+PassiveSkill_Name_10173	Regular Steal
+PassiveSkill_Name_10174	Passive exclusive to Active Skill B
+PassiveSkill_Name_10175	Weaknesses discovered in a crisis
+PassiveSkill_Name_10176	Four Leaf Clover in the Heart
+PassiveSkill_Name_10177	Four Leaf Clover in the Heart 2
+PassiveSkill_Name_10178	The Greatest Warrior
+PassiveSkill_Name_10179	Masterpiece Birth
+PassiveSkill_Name_10180	Masterpiece Birth 2
+PassiveSkill_Name_10181	Masterpiece Birth 3
+PassiveSkill_Name_10182	Artistic Inspiration
+PassiveSkill_Name_10183	Aesthetic sense
+PassiveSkill_Name_10184	Diamond Indestructible
+PassiveSkill_Name_10185	Three-Way Evolution
+PassiveSkill_Name_10186	Lee Hwa-Grafting
+PassiveSkill_Name_10187	Ewha Grafting 2
+PassiveSkill_Name_10188	Life and Death
+PassiveSkill_Name_10189	Myungkyung Jisu
+PassiveSkill_Name_10190	Nakwol Okryang
+PassiveSkill_Name_10191	I'll steal your smile
+PassiveSkill_Name_10192	I'll steal your smile 2
+PassiveSkill_Name_10193	Thief's Premonition
+PassiveSkill_Name_10194	Wildcard
+PassiveSkill_Name_10195	Passive exclusive to Bike Strike A
+PassiveSkill_Name_10196	Lion Flip B Exclusive Passive
+PassiveSkill_Name_10197	Miya's cheer
+PassiveSkill_Name_10198	Reverse Rider
+PassiveSkill_Name_10199	Override Bike
+PassiveSkill_Name_10200	Override Bike 2
+PassiveSkill_Name_10201	Reverse Offset
+PassiveSkill_Name_10202	Resisting Light
+PassiveSkill_Name_10203	Darkness Accumulation
+PassiveSkill_Name_10204	Darkness Accumulation 2
+PassiveSkill_Name_10205	Fierce fighting!
+PassiveSkill_Name_10206	Ta-da! Ta-da!
+PassiveSkill_Name_10207	Pandora's Sun
+PassiveSkill_Name_10208	Wave Favor
+PassiveSkill_Name_10209	Tears of the Deep Sea
+PassiveSkill_Name_10210	The sea that swallowed pain
+PassiveSkill_Name_10211	Sea that swallowed pain (Active B effect check)
+PassiveSkill_Name_10212	Meteorology
+PassiveSkill_Name_10213	Cumulonimbus
+PassiveSkill_Name_10214	Bad Weather
+PassiveSkill_Name_10215	Bad Weather 2
+PassiveSkill_Name_10216	Bad Weather 3
+PassiveSkill_Name_10217	Bad Weather 4
+PassiveSkill_Name_10218	Amelie Active A Effect
+PassiveSkill_Name_10219	Amelie Active B Effect 1
+PassiveSkill_Name_10220	Amelie Active B Effect 1-2
+PassiveSkill_Name_10221	Cheongsin Dance (請神舞)
+PassiveSkill_Name_10222	Cheongsinmu (Dance of the Gods) (Energy Proportional Notarization)
+PassiveSkill_Name_10223	Please God Dance (Energy 100 effect limit)
+PassiveSkill_Name_10225	Dance of the Gods (100 Energy Effect)
+PassiveSkill_Name_10224	Cheongsinmu (Dance of the Gods) (Energy Consumption)
+PassiveSkill_Name_10226	Seryeong Dance
+PassiveSkill_Name_10227	Five God Dance
+PassiveSkill_Name_10228	Yeon-o Active A Effect
+PassiveSkill_Name_10229	Arcon
+PassiveSkill_Name_10230	Arcon 2
+PassiveSkill_Name_10231	Episcopos
+PassiveSkill_Name_10232	Flugel
+PassiveSkill_Name_10233	Flügel (random enemy selection)
+PassiveSkill_Name_10234	Flügel (additional damage to enemies)
+PassiveSkill_Name_10235	Changed the effect of Active Skill B normal attack
+PassiveSkill_Name_10236	Changed the effect of Active Skill B normal attack
+PassiveSkill_Name_10237	Guardian Saint's Protection
+PassiveSkill_Name_10238	Guardian Saint's Protection 1-2
+PassiveSkill_Name_10239	Guardian Saint's Protection 1-3
+PassiveSkill_Name_10240	Guardian Saint's Protection 1-4
+PassiveSkill_Name_10241	Training Achievements
+PassiveSkill_Name_10242	Protecting your friends
+PassiveSkill_Name_10243	Protecting Friends 1-3
+PassiveSkill_Name_10244	Protecting Friends 1-3
+PassiveSkill_Name_10245	Active A
+PassiveSkill_Name_10246	Crystal Philor 1-2
+PassiveSkill_Name_10247	Bullseye (for Active B Check)
+PassiveSkill_Name_10248	Reinforced Bullet (increases damage every n normal attacks)
+PassiveSkill_Name_10249	Overdrive
+PassiveSkill_Name_10250	Sal
+PassiveSkill_Name_10251	Shivan Schmitter's Pride
+PassiveSkill_Name_10252	White Lady
+PassiveSkill_Name_10253	Gabera's Flower
+PassiveSkill_Name_10254	Promise of Reunion
+PassiveSkill_Name_13000	Unyielding Resistance
+PassiveSkill_Name_13001	Flame Symbol
+PassiveSkill_Name_13002	Flame Symbol
+PassiveSkill_Name_13003	Flame of Pain
+PassiveSkill_Name_13004	Flame of Pain
+PassiveSkill_Name_13005	Flame of Pain
+PassiveSkill_Name_13006	Dragon Fury
+PassiveSkill_Name_13007	Dragon Fury
+PassiveSkill_Name_13008	Change phase motion
+PassiveSkill_Name_13009	Equipment Reinforcement Material Dungeon Passive
+PassiveSkill_Name_13010	Unique Weapon Growth Goods Dungeon Passive
+PassiveSkill_Name_13011	Skill Enhancement Material Dungeon Passive
+PassiveSkill_Name_13012	Queen's Duties
+PassiveSkill_Name_13013	Queen's Duties
+PassiveSkill_Name_13014	For Her Majesty the Queen!!
+PassiveSkill_Name_13015	Queen's Majesty
+PassiveSkill_Name_13016	Sugar Low
+PassiveSkill_Name_13017	Tea Time
+PassiveSkill_Name_13018	Sugar High
+PassiveSkill_Name_13019	Protein Cream
+PassiveSkill_Name_13020	Protect Cream
+PassiveSkill_Name_13021	Caffeine Cream
+PassiveSkill_Name_13022	Iron Will
+PassiveSkill_Name_13023	The fruit of training
+PassiveSkill_Name_13024	First Aid
+PassiveSkill_Name_13025	Don't hurt Mimi!
+PassiveSkill_Name_13026	Mimi's exclusive taunt passive
+PassiveSkill_Name_13027	Flare Physical Ability Enhancement
+PassiveSkill_Name_13028	Flame Woman Flare
+PassiveSkill_Name_13029	Don't wake me up!
+PassiveSkill_Name_13030	It's harmful!
+PassiveSkill_Name_13031	Pillow Care
+PassiveSkill_Name_13032	Dark and gloomy
+PassiveSkill_Name_13033	Anxious Fairy Tale
+PassiveSkill_Name_13034	Nightmare Fairy
+PassiveSkill_Name_13035	Daily Passive 1
+PassiveSkill_Name_13036	Daily Passive 2
+PassiveSkill_Name_13037	Daily Passive 3
+PassiveSkill_Name_13038	Great King
+PassiveSkill_Name_13039	Keep your body healthy!
+PassiveSkill_Name_13040	How rude!!
+PassiveSkill_Name_13041	Warmonger
+PassiveSkill_Name_13042	Explosive Bullet
+PassiveSkill_Name_13043	Pierces through..
+PassiveSkill_Name_13044	Kismet Passive 1
+PassiveSkill_Name_13045	Kismet Passive 1_Water attribute enhancement
+PassiveSkill_Name_13046	Kismet Passive 2
+PassiveSkill_Name_13047	Kismet Passive 3
+PassiveSkill_Name_13048	Air Passive A
+PassiveSkill_Name_13049	Air Passive B
+PassiveSkill_Name_13050	Air Passive C
+PassiveSkill_Name_13051	Air Passive C
+PassiveSkill_Name_13052	Air Passive C
+PassiveSkill_Name_13053	Air Passive C_Fire attribute boost
+PassiveSkill_Name_13054	Floral Care
+PassiveSkill_Name_13055	Make nature beautiful
+PassiveSkill_Name_13056	Magic Watering Can
+PassiveSkill_Name_13057	Magic Watering Can
+PassiveSkill_Name_13058	Buff additional damage
+PassiveSkill_Name_13059	Guardian
+PassiveSkill_Name_13060	Guardian_Die Effect Usage
+PassiveSkill_Name_13061	Seeping Night
+PassiveSkill_Name_13062	The Night That Never Ends
+PassiveSkill_Name_13063	For removing effect
+PassiveSkill_Name_13064	Witch Cecilia Passive 1
+PassiveSkill_Name_13065	Witch Cecilia Passive 2
+PassiveSkill_Name_13066	Witch Cecilia Passive 3
+PassiveSkill_Name_13067	Pollen Allergy
+PassiveSkill_Name_13068	Gatekeeper's Will
+PassiveSkill_Name_13069	Sudden Frost
+PassiveSkill_Name_13070	Cold Protection
+PassiveSkill_Name_13071	Cold Slime
+PassiveSkill_Name_13072	Cold Slime
+PassiveSkill_Name_13073	Snowstorm in the Snowfield
+PassiveSkill_Name_13074	Snowstorm in the Snowfield
+PassiveSkill_Name_13075	Snowstorm in the Snowfield
+PassiveSkill_Name_13076	Snowstorm in the Snowfield
+PassiveSkill_Name_13077	Slime Decomposition
+PassiveSkill_Name_13078	Slime Decomposition
+PassiveSkill_Name_13079	Slime of Anger
+PassiveSkill_Name_13080	Slime of Anger
+PassiveSkill_Name_13081	Mini Asla Enhancement (Normal)
+PassiveSkill_Name_13082	Mini Asla Reinforcement (Hard)
+PassiveSkill_Name_13083	Mini Asla_Constant probability of freezing
+PassiveSkill_Name_13084	Mini Asla_Constant probability of freezing
+PassiveSkill_Name_13085	Voltaire Ignition Effect
+PassiveSkill_Name_13086	Voltaire Ignition Remove Effect
+PassiveSkill_Name_13087	Nature Protection
+PassiveSkill_Name_13088	Nature's Protection (Effective when no hallucinations are present)
+PassiveSkill_Name_13089	Nature's Protection (for removing enemy magic spells)
+PassiveSkill_Name_13090	Windia Raid Boss Stun Immunity
+PassiveSkill_Name_13091	Nature's Trap
+PassiveSkill_Name_13092	Nature's Trap (Hard)
+PassiveSkill_Name_13093	Nature's Trap (Self-heal when above 50%)
+PassiveSkill_Name_13094	Shield of Mother Nature
+PassiveSkill_Name_13095	Shield of Mother Nature (Normal state, when above)
+PassiveSkill_Name_13096	Shield of Mother Nature 2 (Remove empty magic)
+PassiveSkill_Name_13097	Shield of Mother Nature 3 (2 debuff effects)
+PassiveSkill_Name_13098	Shield of Mother Nature (Prevents re-activation of 2 effects)
+PassiveSkill_Name_13099	Equivalent Exchange
+PassiveSkill_Name_13100	Equivalent Exchange (the above is a debuff that checks)
+PassiveSkill_Name_13101	Equivalent Exchange 2 (Below Active Application Condition)
+PassiveSkill_Name_13102	Equivalent Exchange 2 (Active application condition achievement effect)
+PassiveSkill_Name_13103	Equivalent Exchange
+PassiveSkill_Name_13104	Equivalent Exchange
+PassiveSkill_Name_13105	Equivalent Exchange (the above is a debuff that checks)
+PassiveSkill_Name_13106	Equivalent Exchange 2 (Below Active Application Condition)
+PassiveSkill_Name_13107	Equivalent Exchange 2 (Active application condition achievement effect)
+PassiveSkill_Name_13108	Equivalent Exchange
+PassiveSkill_Name_13109	Phase Change
+PassiveSkill_Name_13110	Phase change (Cool time A reduction)
+PassiveSkill_Name_13111	Phase change (Cooldown B reduction)
+PassiveSkill_Name_13112	Change phase motion
+PassiveSkill_Name_13113	Phase change
+PassiveSkill_Name_13114	(Hard) Phase Change 2
+PassiveSkill_Name_13115	(Hard) Phase change (Cooldown A reduction)
+PassiveSkill_Name_13116	(Hard) Phase change (Cooldown B reduction)
+PassiveSkill_Name_13117	Change phase motion
+PassiveSkill_Name_13118	Manta Dangdang Passive
+PassiveSkill_Name_13119	Anger Steering Device
+PassiveSkill_Name_13120	Reject Shield
+PassiveSkill_Name_13121	Accurate Pick
+PassiveSkill_Name_13122	The Strongest Bearbot
+PassiveSkill_Name_13123	Little Bomb Passive
+PassiveSkill_Name_19000	Best Defense
+PassiveSkill_Name_19001	Reversal Defense
+PassiveSkill_Name_19002	Reversal Shield_Additional Effect
+PassiveSkill_Name_19003	Enhanced Strength
+PassiveSkill_Name_19004	Enhanced Magic
+PassiveSkill_Name_19005	Power of Survival
+PassiveSkill_Name_19006	Curse of Survival
+PassiveSkill_Name_19007	Avoiding crisis
+PassiveSkill_Name_19008	Defense Heal
+PassiveSkill_Name_19009	Defense Heal
+PassiveSkill_Name_19010	Defense Heal
+PassiveSkill_Name_19011	Defense Heal
+PassiveSkill_Name_19012	Defense Heal
+PassiveSkill_Name_19013	Defense Heal
+PassiveSkill_Name_19014	Defense Heal
+PassiveSkill_Name_19015	Defense Heal
+PassiveSkill_Desc_10000	When Meadow uses an active skill, its action power increases by {v0} for {t0} turns.
+PassiveSkill_Desc_10001	Each turn, the action power of the meadow increases by {v0}.
+PassiveSkill_Desc_10002	When Meadow uses an active skill, its critical chance increases by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10003	If Helia survives, the attack power of all allies increases by {v0.0}%.
+PassiveSkill_Desc_10004	Helia's evasion rate increases by {v0.0}%.
+PassiveSkill_Desc_10005	Helia's defense increases by {v0.0}%.
+PassiveSkill_Desc_10006	When attacking while the target's current health is below {v0.0}%, Luna deals an additional hit equal to {v0.0}% of Luna's attack power for each hit.
+PassiveSkill_Desc_10007	Luna's critical hit chance increases by {v0.0}%.
+PassiveSkill_Desc_10008	When there is a boss monster in the current wave, Luna's attack power increases by {v0.0}%.
+PassiveSkill_Desc_10009	When Elin attacks normally, she has a {v0.0}% chance to throw a poison potion.
+PassiveSkill_Desc_10010	Every {t0} turns, the ally with the lowest health percentage recovers {v0.0}% of Elin's maximum health.
+PassiveSkill_Desc_10011	When Elin survives, the health of allies with the nature attribute increases by {v0.0}%.
+PassiveSkill_Desc_10012	At the end of a wave, all allies recover {v0.0}% of Elin's health.
+PassiveSkill_Desc_10013	When Queen Heart attacks normally, there is a {v0.0}% chance to silence enemies for {t0} turns, and a {v0.0}% chance to reduce enemies' defense by {v0.0}% for {t0} turns. \\rBoth effects can be applied simultaneously.\\r - Silence: Skills cannot be used during the continuous turn.
+PassiveSkill_Desc_10015	When Queen Heart survives, the attack power of all allies other than yourself increases by {v0.0}%.
+PassiveSkill_Desc_10016	At the start of a wave, one effect of 'Increase damage taken by {v0.0}%' or 'Decrease defense by {v0.0}%' is applied to all enemies for {t0} turns.
+PassiveSkill_Desc_10017	When a normal attack hits, there is a {v0.0}% chance that the target will be burned for {t0} turns. \\r- Burn: Deals damage equal to {v0.0}% of the caster's attack power.
+PassiveSkill_Desc_10018	Mingming's attack power increases by {v0.0}%.
+PassiveSkill_Desc_10019	When attacking an enemy with a burning status, Mingming deals an additional hit equal to {v0.0}% of Mingming's attack power for each hit.
+PassiveSkill_Desc_10020	When a normal attack hits, there is a {v0.0}% chance that the target will be stunned for {t0} turns, and the target's defense will be reduced by {v0.0}%\\r- Stun: Normal attacks and skills cannot be used for the duration of the turn.
+PassiveSkill_Desc_10021	Alice's skill attack power increases by {v0.0}%.
+PassiveSkill_Desc_10022	When attacking a stunned enemy, Alice deals an additional hit equal to {v0.0}% of Alice's attack power for each hit.
+PassiveSkill_Desc_10025	When Rage skill ends, Bigbo is stunned for {t0} turns and his defense is reduced by {v0.0}%. \\r- Taunt: The enemy's attack target changes to the skill caster.
+PassiveSkill_Desc_10026	Whenever Big Bo is stunned, damage taken is reduced by {v0.0}% for {t0} turns. \\rStuns caused by oneself are excluded.
+PassiveSkill_Desc_10027	Big Boss's defense increases by {v0.0}%.
+PassiveSkill_Desc_10028	When in provocation, Big Bo takes {v0.0}% less damage.
+PassiveSkill_Desc_10029	When an active skill hits, grants a shield with health equal to {v0.0}% of Lara's attack power for {t0} turns to the ally with the lowest health ratio.
+PassiveSkill_Desc_10030	Lara's attack power increases by {v0.0}%.
+PassiveSkill_Desc_10031	Lara's damage is increased by {v0.0}%.
+PassiveSkill_Desc_10032	When all allies take damage, stack points increase by {v0}, when they receive a debuff effect, stack points increase by {v0}, and each time Elim uses an active skill, stack points increase by {v0}.\\rWhen the stack points are {v0} or higher, all allies' damage taken is reduced by {v0.0}% for {t0} turns, and their debuff effect resistance rate increases by {v0.0}%.\\rAfter the effect is activated, accumulated stack points are reset.
+PassiveSkill_Desc_10037	When Elim's Smile survives, all allies take {v0.0}% less damage.
+PassiveSkill_Desc_10038	When Elim's Smile is on the field, if an ally dies, the first ally will be immediately revived, and the target ally's debuff resistance will increase by {v0.0}%. \\r- Resurrection: Revives a dead ally with 70% health.
+PassiveSkill_Desc_10039	When attacking an enemy with bleeding status due to Jane Doe, Jane Doe's critical damage increases by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10040	Jane Doe's critical hit chance is increased by {v0.0}%.
+PassiveSkill_Desc_10041	Jane Doe's critical damage is increased by {v0.0}%.
+PassiveSkill_Desc_10042	When using Active A, Pinocchio's critical chance increases by {v0.0}%. (Maximum 3 times)
+PassiveSkill_Desc_10043	Pinocchio's critical damage increases by {v0.0}%.
+PassiveSkill_Desc_10044	For every {v0} normal attacks, the target's critical resistance is reduced by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10045	Lina's Health {v0.0}% X the number of enemies hit restores the health of one ally with the lowest health ratio.
+PassiveSkill_Desc_10046	When Lina's normal attack hits, there is a {v0.0}% chance that the action point of the ally with the highest attack power will increase by {v0}.
+PassiveSkill_Desc_10047	When Lina survives, the attack power of Water attribute allies increases by {v0.0}%.
+PassiveSkill_Desc_10048	When Lina survives, the attack power of all allies' normal attacks except Lina increases by {v0.0}%.
+PassiveSkill_Desc_10049	When using the Over Soul skill, Scarlett's attack power increases by {v0.0}%, defense by {v0.0}%, critical chance by {v0.0}%, and critical damage by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10050	Scarlett's critical chance is increased by {v0.0}% and critical damage is increased by {v0.0}%.
+PassiveSkill_Desc_10051	When an ally kills an enemy, Scarlett's attack power increases by {v0.0}%, defense by {v0.0}%, critical chance by {v0.0}%, and critical damage by {v0.0}%. \\rThis effect stacks up to 10 times.
+PassiveSkill_Desc_10052	When a normal attack hits, there is a {v0.0}% chance that the attack power of the ally with the highest attack power will increase by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10053	When Gretel survives, all allies' attack power increases by {v0.0}%.
+PassiveSkill_Desc_10054	If Gretel survives, all allies' damage increases by {v0.0}%.
+PassiveSkill_Desc_10055	When a normal attack hits, there is a {v0.0}% chance that the target's hit rate will be reduced by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10056	When Aramode survives, all enemies' hit rate is reduced by {v0.0}%.
+PassiveSkill_Desc_10057	When Aramode survives, all enemies' evasion rate is reduced by {v0.0}%.
+PassiveSkill_Desc_10058	When Hansel's current health percentage falls below {v0.0}%, he recovers {v0.0}% of his maximum health per turn for {t0} turns.\\r(This effect can only occur once per battle.)
+PassiveSkill_Desc_10059	Hensel's defense increases by {v0.0}%.
+PassiveSkill_Desc_10060	Damage taken by Hansel is reduced by {v0.0}%.
+PassiveSkill_Desc_10061	At the start of a wave, Cheshire's normal attack damage and evasion rate increase by {v0.0}% and {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10062	Cheshire's critical hit chance is increased by {v0.0}%.
+PassiveSkill_Desc_10063	When using an active skill, deals damage that ignores {v0.0}% of the enemy's defense for {t0} turns.
+PassiveSkill_Desc_10064	When the summoned creature's (Mimi's) health is below {v0.0}%, the summoned creature's (Mimi's) evasion rate increases by {v0.0}%.
+PassiveSkill_Desc_10066	Flare's armor increases by {v0.0}%.
+PassiveSkill_Desc_10067	Reduces damage from enemy flare attacks with the Fire attribute by {v0.0}%.
+PassiveSkill_Desc_10068	When the continuous turn of Active Skill A ends, defense increases by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10069	Increases Briar Rose's critical resistance by {v0.0}%.
+PassiveSkill_Desc_10070	When you take damage that would kill you, instead of dying, you immediately recover {v0.0}% of Briar Rose's maximum health. \\r(This effect can only occur once per battle.)
+PassiveSkill_Desc_10071	When a normal attack hits, there is a {v0.0}% chance that the target's attack power will be reduced by {v0.0}% for {t0} turns and the target will be put to sleep for {t0} turns. \\r- Sleep: Attacks and skills cannot be used and damage taken increases by {v0.0}%.
+PassiveSkill_Desc_10072	If Melphi survives, all enemies' attack power is reduced by {v0.0}%.
+PassiveSkill_Desc_10073	When Melphi survives, all enemies' damage is reduced by {v0.0}%.
+PassiveSkill_Desc_10074	While the wooden doll is alive, instead of a normal attack, it heals the wooden doll for {v0.0}% of Zepetto's health.
+PassiveSkill_Desc_10076	When Zepetto survives, the evasion rate of the ally with the highest attack power increases by {v0.0}%.
+PassiveSkill_Desc_10077	When Zepetto survives, the damage of the ally with the highest attack power increases by {v0.0}%.
+PassiveSkill_Desc_10078	A wooden doll is summoned at the rear, and while the wooden doll is alive, the attack power of the ally with the highest attack power increases by {v0.0}%.
+PassiveSkill_Desc_10079	Instead of a normal attack, increase the attack power of 1 random ally by {v0.0}% for {t0} turns.\\rIf all allies are dead, grant yourself a DnD buff.
+PassiveSkill_Desc_10081	Fanservice skills now restore {v0.0}% of your DnD max health.
+PassiveSkill_Desc_10082	When using the Climax skill, apply the charm status to a random enemy, and the target's attack power increases by {v0.0}% for {t0} turns. \\r - Charm: Change the attack target to your own ally (excluding boss monsters)
+PassiveSkill_Desc_10083	Every {t0} turns, heals a random ally for {v0.0}% of their health for {t0} turns.
+PassiveSkill_Desc_10084	When Sasha survives, the attack power of fire attribute allies increases by {v0.0}%.
+PassiveSkill_Desc_10085	Sasha's maximum health increases by {v0.0}%, and upon entering battle, she gains {v0} Special Gauge.
+PassiveSkill_Desc_10086	Drosselmeyer's attack power increases by {v0.0}% of the number of enemies in the current wave.
+PassiveSkill_Desc_10087	Drosselmeyer's critical damage increases by {v0.0}%.
+PassiveSkill_Desc_10088	All of Drosselmeyer's attacks have a {v0.0}% chance to ignore enemy shields and increase Drosselmeyer's critical chance by {v0.0}%.
+PassiveSkill_Desc_10090	Every {t0} turns, the hit rate of a random enemy is reduced by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10091	Cecilia's attack power increases by {v0.0}%.
+PassiveSkill_Desc_10092	When attacking an enemy under the effect of Night Calling Girl's debuff, Cecilia deals an additional {v0.0}% of her attack power.
+PassiveSkill_Desc_10094	When Mari survives, Drosselmeyer's critical hit chance increases by {v0.0}% and his action power increases by {v0}.
+PassiveSkill_Desc_10095	When Mari survives, all allies' health increases by {v0.0}%.
+PassiveSkill_Desc_10096	When Mari survives, all allies' defense increases by {v0.0}% of the number of equipment Mari has equipped.
+PassiveSkill_Desc_10097	Dieter's defense increases by {v0.0}% of the number of surviving allies.
+PassiveSkill_Desc_10098	Dieter's health increases by {v0.0}%.
+PassiveSkill_Desc_10099	When Dieter's health falls below {v0.0}%, debuff effects become nullified and {v0.0}% of the damage taken is reflected.
+PassiveSkill_Desc_10100	When a normal attack hits, there is a {v0.0}% chance, and when an active skill hits, there is a certain chance to apply a musical note mark to the target for 3 turns. \\r - Musical note mark: Attack power reduced by {v0.0}%
+PassiveSkill_Desc_10102	Air's attack power increases by {v0.0}%.
+PassiveSkill_Desc_10103	When attacking a target with a musical note mark, Airi deals an additional hit equal to {v0.0}% of Airi's attack power for each hit.
+PassiveSkill_Desc_10104	If the target of the note mark is a fire attribute, it deals {v0.0}% of Air's health as continuous damage for {t0} turns.
+PassiveSkill_Desc_10105	When an ally kills an enemy, there is a {v0.0}% chance to restore {v0.0}% of Florence's attack power to the ally with the lowest current health percentage.
+PassiveSkill_Desc_10106	When Florence survives, the attack power of Nature attribute allies increases by {v0.0}%.
+PassiveSkill_Desc_10107	At the start of a wave, the target skill cooldown of an ally with maximum cooldown is reduced by {v0}, and Florence's attack power increases by {v0.0}% of the target skill's cooldown X.
+PassiveSkill_Desc_10109	Vera's normal attack critical chance increases by {v0.0}% and normal attack damage increases by {v0.0}%.
+PassiveSkill_Desc_10110	Vera's normal attack damage increases by {v0.0}%.
+PassiveSkill_Desc_10111	When Vera's normal attack hits, there is a {v0.0}% chance that Vera's action points will increase by {v0} and the target's action points will decrease by {v0}.
+PassiveSkill_Desc_10113	The attack power of one random ally increases by {v0.0}% for {t0} turns every {t0} turns.
+PassiveSkill_Desc_10114	When Kismet survives, allies' hit rate increases by {v0.0}%.
+PassiveSkill_Desc_10115	When Kismet survives, the ally with the highest attack power gains {v0.0}% critical chance and {v0.0}% critical damage.
+PassiveSkill_Desc_10116	Whenever an ally's attack turn starts, {v0} lanterns are accumulated.\\rWitch Cecilia's attack power increases by {v0.0}% X number of lanterns.\\rLanterns can be accumulated up to a maximum of 10.
+PassiveSkill_Desc_10117	Witch Cecilia's skill attack power increases by {v0.0}%.
+PassiveSkill_Desc_10118	When the number of lanterns is {v0} or more, Witch Cecilia will not receive attribute-based damage, and her attack power and evasion rate will increase by {v0.0}%. \\r(Light attribute-based damage is ignored.)
+PassiveSkill_Desc_10120	Every {t0} turns, deals continuous damage equal to {v0.0}% of daily maximum HP to a random enemy for {t0} turns.
+PassiveSkill_Desc_10121	Daily skill attack power increases by {v0.0}%.
+PassiveSkill_Desc_10122	When attacking an enemy with a debuff applied, deals additional damage equal to {v0.0}% of the number of debuffs applied to the target.
+PassiveSkill_Desc_10123	Kai's defense increases by {v0.0}%.
+PassiveSkill_Desc_10124	When Kai survives, allies' debuff resistance increases by {v0.0}%.
+PassiveSkill_Desc_10125	When using Comfortable, Kai becomes immune to debuff effects for {t0} turns and his evasion rate increases by {v0.0}%.
+PassiveSkill_Desc_10126	Lucian's attack power increases by X {v0.0}% of Lucian's health loss rate per turn.
+PassiveSkill_Desc_10127	Lucian's attack damage is increased by {v0.0}%.
+PassiveSkill_Desc_10128	When health falls below {v0.0}%, Lucian's attack power increases by {v0.0}% and he becomes invincible for {t0} turns. (This effect can be triggered once per battle.)\\r - Invincible: All damage and debuff effects are nullified.
+PassiveSkill_Desc_10129	At the start of battle, designate a random ally. \\rUntil the designated ally survives, when attacking a monster other than a boss monster, it deals additional damage equal to {v0.0}% of Leila's attack power.
+PassiveSkill_Desc_10131	Leila's action points increase by {v0}.
+PassiveSkill_Desc_10132	If there are any surviving monsters in the current wave, Leila's attack power increases by {v0.0}% and her critical chance increases by {v0.0}%.
+PassiveSkill_Desc_10135	If the target is a monster, it deals additional damage equal to {v0.0}% of attack power.
+PassiveSkill_Desc_10136	When inflicting bleeding status on an enemy, Maximilian recovers {v0.0}% of his maximum health.
+PassiveSkill_Desc_10137	Maximilian's health increases by {v0.0}%.
+PassiveSkill_Desc_10138	Every {v0} normal attacks, inflicts bleeding on the target for {t0} turns.\\rAlso, if the target is bleeding during a normal attack, deals an additional {v0.0}% of Maximilian's maximum health .\\r - Bleeding: Deals {v0.0}% of the caster's attack power as continuous damage.
+PassiveSkill_Desc_10140	When Olivier's health percentage falls below {v0.0}%, his defense increases by {v0.0}%.
+PassiveSkill_Desc_10141	Olivier's skill defense increases by {v0.0}%.
+PassiveSkill_Desc_10142	At the start of the last wave, allies take {v0.0}% less damage.
+PassiveSkill_Desc_10143	When attacking normally, throws an attribute weakening potion with a {v0.0}% chance. \\r- Attribute weakening: Increases attribute-specific damage by {v0.0}%
+PassiveSkill_Desc_10144	Ophelia's skill attack power increases by {v0.0}%.
+PassiveSkill_Desc_10145	Throws an attribute weakening potion at the target every {t0} turns. \\r- Attribute weakening: Increases damage from matching by {v0.0}%
+PassiveSkill_Desc_10146	When Anastasia survives, all allies' armor increases by {v0.0}%.
+PassiveSkill_Desc_10147	Anastasia's evasion rate increases by {v0.0}%.
+PassiveSkill_Desc_10148	At the start of the first wave, an ice barrier is created for all allies that blocks {v0} attacks. The ice barrier lasts until the end of the battle and is destroyed by enemy attacks. Additionally, at the start of each wave, all allies take {v0.0}% less damage for {t0} turns.
+PassiveSkill_Desc_10149	At the start of a wave, Peach Crush's attack power is increased by {v0.0}% and defense by {v0.0}%.\\rThis effect can stack up to 3 times.
+PassiveSkill_Desc_10150	Increases the hit rate of Peach Crush by {v0.0}%.
+PassiveSkill_Desc_10151	At the start of a wave, heal Peach Crush for {v0.0}% of his current health.
+PassiveSkill_Desc_10152	When Zargal makes a normal attack, there is a {v0.0}% chance that the target's damage will be reduced by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10153	Jargal's critical damage increases by {v0.0}%.
+PassiveSkill_Desc_10154	Increases Jargal's critical hit chance by {v0.0}%.
+PassiveSkill_Desc_10155	Nyx's attack power increases by {v0.0}% X number of enemies in the current wave, and for every {v0}th normal attack, damage increases by {v0.0}%.
+PassiveSkill_Desc_10156	Increases Nyx's hit rate by {v0.0}%.
+PassiveSkill_Desc_10157	When using an active skill, target the enemy with the highest attack power among enemies for {t0} turns, and increase Nyx's critical chance by {v0.0}%.\\r(Nyx's attack target fixation does not take priority over aggro, taunt, or marked targets.)
+PassiveSkill_Desc_10158	When attacking an enemy with the highest attack power, Saya's critical chance increases by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10159	Saya's critical hit chance increases by {v0.0}%.
+PassiveSkill_Desc_10160	Saya's critical damage increases by {v0.0}%.
+PassiveSkill_Desc_10161	When granting yourself an evasion rate increase buff, the sea's attack power increases by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10165	Increases the evasion rate of the sea by {v0.0}%.
+PassiveSkill_Desc_10166	Every {t0} turns, evade all attacks for {t0} turns, and every {t0} turns, there is a {v0.0}% chance that all allies' evasion rate will increase by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10168	Inflicts the target with a charm debuff for {t0} turns. \\r - Charm: Changes the attack target to your own allies. (Except boss monsters)
+PassiveSkill_Desc_10169	Increases Release's normal attack power by {v0.0}% X number of enemies hit in {t0} turns. \\rIf the hit target is charmed, it deals an additional hit equal to {v0.0}% of Release's attack power.
+PassiveSkill_Desc_10171	When surviving a release, all enemies take {v0.0}% increased damage.
+PassiveSkill_Desc_10172	Each turn, Release's action points increase by {v0}.
+PassiveSkill_Desc_10173	Whenever you deal damage to an enemy under the Charm debuff, heal yourself for {v0.0}% of the damage done.
+PassiveSkill_Desc_10174	{v0.0}% chance to stun the target for {t0} turns.
+PassiveSkill_Desc_10175	When current HP is below {v0.0}% of maximum HP, critical damage increases by {v0.0}%.
+PassiveSkill_Desc_10176	Arc Polyph's critical chance increases by {v0.0}%. \\rWhen entering battle, every {t0} turns, the existing increased critical value is multiplied by a random value between 1 and 4 and changed.
+PassiveSkill_Desc_10178	When you take fatal damage, instead of dying, immediately recover {v0.0}% of Ark Polyph's maximum health as current health. (This effect can only occur once per battle.) Additionally, every {t0} turns, you have a {v0.0}% chance to parry all enemy attacks within that {t0} turn.
+PassiveSkill_Desc_10179	When attacking normally, Brush Touch stacks increase by {v0}. When Brush Touch stacks reach {v0}, the cooldown of the skill with the highest cooldown of all allies is immediately reduced by {v0}, and critical damage increases by {v0.0}% for {t0} turns. When the effect ends, all Brush Touches are consumed.
+PassiveSkill_Desc_10182	If Monica survives, the skill attack power of allies increases by {v0.0}%.
+PassiveSkill_Desc_10183	Increases the attack power of all allies by {v0.0}% of the number of Brush Touch stacks.
+PassiveSkill_Desc_10184	When using an active skill, Meimei becomes 'Drunken' for {t0} turns. While 'Drunken', Meimei's accuracy decreases by {v0.0}%, but her attack power increases by {v0.0}% and her critical chance increases by {v0.0}%.
+PassiveSkill_Desc_10185	When Meimei survives, all damage over time effects applied to enemies are increased by {v0.0}%.
+PassiveSkill_Desc_10186	When performing a normal attack, if the target has the Burning status, or if you use an active skill to inflict Burning on the opponent, increase the damage taken from fire attribute attacks by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10188	When an enemy dies, Harang's list increases by {v0} times, and Harang's attack power increases by {v0.0}% of the list held. \rLists can be accumulated up to 10 times.
+PassiveSkill_Desc_10189	Harang's attack power increases by {v0.0}%.
+PassiveSkill_Desc_10190	When an ally dies, Harang's attack power increases by {v0.0}% of the target ally's attack power.
+PassiveSkill_Desc_10191	When applying a debuff to an enemy due to Claude's skill, Claude's attack power increases by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10193	Claude's attack power increases by {v0.0}%.
+PassiveSkill_Desc_10194	Every {v0} normal attack, there is a {v0.0}% chance to transform a random enemy for {t0} turns, increasing the damage taken by {v0.0}%. \\r- Transformation: The target transforms into a dove, and cannot attack or use skills.
+PassiveSkill_Desc_10195	When the number of enemies hit is {v0} or more, the skill's cooldown is reduced by {v0}.
+PassiveSkill_Desc_10196	Additionally, when the number of enemies hit is {v0} or more, the cooldown of the current skill is reduced by {v0}.
+PassiveSkill_Desc_10197	Each time the cooldown is reduced by your own skill, Ruff's attack power increases by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10198	Rough's skill attack power increases by {v0.0}%.
+PassiveSkill_Desc_10199	Ruff's action power increases by {v0}, and when an enemy dies, there is a {v0.0}% chance that all of Ruff's skills' cooldowns will be reduced by {v0}.
+PassiveSkill_Desc_10201	When Cain survives, dark attribute damage to allies is reduced by {v0.0}%.
+PassiveSkill_Desc_10202	When Cain survives, the defense of light attribute allies increases by {v0.0}%.
+PassiveSkill_Desc_10203	When all allies including Cain are debuffed, {v0} inversion energy increases. \\rWhen inversion energy is {v0} or higher, {v0} debuffs are removed from all allies and Cain is immediately restored to {v0.0}% of his maximum health.
+PassiveSkill_Desc_10205	When Miho survives, fire attribute damage to allies is reduced by {v0.0}%.
+PassiveSkill_Desc_10206	If Miho survives, the action power of all allies, including Miho, increases by {v0}.
+PassiveSkill_Desc_10207	When Miho survives, the normal attack damage of all allies increases by {v0.0}%.
+PassiveSkill_Desc_10208	At the start of a wave, the cooldown of the skill with the highest cooldown of all allies is reduced by {v0}, and the attack power of all allies including Larisa increases by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10209	When Larissa survives, the attack power of Water attribute allies increases by {v0.0}%.
+PassiveSkill_Desc_10210	When using an active skill, removes {v0} debuffs from all allies and increases their defense by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10212	Every {v0} normal attacks, casts 'Fog' on the enemy with the highest attack power for {t0} turns.\\rTargets covered in 'Fog' have their critical chance reduced by {v0.0}% and their evasion rate reduced by {v0.0}%.
+PassiveSkill_Desc_10213	If Amelie survives, the accuracy of all allies increases by {v0.0}%.
+PassiveSkill_Desc_10214	When using an active skill, allies' critical chance increases by {v0.0}% and critical damage increases by {v0.0}% for {t0} turns, and when enemies hit by the skill have 'Fog', they are stunned for 1 turn.
+PassiveSkill_Desc_10218	Casts 'Fog' on the target for {t0} turns with a {v0.0}% chance.\\rTargets covered in 'Fog' have their critical chance reduced by {v0.0}% and their evasion rate reduced by {v0.0}%.
+PassiveSkill_Desc_10219	When the target is covered in 'Fog', the target's action points are reduced by {v0}.
+PassiveSkill_Desc_10221	When an ally's Nature attribute character uses a skill, Yeon-o gains {v0} Holy Spirit. Yeon-o's attack power increases in the ratio of the number of Holy Spirits x Yeon-o's attack power {v0.0}%, and when the Holy Spirit reaches {v0}, when using an active skill, the target receives an additional hit equal to {v0.0}% of Yeon-o's attack power and consumes {v0} Holy Spirit.
+PassiveSkill_Desc_10226	Yeon-oh's skill attack power increases by {v0.0}%.
+PassiveSkill_Desc_10227	Yeon-o's attack damage increases by {v0.0}%, and the enemy with the lowest current health is fixed as the target of Yeon-o's attack. \\r(Yeon-o's attack target fixation does not take priority over aggro, taunt, or marked targets.)
+PassiveSkill_Desc_10228	When a critical hit occurs with this skill, the target's defense is reduced by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_10229	When using Active Skill A, the bullets will be converted to a normal attack that penetrates enemies for {t0} turns. (The damage inflicted by the penetrated bullets is 20% of the main damage.)\\rIn addition, when Mikhail attacks normally, Mikhail's action points increase by {v0}.
+PassiveSkill_Desc_10231	Mikhail's normal attack damage is increased by {v0.0}%.
+PassiveSkill_Desc_10232	When using Active Skill B, the bullets are converted to normal attacks that penetrate enemies for {t0} turns. (The damage inflicted by the penetrated bullets is 20% of the main damage.)\\rIn addition, every {t0} turns, designate one random enemy, and when Mikhail's normal attack occurs, give the designated enemy an additional damage equal to {v0.0}% of Mikhail's attack power once.
+PassiveSkill_Desc_10235	All evasions on Arc are replaced with parries.
+PassiveSkill_Desc_10237	At the start of the wave, increases the defense of the character with the lowest maximum health by {v0.0}% and critical resistance by {v0.0}%. Also grants a seal to the enemy with the highest attack power. The target with the seal has its critical chance reduced by {v0.0}%, and when attacking the seal, takes damage 1 time at a rate of {v0.0}% of the seal's defense. (The seal can be debuffed.)
+PassiveSkill_Desc_10241	Siho's defense increases by {v0.0}% and normal attack damage increases by {v0.0}%.
+PassiveSkill_Desc_10242	During the {t0} turns that the Awakening of the Millennium Fox effect lasts, {v0.0}% of the damage taken by allies is taken instead, and when the Awakening of the Millennium Fox effect ends, {v0.0}% of the reduced HP is immediately recovered. When Siho takes damage that would kill him, he is immediately recovered by {v0.0}% of his maximum HP. (This effect can be triggered once per battle.)
+PassiveSkill_Desc_10245	Also re-applies a seal to the enemy with the highest attack power. (The seal's effect is the same as Passive 1, and the effect is refreshed.) \\r- Taunt: The enemy's attack target changes to yourself.
+PassiveSkill_Desc_10249	Saladin Passive 1 Description
+PassiveSkill_Desc_10250	Saladin Passive 2 Description
+PassiveSkill_Desc_10251	Saladin Passive 3 Description
+PassiveSkill_Desc_10252	Scheherazade Passive 1 Description
+PassiveSkill_Desc_10253	Scheherazade Passive 2 Description
+PassiveSkill_Desc_10254	Scheherazade Passive 3 Description
+PassiveSkill_Desc_13000	While alive, you become immune to crowd control effects (stun, sleep, freeze, polymorph).
+PassiveSkill_Desc_13001	Every {t0} turns, inflicts a Burn effect on the enemy in front for {t0} turns. \\r- Burn: Deals damage equal to {v0.0}% of the caster's attack power.
+PassiveSkill_Desc_13002	Every {t0} turns, inflicts Burn effect on the frontmost enemy for {t0} turns and reduces their defense by {v0.0}%. \\r- Burn: Deals damage equal to {v0.0}% of the caster's attack power.
+PassiveSkill_Desc_13003	When attacking an enemy with Burning status, cast an attack with {v0.0}% increased attack power.
+PassiveSkill_Desc_13004	When attacking enemies with Burning or Ignition status, cast an attack with {v0.0}% increased attack power.
+PassiveSkill_Desc_13005	When attacking enemies with Burning or Ignition status, cast an attack with {v0.0}% increased attack power.
+PassiveSkill_Desc_13006	When the next phase begins, your own attack power increases by {v0.0}%, critical chance by {v0.0}%, and critical damage by {v0.0}%.
+PassiveSkill_Desc_13007	When the next phase begins, your own attack power increases by {v0.0}%, critical chance by {v0.0}%, and critical damage by {v0.0}%.
+PassiveSkill_Desc_13012	When attacking normally, has a {v0.0}% chance to silence the enemy for {t0} turns. \\r - Silence: Skills cannot be used for the next turn.
+PassiveSkill_Desc_13013	When attacking normally, there is a {v0.0}% chance to reduce the enemy's defense by {v0.0}% for {t0} turns. \\rBoth effects can be applied simultaneously.
+PassiveSkill_Desc_13014	Increases the attack power of all allies except yourself by {v0.0}% while you are alive.
+PassiveSkill_Desc_13015	When entering combat, increases damage taken from all enemies by {v0.0}%.
+PassiveSkill_Desc_13016	When a normal attack hits, there is a {v0.0}% chance to reduce the action point of the hit enemy {v0} for {t0} turns.
+PassiveSkill_Desc_13017	When entering combat, your maximum health increases by {v0.0}%.
+PassiveSkill_Desc_13018	When entering battle, increases the damage of attributeless characters by {v0.0]%.
+PassiveSkill_Desc_13019	When entering battle, increases the attack power of all allies including yourself by {v0.0}%.
+PassiveSkill_Desc_13020	When entering battle, your own skill defense increases by {v0.0}%.
+PassiveSkill_Desc_13021	Increases the action power of all allies, including yourself, by {v0}.
+PassiveSkill_Desc_13022	When your current HP percentage falls below {v0.0}%, recover {v0.0}% of your maximum HP per turn for {t0} turns. \\r(This effect can only occur once per battle.)
+PassiveSkill_Desc_13023	When entering combat, your own defense increases by {v0.0}%.
+PassiveSkill_Desc_13024	When entering combat, reduce your own damage taken by {v0.0}%.
+PassiveSkill_Desc_13025	When a summon's health falls below {v0.0}%, the summon's evasion rate increases by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_13027	When entering combat, your own defense increases by {v0.0}%.
+PassiveSkill_Desc_13028	When hit by a fire attribute enemy, damage taken is reduced by {v0.0}%.
+PassiveSkill_Desc_13029	When the Sleep Tonic skill's continuous turn ends, Briar Rose's defense increases by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_13030	When entering combat, Briar Rose's critical resistance increases by {v0.0}%.
+PassiveSkill_Desc_13031	When Briar Rose's health is completely reduced, she will not die but instead recover {v0.0}% of her health. \\r(This effect can only occur once per battle.)
+PassiveSkill_Desc_13032	When entering battle, increases the attack power of all dark attribute friendly characters, including yourself, by {v0.0}%.
+PassiveSkill_Desc_13033	When entering combat, your own debuff resistance increases by {v0.0}%.
+PassiveSkill_Desc_13034	When a normal attack hits, there is a {v0.0}% chance to reduce the enemy's defense by {v0.0}% for {t0} turns and put them to sleep.
+PassiveSkill_Desc_13035	Every {t0} turns, reduces the current health of a random enemy by {v0.0}% of their maximum health for {t0} turns.
+PassiveSkill_Desc_13036	When entering battle, your own skill attack power increases by {v0.0}%.
+PassiveSkill_Desc_13037	When attacking a debuffed enemy, additional damage is inflicted equal to {v0.0}% of the number of debuffs on the target.
+PassiveSkill_Desc_13038	Increases your own armor by {v0.0}% of the number of allies currently present.
+PassiveSkill_Desc_13039	When entering combat, your maximum health increases by {v0.0}%.
+PassiveSkill_Desc_13040	When your current health is below {v0.0}% of your maximum health, ignore all debuffs and reflect {v0.0}% of the damage taken.
+PassiveSkill_Desc_13041	Increases your own attack power by {v0.0}% of the number of enemies in the current wave.
+PassiveSkill_Desc_13042	When entering combat, your own critical damage increases by {v0.0}%.
+PassiveSkill_Desc_13043	All attacks have a {v0.0}% chance to deal damage that ignores enemy shields.
+PassiveSkill_Desc_13044	When entering battle, increases the attack power of all allies including yourself by {v0.0}%.
+PassiveSkill_Desc_13045	If there is an ally with water attribute among the allies, the critical chance of that ally increases by an additional {v0.0}%.
+PassiveSkill_Desc_13046	When entering combat, your evasion rate increases by {v0.0}%.
+PassiveSkill_Desc_13047	When entering battle, increases the evasion rate of one ally with the highest attack power by {v0.0}% and critical damage by {v0.0}%.
+PassiveSkill_Desc_13048	When attacking normally, there is a {v0.0}% chance to leave a musical note mark on the enemy.\\rEnemies with the mark have their attack power reduced by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_13049	When entering combat, your own attack power increases by {v0.0}%.
+PassiveSkill_Desc_13050	Deals {v0.0}% of own attack power as continuous damage to marked enemies for {t0} turns.
+PassiveSkill_Desc_13053	If the target is fire-attribute, {v0.0}% of the target's maximum HP is inflicted as continuous damage for {t0} turns, stacking with the existing effect.
+PassiveSkill_Desc_13054	When an ally kills an enemy, immediately restores the current health of the ally with the lowest current health percentage by {v0.0}% of their own attack power.
+PassiveSkill_Desc_13055	When entering battle, increases the attack power and defense power of allies with the nature attribute by {v0.0}% and {v0.0}%, respectively.
+PassiveSkill_Desc_13056	When entering battle, reduces the cooldown of the target skill of the character with the longest cooldown in the deck by {v0}.
+PassiveSkill_Desc_13057	Increases your own attack power by {v0.0}% of the target skill's cooldown.
+PassiveSkill_Desc_13061	When entering combat, your own critical resistance increases by {v0.0}%.
+PassiveSkill_Desc_13062	All allies, including yourself, deal {v0.0}% increased damage when attacking a target with a buff applied.
+PassiveSkill_Desc_13064	Each turn, you gain a lantern stack. Your attack power increases by {v0.0}% of the number of lanterns X.
+PassiveSkill_Desc_13065	When entering battle, your own skill attack power increases by {v0.0}%.
+PassiveSkill_Desc_13066	When the number of lights is {v0} or more, your attack power increases by {v0.0}% and evasion rate increases by {v0.0}%. \\rDamage from light attributes is ignored.
+PassiveSkill_Desc_13067	When entering battle, all enemies' skill attack power is reduced by {v0.0}%.
+PassiveSkill_Desc_13068	When Lua's health falls below {v0.0}%, attack power and damage increase by {v0.0}%.
+PassiveSkill_Desc_13069	At the start of an ally's attack turn, there is a {v0.0}% chance that 1 random enemy's action point will be reduced by {v0}.
+PassiveSkill_Desc_13070	Becomes immune to crowd control effects (stun, sleep, freeze, polymorph) and reduces attribute damage taken by {v0.0}%.
+PassiveSkill_Desc_13071	When a normal attack hits, there is a {v0.0}% chance that the target will be frozen for {t0} turns. \\r- Freeze: Unable to attack or use skills, defense reduced by {v0.0}%
+PassiveSkill_Desc_13072	When a normal attack hits, there is a {v0.0}% chance that the target will be frozen for {t0} turns. \\r- Freeze: Unable to attack or use skills, defense reduced by {v0.0}%
+PassiveSkill_Desc_13073	When entering battle, all enemies' attack power is reduced by {v0.0}%, and attack power is additionally reduced by {v0.0}% every {t0} turns.\\rThis effect stacks up to 3 times.
+PassiveSkill_Desc_13075	When entering battle, all enemies' attack power is reduced by {v0.0}%, and attack power is additionally reduced by {v0.0}% every {t0} turns.\\rThis effect stacks up to 3 times.
+PassiveSkill_Desc_13077	Summons 1 Mini Asla every {t0} turns. When Mini Asla attacks normally, there is a 10% chance to freeze the target. \\r- Freeze: Unable to attack or use skills, defense reduced by {v0.0}%
+PassiveSkill_Desc_13078	Summons 2 Mini Asla every {t0} turns. When Mini Asla attacks normally, there is a 15% chance to freeze the target. \\r- Freeze: Unable to attack or use skills, defense reduced by {v0.0}%
+PassiveSkill_Desc_13079	When Asla's health falls below {v0.0}%, Asla's normal attack changes into a full-scale attack that throws itself at all enemies, increasing attack power by {v0.0}% and defense by {v0.0}%.
+PassiveSkill_Desc_13080	When Asla's health falls below {v0.0}%, Asla's normal attack changes into a full-scale attack that throws itself at all enemies, increasing attack power by {v0.0}% and defense by {v0.0}%.
+PassiveSkill_Desc_13087	Windia becomes immune to crowd control effects (stun, sleep, freeze, polymorph). \\rEvery {t0} turns, grants 'Hallucination' to the enemy with the most buffs for {t0} turns. If the target with the illusion is dispelled on the turn the illusion should last and makes a normal attack, Windia will receive continuous damage equal to {v0.0}% of Windia's attack power for {t0} turns. \\r- Hallucination: Returns {v0.0}% of the damage from all attacks you make.
+PassiveSkill_Desc_13091	Instead of taking {v0.0}% increased damage from sustained damage, Windia takes {v0.0}% less damage.
+PassiveSkill_Desc_13092	Instead of taking {v0.0}% increased damage from continuous damage, Windia takes {v0.0}% less damage. Additionally, when Windia's HP is above {v0.0}%, her normal attack has a {v0.0}% chance to heal herself for {v0.0}% of Windia's maximum HP.
+PassiveSkill_Desc_13094	If Windia is not affected by any continuous damage debuffs for {t0} turns or more, Windia's attack power increases by {v0.0}% and her critical resistance increases by {v0.0}%. If Windia is affected by {v0} or more types of continuous damage debuffs, the above effects will disappear during the turn in which she is receiving continuous damage. After this, when Windia is affected by {v0} or more different types of continuous damage debuffs, she will immediately receive damage equal to {v0.0}% of her HP, and the damage reduction effect of Passive 2 will be reduced by {v0.0}% for {t0} turns. (The effect cannot be reapplied for {t0} turns after activation.)
+PassiveSkill_Desc_13099	When Windia's HP falls below {v0.0}%, all debuffs applied to herself are removed, she becomes invincible for {t0} turns, and recovers {v0.0}% of Windia's maximum HP per turn. While invincible, if a player hits with {v0} or more active skills within 1 turn, Windia's invincibility is immediately removed,\\rWindia's HP becomes {v0.0}%, and the damage from continuous damage taken increases by {v0.0}% until the battle ends.
+PassiveSkill_Desc_13104	When Windia's HP falls below {v0.0}%, all debuffs applied to herself are removed, she becomes invincible for {t0} turns, and recovers {v0.0}% of Windia's maximum HP per turn. While invincible, if a player hits with {v0} or more active skills within 1 turn, Windia's invincibility is immediately removed,\\rWindia's HP becomes {v0.0}%, and the damage from continuous damage taken increases by {v0.0}% until the battle ends.
+PassiveSkill_Desc_13109	When Windia's health is below {v0.0}%, Windia's roots change the normal attack into a straight line attack that penetrates enemies, and decreases the skill defense of all enemies by {v0.0}%. Additionally, each time Windia's active skill is used, the cooldown of that skill is reduced by 2 turns.
+PassiveSkill_Desc_13113	When Windia's HP is below {v0.0}%, Windia's root changes into a straight line attack that penetrates enemies, and decreases the skill defense of all enemies by {v0.0}%. In addition, when Windia's HP is below {v0.0}%, Windia's attribute damage increases by {v0.0}%, and every time Windia's active skill is used, the cooldown of that skill is reduced by 2 turns.
+PassiveSkill_Desc_13119	When your HP is {v0.0}% or higher, when you are hit by a normal attack, {v0} annoyance energy is charged, and when you are hit by a skill attack, {v0} annoyance energy is charged. The following effects are activated depending on the annoyance energy charge status.\\r- Annoyance Full Charge Mode: Activates when annoyance energy reaches 100, increasing attack power by {v0.0}% and defense by {v0.0}% for {t0} turns.\\r- System Down: If annoyance energy is not fully charged every {t0} turns, you cannot attack for {t0} turns, and damage taken increases by {v0.0}%.
+PassiveSkill_Desc_13120	After activating the 'Teddy Bear Dive' skill, damage taken from all attribute attacks is reduced by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_13121	When the target is in a 'disturbed' state, an additional hit equal to {v0.0}% of the attack power is inflicted.
+PassiveSkill_Desc_13122	Immune to all crowd control effects (freeze, stun, sleep), charm, and bleeding.
+PassiveSkill_Desc_19000	When killing an enemy, all allies' armor increases by {v0.0}%.\\rThis effect stacks up to 10 times.
+PassiveSkill_Desc_19001	When your HP is at {v0.0}%, grant all allies a shield of {v0.0}% HP that lasts for {t0} turns. This effect also activates when you are below {v0.0}%.\\r(This effect activates once per battle.)
+PassiveSkill_Desc_19003	When using your Active Skill A, all allies' normal attack power increases by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_19004	When using your Active Skill B, all allies' skill attack power increases by {v0.0}% for {t0} turns.
+PassiveSkill_Desc_19005	When there are {v0} or more allies, the critical chance of all allies increases by {v0.0}%
+PassiveSkill_Desc_19006	When there are {v0} or more allies, all enemies' hit rate is reduced by {v0.0}%
+PassiveSkill_Desc_19007	When an ally dies, all allies heal for {v0.0}% of their maximum health.
+PassiveSkill_Desc_19008	When using an ally health recovery skill, all allies' damage taken is reduced by {v0.0}% for {t0} turns.

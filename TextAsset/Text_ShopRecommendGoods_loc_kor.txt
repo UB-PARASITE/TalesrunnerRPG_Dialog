@@ -1,0 +1,4 @@
+ShopRecommendGoods_Desc_0001	론칭 기념 3성 캐릭터\\r확정 획득을 위한 패키지!
+ShopRecommendGoods_Desc_0002	빠르게 성장하고 싶은\\r작가님을 위한\\r고효율 패키지!
+ShopRecommendGoods_Desc_0003	세실리아 소환을 위한\\r스페셜 패키지!
+ShopRecommendGoods_Desc_0004	신입 작가님에게\\r꼭 필요한\\r캐릭터 성장 패키지!

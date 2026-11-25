@@ -1,0 +1,62 @@
+WeaponGrade_Name_0000	Meadow
+WeaponGrade_Name_0001	Helia
+WeaponGrade_Name_0002	Luna
+WeaponGrade_Name_0003	Elin
+WeaponGrade_Name_0004	Queen Heart
+WeaponGrade_Name_0005	Mingming
+WeaponGrade_Name_0006	Alice
+WeaponGrade_Name_0007	Bigbo
+WeaponGrade_Name_0008	Lara
+WeaponGrade_Name_0009	Elims Smile
+WeaponGrade_Name_0010	Jane Doe
+WeaponGrade_Name_0011	Pinocchio
+WeaponGrade_Name_0012	Lina
+WeaponGrade_Name_0013	Scarlett
+WeaponGrade_Name_0014	Gretel
+WeaponGrade_Name_0015	Aramode
+WeaponGrade_Name_0016	Hansel
+WeaponGrade_Name_0017	Cheshire
+WeaponGrade_Name_0018	Flare
+WeaponGrade_Name_0019	Briar Rose
+WeaponGrade_Name_0020	Melfi
+WeaponGrade_Name_0021	Geppetto
+WeaponGrade_Name_0022	DnD
+WeaponGrade_Name_0023	Sasha
+WeaponGrade_Name_0024	Drosselmeyer
+WeaponGrade_Name_0025	Cecilia
+WeaponGrade_Name_0026	Marie
+WeaponGrade_Name_0027	Dieter
+WeaponGrade_Name_0028	Air
+WeaponGrade_Name_0029	Florence
+WeaponGrade_Name_0030	Vera
+WeaponGrade_Name_0031	Kismet
+WeaponGrade_Name_0032	Witch Cecilia
+WeaponGrade_Name_0033	Haru
+WeaponGrade_Name_0034	Kai
+WeaponGrade_Name_0035	Lucian
+WeaponGrade_Name_0036	Leila
+WeaponGrade_Name_0037	Maximilian
+WeaponGrade_Name_0038	Olivier
+WeaponGrade_Name_0039	Ophelia
+WeaponGrade_Name_0040	Anastasia
+WeaponGrade_Name_0041	Peach Crush
+WeaponGrade_Name_0042	Jargal
+WeaponGrade_Name_0043	Nix
+WeaponGrade_Name_0044	Saya
+WeaponGrade_Name_0045	Bada
+WeaponGrade_Name_0046	Lilith
+WeaponGrade_Name_0047	Ark Polyph
+WeaponGrade_Name_0048	Monica
+WeaponGrade_Name_0049	Maymay
+WeaponGrade_Name_0050	Harang
+WeaponGrade_Name_0051	Claude
+WeaponGrade_Name_0052	Rough
+WeaponGrade_Name_0053	Cain
+WeaponGrade_Name_0054	Miho
+WeaponGrade_Name_0055	Larissa
+WeaponGrade_Name_0056	Amelie
+WeaponGrade_Name_0057	Yeon-oh
+WeaponGrade_Name_0058	Mikhail
+WeaponGrade_Name_0059	Siho
+WeaponGrade_Name_0060	Saladin
+WeaponGrade_Name_0061	Scheherazade

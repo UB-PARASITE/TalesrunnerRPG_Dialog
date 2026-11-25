@@ -1,0 +1,36 @@
+RoguelikeAbility_Tooltip_0000	공격력 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0001	방어력 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0002	최대Hp {v0.0}% 증가
+RoguelikeAbility_Tooltip_0003	명중률 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0004	회피율 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0005	크리티컬 확률 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0006	크리티컬 대미지 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0007	크리티컬 저항률 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0008	받는 대미지 {v0.0}% 감소
+RoguelikeAbility_Tooltip_0009	행동력 {v0} 증가
+RoguelikeAbility_Tooltip_0010	대미지 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0011	디버프 저항률 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0012	공격력 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0013	방어력 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0014	최대Hp {v0.0}% 증가
+RoguelikeAbility_Tooltip_0015	명중률 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0016	회피율 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0017	크리티컬 확률 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0018	크리티컬 대미지 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0019	크리티컬 저항률 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0020	받는 대미지 {v0.0}% 감소
+RoguelikeAbility_Tooltip_0021	행동력 {v0} 증가
+RoguelikeAbility_Tooltip_0022	대미지 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0023	디버프 저항률 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0024	공격력 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0025	방어력 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0026	최대Hp {v0.0}% 증가
+RoguelikeAbility_Tooltip_0027	명중률 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0028	회피율 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0029	크리티컬 확률 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0030	크리티컬 대미지 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0031	크리티컬 저항률 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0032	받는 대미지 {v0.0}% 감소
+RoguelikeAbility_Tooltip_0033	행동력 {v0} 증가
+RoguelikeAbility_Tooltip_0034	대미지 {v0.0}% 증가
+RoguelikeAbility_Tooltip_0035	디버프 저항률 {v0.0}% 증가

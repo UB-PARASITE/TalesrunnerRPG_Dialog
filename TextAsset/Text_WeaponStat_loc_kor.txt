@@ -1,0 +1,11 @@
+WeaponStat_AddStatName_0000	-1
+WeaponStat_AddStatName_0001	-1
+WeaponStat_AddStatName_0002	-1
+WeaponStat_AddStatName_0003	-1
+WeaponStat_AddStatName_0004	-1
+WeaponStat_AddStatName_0005	-1
+WeaponStat_AddStatName_0006	-1
+WeaponStat_AddStatName_0007	-1
+WeaponStat_AddStatName_0008	-1
+WeaponStat_AddStatName_0009	-1
+WeaponStat_AddStatName_0010	-1

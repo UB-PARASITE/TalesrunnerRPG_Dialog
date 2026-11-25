@@ -1,0 +1,4 @@
+ShopRecommendGoods_Desc_0001	3-star character launching commemoration \\rPackage for guaranteed acquisition!
+ShopRecommendGoods_Desc_0002	\\rHigh-efficiency package for \\rwriters who want to grow quickly!
+ShopRecommendGoods_Desc_0003	\\rSpecial package for summoning Cecilia!
+ShopRecommendGoods_Desc_0004	\\rCharacter growth package \\rthat \\ris absolutely necessary \\rfor new writers!
