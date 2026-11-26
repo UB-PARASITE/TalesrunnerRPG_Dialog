@@ -7,20 +7,33 @@ const localizedFiles={kor:'TextAsset/Text_Dialog_loc_kor.txt',eng:'TextAsset/Tex
 function resolveText(key){return textMap[key]||'';}
 function resolvePortrait(id){const value=String(id??'').trim();if(value==='-1')return '旁白';const key=value.padStart(4,'0');return heroMap['Hero_Name_'+key]||writerMap['Writer_Name_'+key]||portraitMap['Portrait_Name_'+key]||mobMap['Mob_Name_'+key]||'';}
 function parseLocalization(raw){const map={};raw.replace(/^\uFEFF/,'').split(/\r?\n/).forEach(line=>{const tab=line.indexOf('\t');if(tab>0)map[line.slice(0,tab)]=line.slice(tab+1)});return map;}
+function remapKoreanDialogKeys(koreanRaw,englishRaw){
+ const koreanMap=parseLocalization(koreanRaw),englishMap=parseLocalization(englishRaw);
+ const numberOf=key=>{const match=key.match(/^Dialog_Text_(\\d+)$/);return match?Number(match[1]):-1;};
+ const skipped=new Set(['Dialog_Text_28603','Dialog_Text_28605','Dialog_Text_28960']);
+ const englishKeys=Object.keys(englishMap).filter(key=>{const n=numberOf(key);return n>=28579&&n<=28988&&!!englishMap[key].trim()&&!skipped.has(key)}).sort((a,b)=>numberOf(a)-numberOf(b));
+ const koreanKeys=Object.keys(koreanMap).filter(key=>{const n=numberOf(key);return n>=28684&&n<=29092&&!!koreanMap[key].trim()}).sort((a,b)=>numberOf(a)-numberOf(b));
+ if(englishKeys.length!==183||koreanKeys.length!==183)throw Error('Chapter 9 韓英文 Text Key 對位驗證失敗：EN '+englishKeys.length+'／KO '+koreanKeys.length);
+ const mapped={...koreanMap};
+ for(let n=28579;n<=28988;n++)mapped['Dialog_Text_'+n]='';
+ englishKeys.forEach((key,index)=>{mapped[key]=koreanMap[koreanKeys[index]]});
+ return mapped;
+}
 function formatText(value){return esc(String(value??'').replace(/\\\\r/g,'\n').replace(/\\\\n/g,'\n'));}
 async function loadTextLanguage(lang='kor'){
  currentLanguage=lang;
  if(!textCache[lang]){
-  const [dialogResponse,heroResponse,writerResponse,portraitResponse,mobResponse]=await Promise.all([
-   fetch(localizedFiles[lang]),fetch('TextAsset/Text_Hero_loc_'+lang+'.txt'),fetch('TextAsset/Text_Writer_loc_'+lang+'.txt'),fetch('TextAsset/Text_Portrait_loc_'+lang+'.txt'),fetch('TextAsset/Text_Mob_loc_'+lang+'.txt')
+  const [dialogResponse,heroResponse,writerResponse,portraitResponse,mobResponse,englishDialogResponse]=await Promise.all([
+   fetch(localizedFiles[lang]),fetch('TextAsset/Text_Hero_loc_'+lang+'.txt'),fetch('TextAsset/Text_Writer_loc_'+lang+'.txt'),fetch('TextAsset/Text_Portrait_loc_'+lang+'.txt'),fetch('TextAsset/Text_Mob_loc_'+lang+'.txt'),lang==='kor'?fetch(localizedFiles.eng):Promise.resolve(null)
   ]);
   if(!dialogResponse.ok)throw Error('Text_Dialog_loc_'+lang+'.txt');
   if(!heroResponse.ok)throw Error('Text_Hero_loc_'+lang+'.txt');
   if(!writerResponse.ok)throw Error('Text_Writer_loc_'+lang+'.txt');
   if(!portraitResponse.ok)throw Error('Text_Portrait_loc_'+lang+'.txt');
   if(!mobResponse.ok)throw Error('Text_Mob_loc_'+lang+'.txt');
-  const [dialogRaw,heroRaw,writerRaw,portraitRaw,mobRaw]=await Promise.all([dialogResponse.text(),heroResponse.text(),writerResponse.text(),portraitResponse.text(),mobResponse.text()]);
-  textCache[lang]=parseLocalization(dialogRaw);heroCache[lang]=parseLocalization(heroRaw);writerCache[lang]=parseLocalization(writerRaw);portraitCache[lang]=parseLocalization(portraitRaw);mobCache[lang]=parseLocalization(mobRaw);
+  if(lang==='kor'&&!englishDialogResponse?.ok)throw Error('Text_Dialog_loc_eng.txt');
+  const [dialogRaw,heroRaw,writerRaw,portraitRaw,mobRaw,englishDialogRaw]=await Promise.all([dialogResponse.text(),heroResponse.text(),writerResponse.text(),portraitResponse.text(),mobResponse.text(),lang==='kor'?englishDialogResponse.text():Promise.resolve('')]);
+  textCache[lang]=lang==='kor'?remapKoreanDialogKeys(dialogRaw,englishDialogRaw):parseLocalization(dialogRaw);heroCache[lang]=parseLocalization(heroRaw);writerCache[lang]=parseLocalization(writerRaw);portraitCache[lang]=parseLocalization(portraitRaw);mobCache[lang]=parseLocalization(mobRaw);
  }
  Object.keys(textMap).forEach(k=>delete textMap[k]);Object.assign(textMap,textCache[lang]);
  Object.keys(heroMap).forEach(k=>delete heroMap[k]);Object.assign(heroMap,heroCache[lang]);
@@ -38,30 +51,8 @@ function renderStats(){
 }
 async function applyLanguageDialogData(lang){
  if(!baseDialogs.length)return;
- if(lang==='kor'){
-  if(!koreanDialogData){
-   const [dialogResponse,choiceResponse,branchResponse]=await Promise.all([
-    fetch('data/dialogs-kor-368-370.json'),
-    fetch('data/choice-blocks-kor-368-370.json'),
-    fetch('data/branch-execution-map-kor-368-370.json')
-   ]);
-   if(!dialogResponse.ok)throw Error('dialogs-kor-368-370.json');
-   if(!choiceResponse.ok)throw Error('choice-blocks-kor-368-370.json');
-   if(!branchResponse.ok)throw Error('branch-execution-map-kor-368-370.json');
-   const [dialogRows,choiceRows,branchRows]=await Promise.all([dialogResponse.json(),choiceResponse.json(),branchResponse.json()]);
-   const ids=new Set([368,369,370]);
-   if(!Array.isArray(dialogRows)||dialogRows.length!==413||dialogRows.some(x=>!ids.has(x.id)))throw Error('韓文 Dialog 368–370 資料驗證失敗');
-   if(!Array.isArray(choiceRows)||choiceRows.some(x=>!ids.has(x.dialogId)))throw Error('韓文 Choice 資料驗證失敗');
-   if(!Array.isArray(branchRows)||branchRows.some(x=>!ids.has(x.dialogId)))throw Error('韓文 Branch 資料驗證失敗');
-   koreanDialogData=dialogRows;koreanChoiceData=choiceRows;koreanBranchData=branchRows;
-  }
-  const ids=new Set([368,369,370]);
-  dialogs=baseDialogs.filter(x=>!ids.has(x.id)).concat(koreanDialogData).sort((a,b)=>a.id-b.id||a.order-b.order||Number(a.type3??-1)-Number(b.type3??-1));
-  choices=baseChoices.filter(x=>!ids.has(x.dialogId)).concat(koreanChoiceData).sort((a,b)=>a.dialogId-b.dialogId||a.questionOrder-b.questionOrder);
-  branchMap=baseBranchMap.filter(x=>!ids.has(x.dialogId)).concat(koreanBranchData).sort((a,b)=>a.dialogId-b.dialogId||a.questionOrder-b.questionOrder||a.selectedIndex-b.selectedIndex);
- }else{
-  dialogs=baseDialogs;choices=baseChoices;branchMap=baseBranchMap;
- }
+ // English DictDialog IDs, orders, portraits and branch structure are canonical for both languages.
+ dialogs=baseDialogs;choices=baseChoices;branchMap=baseBranchMap;
  Object.keys(selectedBranches).forEach(key=>{if(/^(368|369|370):/.test(key))delete selectedBranches[key]});
  renderStats();
 }
