@@ -184,6 +184,8 @@ MainStorySet_StoryName_0183	챕터 9-11
 MainStorySet_StoryName_0184	챕터 9-12
 MainStorySet_StoryName_0185	챕터 9-13
 MainStorySet_StoryName_0186	챕터 9-14
-MainStorySet_StoryName_0189	챕터 9-15
-MainStorySet_StoryName_0190	챕터 9-16
-MainStorySet_StoryName_0191	챕터 9-17
+MainStorySet_StoryName_0187	챕터 9-15
+MainStorySet_StoryName_0188	챕터 9-16
+MainStorySet_StoryName_0189	챕터 9-17
+MainStorySet_StoryName_0190	챕터 9-18
+MainStorySet_StoryName_0191	챕터 9-19
