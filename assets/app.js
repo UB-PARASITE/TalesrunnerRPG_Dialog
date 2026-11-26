@@ -1,5 +1,6 @@
 const $=id=>document.getElementById(id);
 let dialogs=[],groups=[],choices=[],branchMap=[],chapters=[],enums=[],storyTitles=[],titleByDialog=new Map(),filtered=[],page=0;
+let baseDialogs=[],baseChoices=[],baseBranchMap=[],koreanDialogData=null,koreanChoiceData=null,koreanBranchData=null;
 const PAGE=200,selectedBranches={},textCache={},textMap={},heroCache={},heroMap={},writerCache={},writerMap={},portraitCache={},portraitMap={},mobCache={},mobMap={};
 let currentLanguage='kor',friendshipTitlesLoaded=false;const friendshipTitleMaps={kor:{},eng:{}};
 const localizedFiles={kor:'TextAsset/Text_Dialog_loc_kor.txt',eng:'TextAsset/Text_Dialog_loc_eng.txt'};
@@ -27,14 +28,48 @@ async function loadTextLanguage(lang='kor'){
  Object.keys(portraitMap).forEach(k=>delete portraitMap[k]);Object.assign(portraitMap,portraitCache[lang]);
  Object.keys(mobMap).forEach(k=>delete mobMap[k]);Object.assign(mobMap,mobCache[lang]);
  if(!friendshipTitlesLoaded){const [koResponse,enResponse]=await Promise.all([fetch('TextAsset/Text_FriendshipStory_loc_kor.txt'),fetch('TextAsset/Text_FriendshipStory_loc_eng.txt')]);if(!koResponse.ok||!enResponse.ok)throw Error('Text_FriendshipStory_loc');const [koRaw,enRaw]=await Promise.all([koResponse.text(),enResponse.text()]);friendshipTitleMaps.kor=parseLocalization(koRaw);friendshipTitleMaps.eng=parseLocalization(enRaw);friendshipTitlesLoaded=true;}
+ await applyLanguageDialogData(lang);
  $('languageStatus').textContent='已載入 '+lang.toUpperCase()+' · 對話 '+Object.keys(textMap).length.toLocaleString()+' 筆／Hero '+Object.keys(heroMap).filter(k=>k.startsWith('Hero_Name_')).length.toLocaleString()+' 筆／Writer '+Object.keys(writerMap).filter(k=>k.startsWith('Writer_Name_')).length.toLocaleString()+' 筆／Portrait '+Object.keys(portraitMap).filter(k=>k.startsWith('Portrait_Name_')).length.toLocaleString()+' 筆／Mob '+Object.keys(mobMap).filter(k=>k.startsWith('Mob_Name_')).length.toLocaleString()+' 筆';
 }
 const nfmt=n=>Number(n||0).toLocaleString();
+function renderStats(){
+ const items=[[dialogs.length,'Dialog records'],[new Set(dialogs.map(x=>x.id)).size,'Dialog IDs'],[choices.length,'Choice blocks'],[branchMap.length,'Branch rows']];
+ $('stats').innerHTML=items.map(([n,label])=>`<div><b>${nfmt(n)}</b><span>${label}</span></div>`).join('');
+}
+async function applyLanguageDialogData(lang){
+ if(!baseDialogs.length)return;
+ if(lang==='kor'){
+  if(!koreanDialogData){
+   const [dialogResponse,choiceResponse,branchResponse]=await Promise.all([
+    fetch('data/dialogs-kor-368-370.json'),
+    fetch('data/choice-blocks-kor-368-370.json'),
+    fetch('data/branch-execution-map-kor-368-370.json')
+   ]);
+   if(!dialogResponse.ok)throw Error('dialogs-kor-368-370.json');
+   if(!choiceResponse.ok)throw Error('choice-blocks-kor-368-370.json');
+   if(!branchResponse.ok)throw Error('branch-execution-map-kor-368-370.json');
+   const [dialogRows,choiceRows,branchRows]=await Promise.all([dialogResponse.json(),choiceResponse.json(),branchResponse.json()]);
+   const ids=new Set([368,369,370]);
+   if(!Array.isArray(dialogRows)||dialogRows.length!==413||dialogRows.some(x=>!ids.has(x.id)))throw Error('韓文 Dialog 368–370 資料驗證失敗');
+   if(!Array.isArray(choiceRows)||choiceRows.some(x=>!ids.has(x.dialogId)))throw Error('韓文 Choice 資料驗證失敗');
+   if(!Array.isArray(branchRows)||branchRows.some(x=>!ids.has(x.dialogId)))throw Error('韓文 Branch 資料驗證失敗');
+   koreanDialogData=dialogRows;koreanChoiceData=choiceRows;koreanBranchData=branchRows;
+  }
+  const ids=new Set([368,369,370]);
+  dialogs=baseDialogs.filter(x=>!ids.has(x.id)).concat(koreanDialogData).sort((a,b)=>a.id-b.id||a.order-b.order||Number(a.type3??-1)-Number(b.type3??-1));
+  choices=baseChoices.filter(x=>!ids.has(x.dialogId)).concat(koreanChoiceData).sort((a,b)=>a.dialogId-b.dialogId||a.questionOrder-b.questionOrder);
+  branchMap=baseBranchMap.filter(x=>!ids.has(x.dialogId)).concat(koreanBranchData).sort((a,b)=>a.dialogId-b.dialogId||a.questionOrder-b.questionOrder||a.selectedIndex-b.selectedIndex);
+ }else{
+  dialogs=baseDialogs;choices=baseChoices;branchMap=baseBranchMap;
+ }
+ Object.keys(selectedBranches).forEach(key=>{if(/^(368|369|370):/.test(key))delete selectedBranches[key]});
+ renderStats();
+}
 async function load(){
  const files=['summary','dict-dialogs','dialog-groups','choice-blocks','branch-execution-map','chapters','dialog-type-enums','story-dialog-title-map','friendship-story-dialog-map'];
  const vals=await Promise.all(files.map(x=>fetch(`data/${x}.json`).then(r=>{if(!r.ok)throw Error(x);return r.json()})));
- const [sum,d,g,c,b,ch,e,st,fr]=vals;dialogs=d;groups=g;choices=c;branchMap=b;chapters=ch;enums=e;storyTitles=st.concat(fr.map(([dialogId,storyId])=>({type:'friendship',dialogId,storyId,storyNameKey:'FriendshipStory_StoryName_'+String(storyId).padStart(4,'0')})));titleByDialog=new Map(storyTitles.map(x=>[x.dialogId,x]));
- $('stats').innerHTML=[['dialogRecords','Dialog records'],['dialogIds','Dialog IDs'],['choiceBlocks','Choice blocks'],['branchExecutionRows','Branch rows']].map(([k,l])=>`<div><b>${nfmt(sum[k])}</b><span>${l}</span></div>`).join('');
+ const [sum,d,g,c,b,ch,e,st,fr]=vals;baseDialogs=d;baseChoices=c;baseBranchMap=b;dialogs=d;groups=g;choices=c;branchMap=b;chapters=ch;enums=e;storyTitles=st.concat(fr.map(([dialogId,storyId])=>({type:'friendship',dialogId,storyId,storyNameKey:'FriendshipStory_StoryName_'+String(storyId).padStart(4,'0')})));titleByDialog=new Map(storyTitles.map(x=>[x.dialogId,x]));
+ renderStats();
  chapters.filter(x=>x.id>0).forEach(c=>{const o=document.createElement('option');o.value=c.dialogIds[0]??'';o.textContent=`${c.label||c.nameKey} · Dialog ${c.dialogIds.join(', ')||'—'}`;$('chapter').append(o)});
  const t1=[...new Map(dialogs.map(x=>[x.type1,x.type1Name])).entries()].sort((a,b)=>a[0]-b[0]);
  t1.forEach(([v,n])=>{let o=document.createElement('option');o.value=v;o.textContent=`${v} · ${n}`;$('type1').append(o)});
@@ -67,8 +102,8 @@ function renderFlow(id){
  const questions=new Map(bs.map(b=>[b.questionOrder,b]));
  const questionOrders=new Set(bs.map(b=>b.questionOrder));
  const covered=o=>branchRanges.some(r=>o>=r.start&&o<=r.end);
- const events=[];
- for(const r of rows){if(questionOrders.has(r.order)){events.push({kind:'choice',value:questions.get(r.order)});continue}if(!covered(r.order))events.push({kind:'line',value:r})}
+ const events=[],renderedQuestions=new Set();
+ for(const r of rows){if(questionOrders.has(r.order)){if(!renderedQuestions.has(r.order)){events.push({kind:'choice',value:questions.get(r.order)});renderedQuestions.add(r.order)}continue}if(!covered(r.order))events.push({kind:'line',value:r})}
  host.innerHTML=`<div class="flow-toolbar"><span>${rows.length} 筆節點資料 · ${bs.length} 個選項節點</span><button class="ghost" id="flowReset">重設所有選擇</button></div><div class="flow-track">${events.map(ev=>ev.kind==='line'?flowLine(ev.value):flowChoice(ev.value,ex)).join('')}</div><p class="flow-footnote">分支內容依現有靜態執行索引推導；選項按鈕只用來切換檢視路徑，不會執行遊戲程式。巢狀分支及特殊跳轉仍需另行驗證。</p>`;
  $('flowReset').addEventListener('click',()=>{bs.forEach(b=>delete selectedBranches[`${id}:${b.questionOrder}`]);renderFlow(id)});
 }
