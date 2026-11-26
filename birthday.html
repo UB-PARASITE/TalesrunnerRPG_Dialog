@@ -15,7 +15,7 @@
 const $=id=>document.getElementById(id);
 let rows=[],dialogs=[],heroNames={},textMap={},lang='kor',selectedDialog=null;
 function esc(v){return String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
-function parseLoc(raw){const out={};raw.replace(/^\\uFEFF/,'').split(/\\r?\\n/).forEach(line=>{const i=line.indexOf('\\t');if(i>0)out[line.slice(0,i)]=line.slice(i+1)});return out;}
+function parseLoc(raw){const out={};raw.replace(/^\uFEFF/,'').split(/\r?\n/).forEach(line=>{const i=line.indexOf('\t');if(i>0)out[line.slice(0,i)]=line.slice(i+1)});return out;}
 function displayName(r){return heroNames[r.heroNameKey]||r.heroRes||('Hero '+r.heroId);}
 function dateLabel(r){return r.month&&r.day?String(r.month).padStart(2,'0')+'/'+String(r.day).padStart(2,'0'):'未設定';}
 function sortedRows(){let out=[...rows];const s=$('sort').value;if(s==='dialog')out.sort((a,b)=>a.dialogId-b.dialogId);else if(s==='date')out.sort((a,b)=>(a.month||99)-(b.month||99)||(a.day||99)-(b.day||99));else out.sort((a,b)=>a.heroId-b.heroId||a.dialogId-b.dialogId);return out;}
