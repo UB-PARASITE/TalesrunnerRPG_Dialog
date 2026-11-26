@@ -77,7 +77,7 @@ function affectionByHero(){
  return map;
 }
 function categoryEntries(){
- if(category==='main')return storyMap.filter(x=>x.type==='main'&&x.chapterId===selectedChapter).sort((a,b)=>a.order-b.order).map(x=>({kind:'dialog',key:'D'+x.dialogId,dialogId:x.dialogId,title:storyName(x),chipTitle:storyName(x),smallLabel:'CHAPTER '+x.chapterId+'-'+x.order,meta:'主線劇情 · Chapter '+x.chapterId+'-'+x.order}));
+ if(category==='main')return storyMap.filter(x=>x.type==='main'&&x.chapterId===selectedChapter).sort((a,b)=>a.order-b.order).map(x=>x.placeholder||x.dialogId==null?({kind:'placeholder',key:'M'+x.storyId,storyId:x.storyId,title:storyName(x),chipTitle:storyName(x),smallLabel:'CHAPTER '+x.chapterId+'-'+x.order+' · 資料待補',meta:'主線劇情 · Chapter '+x.chapterId+'-'+x.order,note:x.note||'目前沒有可核實的 Dialog 對應資料。'}):({kind:'dialog',key:'D'+x.dialogId,dialogId:x.dialogId,title:storyName(x),chipTitle:storyName(x),smallLabel:'CHAPTER '+x.chapterId+'-'+x.order,meta:'主線劇情 · Chapter '+x.chapterId+'-'+x.order}));
  if(category==='side')return storyMap.filter(x=>x.type==='substory_read'&&String(x.groupId)===String(selectedGroup)).sort((a,b)=>a.order-b.order).map(x=>({kind:'dialog',key:'D'+x.dialogId,dialogId:x.dialogId,title:(lang==='eng'?x.title_en:x.title_ko)||('支線 '+x.order),chipTitle:(lang==='eng'?x.title_en:x.title_ko)||('支線 '+x.order),smallLabel:'SIDE STORY · '+String(x.order).padStart(2,'0'),meta:(lang==='eng'?x.parent_title_en:x.parent_title_ko)||'支線劇情'}));
  if(category==='affection')return (affectionByHero().get(selectedHero)||[]).map(x=>({...x,chipTitle:x.title,smallLabel:x.kind==='friendship'?'好感度 '+String(x.order).padStart(2,'0'):'BIRTHDAY'}));
  return [];
@@ -115,7 +115,7 @@ function selectSidebar(value){
 }
 function renderStoryStrip(){
  storyItems=categoryEntries();
- $('storyStrip').innerHTML=storyItems.length?storyItems.map((x,i)=>'<button class="story-chip '+(activeStory?.key===x.key?'active':'')+'" data-story-index="'+i+'"><small>'+escapeHtml(x.smallLabel||'STORY')+'</small><b>'+escapeHtml(x.chipTitle||x.title)+'</b></button>').join(''):'<div class="sidebar-note">這個分類目前沒有可播放的故事。</div>';
+ $('storyStrip').innerHTML=storyItems.length?storyItems.map((x,i)=>'<button class="story-chip '+(x.kind==='placeholder'?'unavailable ':'')+(activeStory?.key===x.key?'active':'')+'" data-story-index="'+i+'"'+(x.kind==='placeholder'?' title="'+escapeHtml(x.note)+'"':'')+'><small>'+escapeHtml(x.smallLabel||'STORY')+'</small><b>'+escapeHtml(x.chipTitle||x.title)+'</b></button>').join(''):'<div class="sidebar-note">這個分類目前沒有可播放的故事。</div>';
  $('storyStrip').querySelectorAll('[data-story-index]').forEach(btn=>btn.addEventListener('click',()=>openStory(storyItems[Number(btn.dataset.storyIndex)])));
  if(category==='main'){$('readerTitle').textContent='Chapter '+selectedChapter;$('readerSubtitle').textContent=storyItems.length+' 話 · 選擇上方話數開始閱讀';}
  else if(category==='side'){const g=groupRows().find(x=>x.id===String(selectedGroup));$('readerTitle').textContent=g?.title||'支線劇情';$('readerSubtitle').textContent=storyItems.length+' 話 · SIDE STORY';}
@@ -135,7 +135,14 @@ function showHome(){
  $('home').hidden=false;$('library').hidden=true;$('sidebar').hidden=true;
 }
 function openStory(item){
- activeStory=item;selectedBranches={};stepIndex=0;
+ activeStory=item;
+ if(item.kind==='placeholder'){
+  timeline=[];stepIndex=0;
+  $('readerEmpty').hidden=false;$('stage').hidden=true;$('controls').hidden=true;
+  $('readerEmpty').innerHTML='<div><div class="home-mark">✧</div><div class="reader-kicker">STORY SLOT RESERVED</div><b style="display:block;color:#f0e4c8;font-size:20px;margin:8px 0">'+escapeHtml(item.title)+'</b><p style="max-width:600px;margin:0 auto 14px">'+escapeHtml(item.note)+'</p><span style="font-size:10px;color:#d8bd82">Story ID '+item.storyId+' · Dialog ID 尚未確認</span><p style="font-size:10px;color:#8996aa;margin:15px 0 0">此位置已保留，後續章節不會因此重新編號。</p></div>';
+  renderStoryStrip();return;
+ }
+ selectedBranches={};stepIndex=0;
  timeline=buildTimeline(item);
  $('readerEmpty').hidden=true;$('stage').hidden=false;$('controls').hidden=false;
  $('stageCaption').textContent=category==='main'?'MAIN STORY':category==='side'?'SIDE STORY':'AFFECTION STORY';
