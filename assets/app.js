@@ -9,7 +9,7 @@ function resolvePortrait(id){const value=String(id??'').trim();if(value==='-1')r
 function parseLocalization(raw){const map={};raw.replace(/^\uFEFF/,'').split(/\r?\n/).forEach(line=>{const tab=line.indexOf('\t');if(tab>0)map[line.slice(0,tab)]=line.slice(tab+1)});return map;}
 function buildKoreanDialogTextKeyMap(koreanRaw,englishRaw){
  const koreanMap=parseLocalization(koreanRaw),englishMap=parseLocalization(englishRaw);
- const numberOf=key=>{const match=key.match(/^Dialog_Text_(\\d+)$/);return match?Number(match[1]):-1;};
+ const numberOf=key=>{const match=key.match(/^Dialog_Text_(\d+)$/);return match?Number(match[1]):-1;};
  const skipped=new Set(['Dialog_Text_28603','Dialog_Text_28605','Dialog_Text_28960']);
  const englishKeys=Object.keys(englishMap).filter(key=>{const n=numberOf(key);return n>=28579&&n<=28988&&!!englishMap[key].trim()&&!skipped.has(key)}).sort((a,b)=>numberOf(a)-numberOf(b));
  const koreanKeys=Object.keys(koreanMap).filter(key=>{const n=numberOf(key);return n>=28684&&n<=29092&&!!koreanMap[key].trim()}).sort((a,b)=>numberOf(a)-numberOf(b));
