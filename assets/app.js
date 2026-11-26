@@ -1,29 +1,27 @@
 const $=id=>document.getElementById(id);
 let dialogs=[],groups=[],choices=[],branchMap=[],chapters=[],enums=[],storyTitles=[],titleByDialog=new Map(),filtered=[],page=0;
-const PAGE=200,selectedBranches={},textCache={},textMap={},heroCache={},heroMap={},writerCache={},writerMap={};
+const PAGE=200,selectedBranches={},textCache={},textMap={},portraitCache={},portraitMap={};
 let currentLanguage='kor',friendshipTitlesLoaded=false;const friendshipTitleMaps={kor:{},eng:{}};
 const localizedFiles={kor:'TextAsset/Text_Dialog_loc_kor.txt',eng:'TextAsset/Text_Dialog_loc_eng.txt'};
 function resolveText(key){return textMap[key]||'';}
-function resolvePortrait(id){const value=String(id??'').trim();if(value==='-1')return '旁白';return heroMap['Hero_Name_'+value.padStart(4,'0')]||writerMap['Writer_Name_'+value.padStart(4,'0')]||'';}
+function resolvePortrait(id){const value=String(id??'').trim();if(value==='-1')return '旁白';return portraitMap['Portrait_Name_'+value.padStart(4,'0')]||'';}
 function parseLocalization(raw){const map={};raw.replace(/^\uFEFF/,'').split(/\r?\n/).forEach(line=>{const tab=line.indexOf('\t');if(tab>0)map[line.slice(0,tab)]=line.slice(tab+1)});return map;}
 function formatText(value){return esc(String(value??'').replace(/\\\\r/g,'\n').replace(/\\\\n/g,'\n'));}
 async function loadTextLanguage(lang='kor'){
  currentLanguage=lang;
  if(!textCache[lang]){
-  const [dialogResponse,heroResponse,writerResponse]=await Promise.all([
-   fetch(localizedFiles[lang]),fetch('TextAsset/Text_Hero_loc_'+lang+'.txt'),fetch('TextAsset/Text_Writer_loc_'+lang+'.txt')
+  const [dialogResponse,portraitResponse]=await Promise.all([
+   fetch(localizedFiles[lang]),fetch('TextAsset/Text_Portrait_loc_'+lang+'.txt')
   ]);
   if(!dialogResponse.ok)throw Error('Text_Dialog_loc_'+lang+'.txt');
-  if(!heroResponse.ok)throw Error('Text_Hero_loc_'+lang+'.txt');
-  if(!writerResponse.ok)throw Error('Text_Writer_loc_'+lang+'.txt');
-  const [dialogRaw,heroRaw,writerRaw]=await Promise.all([dialogResponse.text(),heroResponse.text(),writerResponse.text()]);
-  textCache[lang]=parseLocalization(dialogRaw);heroCache[lang]=parseLocalization(heroRaw);writerCache[lang]=parseLocalization(writerRaw);
+  if(!portraitResponse.ok)throw Error('Text_Portrait_loc_'+lang+'.txt');
+  const [dialogRaw,portraitRaw]=await Promise.all([dialogResponse.text(),portraitResponse.text()]);
+  textCache[lang]=parseLocalization(dialogRaw);portraitCache[lang]=parseLocalization(portraitRaw);
  }
  Object.keys(textMap).forEach(k=>delete textMap[k]);Object.assign(textMap,textCache[lang]);
- Object.keys(heroMap).forEach(k=>delete heroMap[k]);Object.assign(heroMap,heroCache[lang]);
- Object.keys(writerMap).forEach(k=>delete writerMap[k]);Object.assign(writerMap,writerCache[lang]);
+ Object.keys(portraitMap).forEach(k=>delete portraitMap[k]);Object.assign(portraitMap,portraitCache[lang]);
  if(!friendshipTitlesLoaded){const [koResponse,enResponse]=await Promise.all([fetch('TextAsset/Text_FriendshipStory_loc_kor.txt'),fetch('TextAsset/Text_FriendshipStory_loc_eng.txt')]);if(!koResponse.ok||!enResponse.ok)throw Error('Text_FriendshipStory_loc');const [koRaw,enRaw]=await Promise.all([koResponse.text(),enResponse.text()]);friendshipTitleMaps.kor=parseLocalization(koRaw);friendshipTitleMaps.eng=parseLocalization(enRaw);friendshipTitlesLoaded=true;}
- $('languageStatus').textContent='已載入 '+lang.toUpperCase()+' · 對話 '+Object.keys(textMap).length.toLocaleString()+' 筆／角色 '+Object.keys(heroMap).filter(k=>k.startsWith('Hero_Name_')).length.toLocaleString()+' 筆／Writer '+Object.keys(writerMap).filter(k=>k.startsWith('Writer_Name_')).length.toLocaleString()+' 筆';
+ $('languageStatus').textContent='已載入 '+lang.toUpperCase()+' · 對話 '+Object.keys(textMap).length.toLocaleString()+' 筆／Portrait '+Object.keys(portraitMap).filter(k=>k.startsWith('Portrait_Name_')).length.toLocaleString()+' 筆';
 }
 const nfmt=n=>Number(n||0).toLocaleString();
 async function load(){
