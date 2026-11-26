@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#101522">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E📖%3C/text%3E%3C/svg%3E">
+<title>童話圖書館 · TalesrunnerRPG Dialog Library</title>
+<link rel="stylesheet" href="assets/library.css">
+</head>
+<body>
+<div class="shell">
+<header class="header">
+  <div class="brand"><div class="logo">📖</div><div><b>童話圖書館</b><small>TALESRUNNER RPG · STORY ARCHIVE</small></div></div>
+  <div class="head-actions">
+    <label for="language">文本語言</label>
+    <select id="language" disabled><option value="kor" selected>한국어 · Korean</option><option value="eng">English</option></select>
+    <span id="languageStatus" style="font-size:10px;color:#aeb9cc">正在載入文本…</span>
+    <a href="index.html" style="font-size:11px;color:#d6bc86;text-decoration:none">Dialog Explorer ↗</a>
+  </div>
+</header>
+
+<section class="home" id="home">
+  <div class="eyebrow">THE FAIRY TALE LIBRARY</div>
+  <div class="home-mark">✧　❖　✧</div>
+  <h1>童話圖書館</h1>
+  <p>在這裡，重新翻閱童話世界的故事。選擇想閱讀的劇情類別，再從章節、篇章或角色目錄中開啟故事。</p>
+  <div class="category-grid">
+    <button class="category-card" data-category="main" disabled>
+      <span class="category-icon">📜</span><b>主線劇情</b><small>MAIN STORY<br>Chapter 1–9</small>
+    </button>
+    <button class="category-card" data-category="side" disabled>
+      <span class="category-icon">🗝️</span><b>支線劇情</b><small>SIDE STORY<br>Special episodes & events</small>
+    </button>
+    <button class="category-card" data-category="affection" disabled>
+      <span class="category-icon">✉️</span><b>好感度劇情</b><small>AFFECTION STORY<br>Character stories & birthdays</small>
+    </button>
+  </div>
+  <div class="load-status" id="loadStatus">正在載入資料…</div>
+</section>
+
+<section class="library-shell" id="library" hidden>
+  <aside class="sidebar" id="sidebar" hidden>
+    <div class="sidebar-top">
+      <button class="back-categories" id="backCategories">← 返回劇情類別</button>
+      <div class="sidebar-kicker" id="sidebarKicker">MAIN STORY</div>
+      <h2 id="sidebarTitle">Chapter</h2>
+    </div>
+    <div class="side-list" id="sideList"></div>
+    <p class="sidebar-note" id="sidebarNote"></p>
+  </aside>
+
+  <main class="reader-area">
+    <div class="reader-head">
+      <div><div class="reader-kicker" id="readerKicker">STORY ARCHIVE</div><h2 class="reader-title" id="readerTitle">選擇章節</h2><div class="reader-subtitle" id="readerSubtitle">從目錄開始閱讀</div></div>
+    </div>
+    <nav class="story-strip" id="storyStrip" aria-label="話數選擇"></nav>
+
+    <section class="empty-reader" id="readerEmpty">
+      <div><div class="home-mark">✧</div><b style="display:block;color:#f0e4c8;margin-bottom:8px">選擇一段故事</b><span>從上方的話數清單開始閱讀。</span></div>
+    </section>
+
+    <section class="stage" id="stage" hidden>
+      <div class="stage-ornament">✧　❖　✧</div>
+      <div class="stage-caption" id="stageCaption">MAIN STORY</div>
+      <div class="stage-title" id="stageTitle"></div>
+      <div class="stage-subtitle" id="stageSubtitle"></div>
+      <div class="choice-panel" id="choicePanel"></div>
+      <div class="read-card" id="readCard">
+        <div class="speaker" id="speaker">旁白</div>
+        <div class="line-text" id="lineText"></div>
+        <div class="line-meta"><span id="lineMetaLeft"></span><span id="lineMetaRight"></span></div>
+      </div>
+    </section>
+
+    <section class="controls" id="controls" hidden>
+      <div class="progress">
+        <div class="progress-label"><span>READING PROGRESS</span><span id="progressText">0 / 0</span></div>
+        <div class="bar"><div class="fill" id="progressFill"></div></div>
+      </div>
+      <div class="control-buttons">
+        <button id="prevBtn" class="ghost" disabled>上一段</button>
+        <button id="restartBtn" class="ghost" disabled>重新開始</button>
+        <button id="nextBtn" class="primary" disabled>下一段 →</button>
+      </div>
+    </section>
+    <p class="reader-footnote">點擊對話區或使用 ← / →、Space 鍵切換段落。遇到選項時，需先選擇分支才能繼續。此版本依目前整理出的 DictDialog／分支索引還原文字流程。</p>
+  </main>
+</section>
+</div>
+<div class="status-toast" id="toast"></div>
+<script src="assets/library.js"></script>
+</body>
+</html>
