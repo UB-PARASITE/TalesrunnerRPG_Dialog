@@ -1,0 +1,1 @@
+[{"dialogId":370,"questionOrder":177,"optionCount":2,"branchMarkerCount":2,"choiceEndOrder":184,"choiceEndPresent":true,"slotMatch":true,"questionSlots":"1,2","branchSlots":"1,2","options":[{"slot":1,"textKey":"Dialog_Text_28902","branchOrder":178},{"slot":2,"textKey":"Dialog_Text_28903","branchOrder":181}]}]
