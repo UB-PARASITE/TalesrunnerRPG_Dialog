@@ -86,7 +86,50 @@ function renderChoices(id){
  const bs=choices.filter(x=>x.dialogId===id),ex=branchMap.filter(x=>x.dialogId===id);
  $('choices').innerHTML=bs.length?bs.map(b=>{const ee=ex.filter(e=>e.questionOrder===b.questionOrder),q=dialogs.find(x=>x.id===id&&x.order===b.questionOrder);return `<article class="choice-card"><div class="choice-title"><span>Question · Order ${b.questionOrder}</span><span>${b.optionCount} options</span></div><div class="localized-text">${formatText(resolveText(q?.textKey))}</div><small class="key">${esc(q?.textKey||'')}</small><div class="choice-meta">ChoiceEnd: ${b.choiceEndOrder??'未找到'} · 槽位對應：${b.slotMatch?'一致':'需檢查'}</div><div class="branches">${b.options.map(o=>{const e=ee.find(x=>x.choiceSlot===o.slot);return `<div class="branch"><b>Branch ${o.slot} · Order ${o.branchOrder??'—'}</b><span class="localized-text">${formatText(resolveText(o.textKey))||'（無對應文本）'}</span><small class="key">${esc(o.textKey)}</small><small><br>內容 ${e?.contentFirstOrder??'—'}–${e?.lastContentOrder??'—'} · 邊界 ${e?.nextBoundaryOrder??'—'}</small></div>`}).join('')}</div><div class="choice-meta">共通後續 Order：${ee[0]?.resumeAfterEndOrder??'—'} · ChoiceEnd ${b.choiceEndPresent?'存在':'未找到'}</div></article>`}).join(''):'<p class="muted">此 Dialog ID 沒有辨識到 ChoiceQuestion。</p>';
 }
+function dialogTextNumber(key){
+ const match=String(key||'').match(/^Dialog_Text_(\\d+)$/);
+ return match?Number(match[1]):null;
+}
+function sequenceRecordLine(r,tag){
+ const speaker=resolvePortrait(r.portraitId);
+ const role=r.type1Name||'Dialog event';
+ const text=resolveText(r.textKey);
+ return `<div class="flow-line"><span class="flow-order">${esc(tag)}</span><div><b>${esc(speaker||role)}</b><div class="localized-text">${formatText(text)||'<span class="muted">（無對應文本）</span>'}</div><small class="key">${esc(r.textKey||'')}</small><small>Dialog ${r.id} · Order ${r.order} · ${esc(role)}</small>${r.strValue?`<small>${esc(r.strValue)}</small>`:''}</div></div>`;
+}
+function sequenceTextOnlyLine(key){
+ return `<div class="flow-line"><span class="flow-order">TEXT ${esc(key.replace('Dialog_Text_',''))}</span><div><b>TextAsset-only</b><div class="localized-text">${formatText(resolveText(key))}</div><small class="key">${esc(key)}</small><small>本地化文字存在，但 DictDialog 沒有對應事件／Portrait 記錄</small></div></div>`;
+}
+function renderDialog100Sequence(host){
+ const opening=baseDialogs.filter(r=>r.id===100).sort((a,b)=>a.order-b.order);
+ const byKey=new Map();
+ baseDialogs.forEach(r=>{
+  const n=dialogTextNumber(r.textKey);
+  if(n!==null&&n>=29101&&n<=29354&&!byKey.has(r.textKey))byKey.set(r.textKey,r);
+ });
+ const continuation=[];
+ let textOnlyCount=0;
+ for(let n=29101;n<=29354;n++){
+  const key='Dialog_Text_'+n;
+  const record=byKey.get(key);
+  if(record){continuation.push({kind:'record',value:record});continue}
+  if(String(resolveText(key)||'').trim()){
+   continuation.push({kind:'text',key});
+   textOnlyCount++;
+  }
+ }
+ const returnRow=baseDialogs.find(r=>r.textKey==='Dialog_Text_0812');
+ const returnText=resolveText('Dialog_Text_0812');
+ const continuationHtml=continuation.map(item=>item.kind==='record'
+  ?sequenceRecordLine(item.value,item.value.textKey)
+  :sequenceTextOnlyLine(item.key)).join('');
+ const returnHtml=returnRow
+  ?sequenceRecordLine(returnRow,'RETURN · Dialog_Text_0812')
+  :sequenceTextOnlyLine('Dialog_Text_0812');
+ const metadataCount=continuation.filter(x=>x.kind==='record').length;
+ host.innerHTML=`<div class="flow-toolbar"><span>Prologue sequence · ${opening.length} 筆 Dialog 100 + ${continuation.length} 筆續接項目 + Dialog_Text_0812 · ${textOnlyCount} 筆 TextAsset-only</span><span class="muted">依指定播放順序</span></div><div class="flow-track"><div class="flow-line"><span class="flow-order">START</span><div><b>Dialog ID 100 · Prologue</b><small>Order 0–${opening.length?opening[opening.length-1].order:0}</small></div></div>${opening.map(r=>sequenceRecordLine(r,'D100 · O'+r.order)).join('')}<div class="flow-line"><span class="flow-order">CONTINUE</span><div><b>Dialog_Text_29101 – Dialog_Text_29354</b><small>${metadataCount} 筆有 DictDialog 事件資料；${textOnlyCount} 筆只有本地化文字資料</small></div></div>${continuationHtml}<div class="flow-line"><span class="flow-order">RETURN</span><div><b>回到 Dialog_Text_0812</b><div class="localized-text">${formatText(returnText)}</div><small class="key">Dialog_Text_0812</small><small>${returnRow?'Dialog '+returnRow.id+' · Order '+returnRow.order:'由 TextAsset 文字表取得；DictDialog 對應記錄未找到'}</small></div></div><div class="flow-line"><span class="flow-order">END</span><div><b>劇情結束</b><small>依指定流程在 Dialog_Text_0812 後結束；不再接續 Dialog 101 的 Order 3 以後記錄。</small></div></div></div><p class="flow-footnote">Dialog ID 100 後，先按 Text Key 數字順序播放 29101–29354 範圍內實際存在的事件／文字；缺少 DictDialog 事件資料的文字只顯示本地化內容，不推測 Portrait ID 或事件類型。最後接回 Dialog_Text_0812 並結束。</p>`;
+}
 function renderFlow(id){
+ if(id===100){renderDialog100Sequence(host);return}
  const host=$('flowGraph');
  if(id===null){host.innerHTML='<p class="muted">輸入 Dialog ID 後，這裡會顯示可操作的劇情路徑。</p>';return}
  const rows=dialogs.filter(x=>x.id===id).sort((a,b)=>a.order-b.order);
