@@ -21,6 +21,7 @@ field_re = re.compile(r'^\s*(?:[\w<>]+)\s+(\w+)\s*=\s*(.*?)\s*$')
 chapter_counts = Counter()
 keyword_counts = Counter()
 exact_hits = []
+chapter_name_line = None
 main_records = []
 main_chapter_counts = Counter()
 other_ch9_records = []
@@ -33,6 +34,8 @@ with src.open("r", encoding="utf-8-sig", errors="replace") as f:
         for word in ("dictchapter", "dictmainstoryset", "dictmainstory", "dictsubstory",
                      "dictsubstoryread", "chapter_name_0009", "chapter9", "dialogids"):
             keyword_counts[word] += low.count(word)
+        if "chapter_name_0009" in low:
+            chapter_name_line = line_no
         for m in chapter_id_re.finditer(line):
             val = int(m.group(1))
             chapter_counts[val] += 1
@@ -107,17 +110,28 @@ for section, rec in other_ch9_records:
 lines += ["", f"5) All raw chapterId=9 field locations ({len(exact_hits)})"]
 for n, content in exact_hits:
     lines.append(f"  L{n}: {content.strip()[:700]}")
-lines += ["", "6) Context around each chapterId=9 record"]
+
+if chapter_name_line:
+    a, b = max(1, chapter_name_line-8), chapter_name_line+30
+    lines += ["", f"6) Full DictChapter id=9 configuration context (L{a}-L{b})"]
+    with src.open("r", encoding="utf-8-sig", errors="replace") as f:
+        for n, line in enumerate(f, 1):
+            if a <= n <= b:
+                lines.append(f"L{n}: {line.rstrip()[:700]}")
+            if n > b:
+                break
+
+lines += ["", "7) Context around each chapterId=9 MainStorySet record"]
 windows = []
 for n, _ in exact_hits:
-    a, b = max(1, n-12), n+12
+    a, b = max(1, n-5), n+7
     if windows and a <= windows[-1][1] + 1:
         windows[-1] = (windows[-1][0], max(windows[-1][1], b))
     else:
         windows.append((a,b))
 wanted = {n for a,b in windows for n in range(a,b+1)}
 if wanted:
-    lo, hi = min(wanted), max(wanted)
+    hi = max(wanted)
     with src.open("r", encoding="utf-8-sig", errors="replace") as f:
         for n, line in enumerate(f, 1):
             if n in wanted:
@@ -126,12 +140,11 @@ if wanted:
                 break
 else:
     lines.append("  No chapterId=9 fields found.")
-lines += ["", "7) Keyword counts"]
-lines.extend(f"  {k}: {v}" for k,v in keyword_counts.items())
 
+lines += ["", "8) Keyword counts"]
+lines.extend(f"  {k}: {v}" for k,v in keyword_counts.items())
 out.write_text("\n".join(lines) + "\n", encoding="utf-8")
 print(f"Scanned {total_lines:,} lines ({src.stat().st_size:,} bytes)")
 print("chapterId: " + ", ".join(f"{k}={v}" for k,v in sorted(chapter_counts.items())))
 print(f"MainStorySet chapterId=9 records: {len(main_records)}")
-print(f"Raw chapterId=9 hits: {len(exact_hits)}")
 print(f"Report: {out} ({out.stat().st_size:,} bytes)")
