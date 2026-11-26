@@ -176,9 +176,12 @@ function buildDialogSegmentTimeline(segment){
  const ranges=branches.map(x=>({start:Number(x.branchMarkerOrder),end:Number(x.choiceEndOrder??x.lastContentOrder)}));
  const covered=order=>ranges.some(x=>order>=x.start&&order<=x.end);
  const out=[];
+ const renderedChoiceOrders=new Set();
  for(const row of rows){
   const order=Number(row.order),block=questions.get(order);
   if(block){
+   if(renderedChoiceOrders.has(order))continue;
+   renderedChoiceOrders.add(order);
    out.push({kind:'choice',block,row});
    const picked=selectedBranches[order];
    if(picked!==undefined){
@@ -234,7 +237,7 @@ function renderCurrent(){
  }else if(step.kind==='talk'){
   setLine(nameForHero(step.talk.heroId),step.text,step.key,'DictTalk '+step.talk.id+' · behaviour '+step.talk.behaviour+' · expression '+step.talk.expressionID);
  }else{
-  const prompt=step.row?formatText(textForKey(step.row.textKey)):'';
+  const prompt=step.row&&step.row.type1Name!=='ChoiceText'?formatText(textForKey(step.row.textKey)):'';
   const speaker=step.row?speakerName(step.row.portraitId):'旁白';
   setLine(speaker,prompt||'請選擇回應。',step.row?.textKey||'','CHOICE · Order '+step.block.questionOrder);
   $('choicePanel').innerHTML='<div class="choice-prompt">'+escapeHtml(prompt||'選擇一個選項，繼續故事。')+'</div>'+step.block.options.map((o,i)=>{const selected=selectedBranches[Number(step.block.questionOrder)]===Number(o.slot);return '<button class="choice-option '+(selected?'selected':'')+'" data-choice-slot="'+o.slot+'">'+escapeHtml(formatText(textForKey(o.textKey)||'（沒有對應文本）'))+'</button>'}).join('');
