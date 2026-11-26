@@ -1,0 +1,37 @@
+{
+  "heroEntries": [
+    {
+      "heroId": 32,
+      "talkIds": [
+        780,
+        781,
+        782
+      ],
+      "behaviour": 9,
+      "variant": "Talk"
+    }
+  ],
+  "talks": [
+    {
+      "id": 780,
+      "heroId": 32,
+      "behaviour": 9,
+      "expressionID": 204,
+      "textKey": "Talk_Text_0780"
+    },
+    {
+      "id": 781,
+      "heroId": 32,
+      "behaviour": 9,
+      "expressionID": 203,
+      "textKey": "Talk_Text_0781"
+    },
+    {
+      "id": 782,
+      "heroId": 32,
+      "behaviour": 9,
+      "expressionID": 201,
+      "textKey": "Talk_Text_0782"
+    }
+  ]
+}
