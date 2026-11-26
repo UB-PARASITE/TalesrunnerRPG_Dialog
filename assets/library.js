@@ -54,9 +54,9 @@ async function loadAll(){
  }
 }
 function allBirthdayEntries(){
- const entries=birthdayRows.filter(r=>!r[6]).map(r=>({kind:'birthdayDialog',heroId:r[0],month:r[1],day:r[2],dialogId:r[3],count:r[4],key:'BD'+r[0],title:'生日劇情',meta:'生日劇情 · '+dateLabel(r[1],r[2])}));
+ const entries=birthdayRows.filter(r=>!r[6]).map(r=>({kind:'birthdayDialog',heroId:r[0],month:r[1],day:r[2],dialogId:r[3],count:r[4],key:'BD'+r[0],title:'生日劇情',meta:'生日劇情 · Dialog ID '+r[3]+' · '+dateLabel(r[1],r[2])}));
  for(const h of birthdayTalkIndex.heroEntries||[]){
-  entries.push({kind:'birthdayTalk',heroId:h.heroId,talkIds:h.talkIds,behaviour:h.behaviour,key:'BT'+h.heroId,title:'生日劇情',meta:'生日劇情 · Talk '+h.talkIds.join(' / ')});
+  entries.push({kind:'birthdayTalk',heroId:h.heroId,talkIds:h.talkIds,behaviour:h.behaviour,key:'BT'+h.heroId,title:'生日劇情',meta:'生日劇情 · Hero ID '+h.heroId+' · DictTalk ID '+h.talkIds.join(' / ')});
  }
  return entries;
 }
@@ -65,7 +65,7 @@ function affectionByHero(){
  friendshipMap.forEach(pair=>{
   const dialogId=Number(pair[0]),storyId=Number(pair[1]),heroId=Math.floor(storyId/1000),order=storyId%1000;
   if(!map.has(heroId))map.set(heroId,[]);
-  map.get(heroId).push({kind:'friendship',heroId,storyId,order,dialogId,key:'F'+storyId,title:friendName(storyId),meta:'好感度劇情 · '+String(order).padStart(2,'0')});
+  map.get(heroId).push({kind:'friendship',heroId,storyId,order,dialogId,key:'F'+storyId,title:friendName(storyId),meta:'好感度劇情 · Hero ID '+heroId+' · Story ID '+storyId+' · Dialog ID '+dialogId});
  });
  allBirthdayEntries().forEach(entry=>{
   if(!map.has(entry.heroId))map.set(entry.heroId,[]);
@@ -108,6 +108,9 @@ function selectSidebar(value){
  if(category==='main')selectedChapter=Number(value);
  else if(category==='side')selectedGroup=String(value);
  else selectedHero=Number(value);
+ activeStory=null;timeline=[];stepIndex=0;
+ $('readerEmpty').hidden=false;$('stage').hidden=true;$('controls').hidden=true;
+ $('readerEmpty').innerHTML='<div><div class="home-mark">✧</div><b style="display:block;color:#f0e4c8;margin-bottom:8px">選擇一段故事</b><span>從上方的話數清單開始閱讀。</span></div>';
  renderSidebar();renderStoryStrip();
 }
 function renderStoryStrip(){
@@ -182,7 +185,7 @@ function progress(){
  $('progressText').textContent=total?now+' / '+total:'0 / 0';
  $('progressFill').style.width=total?((now/total)*100)+'%':'0%';
  $('prevBtn').disabled=stepIndex<=0;
- $('nextBtn').disabled=!activeStory||!timeline.length||(timeline[stepIndex]?.kind==='choice'&&selectedBranches[Number(timeline[stepIndex].block.questionOrder)]===undefined);
+ $('nextBtn').disabled=!activeStory||!timeline.length||stepIndex>=timeline.length||(timeline[stepIndex]?.kind==='choice'&&selectedBranches[Number(timeline[stepIndex].block.questionOrder)]===undefined);
  $('restartBtn').disabled=!activeStory;
 }
 function setLine(speaker,text,key,meta){
