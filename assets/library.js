@@ -124,7 +124,7 @@ function selectSidebar(value){
 }
 function renderStoryStrip(){
  storyItems=categoryEntries();
- $('storyStrip').innerHTML=storyItems.length?storyItems.map((x,i)=>'<button class="story-chip '+(x.kind==='placeholder'?'unavailable ':'')+(activeStory?.key===x.key?'active':'')+'" data-story-index="'+i+'"'+(x.kind==='placeholder'?' title="'+escapeHtml(x.note)+'"':'')+'><small>'+escapeHtml(x.smallLabel||'STORY')+'</small><b>'+escapeHtml(x.chipTitle||x.title)+'</b></button>').join(''):'<div class="sidebar-note">這個分類目前沒有可播放的故事。</div>';
+ $('storyStrip').innerHTML=storyItems.length?storyItems.map((x,i)=>'<button class="story-chip '+(x.kind==='placeholder'?'unavailable ':'')+(activeStory?.key===x.key?'active':'')+'" data-story-index="'+i+'"'+(x.kind==='placeholder'?' title="'+escapeHtml(x.note)+'"':'')+'><small>'+escapeHtml(x.smallLabel||'STORY')+(hasEnableSkip(x)?' <span class="skip-nav-mark">導覽</span>':'')+'</small><b>'+escapeHtml(x.chipTitle||x.title)+'</b></button>').join(''):'<div class="sidebar-note">這個分類目前沒有可播放的故事。</div>';
  $('storyStrip').querySelectorAll('[data-story-index]').forEach(btn=>btn.addEventListener('click',()=>openStory(storyItems[Number(btn.dataset.storyIndex)])));
  if(category==='main'){$('readerTitle').textContent='Chapter '+selectedChapter;$('readerSubtitle').textContent=storyItems.length+' 話 · 選擇上方話數開始閱讀';}
  else if(category==='side'){const g=groupRows().find(x=>x.id===String(selectedGroup));$('readerTitle').textContent=g?.title||'支線劇情';$('readerSubtitle').textContent=storyItems.length+' 話 · SIDE STORY';}
@@ -164,6 +164,7 @@ function rowVisible(row){
  return !!text&&(textTypes.has(Number(row.type1))||!!text);
 }
 function makeLine(row){return {kind:'line',row,text:formatText(textForKey(row.textKey)),key:row.textKey||''};}
+ function hasEnableSkip(item){const segments=Array.isArray(item.segments)&&item.segments.length?item.segments:[{dialogId:item.dialogId}];const ids=new Set(segments.map(x=>Number(x.dialogId)));return rawDialogs.some(x=>ids.has(Number(x.id))&&Number(x.type1)===0&&x.type1Name==='EnableSkip'&&Number(x.type2)===1);}
 function buildDialogSegmentTimeline(segment){
  const dialogId=Number(segment.dialogId);
  const minOrder=segment.fromOrder==null?Number.NEGATIVE_INFINITY:Number(segment.fromOrder);
@@ -194,7 +195,8 @@ function buildDialogSegmentTimeline(segment){
    continue;
   }
   if(covered(order))continue;
-  if(rowVisible(row))out.push(makeLine(row));
+  if(Number(row.type1)===0&&row.type1Name==='EnableSkip')continue;
+   if(rowVisible(row))out.push(makeLine(row));
  }
  // Some extracted choice questions have a metadata node without a corresponding event row.
  for(const block of qs){if(!rows.some(x=>Number(x.order)===Number(block.questionOrder)))out.push({kind:'choice',block,row:null});}
