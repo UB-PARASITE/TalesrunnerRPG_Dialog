@@ -92,7 +92,7 @@ function renderSidebar(){
  const list=$('sideList');let html='';
  if(category==='main'){
   $('sidebarKicker').textContent='MAIN STORY';$('sidebarTitle').textContent='Chapter';
-  html=Array.from({length:9},(_,i)=>{const id=i+1,count=storyMap.filter(x=>x.type==='main'&&x.chapterId===id).length;return '<button class="side-item '+(selectedChapter===id?'active':'')+'" data-left="'+id+'"><span>Chapter '+id+'</span><small>'+count+'</small></button>'}).join('');
+  html=Array.from({length:10},(_,i)=>{const id=i,count=storyMap.filter(x=>x.type==='main'&&x.chapterId===id).length;return '<button class="side-item '+(selectedChapter===id?'active':'')+'" data-left="'+id+'"><span>Chapter '+id+'</span><small>'+count+'</small></button>'}).join('');
  }else if(category==='side'){
   $('sidebarKicker').textContent='SIDE STORY';$('sidebarTitle').textContent='支線篇章';
   html=groupRows().map(g=>'<button class="side-item '+(String(selectedGroup)===g.id?'active':'')+'" data-left="'+escapeHtml(g.id)+'"><span>'+escapeHtml(g.title)+'</span><small>'+g.count+'</small></button>').join('');
@@ -124,7 +124,7 @@ function renderStoryStrip(){
 }
 function selectCategory(next){
  if(!loaded){showToast('劇情資料仍在載入');return}
- category=next;selectedChapter=next==='main'?1:null;selectedGroup=next==='side'?(groupRows()[0]?.id??null):null;selectedHero=next==='affection'?[...affectionByHero().keys()].sort((a,b)=>a-b)[0]??null:null;
+ category=next;selectedChapter=next==='main'?0:null;selectedGroup=next==='side'?(groupRows()[0]?.id??null):null;selectedHero=next==='affection'?[...affectionByHero().keys()].sort((a,b)=>a-b)[0]??null:null;
  activeStory=null;timeline=[];stepIndex=0;
  $('home').hidden=true;$('library').hidden=false;$('sidebar').hidden=false;$('readerEmpty').hidden=false;$('stage').hidden=true;$('controls').hidden=true;
  renderSidebar();renderStoryStrip();
