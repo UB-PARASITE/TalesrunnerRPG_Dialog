@@ -14,6 +14,15 @@ async function json(path){const r=await fetch(DATA+path);if(!r.ok)throw Error('�
 async function localization(path){const r=await fetch('TextAsset/'+path);if(!r.ok)throw Error('無法載入 TextAsset/'+path);return r.text();}
 function parseLoc(raw){const out={};String(raw||'').replace(/^\uFEFF/,'').split(/\r?\n/).forEach(line=>{const i=line.indexOf('\t');if(i>0)out[line.slice(0,i)]=line.slice(i+1)});return out;}
 function formatText(raw){return String(raw??'').replace(/\\\\r/g,'\n').replace(/\\\\n/g,'\n').trim();}
+function textForKey(key){
+ const direct=textMap[key];
+ if(direct!=null&&String(direct).trim()!=='')return direct;
+ const alias=String(key||'').replace(/^FriendshipDialog_Text_/,'Dialog_Text_');
+ const localized=textMap[alias];
+ if(localized!=null&&String(localized).trim()!=='')return localized;
+ const fallback=languageCache.kor?.dialog?.[alias]??languageCache.kor?.dialog?.[key];
+ return fallback??'';
+}
 function nameForHero(id){return heroMap['Hero_Name_'+String(id).padStart(4,'0')]||('Hero '+id);}
 function speakerName(id){const v=String(id??'-1');if(v==='-1')return '旁白';const k=v.padStart(4,'0');return heroMap['Hero_Name_'+k]||writerMap['Writer_Name_'+k]||portraitMap['Portrait_Name_'+k]||mobMap['Mob_Name_'+k]||('角色 '+v);}
 function storyName(row){if(row.type==='main')return 'Chapter '+row.chapterId+'-'+row.order;if(row.type==='substory_read')return (lang==='eng'?row.title_en:row.title_ko)||('支線 '+row.order);return '劇情';}
@@ -77,7 +86,7 @@ function affectionByHero(){
  return map;
 }
 function categoryEntries(){
- if(category==='main')return storyMap.filter(x=>x.type==='main'&&x.chapterId===selectedChapter).sort((a,b)=>a.order-b.order).map(x=>x.placeholder||x.dialogId==null?({kind:'placeholder',key:'M'+x.storyId,storyId:x.storyId,title:storyName(x),chipTitle:storyName(x),smallLabel:'CHAPTER '+x.chapterId+'-'+x.order+' · 資料待補',meta:'主線劇情 · Chapter '+x.chapterId+'-'+x.order,note:x.note||'目前沒有可核實的 Dialog 對應資料。'}):({kind:'dialog',key:'D'+x.dialogId,dialogId:x.dialogId,title:storyName(x),chipTitle:storyName(x),smallLabel:'CHAPTER '+x.chapterId+'-'+x.order,meta:'主線劇情 · Chapter '+x.chapterId+'-'+x.order}));
+ if(category==='main')return storyMap.filter(x=>x.type==='main'&&x.chapterId===selectedChapter).sort((a,b)=>a.order-b.order).map(x=>x.placeholder||x.dialogId==null?({kind:'placeholder',key:'M'+x.storyId,storyId:x.storyId,title:storyName(x),chipTitle:storyName(x),smallLabel:'CHAPTER '+x.chapterId+'-'+x.order+' · 資料待補',meta:'主線劇情 · Chapter '+x.chapterId+'-'+x.order,note:x.note||'目前沒有可核實的 Dialog 對應資料。'}):({kind:'dialog',key:'D'+x.dialogId,dialogId:x.dialogId,segments:Array.isArray(x.dialogSegments)?x.dialogSegments:[{dialogId:x.dialogId}],title:storyName(x),chipTitle:storyName(x),smallLabel:'CHAPTER '+x.chapterId+'-'+x.order,meta:'主線劇情 · Chapter '+x.chapterId+'-'+x.order}));
  if(category==='side')return storyMap.filter(x=>x.type==='substory_read'&&String(x.groupId)===String(selectedGroup)).sort((a,b)=>a.order-b.order).map(x=>({kind:'dialog',key:'D'+x.dialogId,dialogId:x.dialogId,title:(lang==='eng'?x.title_en:x.title_ko)||('支線 '+x.order),chipTitle:(lang==='eng'?x.title_en:x.title_ko)||('支線 '+x.order),smallLabel:'SIDE STORY · '+String(x.order).padStart(2,'0'),meta:(lang==='eng'?x.parent_title_en:x.parent_title_ko)||'支線劇情'}));
  if(category==='affection')return (affectionByHero().get(selectedHero)||[]).map(x=>({...x,chipTitle:x.title,smallLabel:x.kind==='friendship'?'好感度 '+String(x.order).padStart(2,'0'):'BIRTHDAY'}));
  return [];
@@ -151,17 +160,18 @@ function openStory(item){
  renderStoryStrip();renderCurrent();
 }
 function rowVisible(row){
- const text=formatText(textMap[row.textKey]||'');
+ const text=formatText(textForKey(row.textKey));
  return !!text&&(textTypes.has(Number(row.type1))||!!text);
 }
-function makeLine(row){return {kind:'line',row,text:formatText(textMap[row.textKey]||''),key:row.textKey||''};}
-function buildTimeline(item){
- if(item.kind==='birthdayTalk'){
-  return (birthdayTalkIndex.talks||[]).filter(x=>item.talkIds.includes(x.id)).sort((a,b)=>a.id-b.id).map(x=>({kind:'talk',talk:x,text:formatText(talkTextMap[x.textKey]||''),key:x.textKey}));
- }
- const rows=rawDialogs.filter(x=>Number(x.id)===Number(item.dialogId)).sort((a,b)=>Number(a.order)-Number(b.order));
- const qs=choices.filter(x=>Number(x.dialogId)===Number(item.dialogId)).sort((a,b)=>a.questionOrder-b.questionOrder);
- const branches=branchMap.filter(x=>Number(x.dialogId)===Number(item.dialogId));
+function makeLine(row){return {kind:'line',row,text:formatText(textForKey(row.textKey)),key:row.textKey||''};}
+function buildDialogSegmentTimeline(segment){
+ const dialogId=Number(segment.dialogId);
+ const minOrder=segment.fromOrder==null?Number.NEGATIVE_INFINITY:Number(segment.fromOrder);
+ const maxOrder=segment.toOrder==null?Number.POSITIVE_INFINITY:Number(segment.toOrder);
+ const inRange=order=>order>=minOrder&&order<=maxOrder;
+ const rows=rawDialogs.filter(x=>Number(x.id)===dialogId&&inRange(Number(x.order))).sort((a,b)=>Number(a.order)-Number(b.order));
+ const qs=choices.filter(x=>Number(x.dialogId)===dialogId&&inRange(Number(x.questionOrder))).sort((a,b)=>a.questionOrder-b.questionOrder);
+ const branches=branchMap.filter(x=>Number(x.dialogId)===dialogId&&inRange(Number(x.branchMarkerOrder)));
  const questions=new Map(qs.map(x=>[Number(x.questionOrder),x]));
  const ranges=branches.map(x=>({start:Number(x.branchMarkerOrder),end:Number(x.choiceEndOrder??x.lastContentOrder)}));
  const covered=order=>ranges.some(x=>order>=x.start&&order<=x.end);
@@ -186,6 +196,13 @@ function buildTimeline(item){
  // Some extracted choice questions have a metadata node without a corresponding event row.
  for(const block of qs){if(!rows.some(x=>Number(x.order)===Number(block.questionOrder)))out.push({kind:'choice',block,row:null});}
  return out;
+}
+function buildTimeline(item){
+ if(item.kind==='birthdayTalk'){
+  return (birthdayTalkIndex.talks||[]).filter(x=>item.talkIds.includes(x.id)).sort((a,b)=>a.id-b.id).map(x=>({kind:'talk',talk:x,text:formatText(talkTextMap[x.textKey]||''),key:x.textKey}));
+ }
+ const segments=Array.isArray(item.segments)&&item.segments.length?item.segments:[{dialogId:item.dialogId}];
+ return segments.flatMap(buildDialogSegmentTimeline);
 }
 function progress(){
  const total=timeline.length||0;const now=total?Math.min(stepIndex+1,total):0;
@@ -217,10 +234,10 @@ function renderCurrent(){
  }else if(step.kind==='talk'){
   setLine(nameForHero(step.talk.heroId),step.text,step.key,'DictTalk '+step.talk.id+' · behaviour '+step.talk.behaviour+' · expression '+step.talk.expressionID);
  }else{
-  const prompt=step.row?formatText(textMap[step.row.textKey]||''):'';
+  const prompt=step.row?formatText(textForKey(step.row.textKey)):'';
   const speaker=step.row?speakerName(step.row.portraitId):'旁白';
   setLine(speaker,prompt||'請選擇回應。',step.row?.textKey||'','CHOICE · Order '+step.block.questionOrder);
-  $('choicePanel').innerHTML='<div class="choice-prompt">'+escapeHtml(prompt||'選擇一個選項，繼續故事。')+'</div>'+step.block.options.map((o,i)=>{const selected=selectedBranches[Number(step.block.questionOrder)]===Number(o.slot);return '<button class="choice-option '+(selected?'selected':'')+'" data-choice-slot="'+o.slot+'">'+escapeHtml(formatText(textMap[o.textKey]||'（沒有對應文本）'))+'</button>'}).join('');
+  $('choicePanel').innerHTML='<div class="choice-prompt">'+escapeHtml(prompt||'選擇一個選項，繼續故事。')+'</div>'+step.block.options.map((o,i)=>{const selected=selectedBranches[Number(step.block.questionOrder)]===Number(o.slot);return '<button class="choice-option '+(selected?'selected':'')+'" data-choice-slot="'+o.slot+'">'+escapeHtml(formatText(textForKey(o.textKey)||'（沒有對應文本）'))+'</button>'}).join('');
   $('choicePanel').querySelectorAll('[data-choice-slot]').forEach(btn=>btn.addEventListener('click',e=>{e.stopPropagation();selectedBranches[Number(step.block.questionOrder)]=Number(btn.dataset.choiceSlot);timeline=buildTimeline(activeStory);stepIndex=Math.max(0,timeline.findIndex(x=>x.kind==='choice'&&Number(x.block.questionOrder)===Number(step.block.questionOrder))+1);renderCurrent();}));
  }
  progress();
